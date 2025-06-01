@@ -3,7 +3,6 @@
 **KokoroChat** is the largest human-collected Japanese psychological counseling dialogue dataset to date. It was created through role-playing between trained counselors and includes rich, long-form dialogues and detailed client feedback on counseling quality. The dataset supports research on empathetic response generation, dialogue evaluation, and mental health-oriented language modeling.
 
 
-
 ## 🌟 Key Features
 
 - 6,589 dialogues, collected between 2020 and 2024
