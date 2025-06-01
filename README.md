@@ -37,9 +37,11 @@ Each sample contains:
 - Flags for ethical concern checks (optional)
 - Predicted topic label (automatically annotated by GPT-4o-mini)
 
+👉 See the `kokorochat_dialogues` folder for the complete dataset.
+
 ## 📂 Access on Hugging Face
 
-You can access our full dataset and fine-tuned models via Hugging Face:
+You can also access our full dataset and fine-tuned models via Hugging Face:
 
 - 📁 **Dataset**: [kokorochat-dataset](https://huggingface.co/datasets/your-username/kokorochat)
 
