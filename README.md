@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./images/kokorochat_logo.png" alt="KokoroChat Logo" width="500"/>
+</div>
+
 # KokoroChat: A Japanese Psychological Counseling Dialogue Dataset Collected via Role-Playing by Trained Counselors
 
 **KokoroChat** is the largest human-collected Japanese psychological counseling dialogue dataset to date (as of June 2025). It was created through role-playing between trained counselors and includes rich, long-form dialogues and detailed client feedback on counseling quality. The dataset supports research on empathetic response generation, dialogue evaluation, and mental health-oriented language modeling.
