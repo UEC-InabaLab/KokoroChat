@@ -1,0 +1,829 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:00:13",
+      "utterance": "今晩は相談員です。よろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:00:28",
+      "utterance": "よろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:00:43",
+      "utterance": "最初に年齢と性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:00:58",
+      "utterance": "12歳　男です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:01:22",
+      "utterance": "教えてくれてありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:01:38",
+      "utterance": "学年も教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:01:46",
+      "utterance": "中学１年です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:01:58",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:02:11",
+      "utterance": "今日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:02:39",
+      "utterance": "自分はここにいる意味があるのか悩んでいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:02:59",
+      "utterance": "そう思っているんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:03:20",
+      "utterance": "どんなことからそう思うようになったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:04:11",
+      "utterance": "家族からの扱いとか友達がいないとかから"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:05:34",
+      "utterance": "いろいろ嫌なことがあるのでしょうね・・・話せるところから話してみていただけますか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:07:06",
+      "utterance": "はい親が離婚して中学入って転校したんです全く知らない地で、小学からの友達もいなくて1人なんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:08:37",
+      "utterance": "そうでしたか。誰も知らないところでたった一人ぼっちになってしまったら、さぞかし寂しいですよね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:09:05",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:09:44",
+      "utterance": "親御さんの離婚も、あなたにとっては、ショックだったでしょうね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:10:08",
+      "utterance": "そうですね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:10:27",
+      "utterance": "でも大人の理由があるんですかね"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:10:37",
+      "utterance": "僕にはわからないですけど"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:11:10",
+      "utterance": "かもしれませんね。あなたはそのことで何か考えてみたりしたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:11:24",
+      "utterance": "何か、、？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:11:30",
+      "utterance": "離婚した理由ですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:11:56",
+      "utterance": "先ほど　大人の理由で・・・と言っていましたけれど・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:12:07",
+      "utterance": "わからないです"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:12:41",
+      "utterance": "ただ、お父さんはお母さんに暴言をはいてることがありました"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:12:55",
+      "utterance": "だからなのかな"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:13:05",
+      "utterance": "優しい時は優しいのに"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:13:40",
+      "utterance": "そうでしたか。そんなところを見て、あなたはどんな感じでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:14:06",
+      "utterance": "喧嘩は嫌だと思ってました聞きたくないって"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:15:14",
+      "utterance": "そうですよね。ケンカは側で聴いているのも辛かったでしょうね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:15:48",
+      "utterance": "いつも布団に潜って聞かないようにしてました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:16:43",
+      "utterance": "そうだったんですね。辛かったですね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:17:06",
+      "utterance": "はい、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:17:14",
+      "utterance": "ちなみに、今は誰と一緒に暮らしているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:17:14",
+      "utterance": "僕の名前が聞こえることもありました"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:17:26",
+      "utterance": "母です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:17:56",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:18:13",
+      "utterance": "お母様は今は日々どんなご様子ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:18:44",
+      "utterance": "よく怒ってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:19:03",
+      "utterance": "別れたお父さんのことを？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:19:15",
+      "utterance": "いろんなことに対して"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:19:56",
+      "utterance": "例えば？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:19:57",
+      "utterance": "前は優しかったのに、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:21:03",
+      "utterance": "以前はお母様は優しかったのに、離婚後怒りっぽくなってしまったのですね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:21:03",
+      "utterance": "テレビ見てるんじゃないとかなんでテストの点数が悪いのとか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:21:42",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:21:48",
+      "utterance": "ご飯作ってあげてるんだから全部食べなさいとか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:22:30",
+      "utterance": "あなたに対して、チェックがすっかり厳しくなってしまったという感じみたいですね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:22:54",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:23:11",
+      "utterance": "だから、いる意味あるのかなって"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:23:57",
+      "utterance": "息が抜けなくなっているみたいですね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:24:26",
+      "utterance": "もう疲れました"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:24:32",
+      "utterance": "つまらないし"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:24:43",
+      "utterance": "ですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:24:59",
+      "utterance": "そんな時は、どうしているんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:25:53",
+      "utterance": "鉛筆で髪を塗りつぶしたり寝たり、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:25:57",
+      "utterance": "紙"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:26:29",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:27:41",
+      "utterance": "鉛筆で紙を塗りつぶすのも一つの気を紛らわす方法かと思いますが、いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:27:55",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:28:45",
+      "utterance": "さっき言っていた、寝るのも　もう一つの方法かとも思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:28:54",
+      "utterance": "そうなんですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:29:48",
+      "utterance": "とにかく　寝てしまって嫌なことは忘れるというのも　ありかと思いますが、あなたの場合はいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:29:59",
+      "utterance": "うーん"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:30:18",
+      "utterance": "ちなみに、ご兄弟はいるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:30:25",
+      "utterance": "いません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:30:43",
+      "utterance": "そうすると、お母様と二人暮らしなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:30:49",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:31:39",
+      "utterance": "そうすると、家に帰るといつもお母様と面と向き合わなければならなくなるということですね・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:31:52",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:32:28",
+      "utterance": "そこにいろいろチェックが入ると、さぞかし気が重くなりますね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:32:50",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:33:14",
+      "utterance": "ここまでのところを少し整理させていただいてもいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:33:19",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:34:20",
+      "utterance": "両親が離婚した。父親は母親に対して暴言を吐いていることがあった。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:34:57",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:35:12",
+      "utterance": "自分は両親のケンカを聞くのが嫌で布団に入っていたが、自分の名前が聞こえてくることもあった。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:35:31",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:36:04",
+      "utterance": "両親の離婚の後、中学に入ったが、別な土地に来て、友達はおらず、一人ぼっちになってしまったと感じている。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:36:16",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:37:09",
+      "utterance": "今は母親と同居している。母親は以前は優しい人だったけれど、今は、こちらに対して厳しいことをチェックを入れてくるので、たまらない。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:37:21",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:38:15",
+      "utterance": "そんな日々の中で、気晴らしと言えば、鉛筆で紙に塗りつぶしたり、寝てしまったりすること。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:38:27",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:38:55",
+      "utterance": "兄弟はいないので、家に帰ると母親と向き合わなければならない。ここにいる意味があるのかと思ってしまう。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:39:10",
+      "utterance": "こんな理解でよろしいでしょうか？」"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:39:47",
+      "utterance": "うーん"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:40:05",
+      "utterance": "誰からも必要とされてないからいる意味あるのかなって感じですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:40:32",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:41:05",
+      "utterance": "僕はいる意味あるんですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:42:09",
+      "utterance": "そこはご一緒に考えたいところです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:42:19",
+      "utterance": "そうですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:42:59",
+      "utterance": "はい。とっても大事な事だと思うので。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:43:09",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:43:14",
+      "utterance": "ご自身ではどう思っておられますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:43:26",
+      "utterance": "何がですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:44:14",
+      "utterance": "いる意味があるのか？ということについてですが。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:44:50",
+      "utterance": "わからないから相談にきました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:45:11",
+      "utterance": "確かにそうでした。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:46:02",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:46:05",
+      "utterance": "ここに相談に来たということは、もしかしたら、「ここにいる意味を探している。」という思いが心の奥におありになるのではと思うのですが・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:46:41",
+      "utterance": "それもわからないからきました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:47:39",
+      "utterance": "先ほど「誰からも必要とされていない」ともおっしゃっていました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:47:46",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:49:55",
+      "utterance": "お母様から、チェックばかり受けていたらそういうお気持ちになるだろうなとおもいます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:50:08",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:50:09",
+      "utterance": "しかも"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:50:15",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:50:21",
+      "utterance": "この間僕が母の大事な花瓶を間違って割ってしまったらほっぺをたたいてきたんです"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:50:40",
+      "utterance": "痛かった"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:50:49",
+      "utterance": "わざと割ったわけじゃないのに"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:51:12",
+      "utterance": "そんなことがあったのですね。さぞかし痛かったでしょうね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:51:39",
+      "utterance": "お母様に叩かれたのは初めてなのでは？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:52:06",
+      "utterance": "はいでもまたやられるんじゃないかって怖い"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:52:29",
+      "utterance": "そうですよね・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:52:58",
+      "utterance": "しかも、わざとではなくて、間違って割ってしまったのに・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:53:25",
+      "utterance": "しかも謝ったのに"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:53:39",
+      "utterance": "でも話せる人も誰もいないから"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:53:51",
+      "utterance": "1人で悩んでて"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:54:13",
+      "utterance": "ここなら誰か話を聞いてもらえると思って"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:54:21",
+      "utterance": "そうだったんですね。辛かったですね・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:54:35",
+      "utterance": "よく話してくれましたね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:54:59",
+      "utterance": "辛かった"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:55:10",
+      "utterance": "またぶたれたらどうしたらいいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:56:22",
+      "utterance": "怖いですね・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:56:40",
+      "utterance": "またぶたれそうな気がするのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:57:14",
+      "utterance": "そんな気がするわからないけど"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:57:25",
+      "utterance": "そしたら、また来たら助けてもらえますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:58:07",
+      "utterance": "一つだけ、助ける方法があります。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:58:15",
+      "utterance": "何ですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:58:21",
+      "utterance": "聞いてもらえますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:58:24",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:58:42",
+      "utterance": "イメージトレーニングという方法です。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T20:58:56",
+      "utterance": "？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T20:59:31",
+      "utterance": "お母さんが怒ってきたときに、自分はシールドでカバーされて守られているとイメージで想像してみてください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T21:00:02",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T21:00:18",
+      "utterance": "とっても単純な方法ですが、恐れの気持ちから守ってくれると思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T21:00:32",
+      "utterance": "そうなんですか"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T21:00:52",
+      "utterance": "またここに来ても良いんですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T21:01:00",
+      "utterance": "勿論です。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T21:01:30",
+      "utterance": "じゃあ、もしまたぶたれたら来ます話を聞いてくれてありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T21:01:39",
+      "utterance": "あなたが気持ちよく日々を生活できるようにご一緒に考えさせていただきますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T21:02:11",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T21:02:20",
+      "utterance": "応援していますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T21:02:42",
+      "utterance": "では今日はこの辺でよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T21:03:03",
+      "utterance": "はい、大丈夫です"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T21:03:20",
+      "utterance": "ではまた"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T21:03:54",
+      "utterance": "今日は相談に来てくださりありがとうございます。またお話聞かせていただく機会を待っています。では失礼いたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-19T21:04:26",
+      "utterance": "（ロープレありがとうございました。お疲れさまでした）"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-19T21:04:53",
+      "utterance": "（こちらこそありがとうございました。お疲れさまでした。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "親の離婚による家庭内のストレス"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2060,
+    "評価作成日時": "2021-06-19T22:26:00",
+    "クライアント役ID": 171,
+    "カウンセラー役ID": 5,
+    "点数": 68,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 5,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 3,
+    "要約": 4,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2060,
+    "evaluation_created_at": "2021-06-19T22:26:00",
+    "client_id": 171,
+    "counselor_id": 5,
+    "score": 68,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

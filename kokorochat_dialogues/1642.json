@@ -1,0 +1,974 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-04-14T19:51:38",
+      "utterance": "こんばんは。本日カウンセラー役をさせていただきます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T19:51:49",
+      "utterance": "お時間になりましたら、どうぞよろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T19:52:08",
+      "utterance": "こんばんは、よろしくお願いします"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T19:52:35",
+      "utterance": "了解しました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:00:26",
+      "utterance": "それでは、始めさせていただきます。どうぞよろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:00:40",
+      "utterance": "お願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:00:56",
+      "utterance": "こんばんは。相談員です。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:01:05",
+      "utterance": "こんばんは"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:01:08",
+      "utterance": "本日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:01:25",
+      "utterance": "学校に行くのがつらいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:02:12",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:02:35",
+      "utterance": "どのような時、学校にいくのが辛いですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:03:49",
+      "utterance": "自分は男の子として学校で過ごしたいのに、どうしても周りに理解してもらえずとてもつらいて"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:03:53",
+      "utterance": "です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:04:26",
+      "utterance": "そうなのですね。話してくれてありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:04:33",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:04:45",
+      "utterance": "今日、お話をする時、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:05:01",
+      "utterance": "何てお呼びしたらいいですか？あだ名でも大丈夫です。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:05:26",
+      "utterance": "ゆうき　です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:05:40",
+      "utterance": "ゆうきさんですね。ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:05:46",
+      "utterance": "おいくつですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:06:00",
+      "utterance": "13才です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:06:19",
+      "utterance": "13才、中学生ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:06:29",
+      "utterance": "はい、そうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:07:19",
+      "utterance": "先ほど、男の子として学校で過ごしたいのに、と話してくれたけど、少しずつで大丈夫なので、詳しく教えてもらえますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:08:18",
+      "utterance": "学校に入る時に話をして、スラックスはいていいと言われたのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:08:31",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:09:01",
+      "utterance": "その後母親が話を戻してしまったりして"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:09:17",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:09:19",
+      "utterance": "しばらく休学してましたが"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:09:55",
+      "utterance": "（聞いていますよ）"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:10:14",
+      "utterance": "その後担任の先生がスラックスはいて登校して、行事とかも出ていいと言われました"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:10:18",
+      "utterance": "でも"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:10:28",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:10:55",
+      "utterance": "2年生になって担任が変わりどんな先生か分からないし相談出来ず"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:11:11",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:11:14",
+      "utterance": "どうしたらいいのか"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:11:39",
+      "utterance": "これからどうやっていけばいいのかとても不安です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:12:24",
+      "utterance": "そうなんですね。それはとても不安ですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:12:34",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:13:34",
+      "utterance": "最初、スラックスを履いていい、と言われた、って言ってくれてたけど、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:14:10",
+      "utterance": "それは何か特別な理由があったのかな。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:15:13",
+      "utterance": "学校の規則で女子はスカートをはかないといけないきまりになっているので"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:16:05",
+      "utterance": "行事のときとかにはいつも書類を書いて出してます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:17:01",
+      "utterance": "そうなんだね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:17:43",
+      "utterance": "書類には提出する時どんなことを書きますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:18:47",
+      "utterance": "入学式とかの行事にスラックスで参加させてくださいという許可のお願いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:19:10",
+      "utterance": "そうなんだね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:19:22",
+      "utterance": "男の子として過ごしたい、って言ってたけど、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:19:47",
+      "utterance": "それはどのくらい前から思ってたのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:20:27",
+      "utterance": "小学校の5年生くらいからです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:20:52",
+      "utterance": "そうなんだね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:21:14",
+      "utterance": "さっき、周りにはあまり理解してもらえない、って言ってたけど、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:22:28",
+      "utterance": "スラックスを履いていると、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:23:47",
+      "utterance": "周りのみんなはどんな反応なのかな。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:25:03",
+      "utterance": "えーなんでなんで　とか一人だけそんな格好してどうしたのって感じで"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:25:32",
+      "utterance": "うん。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:25:33",
+      "utterance": "遠巻きに見られている感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:25:57",
+      "utterance": "そうなんだね。それは、寂しい気持ちになるよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:26:34",
+      "utterance": "はい、苦しくて泣き出しそうになります"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:27:01",
+      "utterance": "そうだよね。それは苦しくなるよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:27:53",
+      "utterance": "5年生から男の子として過ごしたいな、って思ってきて、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:28:08",
+      "utterance": "さっきお母さんの話も出てきたけど、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:28:18",
+      "utterance": "お母さんとは、どんな話をしたのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:29:08",
+      "utterance": "中学生になったら男の子として過ごしたいって言ったら"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:29:15",
+      "utterance": "うん。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:29:25",
+      "utterance": "大反対されました"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:29:59",
+      "utterance": "スラックスで登校していますが"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:30:06",
+      "utterance": "うん。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:30:22",
+      "utterance": "自分はリボンとかも嫌なので"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:30:40",
+      "utterance": "うん。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:30:44",
+      "utterance": "男の子のネクタイしたいけど"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:31:09",
+      "utterance": "母親は何とかやめさせようとします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:31:29",
+      "utterance": "そうなんだね。それは辛い気持ちになるよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:31:58",
+      "utterance": "はい、分かってもらえずつらいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:32:39",
+      "utterance": "他に誰か相談してわかってもらえた人は今までにいた？先生とか、友達とか、、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:33:38",
+      "utterance": "父親は応援してくれますし"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:33:45",
+      "utterance": "うん。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:34:14",
+      "utterance": "1年の担任の先生は理解してくれてたかな"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:34:28",
+      "utterance": "そうなんだね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:34:56",
+      "utterance": "お父さんや、1年の担任の先生は、どんな事を言ってた？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:35:43",
+      "utterance": "父親は、お前の思う通りにやっていいよと言ってくれました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:35:54",
+      "utterance": "うんうん。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:36:56",
+      "utterance": "1年の担任の先生は、自分の思いを話安かったですし、スラックスで登校することもいいよって言ってくれました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:37:14",
+      "utterance": "そうだったんだね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:38:06",
+      "utterance": "でも、お母さんが話を戻してしまって、2年生の担任の先生もどんな人かわからない、、、、それは不安になるよね。とてもよくわかるよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:38:55",
+      "utterance": "はい、どうしたら学校で思う通りに過ごせるのか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:39:05",
+      "utterance": "うん。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:39:30",
+      "utterance": "この先どうしたらいいのか分かりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:40:01",
+      "utterance": "そうだよね。気持ちを話してくれてありがとう。辛かったよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:40:16",
+      "utterance": "はい、苦しいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:40:33",
+      "utterance": "あのね、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:40:40",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:40:51",
+      "utterance": "僕の話になってしまうんだけど、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:40:58",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:41:07",
+      "utterance": "僕は、男なんだけど、男の人が好きなんだ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:41:20",
+      "utterance": "今も男の人と一緒に暮らしてる。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:41:25",
+      "utterance": "えっ、そうなんですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:41:44",
+      "utterance": "ゆうきさんとはちょっと違うかもしれないけど、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:41:45",
+      "utterance": "すごい！"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:42:13",
+      "utterance": "僕も男なのに、男の人が好きなことがわかった時、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:42:25",
+      "utterance": "嬉しかった反面、すごく困った。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:42:32",
+      "utterance": "周りのみんなと違ったから。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:43:02",
+      "utterance": "ほんとそうですよね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:43:14",
+      "utterance": "本当に苦しいよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:43:25",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:43:37",
+      "utterance": "とても苦しいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:43:51",
+      "utterance": "僕の場合は、ゆうき（君でいいかな？）と違って、学生の頃、みんなに言えなかったんだ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:44:16",
+      "utterance": "だから本当に苦しくて苦しくて、結局友達に言えたのは大人になってからだった。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:44:20",
+      "utterance": "はい、ゆうき君でいいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:44:31",
+      "utterance": "ありがとう。ゆうき君って呼ぶね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:44:31",
+      "utterance": "そうだったんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:44:36",
+      "utterance": "うん。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:44:36",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:44:54",
+      "utterance": "だから、ゆうき君の事をとても勇気のある人だと思うんだ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:45:24",
+      "utterance": "勇気あるんですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:45:44",
+      "utterance": "そう思うな。僕は言えなかったし、言えなかった事を後悔してる。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:46:22",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:47:31",
+      "utterance": "言ってからは、もちろん周りと違うから、うまくいかないこともあるけど、男の人と一緒に住んでいて、よかったなぁってすごく思うんだよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:47:55",
+      "utterance": "ゆうき君は、今の時期からしっかり自分のことがわかってる。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:48:08",
+      "utterance": "うんうん、僕も将来そんなふうになりたい！"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:48:09",
+      "utterance": "本当に偉いと思うし、すごいと思うよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:48:31",
+      "utterance": "そうなんだ"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:48:41",
+      "utterance": "じゃあ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:48:47",
+      "utterance": "うん。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:49:31",
+      "utterance": "周りに言えているのは、まだいい方ってことなかな"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:49:52",
+      "utterance": "まだいい、どころか、すごくいいと思うよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:50:06",
+      "utterance": "そっかー"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:50:19",
+      "utterance": "でも、僕も今も体験しているけど、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:50:29",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:50:39",
+      "utterance": "周りと違って大変なことも沢山ある。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:50:52",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:50:54",
+      "utterance": "そういう時は、僕の話も思い出して欲しいし、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:51:05",
+      "utterance": "一人じゃない、ってことは忘れないで欲しいんだ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:51:30",
+      "utterance": "世の中にはゆうき君や僕と同じ悩みを持つ人が沢山いるんだよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:51:50",
+      "utterance": "一人じやない…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:51:56",
+      "utterance": "うん。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:52:30",
+      "utterance": "分かってくれる人が必ずいるんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:52:49",
+      "utterance": "そう、必ずいるよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:53:07",
+      "utterance": "もし、辛くてどうしようもなくなった時は、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:53:21",
+      "utterance": "またここにきて、気持ちを話してくれてもいいし、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:53:24",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:54:46",
+      "utterance": "お父さんや、他の相談できる人とゆうき君と同じような悩みを持つ人をサポートしてくれるところを一緒に考えてみるのも、いい方法だと思う。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:55:27",
+      "utterance": "サポートしてくれるところもあるんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:56:41",
+      "utterance": "そう。ゆうき君と同じような悩みを持っている人は沢山いるんだよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:57:02",
+      "utterance": "今は、そのサポートしてくれる所もちゃんとあるんだ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:57:02",
+      "utterance": "ええーそうだったんだー"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:57:20",
+      "utterance": "自分だけかもつて思って対し"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:57:28",
+      "utterance": "うん。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:58:19",
+      "utterance": "先生が苦しかった時に、理解してくれる人に出会えたんですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:58:57",
+      "utterance": "そうだね。僕もゆうき君みたいに、こういう相談窓口で相談したのが最初だったんだよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:59:11",
+      "utterance": "そうだったんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:59:16",
+      "utterance": "今まで言ったことのなかった気持ちを言えたら、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:59:24",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:59:29",
+      "utterance": "気持ちが前向きになって、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T20:59:35",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T20:59:42",
+      "utterance": "今一緒に住んでいる人とも知り合えたんだ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:00:00",
+      "utterance": "ええー"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:00:05",
+      "utterance": "すごい！"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:00:17",
+      "utterance": "僕も信じられなかったけど、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:00:26",
+      "utterance": "そういう事っって、本当にあるんだよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:00:40",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:00:51",
+      "utterance": "うん。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:01:18",
+      "utterance": "どうだろう、ちょっと気持ち、落ち着いたかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:01:53",
+      "utterance": "はい、何だか気持ちが少しすっきりしました"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:02:21",
+      "utterance": "先生のお話で勇気が出ました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:02:33",
+      "utterance": "それは、よかった。僕もゆうき君の辛い気持ち、とてもよくわかるから、そう言ってもらえて嬉しいな。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:03:02",
+      "utterance": "また相談に来ていいですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:03:19",
+      "utterance": "うん、大丈夫だよ。いつでもまた相談に来てください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:03:29",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:03:40",
+      "utterance": "こちらこそありがとう。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:03:51",
+      "utterance": "じゃあ今日はこの辺で失礼するね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:04:07",
+      "utterance": "はい、ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:04:37",
+      "utterance": "ありがとうございました。話してくれてありがとう。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:04:51",
+      "utterance": "（お疲れ様でした。）"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:05:01",
+      "utterance": "(お疲れ様でした！)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:05:21",
+      "utterance": "（大変勉強させていただきました。ありがとうございました。）"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:05:40",
+      "utterance": "(こちらこそ大変勉強になりました。またよろしくお願いします)"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-14T21:06:02",
+      "utterance": "(それでは失礼します)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:06:07",
+      "utterance": "（こちらこそよろしくお願いいたします。遅い時間にありがとうございました。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-14T21:06:22",
+      "utterance": "（お時間あります時にご評価いただければ幸いです。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "性同一性に関する理解不足"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1642,
+    "評価作成日時": "2021-04-14T21:29:00",
+    "クライアント役ID": 39,
+    "カウンセラー役ID": 157,
+    "点数": 98,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 5,
+    "希望や期待を感じられた": 5,
+    "取り組みたかったことを扱えた": 5,
+    "一緒に考えながら取り組めた": 5,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 5,
+    "全体として適切でよかった": 5,
+    "今回の相談は価値があった": 5,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 5,
+    "要約": 5,
+    "問題の明確化": 5,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 5,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1642,
+    "evaluation_created_at": "2021-04-14T21:29:00",
+    "client_id": 39,
+    "counselor_id": 157,
+    "score": 98,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

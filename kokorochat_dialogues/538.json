@@ -1,0 +1,504 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-10-10T12:50:53",
+      "utterance": "こんにちは本日はよろしくお願いします"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T12:51:54",
+      "utterance": "よろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T12:52:25",
+      "utterance": "13時から始めたいと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T12:52:52",
+      "utterance": "分かりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:00:11",
+      "utterance": "それでは始めます。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T13:00:23",
+      "utterance": "お願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:00:25",
+      "utterance": "こんにちは、相談員です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:00:42",
+      "utterance": "今日はどのようなごそうだんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T13:01:30",
+      "utterance": "義父が自分の荷物を全て私に持たせる理由が知りたいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:02:43",
+      "utterance": "それは面倒ですよねどのような時にそれを求められますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T13:03:52",
+      "utterance": "どんな時でもです。どんなに沢山でも重くても全部持たせます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:04:16",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T13:04:27",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:04:45",
+      "utterance": "二人で出かけるときはいつでもということなのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:05:13",
+      "utterance": "重い荷物をもたられるのはしんどいですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T13:05:22",
+      "utterance": "いえ、家族で出かける時はいつもそうです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:06:47",
+      "utterance": "ご家族と一緒に出かけるときなのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T13:06:56",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:07:13",
+      "utterance": "ちなみに、あなたの年齢と性別をおしえていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T13:08:02",
+      "utterance": "50代、女性です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:08:34",
+      "utterance": "おしえていただき、ありがとうございます"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T13:08:48",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:09:19",
+      "utterance": "一緒に出かけるご家族は、他にはどんな方がいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T13:10:00",
+      "utterance": "夫、義母、たまに義妹です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:11:07",
+      "utterance": "夫さんがいるのに何も持ってくれないのですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:12:08",
+      "utterance": "それでは,なんで私ばかりが持たなくてはって思いますよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T13:12:10",
+      "utterance": "主人は持病があるため、頼むことが出来ず、いつも私が全部の荷物を運びます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:12:32",
+      "utterance": "そうだったんですか"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T13:12:37",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:14:47",
+      "utterance": "義父さんのお体はどんな感じですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:15:10",
+      "utterance": "年老いて荷物を持てそうにないとか"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:15:33",
+      "utterance": "それほどでもないとか"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T13:16:50",
+      "utterance": "まだ足腰は悪くなく、元気に歩けます。実は結婚当初から、義父はペットボトル一つ自分で持たずに無言で私に渡します"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:18:29",
+      "utterance": "それでは自分で持って欲しいと思いますよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T13:18:55",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:19:10",
+      "utterance": "あなたが不満に感じても当然だと思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T13:19:28",
+      "utterance": "はい、ありがとうございます"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T13:20:40",
+      "utterance": "ただ、嫌な訳ではないのです。今現在持つ体力はありますし。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:21:29",
+      "utterance": "そうなんですねでも、やっぱりモヤモヤしますよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T13:22:52",
+      "utterance": "義父の心理が分かって、その理由が府に落ちたら、荷物運びも、今よりもっと気持ちよくできるような気がするのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:23:57",
+      "utterance": "そうですよね理由がわからないと、何で？って思ってしまいますよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T13:24:05",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:24:22",
+      "utterance": "あなたはそのお気持ちを夫さんにお話してみたことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T13:25:56",
+      "utterance": "結婚当初から義父の荷物を持ってきたので、まだ話してはいません"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:27:11",
+      "utterance": "そうでしたか夫さんなら、義父さんのことが良くお分かりかもと思ったのですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:27:44",
+      "utterance": "あなたはどう思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T13:28:28",
+      "utterance": "折を見て、一度聞いてみようかと思いました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:29:22",
+      "utterance": "そうですねそれも一つの方法かもしれませんね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T13:29:28",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:33:44",
+      "utterance": "義父さんに直接聞ければ早いのですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:34:39",
+      "utterance": "それってハードルが高そうでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T13:34:45",
+      "utterance": "長い間そうしてきたので、聞きづらいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:35:20",
+      "utterance": "確かにそうですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:36:02",
+      "utterance": "言い方が難しそうですものね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:36:31",
+      "utterance": "やっぱり夫さんに聞くのが一番いいのかもですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T13:37:54",
+      "utterance": "実は夫にも少々聞きづらいです。これまで私のすることをずっと見てきたのに、何も言ってくれなかったですから"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:38:22",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T13:38:35",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:39:36",
+      "utterance": "あなたとしては、話さなくても解って欲しかったのですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T13:39:58",
+      "utterance": "そうですね。目の前で見ているのですから"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:40:50",
+      "utterance": "その辺りは微妙なところですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T13:41:36",
+      "utterance": "結局、二人とも同じ考えなのではと思ってしまいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:42:09",
+      "utterance": "夫さんは義父さんと自分のどちらを大事に思ってくれているのかって、気になってしまいますよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T13:42:21",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:44:31",
+      "utterance": "それって、よくありがちな夫婦のすれ違いのテーマなんですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T13:44:50",
+      "utterance": "うーん"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:44:55",
+      "utterance": "多くの場合は義母とな関係なんですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:45:50",
+      "utterance": "ごめんなさいねありがちなんて書いてしまって"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T13:46:15",
+      "utterance": "大丈夫です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:47:57",
+      "utterance": "多くの夫婦がそこですれ違う注意箇所みたいなところがあるので"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:51:52",
+      "utterance": "妻としては夫さんに自分の方を大事にしてほしいですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T13:52:06",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:52:51",
+      "utterance": "でも夫さんとしては、身内の方を大事に思っていたりする"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T13:55:25",
+      "utterance": "どうでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:57:08",
+      "utterance": "人にもよるとは思いますが"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T13:59:24",
+      "utterance": "血のつながりというのが案外強いのかなと思ったりしますでも、そこで夫婦として大事なのは、相手の気持ちを理解することなのではないでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T14:00:23",
+      "utterance": "おっしゃる通りですね。でも、私は辛いのです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T14:01:51",
+      "utterance": "なので、あなたの気持ち、つまり自分の方を大事にしてほしいという気持ち、を夫さんにも解っておいてもらう必要があるのかと思うのですが、いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T14:02:10",
+      "utterance": "はい、おっしゃる通りです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T14:04:11",
+      "utterance": "言われてみないと気がつかないということもあるので、あなたのお気持ちを夫さんに伝えてみてはいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T14:07:16",
+      "utterance": "そうですね。夫の身内4人を相手にする覚悟で話さないといけないので、とても勇気が要りますが、それしか無いですかね。怖い気がしますけど"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T14:08:00",
+      "utterance": "そうですね、勇気を持ってお話してみてください"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T14:08:20",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T14:08:56",
+      "utterance": "最後の方は時間がなくて性急になってしまい済みませんでしが、時間が少し過ぎてしまいましたので、これで終わらせていただきます"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T14:09:12",
+      "utterance": "はい、どうぞ"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-10T14:09:36",
+      "utterance": "本日はお忙しい所を大変ありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-10T14:10:08",
+      "utterance": "ありがとうございました"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "義父とのコミュニケーション問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 538,
+    "評価作成日時": "2020-10-10T14:21:00",
+    "クライアント役ID": 49,
+    "カウンセラー役ID": 92,
+    "点数": 57,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 538,
+    "evaluation_created_at": "2020-10-10T14:21:00",
+    "client_id": 49,
+    "counselor_id": 92,
+    "score": 57,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,529 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:22:02",
+      "utterance": "（こんにちは。今日はどうぞよろしくお願いいたします。お時間になりましたら、始めさせていただきますね。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:22:29",
+      "utterance": "(よろしくお願いします。)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:30:12",
+      "utterance": "こんにちは、相談員です。今日はお話に来てくださり、ありがとうございます。はじめに年齢、性別、ご相談の内容を教えてください。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:30:44",
+      "utterance": "16 男　辛い"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:31:38",
+      "utterance": "教えてくださり、ありがとうございます。辛い気持ちを抱えてきてくれたのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:31:54",
+      "utterance": "16歳ということですが、何年生ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:33:21",
+      "utterance": "1年"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:34:07",
+      "utterance": "ありがとうございます、高校1年生ですね。辛いとうことですが、いつ頃からそんな気持ちにななりましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:34:31",
+      "utterance": "覚えてません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:35:07",
+      "utterance": "そうなのですね…長いなという感覚でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:35:20",
+      "utterance": "わかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:35:45",
+      "utterance": "うんうん、わからないくらいに辛い感じでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:36:05",
+      "utterance": "わかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:37:02",
+      "utterance": "そうなのですね…つらい以外には、どんな気持ちになりますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:37:24",
+      "utterance": "わかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:38:26",
+      "utterance": "なるほど、例えば…モヤモヤとした感じですか？それとも、嫌で嫌でたまらない感じでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:38:55",
+      "utterance": "わかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:40:21",
+      "utterance": "そうなのですね…今日は日曜日ですが、どんな風に過ごしていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:41:03",
+      "utterance": "ほとんど寝てます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:41:40",
+      "utterance": "なるほど、そうすると今は家にいるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:41:52",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:42:54",
+      "utterance": "なるほどほとんど寝ている、ということだけれど、具合が悪い感じでしょうか？大丈夫ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:43:57",
+      "utterance": "いいえ"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:44:45",
+      "utterance": "うんうん、それなら良かったです。ほとんど寝ているのは、どうしてですか？辛くて疲れている感じでしょうかね…"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:44:55",
+      "utterance": "寝たいから"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:45:47",
+      "utterance": "うんうん、そうなんですね。ご家族の人はどうしていますか？ちなみに、家族構成はどんな感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:46:43",
+      "utterance": "両親と暮らしてます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:47:51",
+      "utterance": "教えてくれてありがとうございます。そうすると、3人暮らしでしょうかね今日はご両親は家にいるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:48:08",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:49:23",
+      "utterance": "そうなのですね。ほとんど寝ているということだと、自分のお部屋で過ごしているのかな、と思いますが、今日はご両親とはお話しましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:49:40",
+      "utterance": "いいえ"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:50:09",
+      "utterance": "うんうん、そうなのですね。お話していないのはどうしてですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:50:29",
+      "utterance": "必要ないから"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:51:17",
+      "utterance": "そうなんですね。必要ない、というのはどうしてそう思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:52:06",
+      "utterance": "話すことないから"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:53:00",
+      "utterance": "うんうん、なるほど。ご両親は何か声をかけてきたりしますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:53:13",
+      "utterance": "いいえ"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:54:00",
+      "utterance": "そうなんですね。普段のことをちょっと教えてほしいのだけれど、学校には行っていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:54:11",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:55:16",
+      "utterance": "なるほど、ふだんは学校に行っていて、どんな生活をしていますか？例えば朝は何時に出て、授業にでて、部活があるとか、何時ごろに帰ってくるとか…"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:57:05",
+      "utterance": "普通に投稿して授業終わったら帰ります"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:57:08",
+      "utterance": "登校"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:57:52",
+      "utterance": "ええ、登校して授業に出て過ごしているのですね。学校にはどんな気持ちで通っていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T15:58:18",
+      "utterance": "辛い"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:58:58",
+      "utterance": "そうなんですね…登校が辛いところなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T15:59:29",
+      "utterance": "他に辛いと感じることはどんなことですか？きっとしんどい気持ちでいっぱいですよね…"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:00:43",
+      "utterance": "全部"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:02:02",
+      "utterance": "なるほど、全部ですね。それは…しんどいし辛いですね。いくつか挙げると、どんな感じでしょうか？単語でもいいので、教えてください。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:02:49",
+      "utterance": "わかりません"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:03:13",
+      "utterance": "表現できません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:03:27",
+      "utterance": "うんうん、そうなんですね。なるほど、表現が…"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:03:50",
+      "utterance": "例えば、朝起きるのはどうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:04:09",
+      "utterance": "辛い"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:04:32",
+      "utterance": "ええ、起きるのが辛いですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:04:53",
+      "utterance": "朝ごはんは食べられていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:05:32",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:06:17",
+      "utterance": "うんうん、色々と辛い中でも食べられているのなら、ちょっと安心しました。ちなみに、朝ごはんは何を食べているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:06:52",
+      "utterance": "色々"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:07:28",
+      "utterance": "色々、いいですね。朝ごはんで好きなメニューはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:08:49",
+      "utterance": "ありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:09:36",
+      "utterance": "うんうん、そうなんですね。朝は食欲あるな、と感じられていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:10:30",
+      "utterance": "わかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:11:09",
+      "utterance": "あぁ、そうなんですね。それでも、食べて学校に行っているのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:11:34",
+      "utterance": "学校にはどうやって行っていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:11:47",
+      "utterance": "歩き"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:12:33",
+      "utterance": "なるほど、歩きで行ける学校なのですね。学校に向かって歩いているときには、どんなことを考えていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:12:57",
+      "utterance": "辛い"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:13:31",
+      "utterance": "うんうん、辛い、と考えているのですね。行きたくない、とも感じていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:13:52",
+      "utterance": "わかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:14:39",
+      "utterance": "そうなのですね、それぐらい辛いでいっぱいということですかね？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:14:48",
+      "utterance": "わかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:15:33",
+      "utterance": "そうなんですね。学校で授業を受けるのはどうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:15:47",
+      "utterance": "辛い"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:17:05",
+      "utterance": "うんうん、授業中も辛いのですね。授業が辛い、それは本当にしんどいですね。休み時間はどんなふうに過ごしていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:17:43",
+      "utterance": "特に何もしてません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:18:22",
+      "utterance": "なるほど、ずっと席に座っている感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:19:07",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:20:07",
+      "utterance": "うんうん、そうなのですね話したりするお友だちは、クラスにはいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:20:15",
+      "utterance": "いいえ"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:20:47",
+      "utterance": "うんうん、じゃあクラスでは誰とも話さない感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:21:15",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:22:11",
+      "utterance": "うんうん、誰とも話さないとなると、例えばお昼ごはんはどうしていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:22:45",
+      "utterance": "普通に食べてますけど"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:23:21",
+      "utterance": "うんうん、食べられているんですね。1人で食べている感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:23:46",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:24:25",
+      "utterance": "うんうん、1人で食べていることは、どんなふうに感じていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:24:49",
+      "utterance": "特に何とも"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:25:52",
+      "utterance": "うんうん、そうなのですね。学校で特に辛いな、と感じることはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:26:34",
+      "utterance": "全部"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:28:23",
+      "utterance": "そうなのですね、全部辛い…しんどい気持ちでいっぱいなのですね。その全部をちょっとずつでも、聞かせてもらいたいなと思いますが、そろそろ終了のお時間なのでよかったらまた次回、よかったらお話をきかせてくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-17T16:28:54",
+      "utterance": "（お疲れ様でした、このまま完了までお願いします。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-17T16:29:24",
+      "utterance": "（承知しました。お相手してくださり、ありがとうございました。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "高校生活での孤独感"
+  },
+  "review_by_client_jp": {
+    "評価ID": 6135,
+    "評価作成日時": "2023-12-17T16:42:00",
+    "クライアント役ID": 125,
+    "カウンセラー役ID": 424,
+    "点数": 46,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 1,
+    "要約": 2,
+    "問題の明確化": 1,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 6135,
+    "evaluation_created_at": "2023-12-17T16:42:00",
+    "client_id": 125,
+    "counselor_id": 424,
+    "score": 46,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 1,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

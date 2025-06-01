@@ -1,0 +1,634 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2021-03-22T13:57:15",
+      "utterance": "(こんにちは。本日よろしくお願いいたします。)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:01:07",
+      "utterance": "大変失礼しました。少し遅れて申し訳ありません、相談員役の者です。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:01:52",
+      "utterance": "(大丈夫でしたら、よろしくお願いいたします。)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:02:04",
+      "utterance": "（ありがとうございます、よろしくお願いします）"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:02:07",
+      "utterance": "こんにちは 相談員です。よろしくお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:02:17",
+      "utterance": "こんにちは。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:02:42",
+      "utterance": "ご相談頂くにあたって、性別、年齢、また今日はなんとお呼びすれば良いか、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:02:44",
+      "utterance": "答えられる範囲で教えていただいてもいいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:03:08",
+      "utterance": "男、48歳、まさです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:03:24",
+      "utterance": "まささんですね、教えてくださりありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:03:37",
+      "utterance": "今日はどのようなご相談でしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:04:40",
+      "utterance": "今月末で仕事を失います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:05:16",
+      "utterance": "そうだったんですね、お仕事が…。それは大変ですね、"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:05:54",
+      "utterance": "はい、それで仕事を探しているのですが、なんだかさっぱりダメで、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:06:22",
+      "utterance": "うんうん、上手くいかない感じだったんですね…。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:06:30",
+      "utterance": "はい、、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:06:32",
+      "utterance": "是非ともしっかりお話を聴きたく思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:07:07",
+      "utterance": "お仕事がなくなる状況について、もう少し具体的に伺ってもよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:07:15",
+      "utterance": "会社はリストラ、コロナで業績悪化で"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:07:18",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:08:21",
+      "utterance": "養育費や借金の支払いなど、お金がいるので、仕事をさがしてますが、もう疲れました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:09:29",
+      "utterance": "そうだったんですね…払わなければならないことがおありなのに、それは辛いですね…"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:09:41",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:10:30",
+      "utterance": "なるほど…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:11:08",
+      "utterance": "ご無理のない範囲で構いません。毎月お金はどれくらい必要なのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:12:37",
+      "utterance": "養育費10万、借金の返済5万、家賃、生活費なので、今の給料ないと、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:12:57",
+      "utterance": "はい、"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:14:12",
+      "utterance": "仕事が決まらなかったら31日まで、、、と決めています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:14:31",
+      "utterance": "なるほど…そうだったんですね、それは不安になっても仕方がないと思います。。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:14:56",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:15:02",
+      "utterance": "はい…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:15:13",
+      "utterance": "仕事が決まらなかったら、31日まで…ということですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:15:44",
+      "utterance": "31日までと決めている、というのはどういうことでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:16:44",
+      "utterance": "なんか生きていても、いいことないし、生きている意味はないし、生命保険があるから、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:16:48",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:18:10",
+      "utterance": "生きる意味は何ですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:18:38",
+      "utterance": "なるほど…そう考えられるほど、追い詰められたお気持ちなのですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:19:16",
+      "utterance": "生命保険があるしね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:20:17",
+      "utterance": "はい…お金は必要だけど、生きていてもいいことがない、それに生命保険もある。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:20:50",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:21:02",
+      "utterance": "そんな日々が続くと、死んでしまった方がいいのでは、と思うこともあるのではないですか？心配で伺います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:21:45",
+      "utterance": "そう、だから31日までに仕事が決まらなかったら、、ときめた"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:22:25",
+      "utterance": "なるほど…そういうことだったんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:22:58",
+      "utterance": "死んだ方がいいですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:23:44",
+      "utterance": "そう思われているほど、お辛いのですね私は、ここまでお話を聞いてきて、とても謙虚でひたむきな方だと感じました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:23:48",
+      "utterance": "同時に、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:24:13",
+      "utterance": "そんな方がいなくなったら、ますます居心地の悪い世の中になりそうだな、とも感じます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:25:14",
+      "utterance": "そんなことないですよ、全部自分が作ったことなので"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:25:40",
+      "utterance": "なるほど、全部自分が作ったこと…。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:26:47",
+      "utterance": "まあ、そういうこと"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:27:38",
+      "utterance": "そう思われているのですね。でも確かに、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:27:48",
+      "utterance": "それが続いたら死にたくなってもおかしくないと思います。。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:28:17",
+      "utterance": "だから死んでもいいですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:29:01",
+      "utterance": "そう思われているのですね。私は、まささんが真剣に考えているからこそ、私から答えを出せないと感じました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:29:59",
+      "utterance": "そんなことないです、借金はギャンブルだし"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:30:23",
+      "utterance": "はい、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:33:11",
+      "utterance": "ギャンブルでできた借金だからこそ、ご自分を責める思い、「自分が作ったこと」なのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:33:53",
+      "utterance": "まあ、普通そうだよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:35:33",
+      "utterance": "なるほど…そうだったのですね。けれどそれでも、仕事に向かって、支払いをしっかり続けてこられたのですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:36:20",
+      "utterance": "仕方ないからね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:36:45",
+      "utterance": "なるほど…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:37:37",
+      "utterance": "先ほど、31日まで決まらなかったら…とお話しされていましたが"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:37:50",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:38:04",
+      "utterance": "日付をそこに決めたことには、どんな意味がおありだったのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:39:02",
+      "utterance": "仕事が、そこまでだから"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:39:33",
+      "utterance": "なるほど…仕事が終わったタイミングで、とお考えなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:40:04",
+      "utterance": "その方がいいでしょ、あれこれ考えなくてすむからさ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:41:05",
+      "utterance": "そうなんですね、そのタイミングが悩ましくないんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:41:18",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:41:57",
+      "utterance": "死にたい思いがあり、具体的に日付も決めていらっしゃるのですね。ご自分では、死ぬための準備や、具体的な方法を考えることもおありですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:43:17",
+      "utterance": "まあ、事故にでもあえば、不自然ではないし、金額が増えるし"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:43:58",
+      "utterance": "なるほど…生命保険が下りることが、第一ですものね"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:44:52",
+      "utterance": "それはそうでしょ、やっぱ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:46:26",
+      "utterance": "なるほど。借金と養育費など支払いが必要なのに、仕事がなくなってしまい、月末で死んでしまった方がいいのでは、とも思っていらっしゃる…。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:47:12",
+      "utterance": "生きている意味もわからなくなって…。それはしんどいと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:47:24",
+      "utterance": "そう、楽になりたい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:47:35",
+      "utterance": "そうですよね、疲れましたよね。。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:47:58",
+      "utterance": "はい、だから死んでいいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:48:25",
+      "utterance": "なるほど、ずっと考えてこられたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:48:48",
+      "utterance": "まあね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:49:30",
+      "utterance": "楽ですもんね、そっちの方が…。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:49:49",
+      "utterance": "もしお金が少しでも工面できる状況になっても、そのお気持ちは変わりそうにないですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:50:15",
+      "utterance": "そうそう、やっぱ、変わらないね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:51:08",
+      "utterance": "なるほど、多少お金が入ったとしても、お変わりないのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:51:16",
+      "utterance": "辛いものは辛いですものね、"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:51:52",
+      "utterance": "辛いというか、楽になるな"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:52:06",
+      "utterance": "なるほど…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:52:27",
+      "utterance": "死ねば、色々解放されるような気もしますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:52:38",
+      "utterance": "ご自分では、一番はどんな気持ちから解放されそうですか…？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:54:34",
+      "utterance": "仕事、落ちてばっかの自分と、お金がないダメな自分からの解放だね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:55:18",
+      "utterance": "なるほど…嫌な自分から解放されるのは楽になりそうですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:55:44",
+      "utterance": "仕事、落ちてばっかだと本当に嫌になりそうですね、、。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:56:50",
+      "utterance": "そうなんだよ、金がないから余計にね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:57:31",
+      "utterance": "個人的にですが、過去にクレジットの支払いに遅れてすごく不安になったことがありました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:57:56",
+      "utterance": "まささんはそれよりもずっと辛いんだろうな、と思うと、きついですよね、と思います…。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:58:13",
+      "utterance": "あるよ、っていうかもう止められて使えないけどね"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:58:21",
+      "utterance": "カードは"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:58:29",
+      "utterance": "止められるほ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:59:00",
+      "utterance": "止められるほどなのですね！"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T14:59:10",
+      "utterance": "それはもう、絶望的な気持ちにもなりますよね"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T14:59:46",
+      "utterance": "はい、だからもういいんです。決めたから"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T15:00:07",
+      "utterance": "そうだったのですね。ずっと考えてこられたのですものね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T15:00:37",
+      "utterance": "私が同じ状況だったら、まささんほど長く続かなかっただろうなぁって、思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T15:01:27",
+      "utterance": "そうなんだね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T15:01:34",
+      "utterance": "一回のクレジットの支払いが遅れただけですごく不安だったんですよ。だから…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T15:01:53",
+      "utterance": "そんな時に、まささんほど頑張った人の話を聞くと、私こそダメダメだなって思いました"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T15:02:02",
+      "utterance": "俺、馬鹿だな、、カード使えなくなるんだからさ"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T15:02:30",
+      "utterance": "(お時間ですね)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T15:03:02",
+      "utterance": "（失礼いたしました、ご予定もおありだと思いますので、ここで終了しても構いません。そちらのご都合はいかがでしょうか？）"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T15:03:49",
+      "utterance": "(難しいクライエントにお付き合いいただき、ありがとうございました。仕事があるので、またご縁がありましたら、お願いいたします)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T15:04:38",
+      "utterance": "（こちらこそ、とても素晴らしいロールプレイをさせて頂きました。このテーマで臨んでくれてありがとうございます。終了させていただきますので、後ほどお時間ある際に評価の方、よろしくお願いいたします。）"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T15:04:49",
+      "utterance": "(大変お疲れ様でした。ありがとうございました)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T15:05:03",
+      "utterance": "（ありがとうございました。失礼いたします。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "経済的問題",
+    "main_en": "Financial Issues",
+    "sub": "失業による金銭的ストレスと将来への不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1488,
+    "評価作成日時": "2021-03-23T06:46:00",
+    "クライアント役ID": 66,
+    "カウンセラー役ID": 119,
+    "点数": 54,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 1,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 2,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 2,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1488,
+    "evaluation_created_at": "2021-03-23T06:46:00",
+    "client_id": 66,
+    "counselor_id": 119,
+    "score": 54,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

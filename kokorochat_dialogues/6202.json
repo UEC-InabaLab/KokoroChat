@@ -1,0 +1,434 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-12-30T19:20:48",
+      "utterance": "（こんばんは、時間になりましたら始めますので宜しくお願い致します）"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T19:21:23",
+      "utterance": "（こんばんは．こちらこそ宜しくお願いします）"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T19:30:03",
+      "utterance": "こんばんは、相談員です。初めに年齢・性別、話したい事を教えてください。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T19:30:56",
+      "utterance": "14歳、男性学校に行く理由がよくわからないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T19:32:41",
+      "utterance": "学校に行く理由が分からないとの事ですね。ちなみに何学年ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T19:33:14",
+      "utterance": "中学校2年生です"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T19:34:39",
+      "utterance": "ありがとうございます。学校に行く理由が分からなくなったのはいつ頃からですしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T19:35:04",
+      "utterance": "2ヶ月前"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T19:37:19",
+      "utterance": "そうなんですね。最近なんですね。何かありましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T19:38:13",
+      "utterance": "最近でもないですがー。学校が嫌です"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T19:40:39",
+      "utterance": "学校が嫌いととらえればいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T19:40:52",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T19:42:45",
+      "utterance": "わかりました。なぜ嫌いなのか。学校で嫌な事が過去にありましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T19:43:12",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T19:43:53",
+      "utterance": "そうなんですね。それは、いつ頃ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T19:44:09",
+      "utterance": "2ヶ月前"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T19:46:26",
+      "utterance": "学校で嫌な事があって行く意味が分からなくなった。それはとてもつらい事だと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T19:46:55",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T19:48:10",
+      "utterance": "その嫌な事は話すことはできますか？つらいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T19:48:22",
+      "utterance": "つらいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T19:50:07",
+      "utterance": "話せないほどつらいことなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T19:50:31",
+      "utterance": "学校が嫌で辛い"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T19:53:20",
+      "utterance": "学校が嫌で辛いのには理由があると思います。一人でかんがえないでください。私もいますから。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T19:53:36",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T19:55:57",
+      "utterance": "この先どうしたらいい方向に行くのか一緒に考えて行きませんか？その為にも少しでもいいので心を開いてくれますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T19:56:42",
+      "utterance": "学校が嫌で辛い行きたくない"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T19:58:30",
+      "utterance": "つらいと思います。その学校が嫌になったわけを少しでも教えてくれますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T19:59:07",
+      "utterance": "部活"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T19:59:55",
+      "utterance": "ありがとうございます。部活で何かがあったのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T20:00:21",
+      "utterance": "はい、ありました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T20:01:14",
+      "utterance": "そうなんですね。つらいのに話してくれてありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T20:02:12",
+      "utterance": "辛いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T20:03:09",
+      "utterance": "つらいですよね。部活は何をしてましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T20:03:25",
+      "utterance": "吹奏楽"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T20:04:32",
+      "utterance": "吹奏楽なんですね。音楽が好きなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T20:04:50",
+      "utterance": "まぁそうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T20:06:44",
+      "utterance": "私も好きですよ。部活で何があったかは話せますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T20:07:13",
+      "utterance": "人間関係"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T20:08:56",
+      "utterance": "もしかしたら。いじめにあったとかですかね？間違っていればすいません。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T20:09:07",
+      "utterance": "違います"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T20:09:27",
+      "utterance": "人間関係ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T20:09:56",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T20:10:50",
+      "utterance": "部活ではどんな立場でしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T20:11:32",
+      "utterance": "どんな立場とは、何でしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T20:12:15",
+      "utterance": "部長とかありますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T20:12:37",
+      "utterance": "はい、部長です"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T20:13:58",
+      "utterance": "そうなんですね。それは大変ですよね。まとめなくてはいけない。難しいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T20:14:09",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T20:16:02",
+      "utterance": "あなた部長として頑張ってきたけど何かが起こり。学校さえも嫌になってしまったのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T20:16:16",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T20:18:10",
+      "utterance": "あなたは素晴らしいと思いますよ。みんなをまとめる力があるんですから。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T20:18:33",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T20:20:38",
+      "utterance": "そのあなたが学校が嫌になってしまう事は。相当な事があったのだと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T20:20:55",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T20:21:51",
+      "utterance": "それを話す事は出来ますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T20:22:13",
+      "utterance": "それとは、何でしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T20:23:06",
+      "utterance": "部活であった事です。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T20:23:48",
+      "utterance": "人間関係で、副部長が嫌"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T20:26:04",
+      "utterance": "そうなんですね。副部長と上手く行かない。人間関係が大変だと思っているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T20:26:24",
+      "utterance": "まぁ、そんな感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T20:28:00",
+      "utterance": "わかりました。この先を考えて副部長と話し合う事をオススメします。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T20:28:23",
+      "utterance": "嫌いなんで、話したくないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T20:29:40",
+      "utterance": "あなたはどうしたいですか？部活をやめることもいいかもしれません。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T20:30:02",
+      "utterance": "辞めたくないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T20:35:11",
+      "utterance": "やめたくないなら吹奏楽のみんなで話しあい今よりもより良い部活にしていくことが部長として今あなたがやるべきことだと思います。勇気を出して頑張ってください。必ずいい結果は出ると思いますよ。応援しています。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T20:35:28",
+      "utterance": "、、"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T20:36:25",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T20:37:50",
+      "utterance": "あなたなら大丈夫です。もし。だめならまた相談に来てください。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T20:37:57",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T20:38:09",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T20:38:18",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T20:39:28",
+      "utterance": "（ありがとうございました。なんかおかしくなった感じですが。勉強になりました。ありがとうございました。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T20:39:57",
+      "utterance": "（お疲れ様でした。ありがとうございました。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "学校での人間関係の悩み"
+  },
+  "review_by_client_jp": {
+    "評価ID": 6202,
+    "評価作成日時": "2023-12-30T21:44:00",
+    "クライアント役ID": 449,
+    "カウンセラー役ID": 423,
+    "点数": 28,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 1,
+    "新しい気づきや体験があった": 1,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 1,
+    "居心地のよいやりとりだった": 1,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 1,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 1,
+    "受容・共感": 1,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 1,
+    "要約": 0,
+    "問題の明確化": 1,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 1,
+    "勇気づけ・希望の喚起": 1,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 6202,
+    "evaluation_created_at": "2023-12-30T21:44:00",
+    "client_id": 449,
+    "counselor_id": 423,
+    "score": 28,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 1,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 1,
+    "conversation_felt_comfortable": 1,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 1,
+    "showed_acceptance_and_empathy": 1,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 1,
+    "summarized_key_points_effectively": 0,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 1,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

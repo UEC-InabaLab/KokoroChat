@@ -1,0 +1,664 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2020-09-30T09:58:58",
+      "utterance": "■おはようございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T09:59:16",
+      "utterance": "おはようございます。宜しくお願い致します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T09:59:35",
+      "utterance": "はじめてもよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:00:00",
+      "utterance": "■よろしくお願いします。始めて大丈夫です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:00:06",
+      "utterance": "・・・ロールプレイスタート"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:00:22",
+      "utterance": "こんにちは。相談員です。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:01:12",
+      "utterance": "こんにちは。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:01:19",
+      "utterance": "今日はどのようなご相談でしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:02:40",
+      "utterance": "塾のテストでカンニングしちゃったんです。それは悪い事だと思っているんですが、お母さんにバレたらもう生きていけない。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:03:07",
+      "utterance": "うんうん。そうなのね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:03:59",
+      "utterance": "お母さんはとにかく1番じゃなきゃダメって…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:04:15",
+      "utterance": "ああ、そうなんだね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:05:28",
+      "utterance": "1番取ったら取ったで、クラスが下だからねとか言うし。暗記が苦手で、もう精神的にしんどいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:06:38",
+      "utterance": "一番とってもそう言われてしまうのね。それは、辛いよね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:07:55",
+      "utterance": "勉強は正直言って得意じゃない、得意じゃないから塾に行かせてもらえてどうにか頑張ってるけど、お母さんが厳しくてつらいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:08:22",
+      "utterance": "うんうん。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:09:20",
+      "utterance": "お母さん厳しいのね。つらいのね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:10:03",
+      "utterance": "お母さんは、塾のお金も無駄だって怒るんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:11:00",
+      "utterance": "ああ、そう言われちゃうのね。悲しいね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:12:13",
+      "utterance": "私がバカなのがいけないって分かってるんだけど、もうホントに生きてけない。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:13:33",
+      "utterance": "でも、クラスで１番取れるように頑張れるんだよね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:14:56",
+      "utterance": "1番っていっても最下位クラスだし。もうこれ以上頑張れないから、カンニングしちゃった。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:15:28",
+      "utterance": "しかも、たった1度だけだったし、まぐれだった。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:16:08",
+      "utterance": "そうなんだ・・・カンニング、一度だけしちゃったの？まぐれって？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:16:10",
+      "utterance": "三者面談が怖すぎ。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:16:27",
+      "utterance": "1度だけってのは1番が。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:16:59",
+      "utterance": "もう踏切いく。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:17:14",
+      "utterance": "塾の前が踏切だし。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:17:27",
+      "utterance": "今は、塾にいるの？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:17:43",
+      "utterance": "塾はこれから。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:18:04",
+      "utterance": "そうなのね。　じゃ、今はおうちにひとり？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:18:39",
+      "utterance": "お母さんもいるけど、夕飯食べてから塾。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:19:06",
+      "utterance": "ああ、そうなんだね。まだ、このまま話続けていても大丈夫？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:19:11",
+      "utterance": "ホントに三者面談怖い、怖すぎてもうダメ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:19:25",
+      "utterance": "三者面談はいつなの？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:20:05",
+      "utterance": "今週の土曜日"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:20:38",
+      "utterance": "ああそうなんだ。それで心配で、今日相談に来てくれたのね。今は３年生？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:20:45",
+      "utterance": "もう考えただけで吐きそう。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:20:55",
+      "utterance": "今は1年生。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:21:08",
+      "utterance": "高校？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:21:10",
+      "utterance": "もうどうしていいか分かんない。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:21:16",
+      "utterance": "中学"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:21:59",
+      "utterance": "ありがとう。中一ね。ちょっと、深呼吸してみてもらえるかな。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:22:06",
+      "utterance": "うん"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:22:57",
+      "utterance": "中一ということは、高校受験まで、まだ時間があるけど。もうそんなに、塾で頑張っているのね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:23:02",
+      "utterance": "バレたらどうしよう、怖い。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:23:29",
+      "utterance": "学校の勉強にもついていけないし。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:23:37",
+      "utterance": "怖い。そうなのね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:24:55",
+      "utterance": "学校の勉強って、大変だよね。小学校のころと、どういうところが違うと思う？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:25:43",
+      "utterance": "進むのが早くて。元々が分かんないから難しい。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:26:00",
+      "utterance": "暗記もダメ。だからテストがきつい。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:26:20",
+      "utterance": "でも、点数取らないと怒られる。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:26:40",
+      "utterance": "うんうん。そうなんだ。はやいんだ。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:27:00",
+      "utterance": "どんどんついていけなくなる。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:27:14",
+      "utterance": "やってもやっても。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:27:24",
+      "utterance": "焦る気持ちなのかな？点数取らないと怒るのは、お母さんだけ？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:27:26",
+      "utterance": "頭に入らない。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:27:55",
+      "utterance": "そうなのね。小学校の頃は、勉強どうだったの？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:28:18",
+      "utterance": "あんまり。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:28:40",
+      "utterance": "お母さんしかいないから、お母さんだけ怒る。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:29:12",
+      "utterance": "土曜日が怖い、もう死にたい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:29:42",
+      "utterance": "うんうん。カンニングしたことがバレるかもしれないから？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:29:51",
+      "utterance": "お母さん、絶対に怒る。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:30:38",
+      "utterance": "うん、バレたら大変。成績のこと自体も怒るだろうけど、もっと怒る。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:30:47",
+      "utterance": "でも、今日ここに相談に来てくれたのは、カンニングが悪いことだって感じているからだよね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:31:42",
+      "utterance": "悪かったのは悪かった思う。でも言い訳になるけど、もうどうしようもなかった。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:32:17",
+      "utterance": "うんうん。そうなのね。話してくれて、じんじんと気持ちが伝わってきたよ。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:32:22",
+      "utterance": "でも、やっぱり悪いことだよね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:32:50",
+      "utterance": "そう思うよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:33:15",
+      "utterance": "う～ん。それは悪いことかもしれないけど。でも、他にも悪いことってあるとおもうんだけどなぁ。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:36:06",
+      "utterance": "犯罪まではいかないんだろうけど、お母さんにとってはそれくらい怒ると思う。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:37:05",
+      "utterance": "するどい分析！"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:37:49",
+      "utterance": "どうしたらいいのか分からない。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:38:07",
+      "utterance": "犯罪ではないけど、お母さんにとっては大変なことだと思っているんだね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:38:19",
+      "utterance": "そう。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:38:42",
+      "utterance": "勉強って　誰のためにするんだろう・・・？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:39:11",
+      "utterance": "って考えたことあるかな？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:39:42",
+      "utterance": "勉強できないと仕事にもつけないから、自分ため？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:40:27",
+      "utterance": "自分のため。そうだよね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:41:04",
+      "utterance": "でも、お母さんに怒られるのは嫌、怖い。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:42:00",
+      "utterance": "自分も、子供がこんなに勉強出来なかったら嫌だろうなって思うよね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:42:24",
+      "utterance": "思うよね → 思う"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:42:44",
+      "utterance": "お母さんの顔見るのもつらい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:42:50",
+      "utterance": "そう思うんだ。自分が大人になって子どもが生まれたら、そう思うのね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:43:06",
+      "utterance": "そう思いそう。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:43:43",
+      "utterance": "中卒でなんか仕事ないだろうし。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:44:22",
+      "utterance": "将来、どんな仕事につきたいと考えているの？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:44:31",
+      "utterance": "ない。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:45:29",
+      "utterance": "そうなのね。ねえ、お母さん、怖いって、口だけ？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:46:12",
+      "utterance": "暴力はないけど、否定されるのがつらい。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:46:43",
+      "utterance": "もうそろそろ塾に行かなきゃ。死んだら三者面談受けなくて済む。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:47:22",
+      "utterance": "ごめんね。時間だよね。三者面談で、勉強がんばっていることを担任の先生に伝えられる？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:47:49",
+      "utterance": "カンニングしたやつなんか、信じてもらえなさそう。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:48:14",
+      "utterance": "三者面談は、お母さんが切れてまくし立てそう。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:48:31",
+      "utterance": "あー、やだ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:49:09",
+      "utterance": "そう思うんだ。お母さんが切れると、先生もお話が進められなくなるから、三者面談の前に、先生と二人でお話できないかな？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:50:03",
+      "utterance": "今日、タイミングが合えば話したい。でも、話せるかな？、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:51:20",
+      "utterance": "うんうん。タイミング、ちょっと頑張って自分で作ってみようよ。カンニングのことは、自分から言うかどうか、お話の流れの中で言ってもいいと思おう。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:52:09",
+      "utterance": "カンニングは先生たちはみんな知ってると思う。なんて言ったらいい？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:53:01",
+      "utterance": "ああそうなんだ。それならば、カンニングしちゃったことは悪かった。と正直に受け止める姿勢をあらわして、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:53:48",
+      "utterance": "これから、そんなことをしたい気持ちにならないように、勉強をやりたい　という気持ち、意思を話してみることできるかな？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:54:05",
+      "utterance": "先生に？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:54:54",
+      "utterance": "そう、先生に。あなたが、前向きに先生に相談すれば、先生は受け止めてくれると思うよ。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:55:14",
+      "utterance": "お母さんに言わないでって言ったらダメ？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:56:38",
+      "utterance": "もちろん！　いいよ。はっきりと、先生にそう言っていいと思うの。頑張るあなたを、先生は味方になってくれるよ。先生は大人だから、三者面談の時にも、上手に三人の会話を進めてくださると思うのよ。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:57:35",
+      "utterance": "うん、言ってみる。ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:57:58",
+      "utterance": "よかった。言ってみようね。また、よかったら来週ここにお話しに来てくれるかな？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:58:11",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:58:35",
+      "utterance": "思いっきり　わたしも応援していていい？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:58:56",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:59:19",
+      "utterance": "ドキドキするけど、言ってみます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T10:59:19",
+      "utterance": "では、夕食してから塾、気を付けていってらっしゃい。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T10:59:29",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T11:00:28",
+      "utterance": "では、これで終了させていただきます。Lineの記録は心配だったら消去してくださいね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T11:00:38",
+      "utterance": "・・・　ロールプレイ終了"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T11:01:01",
+      "utterance": "本日のクライアント役、どうもありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T11:01:12",
+      "utterance": "こちらこそ有り難うございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-30T11:01:29",
+      "utterance": "では、失礼いたします。m(.＿.)m"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-30T11:01:42",
+      "utterance": "失礼します。"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "母親とのコミュニケーション問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 490,
+    "評価作成日時": "2020-09-30T16:34:00",
+    "クライアント役ID": 84,
+    "カウンセラー役ID": 77,
+    "点数": 58,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 2,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 490,
+    "evaluation_created_at": "2020-09-30T16:34:00",
+    "client_id": 84,
+    "counselor_id": 77,
+    "score": 58,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,634 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-02-16T09:54:03",
+      "utterance": "こんにちは相談員です。準備が出来ましたら始めさせていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T09:56:56",
+      "utterance": "こんにちは、大丈夫です！宜しくお願いいたします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T09:58:28",
+      "utterance": "よろしくお願いします。今日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T09:59:03",
+      "utterance": "派遣社員なのですが、派遣先が決まったとたん骨折で入院してしまったんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:00:28",
+      "utterance": "そうなのですね、それは大変な想いをされましたね。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:00:52",
+      "utterance": "よろしければ年令と性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:01:30",
+      "utterance": "40才　女です"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:01:41",
+      "utterance": "これからの事が不安で・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:02:01",
+      "utterance": "そうですよね。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:02:23",
+      "utterance": "どこを骨折してしまったのですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:02:44",
+      "utterance": "今日は何とお呼びしたら良いでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:02:46",
+      "utterance": "骨盤です"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:02:56",
+      "utterance": "アキです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:03:25",
+      "utterance": "それは大変ですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:03:32",
+      "utterance": "アキさんですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:04:13",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:04:46",
+      "utterance": "骨盤骨折だと仕事に復帰するまでの時間もかかりそうですね。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:04:57",
+      "utterance": "それはお辛いと思います"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:05:02",
+      "utterance": "はい、まだ見通しがつきません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:05:42",
+      "utterance": "そうでしたか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:05:46",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:06:11",
+      "utterance": "このことを相談出来る方はいらっしゃいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:07:13",
+      "utterance": "いえ、いないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:07:31",
+      "utterance": "そうなのですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:07:36",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:09:20",
+      "utterance": "私は病院で看護助手として働いているのですが、整形外科の病棟にいるので、アキさんと似たような状況の患者さんもいらっしゃいます"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:09:45",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:10:26",
+      "utterance": "リハビリを考えると何か月仕事できないんだろうって"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:11:14",
+      "utterance": "手術して怪我が治ってもリハビリが始まりますよね。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:11:26",
+      "utterance": "それはお辛いと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:11:56",
+      "utterance": "はい、入院して一週間目なんです。まだあまり動けません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:12:13",
+      "utterance": "そうなのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:12:55",
+      "utterance": "入院しているお部屋は共同部屋ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:13:14",
+      "utterance": "はい、4人部屋に2人で"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:14:05",
+      "utterance": "そうでしたか、一緒のお部屋に入院している方とはお話ししますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:14:39",
+      "utterance": "挨拶程度です、私がロクに動けないので"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:15:03",
+      "utterance": "そうなのですね。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:16:08",
+      "utterance": "なかなか話せないと辛い気持ちを抱えてしまって不安な思いも膨らんでしまいますよね。。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:16:47",
+      "utterance": "はい。。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:17:44",
+      "utterance": "そのお部屋にテレビやラジオはありますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:17:51",
+      "utterance": "もしくはアキさんのケータイなど、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:17:57",
+      "utterance": "はい、テレビあります"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:18:47",
+      "utterance": "スマホも"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:20:12",
+      "utterance": "気持ちを軽くするためにも明るい内容の番組など見てみてはどうでしょう？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:20:21",
+      "utterance": "You Tubeで明るい曲を聴くなどもいかがでしょう?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:21:12",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:21:19",
+      "utterance": "探してみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:21:58",
+      "utterance": "きっと気持ちが軽くなると思います"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:22:23",
+      "utterance": "はい、そうかもしれません。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:22:30",
+      "utterance": "やってみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:23:14",
+      "utterance": "看護師さんとお話しするのもいいかもしれないですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:23:24",
+      "utterance": "はい！よかったですです"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:25:00",
+      "utterance": "看護師さんとは何を話せばいいですか。すごく忙しそうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:26:16",
+      "utterance": "そうなのですね。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:26:41",
+      "utterance": "入院している病院には看護助手の方はいらっしゃいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:27:10",
+      "utterance": "ちょっと見分けがつかないけど居ると思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:28:52",
+      "utterance": "もしいそうでしたら、看護師さんよりも看護助手さんの方が多少時間に余裕があると思うので、看護助手さんとお話しするなど、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:29:20",
+      "utterance": "しかし見分けがつかないと難しそうですね。。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:31:18",
+      "utterance": "はい、制服がみんなバラバラで"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:31:58",
+      "utterance": "いろんな色の服を着てますよね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:32:40",
+      "utterance": "リハビリは始まってますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:32:40",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:33:05",
+      "utterance": "まだトイレも行けてません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:33:26",
+      "utterance": "そうなのですね。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:33:47",
+      "utterance": "食事はご自分でされてますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:34:18",
+      "utterance": "はい、少しベッドに角度付けて"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:34:50",
+      "utterance": "そうでしたか。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:35:58",
+      "utterance": "もし看護士さんに手伝ってもらっているのでしたら、その時にお話しをするなど考えてみたのですが、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:36:09",
+      "utterance": "難しいですね。。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:37:11",
+      "utterance": "ああ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:38:41",
+      "utterance": "何か思いつきましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:39:56",
+      "utterance": "身体拭いてくれます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:41:18",
+      "utterance": "そうでしたか!その時間に看護士さんとお話しすることは出来そうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:42:12",
+      "utterance": "はい、出来そうです"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:43:15",
+      "utterance": "孤独で不安って言えばいいですか？怪我の事じゃないけど"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:45:12",
+      "utterance": "そうですね、、仕事のことが言いづらければ今の思いを話してみるとか、相談出来そうであればそのままお話ししてみるなど。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:46:06",
+      "utterance": "看護士さんも優しい方がたくさんいらっしゃると思うので、お話しするだけでも気持ちが軽くなると思います"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:47:51",
+      "utterance": "今はまだ一週間なので仕事先から何も言われてないけど"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:48:14",
+      "utterance": "はい、"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:48:21",
+      "utterance": "これからクビとかなったら"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:48:52",
+      "utterance": "そんな時も看護師さんでいいですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:49:47",
+      "utterance": "とても不安ですよね。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:50:45",
+      "utterance": "そうですね、、より深いお話しをするのであれば、短い時間では厳しい面もありますよね。。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:51:16",
+      "utterance": "何だか全てが不安で"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:51:44",
+      "utterance": "仕事先には今の状況は伝えてありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:53:09",
+      "utterance": "はい、決まった派遣先に行けなくなってますから"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:53:48",
+      "utterance": "そうでしたか。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:54:50",
+      "utterance": "それはとてもお辛いのですよね。。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:56:36",
+      "utterance": "今月はいいけど今働けない分は来月の収入に響くので"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:57:30",
+      "utterance": "入院後の生活にも不安が残りますよね。。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:58:06",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:58:42",
+      "utterance": "今動けないと3月の仕事もどうなるか"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T10:58:49",
+      "utterance": "不安です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:59:26",
+      "utterance": "そうですよね。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T10:59:41",
+      "utterance": "今は一人暮らしですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T11:00:47",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T11:01:00",
+      "utterance": "そうなのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T11:01:08",
+      "utterance": "入院後しばらくは親御さんにサポートしてもらうことはできそうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T11:01:10",
+      "utterance": "実家は田舎なのでたよれません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T11:01:27",
+      "utterance": "そうでしたか。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T11:02:17",
+      "utterance": "近くに頼れそうな知人やご近所の方もいらっしゃいますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T11:03:35",
+      "utterance": "それか支援金などは活用できそうですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T11:06:30",
+      "utterance": "そろそろお時間になってしまったので終了させていただきたいのですが、アキさんのお気持ちはまだ不安を抱えてらっしゃると思うので、またの機会にお話しを聞かせていただけたらと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T11:07:41",
+      "utterance": "友人はいるけど、今まで頼ったりする関係じゃないから"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T11:07:41",
+      "utterance": "大人の友人ってそうじゃないですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T11:08:45",
+      "utterance": "そうですよね。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T11:08:56",
+      "utterance": "私の力不足でアキさんの不安な気持ちを取り除くことができず、すみません。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T11:10:16",
+      "utterance": "でも、看護師さんにとりあえず相談してみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T11:11:17",
+      "utterance": "それが良いと思います"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T11:12:31",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-16T11:12:39",
+      "utterance": "失礼します"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T11:13:02",
+      "utterance": "アキさんのことを応援しています"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-16T11:13:10",
+      "utterance": "失礼いたします"
+    }
+  ],
+  "topic": {
+    "main_jp": "経済的問題",
+    "main_en": "Financial Issues",
+    "sub": "入院に伴う収入減少の不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1347,
+    "評価作成日時": "2021-02-16T18:03:00",
+    "クライアント役ID": 121,
+    "カウンセラー役ID": 133,
+    "点数": 66,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1347,
+    "evaluation_created_at": "2021-02-16T18:03:00",
+    "client_id": 121,
+    "counselor_id": 133,
+    "score": 66,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,564 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-10-13T21:21:50",
+      "utterance": "(こんばんは、本日はよろしくお願い致します。)"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:24:54",
+      "utterance": "(こちらこそよろしくお願いします）"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-13T21:25:31",
+      "utterance": "（時間になりましたら始めさせていただきます。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:25:50",
+      "utterance": "（承知しました。扱いたいテーマがあれば、おっしゃってくださいね）"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-13T21:27:08",
+      "utterance": "（ありがとうございます。特に大丈夫です。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:28:02",
+      "utterance": "（承知しました。よろしくお願いします。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-13T21:30:36",
+      "utterance": "こんばんは、相談員です。はじめに、ご年齢と性別、今日のお話したいことを教えてください。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:31:32",
+      "utterance": "１５才女"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:32:08",
+      "utterance": "受験なのに、やる気が出ない"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:32:18",
+      "utterance": "どうしたらいいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-13T21:33:20",
+      "utterance": "受験生なのですね、大変な時期ですね。やる気が出ないということをもう少し具体的に教えてくれますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:33:30",
+      "utterance": "なんか"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:33:50",
+      "utterance": "友達とか見てると焦るんだけど"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:34:20",
+      "utterance": "勉強する気にならなくて"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:34:24",
+      "utterance": "つい"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:34:40",
+      "utterance": "動画見たりしてしまう"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:35:12",
+      "utterance": "友達と話したりすると"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:35:34",
+      "utterance": "ギャップ？を感じる"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-13T21:35:42",
+      "utterance": "確かに、わたしも経験があるのでその焦りはわかりますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:36:10",
+      "utterance": "そうなんですか"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:37:19",
+      "utterance": "友達ほど真剣ではなくて"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-13T21:38:18",
+      "utterance": "はい。ギャップ？みたいな気持ちはどんな感じですかね？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:39:14",
+      "utterance": "私はあんまり考えていない感じのギャップ…という感じ"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:39:50",
+      "utterance": "なるようになるかな～とか思ってしまいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-13T21:40:07",
+      "utterance": "なるほど、お友達と比べて危機感のようなものが少ない感じですかね？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:40:20",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-13T21:41:04",
+      "utterance": "ちなみに、希望の高校はあるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:41:13",
+      "utterance": "もう言っている間に進路も決めていかないといけないけど、何も考えてない"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:41:23",
+      "utterance": "特にないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-13T21:42:22",
+      "utterance": "そうなんですね。今のところはなるようになるかなと考えてらっしゃるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:42:36",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-13T21:43:49",
+      "utterance": "お友達と話しをしても少し冷めた気持ち、温度差を感じていらっしゃるのでしょうかね？違っていたらごめんなさい。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:44:43",
+      "utterance": "話している最中はそう思わないけど"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:45:46",
+      "utterance": "話したあと時間が経ってからそう感じることが多いかもしれないです"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:46:58",
+      "utterance": "どうしたらいいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-13T21:47:53",
+      "utterance": "そうなのですね。お友達と比べるとそう感じるのですね。はい、相談者さんとしてはどうなったら良いかなとお考えですか？それについて一緒に考えていければと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:48:18",
+      "utterance": "どうなったら…？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:48:22",
+      "utterance": "うーん"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:49:17",
+      "utterance": "とりあえずは、勉強する気持ちが出来たらと思います"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:49:36",
+      "utterance": "出るようになれば"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:50:14",
+      "utterance": "なんかやる気が出ない"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:50:52",
+      "utterance": "気持ちは焦るんですけどね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-13T21:51:02",
+      "utterance": "はい、ありがとうございます。勉強する意欲が上がると良いかなという感じですかね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-13T21:51:29",
+      "utterance": "確かに、周囲と比べてしまうと焦りはでてしまいますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:51:30",
+      "utterance": "何も目的もないからかもしれません"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:53:01",
+      "utterance": "受験なんてなんであるんだろう"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:53:53",
+      "utterance": "面倒くさい"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:54:01",
+      "utterance": "です"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-13T21:54:17",
+      "utterance": "本当ですね、今の状況はお辛そうですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:54:54",
+      "utterance": "べつにつらくはないですけどね"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:56:05",
+      "utterance": "ただどうしたらいいのかなと考えてしまう"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-13T21:56:11",
+      "utterance": "そうでしたか、失礼しました。周囲の状況や現実やらないといけない事を目の前にするとやる気が出ないことはあるかと思いますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:56:34",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-13T21:57:21",
+      "utterance": "はい、やる気が出ないことは悪いことではないと思います。ただ期間が限られることなので焦りや不安はあるかと思いますが。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:58:00",
+      "utterance": "そうですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-13T21:59:00",
+      "utterance": "はい、たとえですけど、実になる前の準備段階としてとらえてみてはいかがでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T21:59:57",
+      "utterance": "準備？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-13T22:01:00",
+      "utterance": "はい、わかりにくくてごめんなさい。物事を達成する前の段階という意味です。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T22:01:50",
+      "utterance": "達成・・・何も"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T22:02:13",
+      "utterance": "何もないのに"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T22:03:11",
+      "utterance": "準備といっても・・・ね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-13T22:05:02",
+      "utterance": "押しつけがましくなっていたらごめんなさい。受験勉強以外ではどんなふうに過ごされていらっしゃるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T22:05:22",
+      "utterance": "動画見てます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-13T22:05:54",
+      "utterance": "そうなのですか、面白いですよね。どんな動画が好みですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T22:06:09",
+      "utterance": "うーん"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T22:07:06",
+      "utterance": "踊ってるのとか、動物とか…かな"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T22:07:40",
+      "utterance": "あと、メイクのやつも見てたりする"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-13T22:07:48",
+      "utterance": "いいですね。動画を見ているとどんなお気持ちになりますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T22:08:05",
+      "utterance": "楽しいです"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T22:09:03",
+      "utterance": "気が付いたらあっという間に時間が経っています"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-13T22:09:54",
+      "utterance": "楽しそうですよね。私も興味があります。勉強と離れた時間も大切だと思いますが。動画をみていると時間が経つの早いですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T22:10:04",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T22:10:40",
+      "utterance": "どうしたらいいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-13T22:13:02",
+      "utterance": "はい、ご家族は何かおっしゃってたりしますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T22:13:44",
+      "utterance": "勉強するように言われます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-13T22:14:17",
+      "utterance": "そうですか、それを言われるとどうお感じになりますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T22:14:38",
+      "utterance": "そうだなぁと思います"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T22:16:31",
+      "utterance": "どうしてやる気が起こらないんだろう"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-13T22:16:50",
+      "utterance": "そうですか。納得されるのですね。ご自身でも勉強したいけどやる気がなかなか起きない心境で、どうしたらやる気がでるか悩んでおられる。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T22:17:00",
+      "utterance": "自分でも不思議です"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T22:17:14",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-13T22:18:54",
+      "utterance": "限られた時間の中難しいかもしれませんが、一旦、勉強から離れてみる時間を作るのはいかがでしょうかね？リラックスする時間を増やすなど。メリハリというのでしょうか・・・。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T22:19:32",
+      "utterance": "・・・受験なのにそんなことをしても大丈夫なのでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-13T22:20:29",
+      "utterance": "限られた時間でやりくりが難しいかもしれませんが、時にそういった時間は必要だと私は思いますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T22:21:35",
+      "utterance": "今でもあまり勉強していないので・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-13T22:23:32",
+      "utterance": "そうですか。今の状況からは好きな事をする時間はなさそうですかね。今のお悩みをどなたかにご相談されましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T22:24:27",
+      "utterance": "友達には一度話したけど、あまり分かってもらえなかった"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T22:25:46",
+      "utterance": "私がおかしいかもしれない"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-13T22:26:20",
+      "utterance": "そうでしたか。そんな事はないですよ。人それぞれ感じ方は自由です。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T22:26:25",
+      "utterance": "みんな一所懸命なのに"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-13T22:27:37",
+      "utterance": "そうお感じなのですね、みんなと同じでなければいけないことはないと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T22:27:58",
+      "utterance": "気を遣わせてしまいましたね。ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-13T22:29:33",
+      "utterance": "とんでもないです。残念ですが、そろそろお時間になってしまいました。またよろしければお話しに来ていただけたら嬉しいです。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T22:30:17",
+      "utterance": "なるようになるから大丈夫です"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T22:30:45",
+      "utterance": "聞いてくれてありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-13T22:31:12",
+      "utterance": "はい、影ながら応援しております。こちらこそ、今日はありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T22:31:23",
+      "utterance": "こちらこそありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-13T22:32:25",
+      "utterance": "（本日は遅い時間ありがとうございました。これで終了とさせていただきまます。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-13T22:32:56",
+      "utterance": "（こちらこそありがとうございました。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "受験に対するやる気の低下"
+  },
+  "review_by_client_jp": {
+    "評価ID": 5817,
+    "評価作成日時": "2023-10-14T10:32:00",
+    "クライアント役ID": 156,
+    "カウンセラー役ID": 426,
+    "点数": 48,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 2,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 5817,
+    "evaluation_created_at": "2023-10-14T10:32:00",
+    "client_id": 156,
+    "counselor_id": 426,
+    "score": 48,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

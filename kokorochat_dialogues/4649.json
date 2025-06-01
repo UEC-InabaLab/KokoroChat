@@ -1,0 +1,414 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-02-20T19:51:15",
+      "utterance": "（こんばんは。本日はよろしくお願いいたします。お時間になりましたら、始めさせていただきます。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T19:52:10",
+      "utterance": "(こんばんは。こちらこそよろしくお願いします。)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T20:00:03",
+      "utterance": "こんばんは。相談員です。相談に来てくださってありがとうございます。まずは、年齢、性別、相談内容を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T20:00:28",
+      "utterance": "こんばんは。よろしくお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T20:01:22",
+      "utterance": "23才、男、最近仕事が嫌です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T20:02:18",
+      "utterance": "教えていただきありがとうございます。仕事が嫌だと感じているのですね。ちなみにあなたのことをなんとお呼びすればいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T20:03:25",
+      "utterance": "沖田でいいですよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T20:04:09",
+      "utterance": "ありがとうございます。沖田さんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T20:04:33",
+      "utterance": "沖田さん、仕事のどんなことが嫌か話せることから教えてもらってもいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T20:06:03",
+      "utterance": "仕事の昇任試験？を無理に受けさせられる状況になっているのでそれが嫌なんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T20:07:17",
+      "utterance": "昇任試験があるのですね！"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T20:08:57",
+      "utterance": "昇任試験はどのタイミングであるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T20:10:15",
+      "utterance": "春頃です。詳しい日程はまだ決まってませんが。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T20:11:23",
+      "utterance": "春頃にあるのですね。業務でお忙しい中、無理に受けたくない試験を受けなければならないのは、少し負担ですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T20:12:14",
+      "utterance": "初めての昇任試験になりますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T20:12:56",
+      "utterance": "去年も1度受けました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T20:13:42",
+      "utterance": "毎年、負担になることが続きますね、、、"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T20:14:44",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T20:14:51",
+      "utterance": "昇任試験に受かると、今と何が変わるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T20:15:44",
+      "utterance": "役職というか階級が上がります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T20:16:21",
+      "utterance": "そうなのですね。階級が上がることで給与がアップしたり、他に何かプラスなことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T20:17:03",
+      "utterance": "業務の幅が広がります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T20:18:14",
+      "utterance": "そうなんですね業務の幅が広がることは、沖田さんはどう思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T20:20:00",
+      "utterance": "面白いのかもしれませんが、何か想像できないですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T20:20:34",
+      "utterance": "そうでしたか。昇任後が想像できないと進んで試験を受けたいとは思いませんよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T20:20:57",
+      "utterance": "ちなみに沖田さんは、今のお仕事は何年目になりますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T20:21:22",
+      "utterance": "5年目です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T20:22:11",
+      "utterance": "では、お仕事には慣れてきましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T20:22:52",
+      "utterance": "そうですね。それなりに慣れました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T20:24:07",
+      "utterance": "沖田さんは、転職が容易になっているこの社会の中で、5年も同じ仕事を続けていることは、まず素晴らしいことだと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T20:25:25",
+      "utterance": "そうですか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T20:26:22",
+      "utterance": "私は、同じことを続けることはなかなか容易ではないと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T20:28:33",
+      "utterance": "沖田さんの次の仕事のステップとして、昇任試験という試練があると思いますが、"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T20:29:34",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T20:30:20",
+      "utterance": "受けなければならないと縛られているのは、非常に気が進まないのではないでしょうか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T20:30:36",
+      "utterance": "会社の昇任試験は、周りの目もありますし、もし同期の方がいて、一緒に受けていたら、気になりますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T20:30:47",
+      "utterance": "私もそんな経験があります。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T20:32:07",
+      "utterance": "そうですか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T20:32:49",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T20:33:59",
+      "utterance": "沖田さんは、今の仕事の中でやりがいや充実感を感じることはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T20:35:28",
+      "utterance": "分からないです。あるような無いような。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T20:36:35",
+      "utterance": "そうでしたか。それでは、休日等の楽しみは何かありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T20:37:30",
+      "utterance": "常にではないですが、映画を見るのが好きです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T20:38:38",
+      "utterance": "映画を見るのが好きなんですね。どんな映画が好きですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T20:39:39",
+      "utterance": "サスペンスものやアクション映画が多いです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T20:40:55",
+      "utterance": "いいですね！ドキドキしますよね。映画以外には何かありますか？ちょっとした楽しみでもいいですよ？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T20:42:46",
+      "utterance": "他にパッと思いつくものは無いです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T20:43:40",
+      "utterance": "そうでしたか！考えてくださり、ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T20:45:08",
+      "utterance": "仕事ではうまくいかないことも、納得いかないこともあると思います。休日の楽しみを作ることで、仕事が楽しく感じてきたりするので、何かおありか聞いてみました。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T20:46:15",
+      "utterance": "そうなんですか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T20:46:33",
+      "utterance": "ええ。過去に楽しかったことを何か思い出せますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T20:47:32",
+      "utterance": "過去の楽しかった事ですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T20:47:48",
+      "utterance": "はい。ゆっくりでいいですよ。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T20:49:53",
+      "utterance": "んー、無い訳では無いですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T20:50:39",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T20:51:28",
+      "utterance": "最初の相談内容と関係がある話でしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T20:52:00",
+      "utterance": "沖田さんは、きっと誠実で仕事に真摯に取り組まれてきた方だと思います。今は仕事に少し囚われてお疲れになっているように感じました。たまには、余暇を楽しむことにフォーカスしてもいいのではと思いました。そうすると余裕が出てきて、またきっと仕事にも熱中できると感じました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T20:52:28",
+      "utterance": "沖田さんは、どう感じますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T20:54:49",
+      "utterance": "私自信仕事そのものは普通に取り組んでいて、昇任試験の事だけとにかく納得がいかないというだけだと思っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T20:56:09",
+      "utterance": "それでは、昇任試験について受けないという選択をすることはできますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T20:57:09",
+      "utterance": "ほぼ強制のような感じなんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T20:57:36",
+      "utterance": "強制なのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T20:58:11",
+      "utterance": "ええ。それと、この後予定があるので失礼してもいいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T20:59:26",
+      "utterance": "承知いたしました。相談に来てくださってありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T21:00:02",
+      "utterance": "ありがとうございました。では失礼します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T21:00:46",
+      "utterance": "ぜひ、またお話をしに来てください。沖田さんのこれからの活躍を祈っております。それでは、失礼いたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T21:01:30",
+      "utterance": "（ロープレを終了します。ありがとうございました。評価をお願いいたします。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T21:01:35",
+      "utterance": "（お疲れ様でした。)"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T21:01:58",
+      "utterance": "(ありがとうございました。失礼します)"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "昇任試験に対する強制感"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4649,
+    "評価作成日時": "2023-02-20T23:43:00",
+    "クライアント役ID": 302,
+    "カウンセラー役ID": 335,
+    "点数": 45,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 1,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 1,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 1,
+    "今回の相談は価値があった": 1,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 2,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 1,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4649,
+    "evaluation_created_at": "2023-02-20T23:43:00",
+    "client_id": 302,
+    "counselor_id": 335,
+    "score": 45,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 1,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

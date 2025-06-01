@@ -1,0 +1,654 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2021-05-19T13:23:51",
+      "utterance": "こんにちは、よろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T13:30:06",
+      "utterance": "こんにちは相談員です。よろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T13:30:19",
+      "utterance": "こんにちは"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T13:30:30",
+      "utterance": "最初に年齢と性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T13:30:54",
+      "utterance": "50代の男です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T13:31:16",
+      "utterance": "お返事ありがとうございます。今日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T13:31:30",
+      "utterance": "娘のことです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T13:32:02",
+      "utterance": "娘さんのことで何かご心配なことがおありなのですね・・・どのようなことですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T13:33:07",
+      "utterance": "はい。中学2年の一人娘がいます。私はシングルで、幼い頃から一人で育ててきました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T13:33:30",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T13:33:37",
+      "utterance": "最近は思春期もあって、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T13:33:50",
+      "utterance": "はいなるほど"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T13:34:06",
+      "utterance": "どう関わっていいのか悩んでしまいます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T13:34:43",
+      "utterance": "中２といえば思春期真っ盛りで難しい時ですよね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T13:35:00",
+      "utterance": "そうですね、難しいですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T13:35:20",
+      "utterance": "生活の中で戸惑っておられることは具体的にはどんなことがありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T13:36:08",
+      "utterance": "そうですね、話が一方通行で、何を考えているのか伝わってきません"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T13:36:39",
+      "utterance": "娘には申し訳ないですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T13:37:18",
+      "utterance": "話しが一方通行というのは、お父様の方から話すばっかりになってしまうということでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T13:37:24",
+      "utterance": "ひとり親、ましてや父親なので、あまり理解してあげられていないように感じています"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T13:37:31",
+      "utterance": "そうです"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T13:38:09",
+      "utterance": "最近、私が体調を崩しまして、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T13:38:27",
+      "utterance": "おや　それはお困りですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T13:38:31",
+      "utterance": "そういったこともあって、しっかり生きていけるようになって欲しいんです"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T13:39:09",
+      "utterance": "それが、のれんに腕押しというか…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T13:40:05",
+      "utterance": "暖簾に腕押しというと？どんなことが起こっているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T13:40:41",
+      "utterance": "身の回りのこと、しっかりできるように、と、教えるのですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T13:40:50",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T13:41:11",
+      "utterance": "本人が、やろうとおもっていないというか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T13:41:26",
+      "utterance": "おや、それはご心配ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T13:41:34",
+      "utterance": "ええ、そうなんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T13:41:53",
+      "utterance": "娘さんに　将来しっかり自立して欲しいというお気持ちはすごくよくわかります。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T13:42:02",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T13:43:07",
+      "utterance": "身の回りのことというのは、娘さん自身の身の回りのことだと思いますが、例えばどんなことですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T13:44:01",
+      "utterance": "洗濯、ゴミ捨て、アイロンがけ、お金の管理なんかです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T13:44:27",
+      "utterance": "あと、料理とか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T13:44:44",
+      "utterance": "教えてくださりありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T13:44:52",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T13:46:12",
+      "utterance": "念のため教えてください。それらは、娘さんご自身の身の回りのことですか？それとも　もしかして、家事としての選択や、ごみ捨て、お金の管理のことになっているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T13:46:43",
+      "utterance": "それは、どういう区別ですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T13:46:46",
+      "utterance": "↑「家事としての洗濯や、・・・」です。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T13:47:16",
+      "utterance": "家事って、身の回りのことだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T13:47:34",
+      "utterance": "なるほど。たしかに。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T13:48:31",
+      "utterance": "そうすると、娘さんは、お父様の着物の洗濯や、家のごみ捨て、家計のお金の管理も一手に引き受けているようなのですが・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T13:48:42",
+      "utterance": "そういう理解でよいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T13:50:00",
+      "utterance": "私の洗濯物を洗ってほしいのではなく、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T13:50:10",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T13:50:21",
+      "utterance": "彼女が自分でできる技術を身に着けてほしいということです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T13:50:53",
+      "utterance": "そのお気持ちよくわかります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T13:51:38",
+      "utterance": "家事を切り盛りできるようになってほしいという親心と理解いたしましたが、そういう理解でよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T13:51:50",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T13:52:00",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T13:53:07",
+      "utterance": "まい食のお料理も娘さんがおつくりになっているのでしょうか・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T13:53:34",
+      "utterance": "いいえ、私が作っています"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T13:54:28",
+      "utterance": "そうなんですね。3食ともお父様がおつくりになっているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T13:55:17",
+      "utterance": "ええ。給食の日も多いので、毎日3色作るわけではないですが。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T13:56:48",
+      "utterance": "お父様も文字通りお一人で娘さんを育てて、よくなさってこられましたね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T13:57:33",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:00:24",
+      "utterance": "先ほど、洗濯やごみ捨て、アイロンかけ、お金の管理、料理などを娘さんにもやってもらいたいとお話しなさったとのことでしたが、娘さんの反応はいかがでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T14:01:34",
+      "utterance": "聞いてるんだからどうだか、といった感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:03:03",
+      "utterance": "そうなんですね。まともなお返事がないと、何を考えているのかと分からなくなるのも、よくわかります。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T14:03:16",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:04:04",
+      "utterance": "娘さんからお返事がないという態度は、最近のことですか？それとも以前から？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T14:05:04",
+      "utterance": "うーん、なんとなくそうなってきたというか…ある日突然の変化ではないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:05:31",
+      "utterance": "例えば、小６の頃はいかがでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T14:06:34",
+      "utterance": "小6ではそんなことはなかったかな…中学になってからかな。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:07:35",
+      "utterance": "そうなんですね。思春期に突入して少しずつ話さなくなってきたという感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T14:08:23",
+      "utterance": "そうなんだろうと思っています"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:08:40",
+      "utterance": "そうなんですね。それはご心配ですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:09:00",
+      "utterance": "ここまでのお話しを少し整理させていただいてもよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T14:09:04",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:09:13",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:09:59",
+      "utterance": "中２の娘さんと2人暮らし。お父様は娘さんを男で一つで育ててきた。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:10:21",
+      "utterance": "3度の食事もお父さんが作るという生活だった。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:11:41",
+      "utterance": "お父様としては、娘さんに将来しっかり自立して欲しいという思いから、選択、ごみ捨て、お金の管理、料理などをやるように話してみたが、聞いているという態度が感じられないので、どう思っているのか分からず困っている。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T14:11:54",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:12:14",
+      "utterance": "娘さんのこんな変化は中学に入ってから徐々に起こってきた。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:12:31",
+      "utterance": "こんな理解でよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T14:12:52",
+      "utterance": "そうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:13:44",
+      "utterance": "そこで、一つご質問ですけれど、お父様として、今一番気になっているのは、娘さんとコミュニケーションが取れていないと言うことかと思いますが、そういう理解でよろしいのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T14:14:19",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:14:29",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:15:35",
+      "utterance": "そこで、教えていただきたいのですが・・・中２になって、どんな話題だったら、娘さんと話ができたでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:15:58",
+      "utterance": "何か最近娘さんと会話ができた記憶は・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T14:16:54",
+      "utterance": "うーん。会話らしいものはないですが、ご飯だよ、とか、最近どう？とか、一方通行ですが、言っています"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:17:30",
+      "utterance": "そうなんですね。どちらかと言うと、お父様の方から声をかけていらっしゃるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T14:17:40",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:18:16",
+      "utterance": "なるほどです。ところで、娘さんの部活とか、好きなことはどんなことでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T14:19:52",
+      "utterance": "娘はソフトテニス部です。部活に熱心な様子はなく、やる気はなさそうです。家ではスマホをいじってますが、何しているのか分かりません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:20:22",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:20:48",
+      "utterance": "そこで一つ提案させていただいてもいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T14:21:31",
+      "utterance": "お願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:21:40",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:22:09",
+      "utterance": "お父様の、娘さんがしっかり自立できるようになってほしいというお気持ちはすごくよくわかります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:23:01",
+      "utterance": "ところが、それが行き過ぎると、一方通行になって、娘さんから見ると、上から目線でうるさい　という反応になって、逆効果になってしまう危険性があります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:23:47",
+      "utterance": "そこで、ご提案は、しばし、お父様は　「聞き手」に徹してみられることです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T14:23:55",
+      "utterance": "なるほど"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:24:22",
+      "utterance": "特に　娘さんが好きな事に話題を向けて、さりげなく尋ねるを　繰り返してみてはいかがでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:24:37",
+      "utterance": "ソフトテニスの様子を尋ねてみる。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T14:25:02",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:25:02",
+      "utterance": "スマホで何か面白い動画でも見つけたの？　教えて。とか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T14:25:07",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:25:30",
+      "utterance": "人は　大抵　自分の話を聞いてくれる人に　傾いていくようです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:26:07",
+      "utterance": "そこで　しばし、聴き手に徹してあげて、娘さんに　ご自分のことを　喋らせてあげる。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T14:26:30",
+      "utterance": "そうですか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:27:02",
+      "utterance": "娘さんが　そのうち　自分の出来事や　面白かったことを　自分から　話すようになったら、　その時が　お父様が　期待していること、～をやってくれると嬉しいなとか話す時かと思いますが。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:27:17",
+      "utterance": "いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T14:27:30",
+      "utterance": "やってみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:27:38",
+      "utterance": "応援しています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:27:56",
+      "utterance": "気になることが出てきたらまたいらしてください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T14:27:58",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:28:13",
+      "utterance": "今日のご相談はこの辺でよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T14:28:24",
+      "utterance": "はい、ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:28:41",
+      "utterance": "今日はいらしてくださりありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T14:29:08",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-19T14:29:34",
+      "utterance": "次に来られたらまた、ご一緒に考えさせていただきます。では失礼させていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-19T14:29:55",
+      "utterance": "はい、失礼します"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "父親としての娘とのコミュニケーション問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1887,
+    "評価作成日時": "2021-05-20T15:39:00",
+    "クライアント役ID": 111,
+    "カウンセラー役ID": 5,
+    "点数": 80,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 5,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 4,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 4,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 5,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1887,
+    "evaluation_created_at": "2021-05-20T15:39:00",
+    "client_id": 111,
+    "counselor_id": 5,
+    "score": 80,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

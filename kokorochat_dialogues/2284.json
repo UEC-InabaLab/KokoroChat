@@ -1,0 +1,814 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:00:05",
+      "utterance": "こんばんは相談員です。よろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:00:41",
+      "utterance": "よろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:01:06",
+      "utterance": "最初に年齢と性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:01:36",
+      "utterance": "38才、女性"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:01:50",
+      "utterance": "お返事ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:02:03",
+      "utterance": "今日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:02:23",
+      "utterance": "夫のモラハラについてです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:02:40",
+      "utterance": "それはお困りでしょうね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:02:46",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:02:57",
+      "utterance": "どの様なことが起こっているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:03:17",
+      "utterance": "子供の成績が悪いのを私のせいにされます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:03:40",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:04:51",
+      "utterance": "夫さんはどうしてそんなことを言うのでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:05:05",
+      "utterance": "二人のお子さんなのに・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:05:40",
+      "utterance": "どうしてか・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:05:56",
+      "utterance": "私がバカだからでしょうね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:05:57",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:06:28",
+      "utterance": "夫さんは何というのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:07:00",
+      "utterance": "お前がバカだからしょうがないと言います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:07:21",
+      "utterance": "そんなひどいことを言うなんて、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:08:59",
+      "utterance": "あんまりですよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:10:32",
+      "utterance": "お子さんは何年生ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:10:48",
+      "utterance": "小学6年生です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:11:08",
+      "utterance": "男の子、それとも女の子？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:11:21",
+      "utterance": "男の子です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:11:32",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:11:55",
+      "utterance": "息子さんはあなたから見ているとどんな子ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:12:11",
+      "utterance": "すごく優しい子です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:12:24",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:12:28",
+      "utterance": "勉強も息子なりに頑張ってると思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:12:51",
+      "utterance": "それは素晴らしい事じゃないですか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:13:00",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:13:24",
+      "utterance": "息子さんはどんな所がやさしいんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:14:02",
+      "utterance": "友達が多くて穏やかな子です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:14:28",
+      "utterance": "お友達に人気があるんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:14:37",
+      "utterance": "すてきですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:14:40",
+      "utterance": "私は受験なんてさせたくないんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:15:06",
+      "utterance": "受験は夫さんのご希望？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:15:11",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:15:38",
+      "utterance": "息子さんご自身はその点は何と言っているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:16:35",
+      "utterance": "夫が息子のためだからと言うので"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:16:45",
+      "utterance": "言うことを聞いて頑張ってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:17:00",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:17:55",
+      "utterance": "息子さんもお父さんから、そう言われると従わざるを得ないのでしょうね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:20:22",
+      "utterance": "そうだと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:20:39",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:21:39",
+      "utterance": "先ほど、夫さんは「息子さんのために・・・」と仰っているとお話しくださいましたけれど、その辺のところは、息子さんご自身はどのように受け止めている様子ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:22:16",
+      "utterance": "息子は素直にそのまま受け取っていると思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:22:28",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:22:50",
+      "utterance": "優しくて、素直なお子さんなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:22:57",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:23:19",
+      "utterance": "先ほど、息子さんなりに頑張っているとお話しくださいましたものね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:24:41",
+      "utterance": "先ほど、お母様は受験なんてさせたくないとお話しくださいましたけれど、それはどのようなお考えからですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:25:33",
+      "utterance": "私は子供には自由にさせてあげたいんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:25:53",
+      "utterance": "それはステキな考えですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:25:55",
+      "utterance": "でもその考えは田舎者の考え方だそうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:26:21",
+      "utterance": "夫さんがそんなことをおっしゃるんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:26:35",
+      "utterance": "はい、東京ではそれではやっていけないと言ってました"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:27:00",
+      "utterance": "夫が苦労してるからなのかもしれません"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:27:44",
+      "utterance": "夫夫で子供のことを考えてるんだと思います"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:27:57",
+      "utterance": "夫は夫で"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:28:27",
+      "utterance": "夫さんなりに・・・ということなんでしょうね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:29:23",
+      "utterance": "これまでの所は、あなたのお子さんを自由にという考えで育ててこられたのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:29:55",
+      "utterance": "どうでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:30:00",
+      "utterance": "わかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:30:15",
+      "utterance": "と仰いますと？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:30:27",
+      "utterance": "わかりません"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:31:02",
+      "utterance": "私はそうしてきたつもりです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:31:22",
+      "utterance": "そうでしょうね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:32:29",
+      "utterance": "どんなことでお子さんを自由に育ててこられたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:33:40",
+      "utterance": "友達と遊ばせたり"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:33:49",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:33:58",
+      "utterance": "それから？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:34:13",
+      "utterance": "子供に選択させてきました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:34:26",
+      "utterance": "ステキですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:34:43",
+      "utterance": "それから？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:34:59",
+      "utterance": "夫はそれが気に入らないようです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:35:35",
+      "utterance": "夫さんは、そのあたりについては、どんなお考えなのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:35:59",
+      "utterance": "田舎者の考え方だと言います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:36:34",
+      "utterance": "そんなことをおっしゃるんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:36:43",
+      "utterance": "あんまりですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:37:03",
+      "utterance": "そうなんですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:38:20",
+      "utterance": "お母様が、お子さんを自由に育て、お友達とも遊ばせることを大切にしてきたから、優しい子に育ったと思いますよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:38:43",
+      "utterance": "そうして、お友達にも人気がある子になったのだと思いますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:39:21",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:39:46",
+      "utterance": "自分で選ばせるというのも、大変な素晴らしい方針だと思いますよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:40:17",
+      "utterance": "ここまでの所を少しだけ整理させていただいてもいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:40:53",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:41:02",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:41:47",
+      "utterance": "夫さんからモラハラを受けている。子どもの成績が悪いのは母親である私のせいだと夫は言う。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:42:55",
+      "utterance": "夫さんは、自分が苦労した制らしく、「息子のためなんだ」と言って、小６の息子を受験させようとしている。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:43:22",
+      "utterance": "息子は父親の言葉に従ってそのつもりで自分なりに頑張っている。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:43:57",
+      "utterance": "私としては、子供を自由に育てたいので、受験させたくはないと思っている。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:44:29",
+      "utterance": "これまで、息子を自由に育てて来た。お友達とも遊ばせ、自分で選ぶということもさせてきた。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:44:44",
+      "utterance": "息子は優しい子に育っている。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:45:38",
+      "utterance": "夫は考えの違う私に対して、田舎者の考えだと言って認めてくれない。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:46:05",
+      "utterance": "夫と考えが違うところ、夫の言動がつらい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:46:17",
+      "utterance": "このような理解でよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:46:28",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:46:36",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:47:02",
+      "utterance": "これから先、あなたとしては、どんな風になるといいなと思っておいでですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:48:18",
+      "utterance": "夫がもっと優しくなってくれたらいいと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:48:38",
+      "utterance": "そうですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:49:28",
+      "utterance": "これまで夫さんはどんな時に優しくしてくれましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:49:54",
+      "utterance": "最近はほとんどないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:50:09",
+      "utterance": "そうなんですね・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:50:21",
+      "utterance": "それは悲しいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:50:33",
+      "utterance": "いつもイライラして怖いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:51:11",
+      "utterance": "確かに、イライラしている人の側にいるだけで、怖いですよね・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:51:29",
+      "utterance": "お仕事のこととかで？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:51:29",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:52:05",
+      "utterance": "仕事もあるかもしれませんし、子供のことも私のこともだと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:52:34",
+      "utterance": "そうなんですね。夫さんがイライラしている時は、あなたはどんな風にしてすごしていらっしゃるんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:53:08",
+      "utterance": "なるべく静かに過ごしてます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:53:21",
+      "utterance": "なるほど。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:53:31",
+      "utterance": "一つの方法ですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:53:53",
+      "utterance": "そうすると、なんとかしのげるという感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:54:24",
+      "utterance": "まあそうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:54:47",
+      "utterance": "一つだけとっても小さな提案をさせていただいてもいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:54:59",
+      "utterance": "はち"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:55:04",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:55:09",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:55:47",
+      "utterance": "先ほどあなたがおっしゃった、「静かにしている」というにワンポイントだけ付け加えると言うご提案です。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:56:27",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:56:40",
+      "utterance": "夫さんがそばにいて、イライラしている時、あなたは、自分の身体を見えない透明のシールが包んでくれているとイメージしてみます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:57:17",
+      "utterance": "深呼吸して、私は、このシールで、守られているので大丈夫とご自分に言ってあげます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:57:26",
+      "utterance": "それだけです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:57:40",
+      "utterance": "プチめーじトレーニングです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:58:09",
+      "utterance": "↑「プチイメージトレーニング」です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:58:32",
+      "utterance": "よかったら試してみてください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:58:35",
+      "utterance": "そうするとどうなりますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:59:16",
+      "utterance": "このイメージトレーニングをすると、安心して落ち着くことが多いです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T20:59:27",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T20:59:57",
+      "utterance": "お母様が、安心して落ち着いていらっしゃると、息子さんも、安心して落ち着いた気持ちになれると思いますよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T21:00:30",
+      "utterance": "よければ、息子さんのためにも、お母様ご自身の安心を作ってみてください。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T21:00:41",
+      "utterance": "いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T21:00:58",
+      "utterance": "頑張っているんですけどね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T21:01:03",
+      "utterance": "わかりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T21:01:25",
+      "utterance": "また気になることが出てきたら、遠慮せず、是非相談にいらしてください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T21:01:32",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T21:01:35",
+      "utterance": "ご一緒に考えさせていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T21:01:54",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T21:02:05",
+      "utterance": "今日の所は、この辺でよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T21:02:10",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T21:02:28",
+      "utterance": "今日はご相談に来てくださりありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T21:03:12",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T21:03:20",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-31T21:03:54",
+      "utterance": "こちらこそありがとうございました。ではこれにて失礼いたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-31T21:04:13",
+      "utterance": "ありがとうございました"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦）",
+    "main_en": "Family Issues (Spouse)",
+    "sub": "夫のモラハラに関する問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2284,
+    "評価作成日時": "2021-07-31T21:09:00",
+    "クライアント役ID": 124,
+    "カウンセラー役ID": 5,
+    "点数": 42,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 1,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 1,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 2,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 1,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2284,
+    "evaluation_created_at": "2021-07-31T21:09:00",
+    "client_id": 124,
+    "counselor_id": 5,
+    "score": 42,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 1,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 2,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 1,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

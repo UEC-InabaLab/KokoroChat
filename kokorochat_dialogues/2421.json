@@ -1,0 +1,599 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:04:50",
+      "utterance": "こんにちはお手数をおかけしました。相談員です。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T11:05:34",
+      "utterance": "お手数おかけしました。よろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:06:17",
+      "utterance": "こちらこそよろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:06:38",
+      "utterance": "では、スタートということで、最初に年齢と性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T11:07:13",
+      "utterance": "はい。37歳、女です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:07:25",
+      "utterance": "お返事ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:07:38",
+      "utterance": "今日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T11:08:30",
+      "utterance": "小学生の子どもがいるんですが、いらいらして辛いです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:09:05",
+      "utterance": "そうなんですね。それはお困りですね・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:09:25",
+      "utterance": "お子さんは男の子ですか、女の子ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T11:09:39",
+      "utterance": "男の子です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:10:06",
+      "utterance": "そうなんですね。学年も教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T11:10:29",
+      "utterance": "２年です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:10:50",
+      "utterance": "お返事ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:11:57",
+      "utterance": "難しい年齢ですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:12:07",
+      "utterance": "小２の男のお子さんのことで、どんなことでイライラするのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T11:12:49",
+      "utterance": "全然言うことを聞かないので、いつもどなってしまいます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T11:13:32",
+      "utterance": "ゲームばっかりするし。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:13:44",
+      "utterance": "なるほど"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:14:05",
+      "utterance": "ゲームばかりは心配になりますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:14:24",
+      "utterance": "その他にも気になることはあるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T11:15:58",
+      "utterance": "勉強もしないし、お兄ちゃんとけんかばかりします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:16:27",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:16:57",
+      "utterance": "お兄ちゃんと喧嘩をよくするとお家の中はかなり騒々しくなってしまいますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T11:17:34",
+      "utterance": "はい。ついカッとしてどなってしまいます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:17:50",
+      "utterance": "無理もないと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:18:27",
+      "utterance": "男の子2人だと大変そうですね。想像できそうです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:18:43",
+      "utterance": "お兄ちゃんは何年生ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T11:18:59",
+      "utterance": "6年です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:19:17",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:19:52",
+      "utterance": "弟さんからケンカを振られた時、お兄ちゃんはどんな感じで対応しているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T11:22:01",
+      "utterance": "お兄ちゃんはあまり自分からはしないのですが、やられるとやり返すので、二人とも止めるまでずっと続いてしまって。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:22:18",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:22:48",
+      "utterance": "兄弟のバトルが限りなく続いてしまうのですね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T11:23:24",
+      "utterance": "はい。怪我することも多くて。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:23:39",
+      "utterance": "そんなこともあるのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:23:56",
+      "utterance": "お互いに手加減しないみたいですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:24:06",
+      "utterance": "それは心配ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T11:24:22",
+      "utterance": "カッとなると止まらないんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:24:51",
+      "utterance": "二人ともむきになるところがあるんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T11:25:08",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:25:56",
+      "utterance": "お母様としては、二人のケンカが始まると、うるさいし、怪我をするのではないかと心配だし、・・・大変ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T11:26:58",
+      "utterance": "はい、最近はイライラして寝られないこともあって。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:27:21",
+      "utterance": "そんなことになっているんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:27:50",
+      "utterance": "パートナーさんは、その辺のことについて何か言ってくれるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T11:30:16",
+      "utterance": "主人もいる時は怒ってくれますが、家にいないことも多いので。男の子なので多少は乱暴でも仕方ないと思っているところはあるみたいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:30:39",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:31:21",
+      "utterance": "パートナーさんがお家にいる時は、しっかり怒ってくれるのは助かりますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:31:53",
+      "utterance": "でもパートナーさんも男だから、男の子に対してはちょっと甘い感じでしょうかね？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T11:33:27",
+      "utterance": "主人のいうことはある程度聞くんですが、私のいうことは全然聞きません。主人も怒るところはしっかり怒っていますが。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:33:44",
+      "utterance": "なるほど。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:34:26",
+      "utterance": "父親の言葉だけではなく、お母様のの言葉もしっかり聞いて欲しいですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T11:34:48",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:35:17",
+      "utterance": "ちなみにその他にも同居のご家族はいらっしゃるんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T11:35:57",
+      "utterance": "４人だけです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:36:16",
+      "utterance": "お返事ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:36:50",
+      "utterance": "あなたが、いらしらして夜に、眠れないことがあるという点が心配です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:37:07",
+      "utterance": "そんな時はどうしていらっしゃるんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T11:38:50",
+      "utterance": "スマホで何か見たりしますが、時間だけ過ぎてしまう感じです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:39:09",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:39:33",
+      "utterance": "うまく寝付けないこともあるみたいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T11:40:57",
+      "utterance": "そうですね。なんか家のことを考えるとイライラしたり、ゆううつになったりして。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:41:23",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:42:10",
+      "utterance": "それで気持ちの切り替えにスマホを見るということもあるということでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T11:42:31",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:43:19",
+      "utterance": "昼間のイライラした出来事をどっかに吐き出して、スッキリとした気持ちで寝られるといいですね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T11:43:49",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:44:27",
+      "utterance": "パートナーさんが早く帰宅した日は、昼間のことを少しでも聞いてもらえるといいかなと思うのですが、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T11:46:14",
+      "utterance": "主人にとってはいい子なので、あまりわかってもらえないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:46:29",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:47:51",
+      "utterance": "もしかして、パートナーさんは、男の子だから少しぐらい乱暴でも仕方がないと思っているところが、お二人のお考えのすれ違いになっているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T11:48:57",
+      "utterance": "そんなところはありますね。だから、あまり聞いてもらえないのかも。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:49:10",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:50:17",
+      "utterance": "パートナーさんが思っている「男の子だから少しぐらい乱暴でも仕方がない」ということについては、あなたご自身はどう思っているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T11:52:39",
+      "utterance": "今は他の子とはあまりトラブルはないけどやっぱり乱暴は困るし。言うことを聞かないのが一番イライラします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:53:10",
+      "utterance": "そうですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:54:30",
+      "utterance": "パートナーさんにもあまり取り合ってもらえないとなると、余計イライラがつのってしまいますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T11:54:56",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:55:37",
+      "utterance": "男の子のいるママともとそんなことお話しすることありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T11:56:42",
+      "utterance": "あまりありません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:56:58",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T11:58:22",
+      "utterance": "もしかしたら、男の子のいるママ友なら、分かってもらえるところがあるかもしれませんね。機会があったらお話ししてみるのも一つかと思うのですが、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T11:59:48",
+      "utterance": "そうですね。ただ今はあまり会えないので、早く会えるようになりたいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T12:00:37",
+      "utterance": "そうですよね。今はコロナ禍で会うのは難しかもしれませんね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T12:02:05",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T12:02:40",
+      "utterance": "その他に特に下のお子さんについて、あなたが言うことを聞くようになることについては、何か方法が見つかるといいですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T12:03:30",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T12:04:08",
+      "utterance": "一つだけ提案してもいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T12:04:23",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T12:05:37",
+      "utterance": "これだけは絶対やったらダメということをいくつか決めて、そのことが起こったら、真剣に徹底的に怒るということをやってみるのもひとつかもしれません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T12:06:05",
+      "utterance": "その他のことは、パートナーさん的に、見逃す。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T12:06:56",
+      "utterance": "もし、そうできると、あなたも少し怒る回数がへって、気持ちの負担が減るのかなと思いますが・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T12:07:07",
+      "utterance": "いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T12:09:04",
+      "utterance": "そうですね。あまり怒らなくていいところは怒らないようにしようかなと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T12:09:27",
+      "utterance": "よければ、試しにそうなさってみてください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T12:09:51",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T12:09:51",
+      "utterance": "男の子なので、思いがけないことを沢山やってくれると思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T12:10:14",
+      "utterance": "気になることが出てきたら、是非、またご相談にいらしてください。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T12:10:26",
+      "utterance": "ご一緒に考えさせていただきます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T12:10:42",
+      "utterance": "今日の所はこの辺でよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T12:10:44",
+      "utterance": "はい。ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T12:11:04",
+      "utterance": "こちらこそ、ご相談にいらしてくださってありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T12:11:19",
+      "utterance": "では失礼いたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T12:11:34",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-04T12:12:00",
+      "utterance": "（お疲れさまでした。）"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-04T12:12:20",
+      "utterance": "（カウンセラー役、ありがとうございました）"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "子どもの言うことを聞かない問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2421,
+    "評価作成日時": "2021-09-04T17:35:00",
+    "クライアント役ID": 219,
+    "カウンセラー役ID": 5,
+    "点数": 81,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 3,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 5,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2421,
+    "evaluation_created_at": "2021-09-04T17:35:00",
+    "client_id": 219,
+    "counselor_id": 5,
+    "score": 81,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 5,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

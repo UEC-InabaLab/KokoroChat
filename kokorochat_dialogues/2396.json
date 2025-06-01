@@ -1,0 +1,734 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-08-26T19:54:05",
+      "utterance": "（よろしくお願いします）"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T19:54:27",
+      "utterance": "(よろしくお願いいたします)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:00:02",
+      "utterance": "こんばんは、相談員です。本日は相談にきてくれて、ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:00:19",
+      "utterance": "はじめに、年代と性別をお聞きしてもよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:00:50",
+      "utterance": "はい高3 女です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:01:00",
+      "utterance": "はい、お答えいただきありがとうございます。本日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:01:39",
+      "utterance": "夏休みが無駄になってしまいました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:02:12",
+      "utterance": "夏休みですね、どんな風にでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:02:52",
+      "utterance": "いっぱい計画を立ててたのですが、ぜんぜんダメでした"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:03:28",
+      "utterance": "そうなんですね、せっかくの夏休み、残念な思いをしてるんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:03:46",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:03:57",
+      "utterance": "どんな計画があったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:04:21",
+      "utterance": "受験生なので、勉強の計画を立ててました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:05:00",
+      "utterance": "そうなんですね、いま高校３年生ですから、受験ですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:05:07",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:05:52",
+      "utterance": "その計画は、例えばどんな勉強の計画だったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:06:48",
+      "utterance": "どんな？受験科目の勉強です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:08:21",
+      "utterance": "なるほど、科目ですね。ぜんぜんダメとは、どんな理由とだったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:09:41",
+      "utterance": "ぜんぜん計画通りに進まなかったです。時間はたっぷりあったのに…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:10:58",
+      "utterance": "そうなんですね、計画的に進まなかったんですね。なにか他に気持ちが行ってた感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:11:38",
+      "utterance": "別にそんなこともなかったです"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:12:02",
+      "utterance": "ただ、ただ、ぼーっとしているうちに時間が経った感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:13:01",
+      "utterance": "なるほど、そうなんですね。気持ちが入らなかった感じでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:13:21",
+      "utterance": "やろうとは思ってるんですが"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:13:26",
+      "utterance": "今も"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:13:32",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:14:10",
+      "utterance": "でも、無性にイライラしたり、もーいいかとかになってしまうんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:15:20",
+      "utterance": "イライラですか、、つらいですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:15:34",
+      "utterance": "今の状態になったのは、夏休みからですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:15:46",
+      "utterance": "いえ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:16:11",
+      "utterance": "いつごろからですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:16:32",
+      "utterance": "いつ頃…"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:16:42",
+      "utterance": "最初は頑張ってたんですよ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:17:02",
+      "utterance": "はい、そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:17:27",
+      "utterance": "で、失速して夏休みは頑張ろうと思ってたんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:17:28",
+      "utterance": "何かありましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:17:46",
+      "utterance": "わからないです"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:17:52",
+      "utterance": "なんとなく？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:18:32",
+      "utterance": "そうですか、気が付いたら、イライラしたり、勉強が手につかなくなった感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:19:01",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:19:25",
+      "utterance": "しないととは、思ってるですよ"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:19:35",
+      "utterance": "毎日、いつでも"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:21:04",
+      "utterance": "そうなんですね、計画をしっかり立ててらっしゃるから、勉強を真剣にしたい気持ちは強いことは伝わってきます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:22:00",
+      "utterance": "でも、勉強が手につかない・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:22:13",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:22:21",
+      "utterance": "悩んじゃいますね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:22:27",
+      "utterance": "どうしたら出来ますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:22:57",
+      "utterance": "そうですね、どうしたらできるか一緒に考えてみましょう。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:22:58",
+      "utterance": "って言っても、夏休み終わってしまったし"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:23:12",
+      "utterance": "無駄にしただけでしたね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:23:44",
+      "utterance": "夏休みは終わっちゃいましたが、目標の受験はいつですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:24:01",
+      "utterance": "10月です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:24:22",
+      "utterance": "あと、２か月はあるんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:24:38",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:24:56",
+      "utterance": "志望校とかは、決まってるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:25:01",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:26:16",
+      "utterance": "レベル的にはどんな感じなんですか？合格レベルとか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:26:33",
+      "utterance": "微妙です"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:26:47",
+      "utterance": "受からないかもレベルです"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:27:09",
+      "utterance": "勉強しないとヤバイいんですけどね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:27:35",
+      "utterance": "そうなんですね。その志望校を選んだ理由はどんなことからですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:27:57",
+      "utterance": "なんとなく？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:28:07",
+      "utterance": "高１のころに"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:28:17",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:28:31",
+      "utterance": "決めないといけなかったので、なんとなく決めました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:29:17",
+      "utterance": "そうだったんですね、志望校って、なんとなく決める人も多いですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:29:29",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:29:30",
+      "utterance": "そうすると、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:30:23",
+      "utterance": "ぜったいその志望校じゃなくても、いいのですか？例えば、もっと興味あるところが見つかれば、変更もできる感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:30:57",
+      "utterance": "今さらですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:32:11",
+      "utterance": "今さら、、ってことは、願書とか出してる状態でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:32:28",
+      "utterance": "そこまでは、まだですけど"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:33:10",
+      "utterance": "ちなみに、志望校って、大学ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:33:16",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:34:16",
+      "utterance": "その希望の大学って、何らかの魅力はありそうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:34:53",
+      "utterance": "うーん今は微妙です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:35:32",
+      "utterance": "それは、どのような状態ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:37:22",
+      "utterance": "どのような…状況ですか？魅力 はわからないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:39:51",
+      "utterance": "そうでしたか、そういう意味での微妙ってことでしたか。失礼しました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:40:44",
+      "utterance": "いえ前は、たぶん何か合ったのかもしれません。覚えてないですけど"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:41:29",
+      "utterance": "どういうことですか？前は？とか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:41:56",
+      "utterance": "学校決めたころです"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:42:32",
+      "utterance": "何か理由があって決めたはずですが、忘れてしまいました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:43:13",
+      "utterance": "そういうことでしたか、学校決めた理由はあったけど、それは今は覚えてないと。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:44:03",
+      "utterance": "あなたは、大学行く目的ってどんなことからですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:44:31",
+      "utterance": "なんとなく"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:45:13",
+      "utterance": "そうなんですね。大学いって、やりたいこととかありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:47:00",
+      "utterance": "やりたいこと？カリキュラムがあるから、その通りにすればいいんですよね？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:47:48",
+      "utterance": "勉強はそうですね、カリキュラムがありますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:48:05",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:49:26",
+      "utterance": "大学行って、こんな生活したいとか、こんなサークル入りたいとか、そういった希望とか、気持ちとかってありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:50:27",
+      "utterance": "イメージ出来ないです。だって、受験が微妙なのに、勉強してないですもん"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:51:22",
+      "utterance": "わかりました。少しきになったのですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:52:23",
+      "utterance": "勉強が手につかなくなる理由の一つに、目標は不明確か、目標が高すぎるってことも原因になったりするのですが、その辺はいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:52:46",
+      "utterance": "そうなんですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:53:27",
+      "utterance": "あくまでも、理由の一つです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:53:36",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:56:02",
+      "utterance": "話しお聞きして、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:57:19",
+      "utterance": "志望校が少し高いところにあって、それで気持ちが上がらず、勉強が手につかないってことはないでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:57:36",
+      "utterance": "そうなんですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:57:53",
+      "utterance": "いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:58:05",
+      "utterance": "模擬試験では、ギリ合格ラインだったんですけど"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:58:23",
+      "utterance": "やっぱり、夏休みに勉強してないから無理なんでしょうかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:58:44",
+      "utterance": "そうなんですね、手に届きそうなところにあるんですね！"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T20:59:12",
+      "utterance": "いやぁ勉強してないから無理ですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T20:59:42",
+      "utterance": "あと２か月ありますが、この２か月の追い込みでは、どおでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T21:01:02",
+      "utterance": "夏休みに、たっぷり時間があったのに出来てないんですが…追い込みって、どうやったら出来ますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T21:02:06",
+      "utterance": "そうですね、、目標達成に向けて、どんなことならできそうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T21:02:35",
+      "utterance": "さあ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T21:04:21",
+      "utterance": "さあ、、って感じなのですね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T21:05:10",
+      "utterance": "ぜんぜんイメージ出来ないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T21:05:47",
+      "utterance": "そうですか、、夏休みは、計画どおりに勉強できなかったとのことですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T21:07:33",
+      "utterance": "あと２か月あります。志望校にあと少しで合格できるのであれば、その目標達成に向けて、毎日、自分は何ができるか、どこまでできるか、を考えて、行動・勉強の目標設定するのも一つと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T21:08:06",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T21:08:16",
+      "utterance": "それと、お話しお聞きしてて、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T21:10:17",
+      "utterance": "大学に行く目的が、わたしによく伝わってきませんでしたが、大学に行く目的を考えて、それが明確になれば、勉強へのモチベーションもＵＰするかと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T21:10:45",
+      "utterance": "そうですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T21:10:58",
+      "utterance": "こういったところを少し考えてみるのはいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T21:11:26",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T21:11:41",
+      "utterance": "やっぱり、目的必要ですよね"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T21:12:03",
+      "utterance": "目的ないと大学って行ったらダメですもんね"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T21:12:38",
+      "utterance": "オープンキャンパスでも言ってました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T21:12:39",
+      "utterance": "はい、一度しっかり考えてみる事をお勧めします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T21:13:16",
+      "utterance": "了解です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T21:14:06",
+      "utterance": "はい、がんばってください。応援してますね。また次回、その後の状況とか、お話しお聞かせください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T21:14:18",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T21:14:42",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T21:14:57",
+      "utterance": "本日はいろいろお話しお聞かせいただきありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T21:15:16",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T21:15:37",
+      "utterance": "ありがとうございました。また、お待ちしております。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T21:15:58",
+      "utterance": "（お疲れさまでした。ありがとうございました）"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T21:16:11",
+      "utterance": "(お疲れさまでした。ありがとうございました！)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T21:16:21",
+      "utterance": "（ロープレ終了します）"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "大学に行く目的の不明確さ"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2396,
+    "評価作成日時": "2021-08-27T17:20:00",
+    "クライアント役ID": 128,
+    "カウンセラー役ID": 31,
+    "点数": 61,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 4,
+    "要約": 2,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2396,
+    "evaluation_created_at": "2021-08-27T17:20:00",
+    "client_id": 128,
+    "counselor_id": 31,
+    "score": 61,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

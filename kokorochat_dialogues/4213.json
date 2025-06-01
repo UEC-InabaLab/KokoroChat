@@ -1,0 +1,464 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-11-10T12:52:16",
+      "utterance": "こんにちは。本日はよろしくお願い致します。時間になりましたら始めますね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-10T12:52:36",
+      "utterance": "(よろしくお願いします。本日ご希望のケース等はございますでしょうか？)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T12:53:57",
+      "utterance": "できれば希死念慮のあるケースが希望です。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-10T12:54:14",
+      "utterance": "かしこまりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T12:54:50",
+      "utterance": "ありがとうございます。よろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:00:25",
+      "utterance": "こんにちは。相談員です。本日はご相談にお越しいただきありがとうございます。最初に年齢、性別、相談内容を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-10T13:00:40",
+      "utterance": "32 女"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-10T13:00:51",
+      "utterance": "生きるのに疲れました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:01:52",
+      "utterance": "教えていただきありがとうございます。そうなのですね、、生きるのに疲れたと言うことですが、もう少し詳しく教えてもらえますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-10T13:02:06",
+      "utterance": "死にたい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:02:59",
+      "utterance": "ええ、死にたいと思うほどの疲れたのですね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:04:15",
+      "utterance": "どんな時に死にたいと思うのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-10T13:04:50",
+      "utterance": "いつも"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:05:39",
+      "utterance": "そうなのですね、、毎日そう思うとしんどいですね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:07:05",
+      "utterance": "普段はどんなふうに過ごされているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-10T13:07:31",
+      "utterance": "色々"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:09:03",
+      "utterance": "そうなんですね。生活してたらいろいろなことをしますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:09:45",
+      "utterance": "ちなみに、生きるのに疲れたと思うようになったのは、いつ頃からでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-10T13:10:14",
+      "utterance": "覚えてません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:11:17",
+      "utterance": "そうなのですね覚えていないほど、ずっとその気持ちを抱えてこられていたのですね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:13:05",
+      "utterance": "疲れたとのことですが、睡眠や食事はとれていますか？あなたが心配です、、、"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-10T13:13:27",
+      "utterance": "なんとか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:15:23",
+      "utterance": "なんとか取れているのですね、、お仕事や家でなど、どんなことをされているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-10T13:15:45",
+      "utterance": "仕事してません"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-10T13:16:24",
+      "utterance": "家は色々してます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:17:13",
+      "utterance": "そうなのですね。どなたかと一緒に暮らしているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-10T13:17:40",
+      "utterance": "子供1人です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:19:03",
+      "utterance": "２人で暮らしているのですね。子どもさんはどんな子なのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-10T13:19:19",
+      "utterance": "小さい子です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:20:26",
+      "utterance": "そうなのですね。子育ては大変だと思いますが、どんな感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-10T13:20:39",
+      "utterance": "大変です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:21:26",
+      "utterance": "そうですよね、、どんなことが１番大変でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-10T13:21:40",
+      "utterance": "全部"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:22:25",
+      "utterance": "お一人で子育てだと、全てやらなきゃいけないですものね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:24:30",
+      "utterance": "失礼ですが、今仕事をしていないとのことですが、お金の面など収入はどうされているのでしょうか、、？（話したくなければ無理に話さなくて大丈夫ですよ）"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-10T13:25:43",
+      "utterance": "親の年金を貰ってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:27:18",
+      "utterance": "そうなのですね。親御さんは近くに住んでいる感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-10T13:27:27",
+      "utterance": "いいえ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:28:55",
+      "utterance": "そうですか、、そうしますと実生活で頼ることもなかなか難しいですよね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:30:53",
+      "utterance": "一度今までのお話を整理してもいいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-10T13:31:02",
+      "utterance": "どうぞ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:34:00",
+      "utterance": "生きるのに疲れ、いつも死にたいと思っている。小さい子供さんと2人暮らしで、今は仕事をしておらず、家でいろいろされている。子育ては全て大変。今は親の年金で生活されている。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:34:19",
+      "utterance": "こういった感じでよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-10T13:34:32",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:35:33",
+      "utterance": "ありがとうございます。今までのお話をふまえて、本日はどんなお話をされたいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-10T13:36:30",
+      "utterance": "死にたい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:37:07",
+      "utterance": "死にたいという気持ちが強いのですね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:37:44",
+      "utterance": "どんなふうに死にたいと感じるのでしょうか、、？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-10T13:38:02",
+      "utterance": "自殺"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:39:16",
+      "utterance": "そうなのですね、、具体的にいつするなど考えている感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-10T13:39:32",
+      "utterance": "今度"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-10T13:39:43",
+      "utterance": "というかもう死んでいいですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:41:37",
+      "utterance": "そうなのですね、、せっかくここでお話に来てくれて、あなたとお話ができてうれしいので、私はあなたに生きてて欲しいです、、"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-10T13:41:57",
+      "utterance": "こっちは何も嬉しくない"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:42:24",
+      "utterance": "そう思われるのですね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:43:28",
+      "utterance": "死にたいと思うほど追い詰められると、嬉しいとかなかなか思えないですよね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:44:59",
+      "utterance": "どういった手段で死のうと考えているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-10T13:45:05",
+      "utterance": "首吊り"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:45:37",
+      "utterance": "そうなのですね、、今はどこにいるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-10T13:45:45",
+      "utterance": "家"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:46:43",
+      "utterance": "そうなんですね、、どこで首吊りをしようとしていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-10T13:46:57",
+      "utterance": "どこか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:49:00",
+      "utterance": "そうなんですね、、あなたが死んでしまうと子供さんや親御さんがとても悲しむと思いますが、どう思われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-10T13:49:34",
+      "utterance": "それはあなたの価値観でしょ"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-10T13:49:48",
+      "utterance": "何を知ってるのですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:50:11",
+      "utterance": "そうですね、、失礼しました、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:51:46",
+      "utterance": "ご家族とはどんな関係でしょうか？良ければ教えてもらえませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-10T13:52:17",
+      "utterance": "教えてどうするのですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:53:55",
+      "utterance": "そうですね、、"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-10T13:56:20",
+      "utterance": "時間なのでさようなら"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:56:33",
+      "utterance": "あなたが今まで生きて踏ん張ってこれたのは、なにか理由があるのではと思ったのですが、、"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-10T13:59:00",
+      "utterance": "(お疲れ様でした。そろそろお時間なので、終了の方向で、終了メッセージ送信でロープレ完了をお願いします。)"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-10T13:59:35",
+      "utterance": "(本来なら緊急対応の方向になると思いますが、それでも今回は終了で大丈夫です。)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T13:59:47",
+      "utterance": "（承知しました）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T14:02:25",
+      "utterance": "あなたが死ぬほどつらい気持ちが痛いほど伝わってきました。ただ今まで死ねなかった理由もあったかと思います。死にたい、生きたくないという気持ちをまたここに吐き出しに来てくださいね。お待ちしております。終了メッセージ送りますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T14:04:18",
+      "utterance": "＜終了メッセージ＞ご相談に来てくださりありがとうございました。次回、ご相談に来た時は、別の相談員が対応させていただきます。悩みは1人で抱え込まず、またいつでもお越しください。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T14:05:36",
+      "utterance": "（お疲れ様でした。とても勉強になりました。相談者の設定や話したかったことなど評価よろしくお願い致します。ありがとうございました。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-10T14:06:17",
+      "utterance": "（ではロープレ終了メッセージおくりますね）"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-10T14:06:50",
+      "utterance": "(お願いします)"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "希死念慮"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4213,
+    "評価作成日時": "2022-11-10T14:31:00",
+    "クライアント役ID": 125,
+    "カウンセラー役ID": 155,
+    "点数": 23,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 2,
+    "要約": 4,
+    "問題の明確化": 1,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 1,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": "チェックあり"
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4213,
+    "evaluation_created_at": "2022-11-10T14:31:00",
+    "client_id": 125,
+    "counselor_id": 155,
+    "score": 23,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 1,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": "チェックあり"
+  }
+}

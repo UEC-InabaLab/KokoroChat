@@ -1,0 +1,434 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2022-02-06T10:01:11",
+      "utterance": "おはようございます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:01:22",
+      "utterance": "どうぞよろしく願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:03:37",
+      "utterance": "いらっしゃいますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-06T10:04:03",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:04:29",
+      "utterance": "はじめられそうですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-06T10:04:31",
+      "utterance": "すみません　パソコンの調子が悪くて"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:05:04",
+      "utterance": "承知いたしました。何時から始められそうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:05:13",
+      "utterance": "その時間にまたきましょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-06T10:05:15",
+      "utterance": "お願いします。　最初に年齢と性別を教えていただけますか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-06T10:05:44",
+      "utterance": "大丈夫です。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:06:06",
+      "utterance": "60歳、女性です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-06T10:06:41",
+      "utterance": "それでは、本日の相談はどのようなことでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:07:10",
+      "utterance": "夫の事でちょっと悩んでまして"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-06T10:07:56",
+      "utterance": "わかりました。旦那様のことですね。具体的にお聞きしてもよろしいでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:08:27",
+      "utterance": "ありがとうございます。夫の様子が最近おかしくて"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-06T10:09:03",
+      "utterance": "どんな感じでおかしいのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:10:04",
+      "utterance": "物忘れがひどく、そろそろ認知症なのかもと思い、病院に言って検査をしたらやはり軽度の認知症が始まっていると"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:10:12",
+      "utterance": "若年性ですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:10:49",
+      "utterance": "夫は年下なのでまだ55歳なんですが、言動がおかしくて"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-06T10:11:38",
+      "utterance": "私も相談者様と近い年齢なのでよく理解できます。５５歳のころって体に変化が出始めますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-06T10:12:18",
+      "utterance": "どんなことが気になりますか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:13:16",
+      "utterance": "そうですよね、でも、もともと頭のいい人で回転も速かったしいまではなんだか老人のようになってしまい元気もないしかわいそうでかわいそうで、この先どうなってしまうんだろう"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-06T10:13:54",
+      "utterance": "旦那様はどんなことがお好きなのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:15:44",
+      "utterance": "もともとシステムエンジニアでパソコンが大好きなんです"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:16:01",
+      "utterance": "それも最近パソコンに向かうとフリーズしてるっているか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-06T10:17:02",
+      "utterance": "大好きなパソコンが好きなのですね。夢中になれることがあっていいですね。その時はどんな感じですか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:17:30",
+      "utterance": "もともとですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-06T10:18:14",
+      "utterance": "現在、パソコンに向かっているときは、どんな表情でしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:19:14",
+      "utterance": "表情・・・うーん、表情はあまり見てないですけど、画面を見つめて手が止まっている感じですかね"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:19:54",
+      "utterance": "pcに向かっているときはもともとプログラムを考えているときなのであまり話しかけたりはしないですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-06T10:20:38",
+      "utterance": "そうなんですね。でも夢中になれるものをお持ちなのですね。外にはでませんか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:21:59",
+      "utterance": "でも、それが仕事なので、、、、最近仕事にも支障が出てきていて、、、プログラマーとして生きてきた人なので他には何もできないから"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:22:39",
+      "utterance": "この先どんどん認知症が進んでいったらどうやって生計を立てていけばいいのか不安で仕方がないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-06T10:23:35",
+      "utterance": "旦那様が奥様と一緒に外にでて新しい景色などを観て感動したりすることには、興味がありそうですか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:24:11",
+      "utterance": "どうでしょう"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-06T10:24:57",
+      "utterance": "旦那様は他にはどんな趣味がありますか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:25:22",
+      "utterance": "趣味は無いです、"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:25:36",
+      "utterance": "pc一筋のひとなので"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-06T10:25:43",
+      "utterance": "奥様の趣味は何でしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:26:11",
+      "utterance": "私の趣味は園芸です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-06T10:27:01",
+      "utterance": "いいですね。旦那様はそのことについてどんなことを言っていますか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:27:23",
+      "utterance": "べつになにも"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-06T10:28:08",
+      "utterance": "そうなんですね。奥様から見て、旦那様はどんなことをやるといいと思いますか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:29:02",
+      "utterance": "どんなこと？よくわからないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-06T10:30:29",
+      "utterance": "旦那様が生き生きとするためには、奥様の支えが必要だと思います。一緒にできることはどうでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:32:04",
+      "utterance": "支えてるつもりですけど・・・"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:32:54",
+      "utterance": "私が支えられていないせいで主人の症状が悪化してきているのかもしれません"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:33:29",
+      "utterance": "でも、私が主人を生き生きさせることなんてできる気がしません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-06T10:34:57",
+      "utterance": "パソコン一筋というのが気になります。他の世界を体験していただきたいなと感じます。一緒にできることがあればよいのですが…。　ゆっくりお考えになっても大丈夫です。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:37:34",
+      "utterance": "55年もパソコン一筋で生きてきているので、、、でも植物を見るのは好きなんだと思います"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:37:45",
+      "utterance": "お部屋に植物を置いてありますので"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-06T10:38:53",
+      "utterance": "いいですね。旦那様はきっと自然がお好きなのかもしれませんね。天気の良い日はどんなことをしたらよいでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:41:08",
+      "utterance": "散歩に出かけてみますが、それもいつもやっています"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-06T10:41:54",
+      "utterance": "その時の旦那様はどんな感じですか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:42:07",
+      "utterance": "まあ普通ですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-06T10:42:50",
+      "utterance": "いつも同じ場所に行かれるのですか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:43:08",
+      "utterance": "色々なところにいきますよ"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:44:10",
+      "utterance": "少し表情が柔らかくなるのでなるべく散歩はするようにしています"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-06T10:45:36",
+      "utterance": "私も６０歳近い年齢なのですが、旦那様のことが理解できます。この年齢になるといろいろなことがあります。お医者様は、どんなことを言っていますか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:47:18",
+      "utterance": "カウンセラーさんも60歳近いのですね、同世代ですね。医者はなるべく刺激を多く与えた方がいいと進めてくれました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:47:55",
+      "utterance": "ただ、変化がありすぎるのもストレスになる場合があるので様子を見ながらと"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-06T10:49:11",
+      "utterance": "その通りですね。医師の言うことを聞くことが一番だと思います。医師の言うことを聞くのはいかがでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:49:42",
+      "utterance": "はぁ、そうですか、じゃあそうします"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:49:51",
+      "utterance": "聞いてますけど"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-06T10:51:48",
+      "utterance": "カウンセラーは、質問をして相談者様になにか気づいてもらうことしかできないのです。医師ともう一度相談するのはいかがですか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:52:15",
+      "utterance": "そうですね、そうします"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:52:28",
+      "utterance": "医者に相談しますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-06T10:53:04",
+      "utterance": "ありがとうございます。時間が迫ってきてしまいました。本日はありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:53:56",
+      "utterance": "まだ時間になっていませんが、終わりなのですね？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-06T10:55:03",
+      "utterance": "結論がでましたので、時間は多少早くても大丈夫です。ありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:56:18",
+      "utterance": "分かりました、では終了してください"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-06T10:56:28",
+      "utterance": "評価おくります"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-06T10:56:55",
+      "utterance": "はい。"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦）",
+    "main_en": "Family Issues (Spouse)",
+    "sub": "夫の認知症と今後の不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3089,
+    "評価作成日時": "2022-02-06T11:10:00",
+    "クライアント役ID": 243,
+    "カウンセラー役ID": 265,
+    "点数": 1,
+    "聴いてもらえた、わかってもらえたと感じた": 0,
+    "尊重されたと感じた": 0,
+    "新しい気づきや体験があった": 0,
+    "希望や期待を感じられた": 0,
+    "取り組みたかったことを扱えた": 0,
+    "一緒に考えながら取り組めた": 0,
+    "やりとりのリズムがあっていた": 1,
+    "居心地のよいやりとりだった": 0,
+    "全体として適切でよかった": 0,
+    "今回の相談は価値があった": 0,
+    "相談開始の円滑さ": 1,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 0,
+    "受容・共感": 0,
+    "肯定・承認": 0,
+    "的確な質問による会話の促進": 0,
+    "要約": 0,
+    "問題の明確化": 0,
+    "この相談での目標の明確化": 0,
+    "次の行動につながる提案": 0,
+    "勇気づけ・希望の喚起": 0,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": "チェックあり"
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3089,
+    "evaluation_created_at": "2022-02-06T11:10:00",
+    "client_id": 243,
+    "counselor_id": 265,
+    "score": 1,
+    "felt_heard_and_understood": 0,
+    "felt_respected": 0,
+    "gained_new_insights": 0,
+    "felt_hopeful_or_expectant": 0,
+    "concerns_were_addressed": 0,
+    "thought_through_concerns_together": 0,
+    "conversation_had_good_rhythm": 1,
+    "conversation_felt_comfortable": 0,
+    "felt_appropriate_and_satisfying": 0,
+    "conversation_was_valuable": 0,
+    "conversation_started_smoothly": 1,
+    "conversation_ended_well": 0,
+    "showed_acceptance_and_empathy": 0,
+    "provided_acknowledgment_and_affirmation": 0,
+    "asked_effective_questions": 0,
+    "summarized_key_points_effectively": 0,
+    "clarified_issues_cleraly": 0,
+    "helped_identify_goals": 0,
+    "offered_actionable_suggestions": 0,
+    "encouraged_and_instilled_hope": 0,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": "チェックあり"
+  }
+}

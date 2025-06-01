@@ -1,0 +1,334 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2023-04-30T21:24:40",
+      "utterance": "(こんばんは。21時からよろしくお願いします。)"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-30T21:25:07",
+      "utterance": "(21時30分からよろしくお願いします。)"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-30T21:32:05",
+      "utterance": "(よろしくお願いします。)"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-30T21:46:38",
+      "utterance": "こんばんは。"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-30T21:49:26",
+      "utterance": "こんばんは。メッセージ見えています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-30T21:53:54",
+      "utterance": "お待たせしました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-30T21:54:09",
+      "utterance": "よろしくお願いします"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-30T21:54:16",
+      "utterance": "お願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-30T21:55:20",
+      "utterance": "こんばんは　相談員ですはじめに年齢、性別、ご相談内容を教えてください"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-30T21:56:10",
+      "utterance": "40歳　女性職場の同期が、うまくいってなくて。"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-30T21:56:42",
+      "utterance": "何とかしたいんですが、うまく行きません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-30T21:57:20",
+      "utterance": "教えていただきありがとうございますもしよろしければもう少し具体的にお話しいただいても大丈夫ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-30T21:58:28",
+      "utterance": "数日前、意見の食い違いで口論になって、何となく仲直りみたいな感じになったのですが、明らかに、以前より感じが悪くなっています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-30T21:59:22",
+      "utterance": "そうだったんですね・・・どういった意見の食い違いが起きたのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-30T22:01:37",
+      "utterance": "説明が難しいのですが、お互い論点がずれて話をしています。なので、聞いている方からすれば、ずっと平行線のままだと思って聞いていました。、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-30T22:02:56",
+      "utterance": "平行線のままで、着地点が見えてこないという感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-30T22:04:10",
+      "utterance": "はい。何とか論点が、互いにずれていることを伝えようとしたのですが、二人ともイライラしてて。"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-30T22:04:58",
+      "utterance": "このままだと職場の雰囲気悪いし、仕事も上手く回らないです。"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-30T22:05:24",
+      "utterance": "同期なので、何とかしたいのですが、何にもできない自分が情けなくて"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-30T22:05:47",
+      "utterance": "そうだったんですね・・・よろしければご一緒に考えていければと思いますがいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-30T22:06:06",
+      "utterance": "何かいい方法はありませんか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-30T22:08:20",
+      "utterance": "はい、アイメッセージという話し方があるのですが、私はそれがいい方法ではないかと思います"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-30T22:08:46",
+      "utterance": "アイメッセージって何ですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-30T22:09:58",
+      "utterance": "相手に「私は○○だと思っていますなので○○してほしい」と主語を私にして話すという話し方です"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-30T22:10:19",
+      "utterance": "なるほど。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-30T22:10:46",
+      "utterance": "それによって相手に自分の意思が伝わりやすくなるといわれております"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-30T22:11:34",
+      "utterance": "今回みたいに論点ずれてることを言うとなるとどんな感じがいいのでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-30T22:14:36",
+      "utterance": "例えば私はこういう気持ちなので、こういうこと言ったのですが、どうしてこちらの意見に向かって話が進まなかったのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-30T22:15:28",
+      "utterance": "なるほど。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-30T22:16:12",
+      "utterance": "こう言った伝え方により、相手を尊重しつつ自分の意見も伝えることができるといわれてります"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-30T22:16:55",
+      "utterance": "聞いてくれますかね？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-30T22:18:21",
+      "utterance": "そうですね、一度話してみるのがよいかと思いますがもし難しいようであれば、ここで練習することもできますがいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-30T22:18:53",
+      "utterance": "とりあえず、伝えてみようと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-30T22:20:04",
+      "utterance": "ええ、それはいいことだと思います"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-30T22:20:18",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-30T22:21:08",
+      "utterance": "もし同期に話されるとしたら、どのようなことをお話しされる感じでしょうか？もしよろしければお聞かせいただければと思います"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-30T22:22:24",
+      "utterance": "今、少し考えています。私より年上の方と年下の方なので言葉とか選ばないとちゃんと伝わらないかと思って。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-30T22:23:14",
+      "utterance": "お二人いらっしゃるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-30T22:24:05",
+      "utterance": "同期同士で口論していて"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-30T22:25:16",
+      "utterance": "あなた自身は口論の当事者ではないという感じなのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-30T22:25:57",
+      "utterance": "はい。何とか話がまとまるようにしようとしたのですが、ダメで"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-30T22:27:07",
+      "utterance": "そうだったのですね同期同士の口論の話がまとまることができるように今まで努力されてきたのですね"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-30T22:27:49",
+      "utterance": "数少ない同期なので、何とか上手く行くといいなぁと思っていて。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-30T22:28:45",
+      "utterance": "そうだったんですね今どんなお仕事をされているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-30T22:29:41",
+      "utterance": "技術職です。現場もありますし、事務もあります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-30T22:30:50",
+      "utterance": "そろそろお時間となってまいりましたお話の続きになっておりますので、今後もぜひお聞かせいただければと思うのですがいかがいたしますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-30T22:31:33",
+      "utterance": "また機会があればお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-30T22:33:11",
+      "utterance": "はい、もし継続される場合は今の履歴が残っておりますので、お話の続きからお話しできますぜひお気軽にお聞かせくださいね"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-30T22:33:33",
+      "utterance": "わかりました。ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-30T22:34:23",
+      "utterance": "問題が解決できることを応援しております本日はありがとうございました"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-30T22:34:37",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-30T22:35:30",
+      "utterance": "（本日はありがとうございました開始時間が大幅に遅れてしまい大変申し訳ございませんでしたロールプレイの評価をよろしくお願いいたします）"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-30T22:35:53",
+      "utterance": "(こちらこそありがとうございました。)"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "職場の同期とのコミュニケーション問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4965,
+    "評価作成日時": "2023-05-01T07:22:00",
+    "クライアント役ID": 341,
+    "カウンセラー役ID": 379,
+    "点数": 59,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4965,
+    "evaluation_created_at": "2023-05-01T07:22:00",
+    "client_id": 341,
+    "counselor_id": 379,
+    "score": 59,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

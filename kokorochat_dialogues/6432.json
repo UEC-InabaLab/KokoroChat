@@ -1,0 +1,509 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-02-13T11:54:57",
+      "utterance": "（こんにちは。お時間になったら始めさせて頂きますので、今日はよろしくお願い致します。）"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T11:55:23",
+      "utterance": "（こんにちは。本日はどうぞよろしくお願いいたします）"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T11:55:59",
+      "utterance": "（相談者のご希望があればお知らせください）"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T11:59:55",
+      "utterance": "（特にありませんのでよろしくお願いいたします）"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:00:12",
+      "utterance": "（承知いたしました）"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T12:01:15",
+      "utterance": "今日はご相談に来ていただきありがとうございます。始めにご年齢、性別、お名前（ニックネームなど）、ご相談内を教えてください。"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:01:49",
+      "utterance": "18才　男　たかです"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:02:27",
+      "utterance": "大学に行きたいけど行けない"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T12:03:08",
+      "utterance": "たかさんありがとうございます。大学にいけないというお悩みですね？何かありましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:04:09",
+      "utterance": "特になにもないです。大学にいくとお金がかかるので行けないんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T12:05:27",
+      "utterance": "そうなんですね。失礼ながら大学の学費などは今どうされていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:06:01",
+      "utterance": "大学には進学していません"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T12:07:47",
+      "utterance": "ごめんなさい、早とちりしました。大学に行きたいとは思っているけど、学費がかかるから行こうかどうしようか悩んでいるといった状況でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:08:23",
+      "utterance": "行きたいけど行けないので、かなしいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T12:09:31",
+      "utterance": "なるほどそうだったんですね。それは残念に思いますよね。高校卒業したらどうしていこうとか考えておられますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:10:56",
+      "utterance": "働くしかないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T12:11:27",
+      "utterance": "なるほど、就職は決まっておられますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:11:54",
+      "utterance": "まだです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T12:12:33",
+      "utterance": "そうなんですね。何か他にしたいこととかはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:13:02",
+      "utterance": "できれば大学に行きたい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T12:13:34",
+      "utterance": "大学では何を学びたいとかありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:14:25",
+      "utterance": "物理が好きなのでそういう学科が希望でした"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T12:16:27",
+      "utterance": "物理がお好きなんですね！難しそうですね。そんなに頭の良いたかさんなら、その知識や能力を他にいかせそうですよね？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:17:08",
+      "utterance": "そうでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T12:18:39",
+      "utterance": "はい、調べてみれば大学以外でも物理に携われる場所はあるように思いますよ。今はだれとお住まいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:19:14",
+      "utterance": "父と母と姉、弟、妹"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:19:24",
+      "utterance": "あとはおばあちゃん"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T12:20:50",
+      "utterance": "沢山のご家族でお住みで楽しそうですね。ご両親にはこれからの事をご相談されてますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:21:12",
+      "utterance": "別に楽しくないです"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:21:21",
+      "utterance": "親には言ってません"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T12:22:21",
+      "utterance": "お姉さんとかにもご相談されていませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:22:30",
+      "utterance": "してません"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:22:48",
+      "utterance": "姉も大学に行かずに働いているから"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T12:23:29",
+      "utterance": "そうなんですね、それなら相談しにくいですね。おひとりで悩んでおられたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:24:11",
+      "utterance": "はい、誰かに言ってもどうにもならないので"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:24:17",
+      "utterance": "でも、なんかつらくなって"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T12:25:12",
+      "utterance": "それで今日はご相談に来てくださったのですね。ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T12:29:08",
+      "utterance": "たかさん、社会人編入制度をどう思われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:29:31",
+      "utterance": "それは知りません"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T12:30:03",
+      "utterance": "そうなんですね。ちょっとご説明させてもらって大丈夫でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:30:27",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T12:33:28",
+      "utterance": "ありがとうございます。社会人になってから編入試験を受ける制度です。これなら学費をご自分で貯めてから学び直しもできますよね？通常の入学テストより教科も少なく、論文形式を採用している大学もあります。どう思われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:34:27",
+      "utterance": "そうできたら、良いですが、働いたお金は家に入れないといけないので…"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T12:36:37",
+      "utterance": "そういうお優しいお気持ちなんですね。もちろんすぐには無理でも弟さん妹さんの就職後だとたかさんの負担は減りますよね？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:37:33",
+      "utterance": "弟も妹もまだ中学生とか小学生とかなのでそんな先のことは考えられないです"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:38:14",
+      "utterance": "父も病気をしているのでもしかしたら自分が家族を支えないといけない"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T12:39:07",
+      "utterance": "まだまだ小さいご兄弟なんですね。お父様がご病気されておられるんですね。それはご心配ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:39:37",
+      "utterance": "友達はみんな進学するのに自分だけなんでこんなつらいめにあうんだろう"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T12:41:19",
+      "utterance": "そうだったんですね。周りと比べると残念なお気持ちだったんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:41:42",
+      "utterance": "残念…というよりものすごくかなしいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T12:42:15",
+      "utterance": "そうなんですね。悲しいお気持ちなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:42:20",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T12:42:52",
+      "utterance": "では少しでもそんな気持ちを変えるためにできそうなことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:43:05",
+      "utterance": "特にないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T12:44:13",
+      "utterance": "そうですか。家族の大黒柱とならなくてはいけないかもしれないたかさんは、これからどうしていったらいいとお考えですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:44:24",
+      "utterance": "別に"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:44:32",
+      "utterance": "働くしかないです"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:45:07",
+      "utterance": "姉も働いているし"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T12:45:32",
+      "utterance": "そうですね。バイトなどのご経験はありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:45:39",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T12:46:12",
+      "utterance": "どんなバイトをされていましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:46:31",
+      "utterance": "近所のコンビニ"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:46:58",
+      "utterance": "夏休みとかは他にも"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T12:47:21",
+      "utterance": "他はどんなバイトをしましたか？そのときはどうでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:48:34",
+      "utterance": "どうしたって、どうちうことですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T12:49:49",
+      "utterance": "バイトいろいろしてどう思われましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:50:31",
+      "utterance": "バイト…特にお金がいいところだと長い時間働かなくていいので助かります"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T12:52:55",
+      "utterance": "時給大切ですよね。会社も給料、待遇など調べてみましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:53:35",
+      "utterance": "近所は店もそんなにないし、高校生でやとってくれるところは少ないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T12:54:33",
+      "utterance": "高校ご卒業はいつの予定ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:54:44",
+      "utterance": "今年です"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T12:55:08",
+      "utterance": "卒業されたらバイトではなく就職がご希望なんですよね？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:55:39",
+      "utterance": "希望？本当は大学に行きたいです"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:56:34",
+      "utterance": "仕事をするにしても学校が紹介してくれるところがあるみたいでまだ返事をしていないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T12:57:47",
+      "utterance": "希望というのは、バイトではなく就職になりますよね。と言いたくてごめんなさい。学校が紹介してくれる職場があるんですね。それはどう思われます？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:58:13",
+      "utterance": "働くなら仕方ないとおもいます"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:58:25",
+      "utterance": "地方なのでそんなに会社もないし"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T12:59:27",
+      "utterance": "そうなんですね。学校が紹介してくれるのはありがたいですね？近くならお父様のご様子も見守れますね？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T12:59:47",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T13:00:55",
+      "utterance": "たかさん、短時間では気持ちの整理をして頂く時間が足りなかったかもしれませんが、ご相談終了時間となりました。他に聞いてほしいことなどありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T13:01:05",
+      "utterance": "ありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T13:02:10",
+      "utterance": "ありがとうございます。お仕事頑張ってみてくださいね！またご心境の変化など、相談に来ていただけたらと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T13:02:26",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T13:02:44",
+      "utterance": "今日はありがとうございました。終了させていただいて大丈夫でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T13:02:56",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T13:03:12",
+      "utterance": "では終了させていただきます。ありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-13T13:03:25",
+      "utterance": "（ありがとうございました）"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-13T13:03:28",
+      "utterance": "（ありがとうございました）"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "大学進学に関する経済的な悩み"
+  },
+  "review_by_client_jp": {
+    "評価ID": 6432,
+    "評価作成日時": "2024-02-13T13:25:00",
+    "クライアント役ID": 485,
+    "カウンセラー役ID": 466,
+    "点数": 52,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 2,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 6432,
+    "evaluation_created_at": "2024-02-13T13:25:00",
+    "client_id": 485,
+    "counselor_id": 466,
+    "score": 52,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 2,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,609 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-07-05T15:51:26",
+      "utterance": "（こんにちは。本日は相談者役お願い致します。時間になりましたら始めさせていただきます。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T15:52:07",
+      "utterance": "こんにちは！よろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T16:00:10",
+      "utterance": "こんにちは。相談員です。本日はお越しいただきありがとうございます。はじめに年齢、性別、相談内容を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:00:24",
+      "utterance": "こんにちは"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:00:38",
+      "utterance": "31才、女です"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:00:52",
+      "utterance": "すみません、こんなこと相談していいのか…"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:01:14",
+      "utterance": "自己紹介がとにかく苦手なんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T16:01:44",
+      "utterance": "そうなのですねここではどんなことでもお聴きしますので安心してお話しください。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T16:02:03",
+      "utterance": "話やすいところからで構いませんよ。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:02:10",
+      "utterance": "はい、すみません、ありがとうございます"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:02:43",
+      "utterance": "どうしたらいいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T16:03:34",
+      "utterance": "お困りのことがあるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:03:48",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T16:03:50",
+      "utterance": "どんなことがございましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:04:23",
+      "utterance": "今度仕事で新しいチームに参加することになって"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T16:04:39",
+      "utterance": "ええ（お聞きしています）"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:04:40",
+      "utterance": "また自己紹介かと思うとゆううつで"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T16:05:42",
+      "utterance": "そうなのですね。新しい環境になり、そこでの自己紹介が心配なのですね"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:06:03",
+      "utterance": "心配というか、嫌です"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:06:18",
+      "utterance": "すみません、こんな年でこんなこと言うの恥ずかしいですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T16:07:42",
+      "utterance": "嫌な気持ちになることは誰でもあると思いますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:08:15",
+      "utterance": "どうしたらいいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T16:09:44",
+      "utterance": "お悩みになりますよね。ちなみにどんなお仕事をされているかは聞いてもよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:10:06",
+      "utterance": "仕事ですか？プログラマーです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T16:11:35",
+      "utterance": "ありがとうございます。憂鬱な気持ちになるとおっしゃっていましたが、自己紹介のどんなところが嫌になりますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:11:55",
+      "utterance": "もう全部です"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:12:01",
+      "utterance": "自己紹介の意味がわかりません"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:12:05",
+      "utterance": "話すことがなくて"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:12:48",
+      "utterance": "自分の顔が赤くなってるのもわかるし"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:12:55",
+      "utterance": "嫌です"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T16:14:20",
+      "utterance": "なるほどですね。自己紹介の場面は何度かあったと思いますが、どんな感じでされてきましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:14:42",
+      "utterance": "名前と所属と"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:14:57",
+      "utterance": "あとは"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:15:08",
+      "utterance": "その時々で"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:15:37",
+      "utterance": "趣味を言えとか、マイブームを言えとか、言えって言われたことを適当に"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T16:16:49",
+      "utterance": "そうだったのですね。その度に嫌な思いをされてきたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:17:35",
+      "utterance": "嫌な思いというか恥ずかしいというか"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:17:42",
+      "utterance": "自己紹介が嫌です"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T16:18:31",
+      "utterance": "恥ずかしさみたいなものがある感じなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:18:56",
+      "utterance": "何を話していいかわからないのでいつもごにょごにょっとして終わります"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:19:15",
+      "utterance": "それで微妙な空気になるので"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T16:20:32",
+      "utterance": "そうなのですねそれはしんどいし嫌になるのも無理のないことだと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:21:04",
+      "utterance": "どうしたらいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:21:13",
+      "utterance": "相談員さんは何を言ってますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T16:22:14",
+      "utterance": "何を言ってますかというのは、自己紹介の場でということでよろしかったですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:22:28",
+      "utterance": "あすみません、そうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T16:24:08",
+      "utterance": "実は私も苦手で緊張しながら最低限のことしか言わないで終わります。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:24:31",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T16:26:14",
+      "utterance": "嫌な思いはしますが、終わってしまえば不便はしないです。あなたは自己紹介以外の場面では何かお困りのことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:26:46",
+      "utterance": "不便はしない"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:27:18",
+      "utterance": "割り切ってるんですね"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:28:04",
+      "utterance": "今年の抱負とか、目標とか、意見とか感想とか、とにかく苦手です"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:28:25",
+      "utterance": "何を言えばいいのかわからない"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T16:29:14",
+      "utterance": "もしかしたら変な風に思われているかもしれませんが、、そこは確認したことなかったですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:29:50",
+      "utterance": "気にならないんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T16:31:02",
+      "utterance": "何か自分の気持ちや考えを言うのが特に苦手ということでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T16:31:58",
+      "utterance": "なにか嫌がらせなんかあれば気にするかもしれません。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:32:11",
+      "utterance": "私の自己紹介とか聞きたいですか？私の今年の抱負とか聞きたいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:32:30",
+      "utterance": "名前以外のことを言わないといけない意味がわかりません"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:32:37",
+      "utterance": "何を言っていいかわかりません"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:33:06",
+      "utterance": "趣味とか聞かれても別にないんです"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:33:13",
+      "utterance": "苦痛です"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T16:34:07",
+      "utterance": "そういった思いを抱えて自己紹介があるのはつらいお気持ちになりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:34:36",
+      "utterance": "うんざりです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T16:35:43",
+      "utterance": "ええこれから自己紹介の日があると思うのはしんどいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:35:53",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T16:36:36",
+      "utterance": "新しいチームでのお仕事が始まるのはいつですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:36:53",
+      "utterance": "2週間後です"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T16:38:11",
+      "utterance": "そうなのですね。あなたとしてはこの相談を通してどうしていきたいと考えておられますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:38:32",
+      "utterance": "次の自己紹介を乗り切りたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T16:39:08",
+      "utterance": "そのような思いなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T16:40:03",
+      "utterance": "嫌なお気持ちを抱えながら、今まではどのように乗り越えて来られたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:40:18",
+      "utterance": "乗り越えてはないですね"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:40:39",
+      "utterance": "いつもごにょごにょ言って微妙な空気になって終わります"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:40:57",
+      "utterance": "落ち込むとは違うけど"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:41:12",
+      "utterance": "いたたまれないというか"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:41:43",
+      "utterance": "小さな虫にたくさんまとわりつかれたみたいな気分というか"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T16:42:23",
+      "utterance": "その空気感が嫌なのですね気まずいみたいな感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:42:50",
+      "utterance": "気まずいかもしれません"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:42:59",
+      "utterance": "で？みたいな"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:43:17",
+      "utterance": "それだけ？みたいな"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T16:45:32",
+      "utterance": "なるほどですね。そのように感じてしまうのですね。では逆にどんな感じになったら乗り切った！と思えそうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:45:50",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:46:32",
+      "utterance": "ちょっと「おっ」と思ってもらえたらいいんですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T16:48:36",
+      "utterance": "そうなのですね「おっ」というのは驚きのような感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:49:04",
+      "utterance": "多分驚いてほしいわけではなくて"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:49:17",
+      "utterance": "自己紹介って、覚えてもらうためにするものですよね？"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:49:37",
+      "utterance": "だとしたら、印象に残ることなのかなと"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:51:27",
+      "utterance": "そもそも自己紹介をしなくていいならそれに越したことはないんですけど…"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T16:52:13",
+      "utterance": "なるほどですね。ではみんなにどんな人かを知ってもらって覚えてもらえればあなたとしては乗り切れたとおもえるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:53:01",
+      "utterance": "自己紹介のそもそもの目的がそれなんだとしたら、そうです"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:53:33",
+      "utterance": "してもしなくても同じような自己紹介をするくらいなら、印象に残った方がましかなと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T16:55:25",
+      "utterance": "二週間後にその日がきてしまいますものね、、嫌なお気持ちはあると思いますが、それまでになにか出来そうなことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:55:55",
+      "utterance": "できそうなことってたとえば何ですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T16:57:23",
+      "utterance": "家の中で自己紹介をイメージして声に出して練習してみることも一つかなと思いましたが、いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T16:58:01",
+      "utterance": "それはできると思いますが、何を言えばいいのかわからないんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T17:00:34",
+      "utterance": "お名前、所属、あと趣味などは無ければ無いでいいと思いますよ。内容よりこれらを上手く言えるようにしてみるのも一つの練習になると思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T17:01:39",
+      "utterance": "そうですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T17:02:28",
+      "utterance": "本日はそろそろお時間になりますが、お話してみていかかでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T17:02:43",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T17:02:53",
+      "utterance": "どうしようかな、と思っています"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T17:03:55",
+      "utterance": "もしよろしければまた相談にお越しいただいてまた一緒に考えられればと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T17:04:17",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T17:05:40",
+      "utterance": "あなたのことを陰ながら応援しております。では本日はこちらで失礼させていただきます。お越しいただきありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T17:05:58",
+      "utterance": "失礼いたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T17:06:48",
+      "utterance": "（相談者役お疲れさまでした。後程コメントなどをいただけたらと思います。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-05T17:07:36",
+      "utterance": "（ありがとうございました！）"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-05T17:07:47",
+      "utterance": "（ありがとうございました。失礼いたします。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "新しいチームでの自己紹介への不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 5396,
+    "評価作成日時": "2023-07-05T18:37:00",
+    "クライアント役ID": 378,
+    "カウンセラー役ID": 280,
+    "点数": 35,
+    "聴いてもらえた、わかってもらえたと感じた": 1,
+    "尊重されたと感じた": 1,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 1,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 1,
+    "今回の相談は価値があった": 1,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 2,
+    "要約": 2,
+    "問題の明確化": 1,
+    "この相談での目標の明確化": 1,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 1,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 5396,
+    "evaluation_created_at": "2023-07-05T18:37:00",
+    "client_id": 378,
+    "counselor_id": 280,
+    "score": 35,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 1,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 1,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 1,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

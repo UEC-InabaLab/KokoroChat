@@ -1,0 +1,914 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-02-11T19:51:31",
+      "utterance": "お越しいただきありがとうございます。準備が出来ましたら始めさせていただきますね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T19:53:27",
+      "utterance": "こんばんわ。宜しくお願い致します。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T19:53:48",
+      "utterance": "準備オッケーです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T19:54:16",
+      "utterance": "こんばんは。ありがとうございます。よろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T19:54:51",
+      "utterance": "相談員です。今日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T19:55:38",
+      "utterance": "好きな人が居るのですが、家族に反対されていて、どうしたらいいのか悩んでます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T19:56:51",
+      "utterance": "そうなのですね。よろしければ年令と性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T19:57:13",
+      "utterance": "2５歳　女です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T19:57:51",
+      "utterance": "ありがとうございます。何とお呼びすればよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T19:58:03",
+      "utterance": "ゆき　です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T19:58:57",
+      "utterance": "ゆきさんですね。良ければもう少し詳しく教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T19:59:05",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:00:17",
+      "utterance": "家族は私に家を継いで欲しいのですが、暴言を吐く父が嫌いで家を出て、そこで彼と出会いました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:00:36",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:00:41",
+      "utterance": "私に彼が居ると知り、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:00:54",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:01:03",
+      "utterance": "父は激怒。直ぐに帰って来いと、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:01:35",
+      "utterance": "そうなのですね..."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:01:47",
+      "utterance": "そこで母も姉も交際に反対で、味方は居ません"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:02:23",
+      "utterance": "悩んでます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:02:28",
+      "utterance": "それはゆきさんにとってとてもお辛いですね..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:02:53",
+      "utterance": "お父様は"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:03:07",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:03:18",
+      "utterance": "家を継いでほしいとのことですが"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:03:24",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:03:48",
+      "utterance": "ゆきさんは長女でいらっしゃいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:04:03",
+      "utterance": "いえ、姉が居ます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:04:45",
+      "utterance": "お父様がゆきさんに継いでほしいという理由があるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:04:54",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:05:27",
+      "utterance": "よろしければ理由を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:05:55",
+      "utterance": "姉と父は似たもの同士で、直ぐに喧嘩になります。さらに姉は病気で子が産めません。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:06:31",
+      "utterance": "だから、子が産める私に後を継いで欲しいと、母から聞きました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:06:32",
+      "utterance": "そうなのですね..."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:06:41",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:07:33",
+      "utterance": "ゆきさんにとっては深刻なことですね..."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:07:50",
+      "utterance": "はい、とても深刻です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:08:49",
+      "utterance": "ゆきさんの好きな方はそのことをご存知なのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:09:13",
+      "utterance": "はい、すべて知ってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:09:48",
+      "utterance": "彼は何とおっしゃっていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:10:49",
+      "utterance": "悩んでいました。私にそばに居て欲しいと思ってはいるのですが、私が悲しむのは見たくないと・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:11:31",
+      "utterance": "彼も複雑な気持ちを抱えていらっしゃるのですね..."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:12:11",
+      "utterance": "はい、私が悩み、苦しむので、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:12:23",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:12:34",
+      "utterance": "どうしたら泣かずに解決できるかを"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:12:45",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:12:46",
+      "utterance": "考えてはくれていましたが、"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:13:05",
+      "utterance": "最後は自分で決めて欲しい、みたいな感じです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:13:50",
+      "utterance": "母が、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:14:12",
+      "utterance": "彼は自分のことよりもゆきさんのことを思っていらっしゃるのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:14:16",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:15:34",
+      "utterance": "お母様が最後は自分で決めてほしいとゆきさんに伝えられたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:16:26",
+      "utterance": "彼は、はい、そう感じました。いえ、違います母は、父に暴言を受けて、精神的に参ってしまい、私に助けを求めてるのが分かるんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:16:46",
+      "utterance": "そうなのですね..."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:16:50",
+      "utterance": "母は、子の産めない体の"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:17:03",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:17:05",
+      "utterance": "長女を生んだことも責めています"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:17:32",
+      "utterance": "だから、姉も母も父も私を頼ってる"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:17:49",
+      "utterance": "お母様も辛い思いを抱えているのですね..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:17:56",
+      "utterance": "けれど"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:18:03",
+      "utterance": "はい、自分を責めてます"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:18:08",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:18:22",
+      "utterance": "一番辛い思いをされているのはゆきさんだと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:18:43",
+      "utterance": "ええ！そうなんですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:19:14",
+      "utterance": "家族のみなさんがゆきさんに"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:19:45",
+      "utterance": "継いでもらうことを望まれて"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:20:49",
+      "utterance": "ゆきさんも家族と彼のどちらも大切で辛さを抱えているのではと感じました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:21:36",
+      "utterance": "はい、そうです。どちらかを選ばないといけないのはキツイです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:22:01",
+      "utterance": "そうですよね..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:22:11",
+      "utterance": "ゆきさんは"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:23:08",
+      "utterance": "継ぐことに抵抗はあるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:23:35",
+      "utterance": "抵抗あります。嫌なのです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:23:51",
+      "utterance": "そうなのですね..."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:24:17",
+      "utterance": "はい、継がなくてもいいから、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:24:25",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:25:22",
+      "utterance": "近くの人と結婚して住んで、子を見せてやって欲しいと、自分にはそれが出来ないから姉に泣きながら土下座されました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:26:00",
+      "utterance": "姉は、"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:26:16",
+      "utterance": "病気で子が産めない体になったとき"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:26:16",
+      "utterance": "泣きながら土下座されることは胸が痛みますね..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:26:20",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:26:21",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:27:28",
+      "utterance": "姉と親元を離れ一緒に暮らしてたんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:27:49",
+      "utterance": "そうなのですね..."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:28:01",
+      "utterance": "病気で手術して、姉が死にたいほど苦しんだ姿を"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:28:12",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:28:20",
+      "utterance": "見ていたもので、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:28:32",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:28:55",
+      "utterance": "姉の土下座は、彼と別れる気持ちに今傾きつつ"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:29:02",
+      "utterance": "ここにきました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:29:52",
+      "utterance": "ゆきさんはとても辛い気持ちを抱えていたことをお話し下さったのですね..."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:30:06",
+      "utterance": "はい、ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:30:49",
+      "utterance": "聞かせていただき私自身、胸が締め付けられます..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:31:07",
+      "utterance": "彼は"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:31:32",
+      "utterance": "ゆきさんのご実家の"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:32:00",
+      "utterance": "近くに一緒に住むことは難しいのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:32:13",
+      "utterance": "その話もでました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:32:23",
+      "utterance": "そうなのですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:32:27",
+      "utterance": "というか、私がしました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:32:48",
+      "utterance": "ご家族は何とおっしゃっていましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:33:12",
+      "utterance": "彼は父が早くに他界したので、母と自分の二人暮らし"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:33:24",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:33:29",
+      "utterance": "お嫁さんが来るのをとても楽しみにしている"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:33:40",
+      "utterance": "そうなのですね..."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:33:50",
+      "utterance": "だから、厳しいと。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:34:13",
+      "utterance": "ゆきさんも彼も"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:34:38",
+      "utterance": "ご家族の思いを受けているのですね..."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:35:02",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:35:57",
+      "utterance": "とても複雑なことだと思うので、ゆきさんと彼が"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:36:37",
+      "utterance": "幸せになれる方法を一つ一つ、一緒に考えさせていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:36:50",
+      "utterance": "はい、お願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:37:44",
+      "utterance": "ゆきさんの思いはこういう形に出来たらいいなということはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:38:39",
+      "utterance": "母が精神疾患なので、それがなかったら"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:38:48",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:39:28",
+      "utterance": "父に何とか、と思うのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:39:43",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:40:03",
+      "utterance": "父は彼の話を聴きもしてくれません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:40:17",
+      "utterance": "そうなのですね..."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:40:19",
+      "utterance": "父は弱い人で"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:40:25",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:41:01",
+      "utterance": "大声出して怒鳴って威圧したらいいと思ってる。彼にそんな父に合わせるのも怖いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:41:21",
+      "utterance": "そうですよね..."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:41:30",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:41:48",
+      "utterance": "まずはお父様とお母様の"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:42:47",
+      "utterance": "気持ちが安らいでもらえることが出来たらと思いました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:43:40",
+      "utterance": "そうですよね、執着するところが、何故私？って思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:44:18",
+      "utterance": "お父様とお母様にとって"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:45:21",
+      "utterance": "健康で子を生んでもらえるゆきさんが希望なのでは...と感じます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:45:50",
+      "utterance": "はい、そうなんです。姉の病気は、二人にとって相当ショックだったみたいです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:46:02",
+      "utterance": "だから"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:46:07",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:46:38",
+      "utterance": "姉には少しでも自由に生かせてやりたい、みたいなのを感じます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:47:28",
+      "utterance": "親の気持ちというものもあると思います。けれどそれでゆきさんの"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:48:12",
+      "utterance": "人生に関わってくることもやりきれないですよね..."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:49:24",
+      "utterance": "はい。私の相手なんて時が来れば誰でも同じとか、愛とか好きとか初めだけって父母は言います"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:50:04",
+      "utterance": "両親が近くに居て、出産後とか手伝ってもらったり"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:50:15",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:50:20",
+      "utterance": "しないと、私が苦労するって"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:50:48",
+      "utterance": "私が帰ってこないんじゃないかって思っています"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:51:23",
+      "utterance": "そうなのですね..."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:51:32",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:52:00",
+      "utterance": "どっちが後悔するかを考えたんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:52:20",
+      "utterance": "お父様とお母様の気持ちの中にとても苦しい思いをしてきたことを感じます..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:52:28",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:53:49",
+      "utterance": "もう、自分の気持ちはどこにも入らず、単純に3対１だなって、"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:54:28",
+      "utterance": "3人も悲しませられないなって"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:54:30",
+      "utterance": "そう思ってしまうのも無理はないと思います..."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:54:38",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:55:54",
+      "utterance": "まずはどんな形からでも良いのでご家族で話し合うことが出来たらよいと思うのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:56:18",
+      "utterance": "難しそうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:56:52",
+      "utterance": "普通に反対されてるだけなら、まだしも、"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:57:26",
+      "utterance": "ちょっと、この今の状況から早く楽になりたいばかりですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T20:58:46",
+      "utterance": "そうですよね...ゆきさんの心を少しでも軽く出来ることを考えたいと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T20:59:07",
+      "utterance": "姉か母か一人でも賛成してくれたらって思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T21:00:04",
+      "utterance": "そうですね！まずは一人づつ話してみるのはどうでしょう？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T21:01:57",
+      "utterance": "そうですね、今は厳しいですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T21:02:08",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T21:03:03",
+      "utterance": "私がどこまで耐えられるかな、、。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T21:03:21",
+      "utterance": "ですが。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T21:03:27",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T21:04:07",
+      "utterance": "ありがとうございました。今は先行き不安ですが"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T21:04:41",
+      "utterance": "もう少し頑張ってみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T21:04:56",
+      "utterance": "ゆきさんの気持ちが辛い中でまだ解決策に繋がらなく心苦しいです..."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T21:05:15",
+      "utterance": "いえいえ、ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T21:05:34",
+      "utterance": "よかったらゆきさんのお話しをまたお聞かせ下さい。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T21:06:04",
+      "utterance": "はい、是非、よろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T21:06:25",
+      "utterance": "ゆきさんの気持ちが少しでも軽くなることを願っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T21:06:41",
+      "utterance": "今日はありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T21:06:52",
+      "utterance": "今日はありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-11T21:07:12",
+      "utterance": "失礼いたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-11T21:07:31",
+      "utterance": "はい"
+    }
+  ],
+  "topic": {
+    "main_jp": "恋愛問題",
+    "main_en": "Romantic Issues",
+    "sub": "家族の反対による恋愛の悩み"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1328,
+    "評価作成日時": "2021-02-11T21:42:00",
+    "クライアント役ID": 25,
+    "カウンセラー役ID": 133,
+    "点数": 71,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1328,
+    "evaluation_created_at": "2021-02-11T21:42:00",
+    "client_id": 25,
+    "counselor_id": 133,
+    "score": 71,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

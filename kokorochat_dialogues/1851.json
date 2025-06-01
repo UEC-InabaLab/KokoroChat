@@ -1,0 +1,424 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-05-14T20:54:57",
+      "utterance": "こんばんは。よろしくお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-14T20:55:18",
+      "utterance": "よろしくお願いいたします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T20:55:55",
+      "utterance": "時間になったら始めさせていただきますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:00:15",
+      "utterance": "こんばんは。相談員です。本日はご相談にお越しくださりありがとうございます。はじめに性別、年齢、相談内容を教えてもらえますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-14T21:00:46",
+      "utterance": "男　17歳"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-14T21:01:00",
+      "utterance": "どうしようか悩んでいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:01:53",
+      "utterance": "教えてくださりありがとうございます。どんなことでどうしようかと悩んでいるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-14T21:03:23",
+      "utterance": "友達が毎月ゲームイベントを主催しているんですが今月から理由なく参加費が値上がりしててその理由を聞くべきか悩んでいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:05:04",
+      "utterance": "そうなのですね。急に参加費が値上がりしたら驚きますね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-14T21:05:34",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:06:11",
+      "utterance": "失礼ですが、あなたは学生でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-14T21:06:20",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:06:44",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:07:27",
+      "utterance": "値上がりしたときはどう思われましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-14T21:07:42",
+      "utterance": "あれ？って思いました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:08:34",
+      "utterance": "うんうん。そう思ってしまいますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:09:08",
+      "utterance": "ちなみにどんなゲームイベントなのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-14T21:09:27",
+      "utterance": "人狼ですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:10:53",
+      "utterance": "そうなのですね。値上がりする前はどのくらいの会費だったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-14T21:11:46",
+      "utterance": "1500円でしたが500円値上がりしてました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:13:15",
+      "utterance": "え！５００円も上がったのですね、、それはきついです、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-14T21:14:00",
+      "utterance": "友達と言うこともあって理由を聞きにくいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:16:12",
+      "utterance": "そうですよね。これからの関係も続くわけですし、気まずくなりたくないですよね、、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-14T21:16:54",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:18:02",
+      "utterance": "友達とはどのくらいの仲なのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-14T21:18:27",
+      "utterance": "1年です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:19:36",
+      "utterance": "そうなのですね。同じ学校ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-14T21:19:44",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:20:16",
+      "utterance": "クラスも同じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-14T21:20:22",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:21:26",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:22:43",
+      "utterance": "先ほど理由を聞きにくいのは友達だからと言っていましたが、それ他にも聞きにくい理由などあるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-14T21:23:36",
+      "utterance": "うーん、、、喧嘩になりそうだから避けたいと言ったところでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:24:50",
+      "utterance": "うんうん。喧嘩はなるのは嫌ですよね、、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:27:11",
+      "utterance": "ではここまでの話を整理してもよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-14T21:27:15",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:28:00",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:28:56",
+      "utterance": "失礼ですが、あなたのお名前を教えてもらってもいいでしょうか？仮名で大丈夫ですので。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-14T21:29:14",
+      "utterance": "のぶ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:29:45",
+      "utterance": "のぶさんですね。ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:34:09",
+      "utterance": "のぶさんは友達が毎月主催している人狼のゲームイベントの参加費用が今月から急に値上がりをし、その友達に理由を聞こうか迷っている。その友達とは同じクラス。友達だから理由を聞きにくい。聞いたことで、喧嘩や気まずい思いをしたくない。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:34:35",
+      "utterance": "このような理解でよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-14T21:34:44",
+      "utterance": "はい、どうしたら良いでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:36:16",
+      "utterance": "のぶさんご自身ははどうしたらいいかなと思われたりしますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-14T21:36:33",
+      "utterance": "わからないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:37:51",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:38:31",
+      "utterance": "ちなみに友達はどんな人なのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-14T21:38:51",
+      "utterance": "イベントに一生懸命な人です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:40:09",
+      "utterance": "そうなんですね。他にはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-14T21:40:17",
+      "utterance": "え、、他、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:41:34",
+      "utterance": "すみません、質問を変えますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:43:10",
+      "utterance": "イベント以外では関りなどはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-14T21:43:43",
+      "utterance": "直接会って話したりプライベートでゲームしてたりしてます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:44:34",
+      "utterance": "うんうん。いいですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:46:16",
+      "utterance": "先ほど喧嘩になるかもしれないと言われていましたが、普段その友達と言い合いとかにあったりするのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-14T21:46:27",
+      "utterance": "ありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:47:51",
+      "utterance": "そうなんですね。では理由を聞いても大丈夫なのではと思うのですが、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-14T21:48:49",
+      "utterance": "どうして今までの話からその考えになるのですか？安直過ぎません？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:49:45",
+      "utterance": "申し訳ありません。安易な質問でした。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:53:48",
+      "utterance": "では、のぶさんはどうして友達と気まずくなりたくないと思ったのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-14T21:54:14",
+      "utterance": "ええどうしてって言われても、、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:56:27",
+      "utterance": "なかなか答えにくいですよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-14T21:56:42",
+      "utterance": "はい、もう寝る時間なのでここで失礼します"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:57:43",
+      "utterance": "わかりました。本日は失礼なことを言ってしまい申し訳ありませんでした。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-14T21:57:57",
+      "utterance": "いえいえありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T21:58:49",
+      "utterance": "また何かありましたらら、ご相談に来てください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-14T22:00:02",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T22:00:53",
+      "utterance": "では、終了メッセージ送りますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T22:01:36",
+      "utterance": "（すみませんでした、、、でも勉強になりました。ありがとうございます。）"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-14T22:03:58",
+      "utterance": "（ありがとうございました）"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-14T22:05:04",
+      "utterance": "（また機会があったらよろしくお願いします。では終了メッセージ送りますね。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "人間関係",
+    "main_en": "Interpersonal Issues",
+    "sub": "友達とのコミュニケーションの問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1851,
+    "評価作成日時": "2021-05-14T22:34:00",
+    "クライアント役ID": 125,
+    "カウンセラー役ID": 155,
+    "点数": 55,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 4,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 2,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1851,
+    "evaluation_created_at": "2021-05-14T22:34:00",
+    "client_id": 125,
+    "counselor_id": 155,
+    "score": 55,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

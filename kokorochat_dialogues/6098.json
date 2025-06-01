@@ -1,0 +1,514 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-12-11T10:51:42",
+      "utterance": "今日はよろしくお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T10:53:10",
+      "utterance": "(お世話になります。よろしくお願い致します。)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:01:41",
+      "utterance": "こんにちは。相談員です。最初に、年齢、性別、ご相談内容を教えて下さい。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:02:15",
+      "utterance": "14歳、男、死にたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:03:11",
+      "utterance": "そうなのですね…。それほと゛お辛いお気持ちなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:03:34",
+      "utterance": "つらい"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:03:43",
+      "utterance": "苦しい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:04:05",
+      "utterance": "そうですよね。苦しいお気持ちもあって…。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:04:45",
+      "utterance": "ここでは何でもお話し頂いて大丈夫ですよ。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:05:20",
+      "utterance": "苦しまずに死ぬ方法を教えてください"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:05:39",
+      "utterance": "もうつらいのは嫌だ"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:05:45",
+      "utterance": "そのようにお考えなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:06:16",
+      "utterance": "今家の中とかにいらっしゃいますか?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:06:43",
+      "utterance": "自分の部屋にいる"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:07:36",
+      "utterance": "そうでしたか。今苦しまれている状況を教えて頂いてよろしいですか?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:08:43",
+      "utterance": "話したくない死ぬ方法を教えてください"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:11:10",
+      "utterance": "そのようにお考えなのですね。今日、食事は摂られました?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:12:39",
+      "utterance": "食べてない"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:13:11",
+      "utterance": "そうでしたか…。夜は眠れていますか?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:13:41",
+      "utterance": "眠れてない"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:14:28",
+      "utterance": "そうなのですね…。それでは気持ちだけでなく、体もしんどいですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:15:17",
+      "utterance": "そうかもしない体の方は気にしてませんでした"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:15:38",
+      "utterance": "そういうお気持ちなんですね。14歳ということは、中学三年生でしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:16:01",
+      "utterance": "2年生"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:17:37",
+      "utterance": "そうだったんですね。同じことにとらわれていると、呼吸も浅くなりますので、一度深呼吸を2～3回やってみて下さい。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:18:02",
+      "utterance": "してみました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:18:44",
+      "utterance": "いくらか気持ちが楽になりそうですか?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:18:57",
+      "utterance": "分からないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:19:56",
+      "utterance": "そうですよね。何か温かい飲み物を飲めそうですか?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:20:51",
+      "utterance": "何も口に入れたくない"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:21:46",
+      "utterance": "そうなのですね。あなたの心と身体が心配です。今のお部屋は暖かいですか?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:22:32",
+      "utterance": "普通"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:22:41",
+      "utterance": "寒くはないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:22:52",
+      "utterance": "今、ご家族の方はお家にいらっしゃいますか?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:23:24",
+      "utterance": "いない仕事に行ってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:24:07",
+      "utterance": "寒くないとのことで、良かったです。今のお気持ちをご家族の方に相談されました?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:24:36",
+      "utterance": "言えてない"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:25:02",
+      "utterance": "知られなくない"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:25:23",
+      "utterance": "そうでしたか…。お友達にはご相談されました?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:25:45",
+      "utterance": "友達はいないです"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:25:54",
+      "utterance": "いないとダメですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:26:01",
+      "utterance": "変ですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:26:12",
+      "utterance": "そうなんですね。そんなことはないですよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:27:05",
+      "utterance": "ここでは誰にもお話し出来ないことでも、何でもお話しして大丈夫ですよ。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:27:33",
+      "utterance": "いじめられています"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:28:09",
+      "utterance": "そうだったのですね。いつ頃からですか?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:28:36",
+      "utterance": "1年前から"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:29:17",
+      "utterance": "ずっとお一人で抱えて、悩まれていらっしゃったのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:29:47",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:29:53",
+      "utterance": "つらいです"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:29:58",
+      "utterance": "もう死にたい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:30:38",
+      "utterance": "いじめをする人は一人ですか?複数ですか?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:31:43",
+      "utterance": "クラス全員"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:32:33",
+      "utterance": "そうでしたか…。それでは苦しいお気持ちにもなりますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:33:08",
+      "utterance": "学校は休んでいるのですか?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:33:32",
+      "utterance": "行ってない"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:34:21",
+      "utterance": "そうなのですね。行きたくないですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:34:36",
+      "utterance": "考えるのも嫌だ"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:35:02",
+      "utterance": "そうですよね。そのようなお気持ちになりますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:37:03",
+      "utterance": "今は、行きたくない学校から離れても苦しさは続いているのですね?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:37:54",
+      "utterance": "生きているのもつらいですだから早く死にたい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:39:20",
+      "utterance": "そうなのですね…。学校に行かなければならないけど、行きたくない、そのような葛藤を抱えていらっしやるのでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:40:43",
+      "utterance": "考えてない苦しまずに死にたいだけです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:41:44",
+      "utterance": "そうでしたか。今はクラスメート達から遮断された環境にいらっしゃるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:42:11",
+      "utterance": "はいでも頭の中にいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:43:58",
+      "utterance": "そうなのですね。苦しいですよね。何か気分転換に出来ることはありますか?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:44:25",
+      "utterance": "ない"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:46:05",
+      "utterance": "そうでしたか。フリースクール等の、また違った環境の中で勉強をする方法もありますが、いかがですか?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:48:28",
+      "utterance": "学校変わったところで"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:49:00",
+      "utterance": "どうせまたいじめられる"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:49:05",
+      "utterance": "何も変わらない"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:51:10",
+      "utterance": "そうでしたか。学校に行かないということを選んでもいいと思いますよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:52:11",
+      "utterance": "あなたの大切な命と引き換えに、無理に学校に行くことを選ぶことは無いと思いますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:52:43",
+      "utterance": "たいした命じゃないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:53:22",
+      "utterance": "そんなことはないですよ。こうやってここにいらした勇気を持っていらして。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:54:47",
+      "utterance": "一年間も頑張って学校に通われていたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:55:19",
+      "utterance": "最初は普通でした"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:55:28",
+      "utterance": "急にいじめられて"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:55:56",
+      "utterance": "そうだったんですね。びっくりして、悲しいお気持ちでしたね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T11:56:07",
+      "utterance": "何も分からないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T11:56:39",
+      "utterance": "そういうお気持ちなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T12:00:26",
+      "utterance": "あなたの気持ちが少しでも楽になれたらと思います。その勇気をもって環境を変えることにチヤレンジしてみませんか?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T12:00:53",
+      "utterance": "無理です"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T12:01:21",
+      "utterance": "そうお思いなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T12:02:50",
+      "utterance": "今は、傷ついた心の充電期間として、少しゆっくり休みませんか?"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T12:04:06",
+      "utterance": "何もしなくてもつらいです最後聞いてくれただけで十分ですさようなら"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T12:05:41",
+      "utterance": "（すみません、最後までたどりつけませんでした。終わりにしてもよろしいでしょうか?）"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T12:06:37",
+      "utterance": "(お疲れ様でした。難しいケースだったと思います。ありがとうございました。)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T12:07:06",
+      "utterance": "（こちらこそありがとうございました。勉強になりました。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "いじめによる苦痛"
+  },
+  "review_by_client_jp": {
+    "評価ID": 6098,
+    "評価作成日時": "2023-12-11T21:41:00",
+    "クライアント役ID": 445,
+    "カウンセラー役ID": 261,
+    "点数": 54,
+    "聴いてもらえた、わかってもらえたと感じた": 1,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 0,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 6098,
+    "evaluation_created_at": "2023-12-11T21:41:00",
+    "client_id": 445,
+    "counselor_id": 261,
+    "score": 54,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 2,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 0,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

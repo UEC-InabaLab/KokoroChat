@@ -1,0 +1,294 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-05-21T15:01:22",
+      "utterance": "はじめまして"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-21T15:01:29",
+      "utterance": "はじめまして"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-21T15:02:25",
+      "utterance": "始めに年齢と性別、お住いの都道府県とご相談されたいことを教えてください。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-21T15:02:53",
+      "utterance": "32歳男、東京住まいです"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-21T15:03:30",
+      "utterance": "仕事へのやる気がぜんぜん出てこないので、それについて相談したいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-21T15:04:28",
+      "utterance": "お知らせいただきありがとうございます。仕事に対してのやる気が起きないのですね。それは毎日お辛いですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-21T15:05:09",
+      "utterance": "どのような時にやる気が感じられないと思われるのですか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-21T15:06:13",
+      "utterance": "まず朝が起きづらくて、一日中無気力な感じがしてます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-21T15:06:37",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-21T15:08:57",
+      "utterance": "気持ちよく起床できないと仕事にもやる気が出にくいですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-21T15:09:21",
+      "utterance": "はい勤務中も仕事に集中できなくて、すぐ気が散ってしまいます"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-21T15:09:39",
+      "utterance": "そして夜は寝つきが悪いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-21T15:11:29",
+      "utterance": "寝つきが悪いのはお辛いですね。差し支えないなければ、どのようなお仕事なのか教えていただけますか"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-21T15:12:06",
+      "utterance": "ITベンチャーで、新規開拓の法人営業をやってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-21T15:13:18",
+      "utterance": "教えてくださり、ありがとうございます。心身ともに酷使されるお仕事ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-21T15:14:41",
+      "utterance": "はい、ただいまの会社の前も法人営業をしていて、ここまで無気力なのは初めてです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-21T15:16:12",
+      "utterance": "そうなんですね。法人営業のお仕事のキャリアをお持ちなんですね。現在もお仕事の量は多いのではないでしょうか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-21T15:17:28",
+      "utterance": "今までにたくさん達成されてきたことも多いのですか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-21T15:17:40",
+      "utterance": "業務量はずっと変わらないです。今までこなせていた量がさばけなくて、そのことがしんどく感じます"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-21T15:18:21",
+      "utterance": "数字にはずっと向き合ってきました。ただ最近は意欲がわかないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-21T15:19:36",
+      "utterance": "今までできていたことに意欲がなくなり、こなせていた仕事量が減ってきてしまっていることがお辛いのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-21T15:20:45",
+      "utterance": "現在の就寝時間と起床時間はどのようになっていますか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-21T15:21:52",
+      "utterance": "寝るのは3,4時で、朝は出勤の10時直前ですフルリモートで働いてます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-21T15:23:12",
+      "utterance": "ありがとうございます。フルリモートでお仕事をされているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-21T15:23:48",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-21T15:24:13",
+      "utterance": "仕事量が減ってきていることなど、同僚の方とお話をされたりしていますか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-21T15:26:07",
+      "utterance": "会社の人には話せてないですただ仕事のパフォーマンスは下がっているので、上司にはどうした？と思われています"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-21T15:28:23",
+      "utterance": "そうなんですね。でも、上司の方は気にされているのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-21T15:29:00",
+      "utterance": "その時、相談者さまはどのようにお話しされたのですか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-21T15:29:48",
+      "utterance": "まだ上司には話せてないです。自分でここまで意欲が湧かないのが初めてなので、なんと言っていいか分からないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-21T15:30:12",
+      "utterance": "そうだったのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-21T15:31:43",
+      "utterance": "上司の方にどうしたと言われた時も、なんといってよいのかわからなかったのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-21T15:32:27",
+      "utterance": "はい。すみません、と濁して終わらしてしまいました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-21T15:34:06",
+      "utterance": "答えられないくらいお辛かったのですね。フルリモートでのお仕事をされていると伺いましたが、ご家族はいらっしゃいますか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-21T15:34:42",
+      "utterance": "はい。自分は独身ですが、両親と姉がふたりいます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-21T15:36:25",
+      "utterance": "ご家族と同居されていらっしゃるのですね。普段、ご家族とお話はされていらっしゃいますか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-21T15:36:58",
+      "utterance": "いえ、自分は一人暮らしをしていて、家族にはそのことを話せていないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-21T15:37:11",
+      "utterance": "そうだったんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-21T15:39:28",
+      "utterance": "では普段は一人暮らしされていて、フルリモートでお仕事をされているのですね。でも寝つきが悪くなり、仕事にもやる気が出なくなってしまったのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-21T15:39:46",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-21T15:40:34",
+      "utterance": "今の生活の中で、人とお話をする機会はありますか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-21T15:41:16",
+      "utterance": "たまに近所の友だちと話す以外、会社の人とzoom越しに話すだけです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-21T15:42:54",
+      "utterance": "そうなんですね。たまにお友達やzoom越しながら、お話をされる時もおありなんですね。そういう時どのようにお感じになりますか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-21T15:44:37",
+      "utterance": "つたない会話でしたがご協力いただき、ありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-21T15:44:56",
+      "utterance": "こちらこそありがとうございました"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "仕事へのやる気が出ない原因"
+  },
+  "review_by_client_jp": {
+    "評価ID": 5099,
+    "評価作成日時": "2023-05-22T08:41:00",
+    "クライアント役ID": 401,
+    "カウンセラー役ID": 402,
+    "点数": 59,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 2,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 5099,
+    "evaluation_created_at": "2023-05-22T08:41:00",
+    "client_id": 401,
+    "counselor_id": 402,
+    "score": 59,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

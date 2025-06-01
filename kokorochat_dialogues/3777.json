@@ -1,0 +1,534 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2022-08-05T19:27:21",
+      "utterance": "こんばんは。本日はよろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T19:30:15",
+      "utterance": "こんばんは。よろしくお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T19:30:36",
+      "utterance": "お願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T19:31:22",
+      "utterance": "それでは、ご相談内容、年齢、性別を教えてください。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T19:32:06",
+      "utterance": "29歳、男です。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T19:32:37",
+      "utterance": "彼女とのことで相談したいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T19:33:18",
+      "utterance": "彼女とのことですね。かしこまりました。あと、何とお呼びしたらいいでしょうか。ニックネームでも大丈夫ですよ。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T19:33:45",
+      "utterance": "田中で大丈夫です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T19:34:17",
+      "utterance": "田中さんですね。申し遅れました。私、沖村といいます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T19:34:41",
+      "utterance": "はい。よろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T19:35:07",
+      "utterance": "彼女さんと何かあったのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T19:36:30",
+      "utterance": "最近LINEの返信が中々返ってこないです…今朝から送っているのにまだ返信がきません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T19:37:23",
+      "utterance": "彼女さんからLINEの返事がすぐ返ってこないのですね。それは心配ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T19:38:01",
+      "utterance": "ここ最近ずっとこんな感じの日々です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T19:38:27",
+      "utterance": "ずっとなんですね。それは不安になりますね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T19:38:47",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T19:39:11",
+      "utterance": "以前はすぐに返事が返って来たんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T19:39:46",
+      "utterance": "そうなんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T19:40:33",
+      "utterance": "具体的にいつ頃から返事が遅くなったのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T19:41:22",
+      "utterance": "ここ2、3週間だと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T19:42:09",
+      "utterance": "ほんと最近なんですね。急激な変化は不安になりますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T19:42:52",
+      "utterance": "その前後で田中さんや、彼女さんに何か変化はありましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T19:43:06",
+      "utterance": "はい。急激なのか、だんだんなのか、もうよく分からないですが。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T19:43:15",
+      "utterance": "特に変化はないです。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T19:43:43",
+      "utterance": "返事が遅くなったということ以外には。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T19:44:35",
+      "utterance": "そうでしたか。直接は会ったりしているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T19:46:48",
+      "utterance": "ここ2、3週間の中だと、5日前に1時間くらい直接会って話しました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T19:47:32",
+      "utterance": "その時はどんな話をしたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T19:48:32",
+      "utterance": "最近どう？とか他愛もない話ですね。その時特に変わった様子とかはなかったです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T19:49:10",
+      "utterance": "なるほど。楽しく会話できましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T19:50:44",
+      "utterance": "私としては直接会って話せたので喜びだと感じていますが、彼女はどう思っているのか…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T19:51:43",
+      "utterance": "田中さんとしては楽しかったと感じているが、彼女さんが内心どう思っているのか気になるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T19:51:55",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T19:53:21",
+      "utterance": "田中さんは彼女さんから好かれているか、心配なのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T19:53:38",
+      "utterance": "そうです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T19:54:08",
+      "utterance": "そうでした。付き合う上で気になりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T19:54:28",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T19:55:34",
+      "utterance": "それで今回なLINEがすぐ返ってこないから、ホントは好かれてないのでは？と思ったのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T19:56:32",
+      "utterance": "そうです。ここ2、3週間ずっとなので、そう考えてしまいます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T19:59:52",
+      "utterance": "不安な気持ちの時、それに繋がる出来事があると余計不安になりますよね。田中さんとしては、彼女さんから好かれているという確証が得たいと思いますか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T20:00:49",
+      "utterance": "そりゃ得られるに越したことはないですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T20:01:07",
+      "utterance": "何か方法があるのですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T20:02:18",
+      "utterance": "方法とは違いますが、普段のやり取りを振り返ってみましょう。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T20:02:36",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T20:04:30",
+      "utterance": "では直近の事から。最近会った時の会話はどんな感じだったか。会話のキャッチボールが出来ていたでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T20:06:27",
+      "utterance": "「元気？」に対し「元気だよー」「最近どんなことあった？」に対し「こんなことあったー」"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T20:06:37",
+      "utterance": "とこんな感じですが。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T20:07:55",
+      "utterance": "なるほど。こんな事あった～からどちらかがよく話したりするのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T20:08:49",
+      "utterance": "私から話すことばかりです。相手は口下手で、自分から話したりしないので。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T20:09:47",
+      "utterance": "そうだったんですか。彼女さんは当初からあまり自分の事を喋る性分ではなかったのですか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T20:10:15",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T20:11:31",
+      "utterance": "それで田中さんの話題が中心になる事が多いのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T20:13:24",
+      "utterance": "いや、私は彼女のことを知りたいので、彼女のことを質問したり、でも質問ばかりにならないように意識して会話しています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T20:14:23",
+      "utterance": "すごいですね。会話内容のバランスを考えてらっしゃるんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T20:15:28",
+      "utterance": "そうじゃないと会話はお互いしんどくなるので。本当は、彼女からもっと話してほしいなと思っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T20:16:09",
+      "utterance": "そうですね。もっといろいろ話をしたいですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T20:16:18",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T20:17:11",
+      "utterance": "思ってることを率直に話してほしいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T20:17:36",
+      "utterance": "彼女さんは口下手なぶん返事・返答が少ない状態でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T20:18:06",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T20:20:11",
+      "utterance": "田中さんは彼女さんが返事・返答したときはそのまま聞いている感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T20:21:03",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T20:22:48",
+      "utterance": "その時すごいね！とか、嫌だよね～といった彼女さんの考えに共感していますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T20:23:54",
+      "utterance": "はい。話して良かったと思ってもらえるようにいつも考えています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T20:26:00",
+      "utterance": "そうなんですね。田中さんも彼女さんに共感しているんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T20:26:52",
+      "utterance": "それが当たり前だと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T20:27:09",
+      "utterance": "素晴らしいです。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T20:28:06",
+      "utterance": "共感しなかったら、嫌な人だと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T20:29:02",
+      "utterance": "お話を聞いている限りですと、田中さんはきちんと彼女さんに向き合っている。決してひどい扱いをしていないと感じました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T20:29:16",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T20:30:31",
+      "utterance": "どうしたら返信がくるのでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T20:31:13",
+      "utterance": "はい、いいえで返しやすいメッセージを送ってみるのはどうでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T20:31:45",
+      "utterance": "彼女さんは口下手な分、返事に迷っている可能性もあります。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T20:31:55",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T20:33:16",
+      "utterance": "本音を聞くのは難しいですかね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T20:34:26",
+      "utterance": "本音を聞くなら、彼女さんが田中さんに何を話しても認めてくれるという考えを持ってからだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T20:35:06",
+      "utterance": "彼女さんの中でまだ、田中さんにこういう事いって変に思われないかなど疑念があるかもしれません。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T20:36:03",
+      "utterance": "やっぱり彼女は私に飽きたのかもしれません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T20:36:51",
+      "utterance": "飽きたと感じる心当たりがあるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T20:37:59",
+      "utterance": "今までLINEのやりとりをずっとしてきたのに、ここ最近ずっと返信が遅くなったり、来ないからです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T20:39:31",
+      "utterance": "LINEのやり取りがきっかけですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T20:40:17",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T20:40:22",
+      "utterance": "デートの時の会話は以前と変わらないのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T20:40:54",
+      "utterance": "先程も言いましたが、特に変化はないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T20:41:24",
+      "utterance": "そうでしたね。失礼しました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T20:41:42",
+      "utterance": "すみません、そろそろ寝る時間なので、このあたりで終わりにさせていただきたいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T20:42:04",
+      "utterance": "わかりました。ありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T20:42:51",
+      "utterance": "お話聞いてくださってありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T20:43:19",
+      "utterance": "こちらこそありがとうございます。お力になれず、すみません。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T20:43:39",
+      "utterance": "大丈夫です。相談できてよかったです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T20:44:25",
+      "utterance": "本当に今日はありがとうございました。また機会があった時はよろしくお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-05T20:44:37",
+      "utterance": "よろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-05T20:44:57",
+      "utterance": "それでは失礼します。おやすみなさい。"
+    }
+  ],
+  "topic": {
+    "main_jp": "恋愛問題",
+    "main_en": "Romantic Issues",
+    "sub": "彼女とのコミュニケーション不足"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3777,
+    "評価作成日時": "2022-08-07T22:37:00",
+    "クライアント役ID": 136,
+    "カウンセラー役ID": 302,
+    "点数": 51,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 2,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3777,
+    "evaluation_created_at": "2022-08-07T22:37:00",
+    "client_id": 136,
+    "counselor_id": 302,
+    "score": 51,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

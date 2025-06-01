@@ -1,0 +1,789 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2020-08-10T17:59:18",
+      "utterance": "本日はよろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:59:25",
+      "utterance": "こんにちは。本日は、よろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:59:37",
+      "utterance": "お時間になりましたので、はじめてもよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T17:59:44",
+      "utterance": "お願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T17:59:56",
+      "utterance": "よろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:00:32",
+      "utterance": "ご相談ありがとうございます。性別、年齢、あなた様をなんとお呼びしたらよろしのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:01:37",
+      "utterance": "あゆみと申します。30代前半、女です。よろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:01:46",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:02:11",
+      "utterance": "早速ですが、あゆみ様本日の相談内容を教えてください。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:02:37",
+      "utterance": "もうすぐ結婚するのですが"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:03:12",
+      "utterance": "これまで自分の母親に色々なことを相談していたのですが"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:03:38",
+      "utterance": "彼と母の考えが違うことが多くて"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:04:24",
+      "utterance": "自分としてはどちらが良いのか迷うことがありまして困っています"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:04:51",
+      "utterance": "まず、あゆみ様ご結婚おめでとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:04:59",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:05:47",
+      "utterance": "彼と母親の考えが違い板挟みになって辛いですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:05:57",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:06:14",
+      "utterance": "どちらの話もわかるので"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:06:53",
+      "utterance": "そうなんですか。今の状況は、大変ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:07:05",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:07:27",
+      "utterance": "彼氏様とは、どれぐらいお付き合いしたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:08:21",
+      "utterance": "友人として長い付き合いでしたが、"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:08:44",
+      "utterance": "付き合ったのは1年位です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:09:22",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:09:29",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:10:36",
+      "utterance": "彼氏様と母親は、どう言ったことが考えが違うのか詳しく教えてもらえますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:10:48",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:11:08",
+      "utterance": "まず結婚式の件です"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:11:59",
+      "utterance": "彼は写真だけで良いんじゃないと言っているのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:12:42",
+      "utterance": "結婚式の件で写真とは何でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:13:13",
+      "utterance": "説明不足ですみません"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:13:30",
+      "utterance": "ゆっくりで大丈夫ですよ。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:13:38",
+      "utterance": "彼と一緒に写真を撮ってもらうことです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:14:02",
+      "utterance": "そういうことですね。ありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:14:03",
+      "utterance": "タキシード、ドレスで"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:14:16",
+      "utterance": "和装で"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:14:44",
+      "utterance": "母は少人数でも集まった方が良いんじゃないのと"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:15:35",
+      "utterance": "彼の家族と顔合わせをした方が良いんじゃないのと言っています"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:15:54",
+      "utterance": "少人数とは、家族や親戚でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:16:03",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:16:16",
+      "utterance": "友人を呼んでとなると"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:16:50",
+      "utterance": "あの人呼んでこの人呼ばないとなると申し訳ないので"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:17:28",
+      "utterance": "結婚式は、そうなりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:17:38",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:17:49",
+      "utterance": "母親は、今のところ身内で結婚式をしたいということですよね？"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:17:58",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:18:30",
+      "utterance": "彼氏さんは、友人を呼んで結婚式を挙げたいということですよね？"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:18:54",
+      "utterance": "いいえ"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:19:06",
+      "utterance": "彼は写真だけで良いんじゃないと言っています"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:19:30",
+      "utterance": "失礼いたしました。そういうことですか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:19:36",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:19:59",
+      "utterance": "私の姉が写真のみで済ませてしまって"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:20:20",
+      "utterance": "母の気持ちもわかるのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:20:28",
+      "utterance": "そうだったのですか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:20:33",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:21:15",
+      "utterance": "結婚式は大切ですからね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:21:22",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:22:01",
+      "utterance": "他に、結婚式で何かありますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:22:34",
+      "utterance": "結婚式のことは"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:22:59",
+      "utterance": "他にありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:24:04",
+      "utterance": "ちなみに、結婚式はいつ行なわれるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:24:39",
+      "utterance": "コロナの影響で延期にしまして"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:25:04",
+      "utterance": "写真のみにするのか"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:25:13",
+      "utterance": "食事会にするのか"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:25:23",
+      "utterance": "そうなんですか…大変な時期ですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:25:38",
+      "utterance": "内容が決まっていない状況ですので"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:25:49",
+      "utterance": "日程も決まっていません"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:26:14",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:26:14",
+      "utterance": "そうなんですね。まだ、何も決まってない状況ですか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:26:31",
+      "utterance": "具体的には決まっていなくて"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:26:40",
+      "utterance": "どうしたら良いのか"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:26:52",
+      "utterance": "考えているところです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:27:01",
+      "utterance": "そうですよね。不安になりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:27:08",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:28:07",
+      "utterance": "お姉さんは、写真の結婚式でしたが、母親は何か言ってましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:28:54",
+      "utterance": "式と披露宴はしてほしかったようです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:29:09",
+      "utterance": "そうですか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:29:15",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:29:52",
+      "utterance": "あゆみ様は、お姉さんの結婚式をどのようにかんじましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:30:38",
+      "utterance": "姉達が決めたことなので"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:30:53",
+      "utterance": "特に何も思いませんでした"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:31:05",
+      "utterance": "そうですか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:31:45",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:32:00",
+      "utterance": "彼氏様は、写真の結婚式をどのように思っているのかくわしく聞かしてもらえますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:32:52",
+      "utterance": "わざわざ人を招かなくても写真だけで良いんじゃないといった感じです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:33:18",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:33:23",
+      "utterance": "人前が恥ずかしいみたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:33:47",
+      "utterance": "今までの、話を要約してもよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:34:04",
+      "utterance": "はいお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:34:42",
+      "utterance": "あゆみ様は、結婚の悩みで彼と母親の考えの違いで板挟みになっている。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:34:58",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:37:32",
+      "utterance": "彼氏様は、結婚式の件を写真だけで良いと言う。人前に出るのが恥ずかしい。しかし、母親は身内同士で結婚式を考えている。お姉様が、写真で済ませたというのもある。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:37:49",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:38:10",
+      "utterance": "今、コロナウイルスの影響で結婚式が延期になってしまった。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:38:19",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:39:38",
+      "utterance": "すみません。話が飛んでしまったのですが、あゆみ様は彼と母親の考えの違いで板挟みになっている状態。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:40:08",
+      "utterance": "いいえ"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:40:37",
+      "utterance": "はじめに仰っていました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:40:57",
+      "utterance": "失礼いたしました。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:41:13",
+      "utterance": "とんでもないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:41:27",
+      "utterance": "このように要約したのですが、よろしかったでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:41:41",
+      "utterance": "はいありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:42:07",
+      "utterance": "あゆみ様が、一番解決したいことは何でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:42:32",
+      "utterance": "解決したいことですか"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:42:49",
+      "utterance": "どちらの言い分もわかるのですが"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:43:16",
+      "utterance": "自分でもどうして良いかわからないです"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:44:21",
+      "utterance": "母の気分を損ねたくないですし"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:44:36",
+      "utterance": "彼の意見も尊重したいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:45:20",
+      "utterance": "そうですよね。どちらの言い分も尊重したいですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:45:32",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:46:24",
+      "utterance": "あゆみ様は、結婚式を挙げるならどのようにお考えか聞かせてもらえますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:46:54",
+      "utterance": "私は何もしなくて良いと思っていました"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:47:08",
+      "utterance": "ドレスを着たいとかもなく"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:47:46",
+      "utterance": "あゆみ様は、そのように考えているのですか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:47:53",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:48:17",
+      "utterance": "彼氏様と母親は、ご存知でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:48:23",
+      "utterance": "婚姻届を出して新しい生活が始まっただけで十分です"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:48:39",
+      "utterance": "彼は知っています"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:48:57",
+      "utterance": "母には話していないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:49:07",
+      "utterance": "そうねんですね。彼は知っているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:49:15",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:49:34",
+      "utterance": "彼様は、どのように考えているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:49:54",
+      "utterance": "恐らくですが"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:50:21",
+      "utterance": "写真くらいは撮って"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:50:48",
+      "utterance": "思い出としたい感じでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:51:26",
+      "utterance": "彼氏様は、そのような感じなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:51:35",
+      "utterance": "よく一緒に写真を撮っていますので"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:51:44",
+      "utterance": "その延長だと思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:51:48",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:52:48",
+      "utterance": "そうなんですか。素敵な写真がたくさんあって、いいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:53:07",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:53:51",
+      "utterance": "このことを、彼氏様以外に誰かに相談しましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:54:09",
+      "utterance": "姉には話しています"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:54:53",
+      "utterance": "お姉さんは、何か言ってましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:55:10",
+      "utterance": "ごめんねと言っていました"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:55:33",
+      "utterance": "私がちゃんとしなかったからと"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:56:27",
+      "utterance": "そういうことですか。そんなことないと思いますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:56:47",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T18:58:30",
+      "utterance": "今日は、そろそろお時間なので、また、改めてご相談いただいてもよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T18:58:44",
+      "utterance": "はいありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T19:00:34",
+      "utterance": "今日は、結婚について相談しました。コロナウイルスの影響で、結婚式が延期になりましたが本当に幸せな結婚式が挙げれるように願っています。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-10T19:00:49",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T19:00:55",
+      "utterance": "本日はありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-10T19:01:40",
+      "utterance": "(ロールプレイを終了します。本日は、ありがとうございました。)"
+    }
+  ],
+  "topic": {
+    "main_jp": "恋愛問題",
+    "main_en": "Romantic Issues",
+    "sub": "結婚式に関する意見の相違"
+  },
+  "review_by_client_jp": {
+    "評価ID": 315,
+    "評価作成日時": "2020-08-10T20:10:00",
+    "クライアント役ID": 40,
+    "カウンセラー役ID": 69,
+    "点数": 76,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 4,
+    "要約": 5,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 315,
+    "evaluation_created_at": "2020-08-10T20:10:00",
+    "client_id": 40,
+    "counselor_id": 69,
+    "score": 76,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

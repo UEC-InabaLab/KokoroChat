@@ -1,0 +1,644 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2020-11-06T13:23:27",
+      "utterance": "本日はよろしくお願いいたします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T13:25:54",
+      "utterance": "こちらこそよろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T13:26:36",
+      "utterance": "今回初めてカウンセラー役をします。色々不得手なところもあるとおもいますが、よろしくお願いします"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T13:27:06",
+      "utterance": "了解しましたこちらこそよろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T13:28:13",
+      "utterance": "30分になったら開始でいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T13:28:49",
+      "utterance": "はい、大丈夫です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T13:30:31",
+      "utterance": "30分がきたので、始めます。よろしくお願いします"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T13:30:58",
+      "utterance": "お願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T13:31:49",
+      "utterance": "こんにちは。今日はどんな事でこちらに入られましたか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T13:32:21",
+      "utterance": "よかったら、年齢と性別を教えてください"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T13:32:21",
+      "utterance": "勉強についていけなくて"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T13:32:28",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T13:32:53",
+      "utterance": "17歳、男です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T13:33:30",
+      "utterance": "高校生なんですね。何科ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T13:34:00",
+      "utterance": "機械工学科です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T13:35:05",
+      "utterance": "機械工学科なんですね。主にどんなことを勉強しますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T13:35:30",
+      "utterance": "機械のことです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T13:36:09",
+      "utterance": "勉強についていけないというのは、何か特定のぶんやなのでしょうか？それとも全体的に？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T13:37:24",
+      "utterance": "特定なんですかね？４力と言われるブンヤが難しいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T13:38:10",
+      "utterance": "４力というのがあるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T13:38:39",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T13:39:10",
+      "utterance": "私はあまり詳しくないけど、専門的な要素が強いのでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T13:39:44",
+      "utterance": "理論だけでなく、実習もありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T13:40:14",
+      "utterance": "そうですね特に熱力学と流体力学はよくわかりません"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T13:40:23",
+      "utterance": "実習もあります"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T13:40:52",
+      "utterance": "理論と実習だったら、どちらが苦手ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T13:41:03",
+      "utterance": "理論です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T13:41:22",
+      "utterance": "担当の先生には相談してみましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T13:41:55",
+      "utterance": "いえ、してないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T13:42:24",
+      "utterance": "相談しにくい先生ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T13:42:42",
+      "utterance": "そういうわけでもないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T13:43:18",
+      "utterance": "わからなければ、きいてみるのも1つの方法だと思いますが、どうでしょう？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T13:43:45",
+      "utterance": "なんか聴くのってむずかいじゃないですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T13:43:59",
+      "utterance": "難しいですか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T13:44:13",
+      "utterance": "そうじゃありません？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T13:44:42",
+      "utterance": "どうしてもって時は聞くかも。テスト前とか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T13:45:39",
+      "utterance": "あまり差が開くと＜わからないところがわからない＞になっちゃうし、わからないとやる気なくすし。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T13:46:20",
+      "utterance": "難しいけど、熱力学と流体力学には興味がありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T13:46:44",
+      "utterance": "ないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T13:47:08",
+      "utterance": "ないと、確かにききにくいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T13:47:39",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T13:47:59",
+      "utterance": "ちなみに熱力学と流体力学は必須科目ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T13:49:29",
+      "utterance": "そうですね選択科目は数学とか英語なので"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T13:50:10",
+      "utterance": "ついていけないと思うと、どんな気持ちになりますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T13:51:15",
+      "utterance": "ヤヴァイなって気持ちです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T13:51:45",
+      "utterance": "成績が悪いと、進路に響きますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T13:52:08",
+      "utterance": "響くのではないのですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T13:52:35",
+      "utterance": "どういった進路を考えていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T13:52:54",
+      "utterance": "考えてないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T13:53:53",
+      "utterance": "進む分野や進路によっては、熱力学と流体力学が必要ないところもあると思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T13:54:44",
+      "utterance": "進学とか就職のどちらかも、まだ決まっていない状態ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T13:55:21",
+      "utterance": "決めてないですまだ２年ですし"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T13:55:31",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T13:56:10",
+      "utterance": "ならば、とりあえず重要な所のみ、勉強をしていくというのはどうでしょう？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T13:56:49",
+      "utterance": "苦手な分野を覚えるのって、結構しんどくなったりしませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T13:57:38",
+      "utterance": "必須は重要なとこだと思うのですがどうなんですかね？苦手な部分やるのはしんどいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T13:59:04",
+      "utterance": "必須科目でも、覚えなければいけないところとそんなに覚えなくていいところもあると思うんです。テストに出るところ・成績に響くところのみ覚えるとか、負担を減らしてみてはどうでしょう？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T13:59:58",
+      "utterance": "私も経験ありますが、苦手な科目は教科書を読むのも嫌になったりしませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T14:00:25",
+      "utterance": "嫌になります"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T14:00:52",
+      "utterance": "そうですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T14:01:53",
+      "utterance": "＜全部覚えなきゃ＞って思うと、しんどいと思うんです。テストのときだけ、とりあえず覚えるとか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T14:02:41",
+      "utterance": "そういう方法があるんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T14:03:26",
+      "utterance": "暗記する分に関しては、そんな方法もおすすめです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T14:04:04",
+      "utterance": "＜覚えなきゃ＞って思うと、プレッシャーになりませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T14:04:21",
+      "utterance": "でもそもそも全体的に難しいです最初から"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T14:04:43",
+      "utterance": "なります"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T14:05:48",
+      "utterance": "＜苦手なんだけど、とりあえずテストのときだけは覚える＞っていうのはどうでしょう？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T14:06:21",
+      "utterance": "少しでも気持を楽にするために。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T14:07:10",
+      "utterance": "それしかない感じなんですかね～"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T14:07:40",
+      "utterance": "苦手科目を得意にしたい感じですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T14:07:55",
+      "utterance": "もっと興味を持ってみたいとか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T14:08:37",
+      "utterance": "できることに越したことはないかと"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T14:08:57",
+      "utterance": "ついていけないと最初に言われたけど、ついていけないと何が一番気になりますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T14:10:38",
+      "utterance": "ついていけない⇒点数落ちる⇒内申落ちる⇒進学、就職できない"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T14:10:59",
+      "utterance": "スパイラルですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T14:11:26",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T14:12:06",
+      "utterance": "確かにできることに越したことはないです。出来たら勉強も楽しいし、成績も良いし、進学・就職がしやすい。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T14:12:33",
+      "utterance": "そう思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T14:12:42",
+      "utterance": "ただ、みんながみんなパーフェクトにできるわけではないと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T14:13:48",
+      "utterance": "ここにそういう人がいますピエン"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T14:14:10",
+      "utterance": "パーフェクトでなくてもいいんですよ"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T14:14:44",
+      "utterance": "苦手な分野は最低限にして、得意分野で成績を上げる。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T14:15:37",
+      "utterance": "進路によっては、苦手分野が全く必要ないところもあるし、推薦を受けるにしても、一定の平均点が取れれば大丈夫なところも多いです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T14:16:32",
+      "utterance": "オールマイティーに何でもできる人ってそうそういませんから。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T14:16:53",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T14:18:22",
+      "utterance": "進学や就職にしても、自分が得意な分野で進んで行った方が、やる気が出るし、続けられますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T14:19:31",
+      "utterance": "全部の科目についていけないのであれば、それは大変だけど、苦手科目以外で、どうにかなっているのなら、得意分野を伸ばしていく方法もありだと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T14:20:11",
+      "utterance": "得意科目が実技なので、限界を感じてはいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T14:20:40",
+      "utterance": "実習が大変なんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T14:21:01",
+      "utterance": "ものを作るとかならできるのですがシャーペン持ってやる勉強は製図以外だめです"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T14:21:24",
+      "utterance": "実習は大変な意識はありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T14:21:40",
+      "utterance": "実習は楽しいんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T14:21:52",
+      "utterance": "なるほど。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T14:23:21",
+      "utterance": "全体的にある程度の平均点が必要ならば、苦手科目はテストのみ覚えるということで、割り切る。実習が好きなら、できるだけその部分を丁寧に行ったり、創意工夫をしてみる。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T14:24:16",
+      "utterance": "どういう工夫ですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T14:24:27",
+      "utterance": "私はよくわからないけど、製図って細かい作業だと思うんです。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T14:24:38",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T14:25:17",
+      "utterance": "皆と同じような感じではなく、ちょっと視点を変えてみるとか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T14:25:48",
+      "utterance": "難しいそうですね、、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T14:26:59",
+      "utterance": "集中力が必要だろうし、ちょっとした寸法のミスもだめですよね？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T14:27:27",
+      "utterance": "そういうところを丁寧にしていくと、評価も上がると思います。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T14:27:45",
+      "utterance": "わかりました、やってみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T14:28:12",
+      "utterance": "時間がそろそろ終わりに近づいてきているのですが、私からのまとめをしてもいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T14:28:27",
+      "utterance": "お願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T14:32:17",
+      "utterance": "・苦手科目についていけなくても、テストのみ覚えればいいと思って割り切る。・成績が悪いと、進路に響くと思いがちだけど、得意な分野や好きなことの方へ行くことを考えてみる。・みんながみんなパーフェクトでないということ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T14:33:37",
+      "utterance": "苦手意識については、すべて克服しようと思わなくてもいいこと。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T14:33:57",
+      "utterance": "こんな感じですが、いかがでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T14:34:59",
+      "utterance": "わかりました、やってみますありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T14:35:27",
+      "utterance": "また、何かあれば、いつでも入ってきてくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T14:35:43",
+      "utterance": "わかりました、ありがとうございました"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T14:35:50",
+      "utterance": "(ありがとうございました)"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T14:36:13",
+      "utterance": "・ロールプレイ終了ということで、いいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T14:36:47",
+      "utterance": "(そうですね、修了の仕方は大丈夫ですか？)"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-06T14:36:58",
+      "utterance": "(終了ですね)"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-06T14:37:18",
+      "utterance": "お疲れさまでした。ありがとうございました。"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "勉強についていけないことによる進路への影響"
+  },
+  "review_by_client_jp": {
+    "評価ID": 662,
+    "評価作成日時": "2020-11-06T14:48:00",
+    "クライアント役ID": 51,
+    "カウンセラー役ID": 112,
+    "点数": 60,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 662,
+    "evaluation_created_at": "2020-11-06T14:48:00",
+    "client_id": 51,
+    "counselor_id": 112,
+    "score": 60,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

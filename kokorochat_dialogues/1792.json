@@ -1,0 +1,564 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-05-05T14:54:55",
+      "utterance": "こんにちは。本日はよろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T14:55:04",
+      "utterance": "お時間になりましたら声をおかけいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T14:56:19",
+      "utterance": "こんにちは。こちらこそよろしくお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T14:56:22",
+      "utterance": "承知致しました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:00:24",
+      "utterance": "こんにちは。相談員です。本日はご相談にお越しいただきありがとうございます。 差し支えなければ、はじめにご年齢と性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T15:00:51",
+      "utterance": "こんにちは。27歳、男です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:01:19",
+      "utterance": "ありがとうございます。今日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T15:02:19",
+      "utterance": "両親のことなのですが、昔から喧嘩が絶えなくて、いつも僕が仲裁に入っていました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:03:16",
+      "utterance": "ええ、そうだったのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T15:03:33",
+      "utterance": "でも、僕は家を出ていまして。今も両親は険悪で、どうしても気になってしまって。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:04:07",
+      "utterance": "はい。ご両親を心配されているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T15:04:14",
+      "utterance": "ええ、どう折り合いをつけて行っていいか分からないんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:05:11",
+      "utterance": "そうなんですね。簡単ではないですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T15:05:29",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:05:52",
+      "utterance": "ちなみにご実家とはどのくらいの距離にお住まいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T15:07:39",
+      "utterance": "同じ県なのですが、市が違うくらいで、具体的な距離というと、車で1時間くらいですかね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:08:46",
+      "utterance": "ええ、そうだったんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:09:47",
+      "utterance": "ご両親の喧嘩について、あなたはどのような考えが浮かびますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T15:10:46",
+      "utterance": "仲良くとまではいかないまでも、普通に出来ないかなと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:12:00",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:12:24",
+      "utterance": "そう思いますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:13:23",
+      "utterance": "ご両親がなぜ、喧嘩に発展するのかなど、教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T15:14:43",
+      "utterance": "良く分からないですが、些細なことで、父が怒り出し母がそれに反発する感じです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:15:47",
+      "utterance": "そうなんですね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:16:23",
+      "utterance": "話の途中ですが、あなたのことを何とお呼びすればいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T15:17:23",
+      "utterance": "あ、はい。じゃあ橋本で。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:17:56",
+      "utterance": "橋本さんですね。ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:18:33",
+      "utterance": "ご両親は現在、二人暮らしですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T15:18:54",
+      "utterance": "はい、そうです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:20:01",
+      "utterance": "はい。ちなみに橋本さんはご兄弟はいらっしゃいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T15:21:05",
+      "utterance": "弟がいますが、弟も県外の大学に行ってて家を出てます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:21:44",
+      "utterance": "なるほど、そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:22:37",
+      "utterance": "では今回のご相談で一番相談したいことを教えてください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T15:23:03",
+      "utterance": "えっと、どうしたら気持ちに折り合いがつけられるか、ですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:24:18",
+      "utterance": "はい。お答えいただき、ありがとうございます。大事なことなので、一緒に考えていきましょうね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T15:25:25",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:26:23",
+      "utterance": "橋本さんは、この件のご相談を友人または支援機関などに、ご相談されたことはありましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T15:26:58",
+      "utterance": "友人にはありますが、支援期間には無いです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:27:50",
+      "utterance": "ええ。そうなんですね。ご友人はその時、何と言ってましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T15:29:06",
+      "utterance": "もうお前がそこまで気にしなくてもいいんじゃないか？とか、ほっとけばいいと言っていました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:30:13",
+      "utterance": "そうだったんですね…心配で気になってるからご相談されたんですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T15:30:25",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:31:24",
+      "utterance": "そうですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:31:46",
+      "utterance": "ここまでのお話を少し整理してもよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T15:31:55",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:32:16",
+      "utterance": "ありがとうございます。少しお時間いただきますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:34:00",
+      "utterance": "橋本さんのご両親は昔から喧嘩が絶えず、いつも橋本さんが仲裁に入っていらっしゃっていました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:35:34",
+      "utterance": "今は橋本さんが家を出ているため、常に両親と関わるのは難しく、どう気持ちに折り合いをつけるか、悩まれている。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:35:47",
+      "utterance": "ということでよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T15:36:35",
+      "utterance": "関わるのが難しいから、が理由というわけでも無いような気がします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:38:14",
+      "utterance": "はい、失礼致しました。理由としてはずっと両親が険悪な関係、ということですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T15:40:07",
+      "utterance": "そうですね…友人の言う通り、気にしなくてもいいと思うのに気にしてしまうこと自体が、なんでなんだろうって。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:41:08",
+      "utterance": "なるほど、そうなのですね。ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:41:49",
+      "utterance": "喧嘩のことを除き、橋本さんはご両親をどう思っていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T15:42:20",
+      "utterance": "普通に大切には思ってると思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:43:59",
+      "utterance": "そうなんですね。橋本さんがご両親を気になってしまうのは、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:44:29",
+      "utterance": "そういう想いがあるからこそ、だと思いました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T15:45:27",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:46:51",
+      "utterance": "ご両親のために、できそうなことは小さなことでもいいので、何か思い浮かびますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:47:26",
+      "utterance": "例えば、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:48:27",
+      "utterance": "「週末はご飯に連れて行く」とか「趣味を一緒に楽しむ」など、という感じです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T15:49:22",
+      "utterance": "まあ、そう言うのも含め色々試しましたが、ダメでした、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:50:00",
+      "utterance": "色々試されたんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T15:50:26",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:51:41",
+      "utterance": "質問ばかりで恐縮ですが、橋本さんは「どうしたら気持ちに折り合いがつけられるか？」とおっしゃってましたが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:52:56",
+      "utterance": "この気持ちについて、教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T15:53:19",
+      "utterance": "？例えば？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T15:54:46",
+      "utterance": "なんでそう思うか？ということですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:55:12",
+      "utterance": "失礼致しました。この気持ちというのは、「両親のことを気になってしまうのはなんでだろう？」のことですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T15:56:48",
+      "utterance": "ああ、はい、そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:57:24",
+      "utterance": "分かりづらい質問をしてしまい、申し訳ございません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:58:45",
+      "utterance": "さきほど"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T15:59:29",
+      "utterance": "橋本さんから、両親を「大切に思う」という言葉が出てきました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T16:00:35",
+      "utterance": "この気持ちをご両親が知ったら、とても嬉しいだろうなと思いました。私もその言葉が聞けて、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T16:01:34",
+      "utterance": "橋本さんがご両親のことで、悩まれてきた、と同時に大切に思ってきたことがとても伝わりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T16:03:48",
+      "utterance": "私はこう思うのですが、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T16:04:12",
+      "utterance": "あ、はい、ありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T16:04:39",
+      "utterance": "承認していただけて、ありがたいと思っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T16:05:30",
+      "utterance": "はい。でも、橋本さんの中から出た言葉ですよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T16:06:06",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T16:07:06",
+      "utterance": "喧嘩の解決策には正直ならないと思いますが、でも「大切に思う」気持ちはそれ以上に重要だと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T16:07:59",
+      "utterance": "お時間長引き、申し訳ないですが、何かご質問等ありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T16:09:09",
+      "utterance": "ん〜、どうしたら気にしなくて済むのかが聞きたいのですが、結局どうしたら良かったんですかね？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T16:11:07",
+      "utterance": "はい。橋本さんは「気になること」について、どう感じてますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T16:11:31",
+      "utterance": "なぜなのだろう、と思っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T16:12:11",
+      "utterance": "そうでしたよね。繰り返しになり失礼致しました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T16:13:02",
+      "utterance": "まあ、諦めるしか無いんですよね。何やっても変わらなかったんだから。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T16:14:03",
+      "utterance": "結局自分は何も出来なかったですが、とりあえずそれを受け入れていこうと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T16:14:43",
+      "utterance": "橋本さんがそれだけご両親を想うからこそ、気になってしまうのだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T16:15:18",
+      "utterance": "なので、気になってしまうことは自然なことで、悪いことではないですよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T16:15:53",
+      "utterance": "ええ、そうですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T16:16:04",
+      "utterance": "今日はお話聞いてくださりありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T16:16:24",
+      "utterance": "諦めの気持ちが湧いたのも一歩だと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T16:16:57",
+      "utterance": "はい。ありがとうございました。あまり役に立てず、申し訳ありません。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T16:17:27",
+      "utterance": "いえ、仰っていただいたように両親への想いも大切にしながら、少しずつでも手放して行こうと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T16:17:45",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-05T16:18:09",
+      "utterance": "失礼致します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T16:18:23",
+      "utterance": "手放す必要はないですからね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-05T16:18:47",
+      "utterance": "それでは失礼いたします。"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "両親の喧嘩による心理的負担"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1792,
+    "評価作成日時": "2021-05-05T16:41:00",
+    "クライアント役ID": 115,
+    "カウンセラー役ID": 136,
+    "点数": 29,
+    "聴いてもらえた、わかってもらえたと感じた": 1,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 0,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 0,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 0,
+    "全体として適切でよかった": 1,
+    "今回の相談は価値があった": 1,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 0,
+    "受容・共感": 2,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 2,
+    "要約": 2,
+    "問題の明確化": 1,
+    "この相談での目標の明確化": 1,
+    "次の行動につながる提案": 1,
+    "勇気づけ・希望の喚起": 1,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1792,
+    "evaluation_created_at": "2021-05-05T16:41:00",
+    "client_id": 115,
+    "counselor_id": 136,
+    "score": 29,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 3,
+    "gained_new_insights": 0,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 0,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 0,
+    "felt_appropriate_and_satisfying": 1,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 0,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 1,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

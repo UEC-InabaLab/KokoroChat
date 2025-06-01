@@ -1,0 +1,939 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2021-04-09T18:54:44",
+      "utterance": "こんにちは、よろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T18:54:47",
+      "utterance": "お疲れ様です。本日はよろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T18:55:31",
+      "utterance": "時間になりましたら、始めさせていただきますね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T18:55:42",
+      "utterance": "はい、お願いいたします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:00:04",
+      "utterance": "こんにちは、相談員です。本日はご相談にお越しいただきありがとうございます。まず、年齢と性別、あなたのお名前（仮名で大丈夫です）を教えてもらえますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:00:23",
+      "utterance": "38、女、みゆき"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:01:05",
+      "utterance": "みゆきさんですね。教えていただきありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:01:28",
+      "utterance": "本日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:01:37",
+      "utterance": "漠然と死にたい気持ちが強くてしんどい。死にたいです、ごめんなさい"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:02:06",
+      "utterance": "もう生きていくのが苦しい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:02:32",
+      "utterance": "謝ることはないですよ。死にたいという気持ちがあるのですね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:02:46",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:03:40",
+      "utterance": "そうなんですね、、苦しいと思うほど、つらいのですね、、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:03:40",
+      "utterance": "死んでしまいたい、つらい、つらいです"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:04:44",
+      "utterance": "こんなこと話して、ごめんなさい、どうでもいいと思うんですけど、ごめんなさい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:04:47",
+      "utterance": "いつから死にたいと思うようになったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:05:13",
+      "utterance": "高校生くらいからずっと思ってました"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:05:38",
+      "utterance": "いまも、ごめんなさい、文字を打ってないと苦しくて"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:05:56",
+      "utterance": "どうでもいいとは思わないですよ。みゆきさんが苦しい思いをしてるのが痛いほど伝わります、、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:06:08",
+      "utterance": "死にたい死にたい、どうしたらいいのですか"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:06:15",
+      "utterance": "痛いのは嫌なんです"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:06:19",
+      "utterance": "苦しいのも怖い"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:06:36",
+      "utterance": "死ぬのすらうまくできない自分は、本当に情けない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:07:04",
+      "utterance": "高校生の頃からなんですね、、そんな前から思っていたのですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:07:24",
+      "utterance": "ずっと、消えたいって思ってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:08:15",
+      "utterance": "死ぬのにうまいも下手もないですよ"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:08:31",
+      "utterance": "そうでしょうか…"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:08:44",
+      "utterance": "フッと意識を失うか"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:08:54",
+      "utterance": "それか、何かの事故にあいたい"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:09:08",
+      "utterance": "なんでこんな自分が生きているのか…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:09:48",
+      "utterance": "（聴いていますよ）"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:09:51",
+      "utterance": "痛いのは怖い、消えたい…"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:09:56",
+      "utterance": "もう嫌だ、嫌です"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:10:16",
+      "utterance": "ずっと1人でいて"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:10:22",
+      "utterance": "誰もいない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:10:27",
+      "utterance": "痛いのは怖いですよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:10:36",
+      "utterance": "私の居場所はどこにもないんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:11:13",
+      "utterance": "そう思われているんですね、、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:11:25",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:11:56",
+      "utterance": "なにかきっかけがあったのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:12:04",
+      "utterance": "なんのですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:12:31",
+      "utterance": "死にたいと思うきっかけです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:12:43",
+      "utterance": "ずっと思いすぎて忘れました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:13:02",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:14:03",
+      "utterance": "先ほど高校生のころから死にたい思ってるといってましたが、そのときはなにかあったのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:14:24",
+      "utterance": "母親から虐待されて、追い出されました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:15:16",
+      "utterance": "そうなんですね。それはとても苦しい思いをしてきたんですね、、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:15:28",
+      "utterance": "家がなくて、男の家を点々としてたけど、そこでも殴られたりして、逃げ回る日々でした"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:15:45",
+      "utterance": "なんでこんなわたしだけ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:16:28",
+      "utterance": "そうなんですね。どうしてって思いますよね、、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:16:38",
+      "utterance": "ずっと思ってます"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:16:42",
+      "utterance": "早く終われって"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:17:30",
+      "utterance": "早く終われ、、というのはどうゆう意味ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:17:41",
+      "utterance": "自分の人生がです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:18:08",
+      "utterance": "そうなんですね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:18:14",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:19:36",
+      "utterance": "実際に死のうとしたことはあるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:20:02",
+      "utterance": "一回首を絞めてみたことはあります"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:20:42",
+      "utterance": "やってみてどう思われましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:21:17",
+      "utterance": "ただ苦しかった"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:22:07",
+      "utterance": "そうですよね、、苦しいですよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:22:13",
+      "utterance": "完遂するのは無理だなって"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:22:32",
+      "utterance": "あと、血が怖いので、自傷とか、線路に飛び込むとかは無理だなって"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:23:05",
+      "utterance": "そうですねすごく痛そうですしね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:23:13",
+      "utterance": "確実に死ねるのがいいんですけど、無くて。苦しいのしかない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:23:59",
+      "utterance": "そうですね。死ぬのはとても苦しいことだと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:24:35",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:24:55",
+      "utterance": "何回くらい実際に死のうと思って行動したのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:25:47",
+      "utterance": "2回です"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:25:50",
+      "utterance": "首締めと"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:26:09",
+      "utterance": "一回ODするために風邪薬を準備しました"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:26:39",
+      "utterance": "でもなんかうまくいかなかったら入院らしいし、怖くてやめました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:27:11",
+      "utterance": "2回も、、、それほど追い詰められているのですね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:27:21",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:27:49",
+      "utterance": "脳内で自分をたくさん殺してるんですけど"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:28:05",
+      "utterance": "起きたら生きていて絶望します"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:28:12",
+      "utterance": "でも、今生きてここでお話できて私は嬉しいです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:28:29",
+      "utterance": "こんな話して、申し訳ないです"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:28:44",
+      "utterance": "ここなら、聞いてくれるときいて"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:28:54",
+      "utterance": "ダメ元で連絡しました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:29:17",
+      "utterance": "そうなんですね、、生きてることでそう思われてしまうのですね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:29:45",
+      "utterance": "申し訳ないと思うことはありませんよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:30:08",
+      "utterance": "ここでは何を話してもいいんです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:30:10",
+      "utterance": "勝手に死ねたらいいんですけど…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:31:06",
+      "utterance": "本当にここに話に来てくださって私は感謝の気持ちでいっぱいです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:31:25",
+      "utterance": "そうでしょうか…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:31:45",
+      "utterance": "はい、もちろんです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:31:56",
+      "utterance": "どうも。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:32:37",
+      "utterance": "ここではみゆきさんの素直な感情を話してください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:32:49",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:33:10",
+      "utterance": "大分落ち着いてきました"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:33:14",
+      "utterance": "すみませんでした"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:33:32",
+      "utterance": "それはよかったです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:34:03",
+      "utterance": "謝ることないですよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:35:07",
+      "utterance": "すみません以外浮かばなくて…"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:35:11",
+      "utterance": "ごめんなさい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:36:13",
+      "utterance": "そうなんですね、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:36:35",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:37:23",
+      "utterance": "普段の生活でも謝ることが多いのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:37:36",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:37:55",
+      "utterance": "派遣の仕事で、ミスばかりして"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:38:00",
+      "utterance": "空気も悪くしちゃうし"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:38:19",
+      "utterance": "（聴いていますよ）"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:39:09",
+      "utterance": "他の人から怒鳴られたりすることが多くて"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:39:26",
+      "utterance": "いつも謝ってます"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:40:04",
+      "utterance": "彼氏とかいた時も、いつも言いなりでした、結局、わたしは彼女じゃなかったんですけど"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:40:25",
+      "utterance": "そうなんですね。ミスしたり、怒鳴られると怖くて謝ってしまいますよね、、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:40:42",
+      "utterance": "うまくできない自分が悪いんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:41:16",
+      "utterance": "そうなんですね、それはとてもきついですね、、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:41:26",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:42:48",
+      "utterance": "うまくできないと思われているのですね、、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:43:04",
+      "utterance": "何もかも、うまくできません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:45:11",
+      "utterance": "そうですね、、それだけつらい思いをしたら何もかもうまくできないと思っちゃいますよね、、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:45:17",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:46:36",
+      "utterance": "みゆきさんはこれからどうなりたいとか思うことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:46:52",
+      "utterance": "全然ないです"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:47:15",
+      "utterance": "消えたいって思うばかり、何をやっても楽しくないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:48:40",
+      "utterance": "そうなんですね、、うまくいかなっかったり、何をやっても楽しくなかったら消えたいと思ってしまいますよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:49:01",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:50:33",
+      "utterance": "でも、死ぬのも苦しくてつらいですよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:50:38",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:50:44",
+      "utterance": "もうどうしたらいいのかわかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:51:19",
+      "utterance": "誰かに相談などされたことありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:51:24",
+      "utterance": "ないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:51:43",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:51:54",
+      "utterance": "ここが初めてです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:52:26",
+      "utterance": "そうなんですね。ここで話してもらえてよかったです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:52:46",
+      "utterance": "とても勇気がいったでしょう。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:53:04",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:53:49",
+      "utterance": "勇気をもって相談されて、本当にありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:54:16",
+      "utterance": "こちらこそ、ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:54:35",
+      "utterance": "ちなみに今お母さんとはどんな状態ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:54:54",
+      "utterance": "絶縁しています"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:55:11",
+      "utterance": "どこで何しているか、知りません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:55:40",
+      "utterance": "そうなんですねそれは高校生の頃ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:57:16",
+      "utterance": "高校の時追い出されて、その後バイトしていて、3年ほどした後に実家に行ってみましたが、引っ越していました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:58:33",
+      "utterance": "そういうことだったのですね。それはどこで何しているかもわからないですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:58:37",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:00:02",
+      "utterance": "連絡したいと思ったことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:00:11",
+      "utterance": "ないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:00:32",
+      "utterance": "（すみません。もう時間ですね、、）"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:00:47",
+      "utterance": "はい、すみませんでした、長々と"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:01:24",
+      "utterance": "いえいえ。わたしもとっちらかってしまいました、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:01:54",
+      "utterance": "すごく勉強になりました。ありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:02:34",
+      "utterance": "(クライアントさんへの終了のコメントまではされませんか？)"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:02:56",
+      "utterance": "(私は時間があるので大丈夫ですが、いかがでしょうか)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:03:33",
+      "utterance": "（すみません。では少しだけ）"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:03:44",
+      "utterance": "(はい、お願いいたします)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:04:54",
+      "utterance": "すみません。終了のお時間になってしまいました、、本日は話されてみてどうでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:05:10",
+      "utterance": "少し落ち着きました"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:06:05",
+      "utterance": "でも、死にたい気持ちは消えません…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:06:50",
+      "utterance": "そうですよね、、なかなか死にたいという気持ちは消えないですよね、、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:06:57",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:08:26",
+      "utterance": "でもまた死にたいという気持ちが強くでてしまったら、ここにきてみゆきさんの感情をよかったら話に来てください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:08:46",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:08:49",
+      "utterance": "そうします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:09:21",
+      "utterance": "おまちしています。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:09:46",
+      "utterance": "はい。今日は、長々と、すみませんでした。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:10:22",
+      "utterance": "そんなことないですよ。お話しできてうれしかったです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:10:33",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:11:01",
+      "utterance": "それでは終了メッセージを送ってもよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:11:18",
+      "utterance": "終了メッセージとはなんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:11:39",
+      "utterance": "(カウンセリングの終了ボタンとは別ですか？)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:13:03",
+      "utterance": "このカウンセリングを終了するメッセージですね。それを送ったらこのカウンセリングは終わりです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:13:20",
+      "utterance": "はい、お願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:13:36",
+      "utterance": "（そのボタンです。）"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:14:05",
+      "utterance": "(承知いたしました。ありがとうございました。大変勉強になりました。)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:14:07",
+      "utterance": "はい、では送りますね。本日はありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:14:14",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:14:59",
+      "utterance": "（はい、こちらこそありがとございました。また機会があったらよろしくお願いします。）"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:15:10",
+      "utterance": "よろしくお願いいたします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:15:48",
+      "utterance": "では、ロールプレイ終了しますね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:16:06",
+      "utterance": "はい、ありがとうございました。お疲れ様でした"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:16:26",
+      "utterance": "お疲れさまでした。"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "死にたい気持ちの持続とその背景"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1600,
+    "評価作成日時": "2021-04-09T22:57:00",
+    "クライアント役ID": 167,
+    "カウンセラー役ID": 155,
+    "点数": 68,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 3,
+    "要約": 2,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1600,
+    "evaluation_created_at": "2021-04-09T22:57:00",
+    "client_id": 167,
+    "counselor_id": 155,
+    "score": 68,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

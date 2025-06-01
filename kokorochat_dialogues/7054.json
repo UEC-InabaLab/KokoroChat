@@ -1,0 +1,364 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-05-22T10:00:03",
+      "utterance": "こんにちは。相談員です。今日はご相談に来てくださって、ありがとうございます。はじめに、年齢と性別、相談内容を教えてください。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-22T10:00:45",
+      "utterance": "22歳女性うつ病がひどくて悩んでいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-22T10:01:37",
+      "utterance": "ご相談ありがとうございますそれはおつらいですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-22T10:02:15",
+      "utterance": "病院にはかかってらっしゃいますか"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-22T10:02:23",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-22T10:03:27",
+      "utterance": "そうなんですね、こちらでも、少しでもお気持ちが軽くなるよう、お話を聞かせてください"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-22T10:03:37",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-22T10:04:37",
+      "utterance": "では、うつ病、というのはいつごろからなのか、できる範囲で結構です、詳しくお話聞かせてください"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-22T10:05:10",
+      "utterance": "3年前からです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-22T10:06:32",
+      "utterance": "そうなんですね、長く苦しんでらっしゃるのですねうつになったきっかけはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-22T10:11:01",
+      "utterance": "大学のときにいじめにあいました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-22T10:13:22",
+      "utterance": "それはおつらいですね…どんなことをされたのか、話せる範囲でいいので教えていただけますか"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-22T10:14:16",
+      "utterance": "ラインやsnsでありもしないことを流されたんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-22T10:15:29",
+      "utterance": "それはひどいですねありもしないことを流されると、かかわりづらくなってしまいますね"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-22T10:16:24",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-22T10:17:52",
+      "utterance": "うつがひどい、というお話でしたが、どんなことが苦しいでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-22T10:18:14",
+      "utterance": "浮き沈みがはげしくて"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-22T10:19:19",
+      "utterance": "そうなんですね、気持ちの浮き沈みがはげしいと、日常生活にも影響が出てしまいますね"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-22T10:19:41",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-22T10:20:26",
+      "utterance": "ずっと寝てることが最近おおくて"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-22T10:21:22",
+      "utterance": "そうなんですね、寝ている時間が多いんですねご年齢が22歳、ということですが、今も大学に通ってらっしゃるのでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-22T10:22:06",
+      "utterance": "今は休学してます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-22T10:23:45",
+      "utterance": "そうなんですね、お休みして、ご自身を癒す時間は必要ですね。苦しい時に、こうしてお話くださっているのは、状況を変えたいという勇気の表れだと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-22T10:24:10",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-22T10:27:39",
+      "utterance": "今日は、どう状況を変えていこうか、というお話を、一緒にさせていただくのでよいでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-22T10:28:28",
+      "utterance": "今の状態を変えたくて"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-22T10:29:22",
+      "utterance": "はい、ぜひ、一緒に考えさせてください今の状況を、どのように変えたいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-22T10:30:40",
+      "utterance": "たとえば、いじめをやめさせたい、大学に行きたい、社会に出たいなど、どんな希望がおありでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-22T10:31:08",
+      "utterance": "大学にもう一度いきたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-22T10:32:30",
+      "utterance": "そうですね、行きたいですねでは、もう一度大学に行くにはなにができるか、を考えていきましょう"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-22T10:33:09",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-22T10:33:12",
+      "utterance": "よろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-22T10:34:47",
+      "utterance": "こちらこそ、よろしくお願いします今、寝ていることが多い、ということですが、大学に行くためには起きている時間を長くする必要があると思います"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-22T10:35:37",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-22T10:37:03",
+      "utterance": "はい、それで、病院に通ってらっしゃるということなので、まずは病院の先生に「大学に行きたい」という希望をお話するのがいいと思うのですが、いかがでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-22T10:37:25",
+      "utterance": "話しました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-22T10:38:09",
+      "utterance": "そうなんですね、その時、先生とはどんなお話になったのでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-22T10:40:48",
+      "utterance": "もし、お話しにくようなら、お話ししなくて大丈夫ですよ"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-22T10:41:21",
+      "utterance": "まだ行かない方がいいって言われました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-22T10:42:23",
+      "utterance": "そうなんですね、先生に「まだ行かない方がいい」と言われた時、どう思われましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-22T10:42:58",
+      "utterance": "うーんそうなのかなって"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-22T10:44:53",
+      "utterance": "少し残念なお気持ちなのでしょうか病院の先生が「まだ」と言ったということは、「いずれ行かれるようになる」ということでもあると思いますが、いかがですか"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-22T10:45:12",
+      "utterance": "残念でした"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-22T10:45:32",
+      "utterance": "うーんそんな感じではなかった気がします"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-22T10:46:38",
+      "utterance": "残念ですよね…そうなんですね、少し違ったんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-22T10:47:03",
+      "utterance": "では、どんな風にお感じになりましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-22T10:47:20",
+      "utterance": "なんだかそっけなく感じました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-22T10:47:57",
+      "utterance": "そうなんですね、それはなんだかさみしいですね…"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-22T10:49:24",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-22T10:49:41",
+      "utterance": "あなたは、「大学に行く」を実現するために、何を変える必要があると思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-22T10:50:54",
+      "utterance": "うーんまだわからないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-22T10:52:23",
+      "utterance": "そうなんですね、それがわかるようになると、大学に行けるようになるのかもしれませんね"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-22T10:54:02",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-22T10:55:53",
+      "utterance": "今は大変なことがあり、心が疲れていて、休息が必要なんだと思います。寝ている時間が多いのは、心と体が回復しようとがんばっているのではないでしょうか。今は徹底的に寝て、回復したら、自然と浮かんでくるかもしれません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-22T11:00:24",
+      "utterance": "今は、がんばっているご自身のために、ゆっくりされるのはいかがでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-22T11:01:07",
+      "utterance": "すごくありがたいことばです"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-22T11:01:20",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-22T11:03:19",
+      "utterance": "今日は、大切なお話を聞かせてくださって、ありがとうございます今の状況を変えたい、前へ進みたいというお気持ち、応援しております！まずはゆっくり休んで、力をたくわえてください"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-22T11:07:32",
+      "utterance": "お時間になりましたので、終了のメッセージを送ります休むことは回復につながりますので、前向きにお休みしましょう本日はありがとうございました"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "うつ病の影響とその克服方法"
+  },
+  "review_by_client_jp": {
+    "評価ID": 7054,
+    "評価作成日時": "2024-06-28T10:08:00",
+    "クライアント役ID": 282,
+    "カウンセラー役ID": 478,
+    "点数": 77,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 4,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 5,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 7054,
+    "evaluation_created_at": "2024-06-28T10:08:00",
+    "client_id": 282,
+    "counselor_id": 478,
+    "score": 77,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,604 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-06-17T12:51:25",
+      "utterance": "こんにちは本日はどうぞよろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T12:51:54",
+      "utterance": "（こんにちは。こちらこそよろしくお願いいたします。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T12:52:37",
+      "utterance": "（お時間になりましたら、お声がけさせていただきますね）"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:00:08",
+      "utterance": "本日はご相談にお越しいただき有難うございます。まず最初にご年齢と性別を教えていただけますでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T13:00:46",
+      "utterance": "26歳　男"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:01:03",
+      "utterance": "教えていただき有難うございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:01:14",
+      "utterance": "本日はどのようなご相談でしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T13:01:51",
+      "utterance": "すごく周りの目が気になってそんな自分が嫌です、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:02:17",
+      "utterance": "そうなんですね、それはつらいですよね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:02:43",
+      "utterance": "どんな時に周りの目が気になる感じなのでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T13:03:54",
+      "utterance": "自分の話をしたりするときですかね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:04:07",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:04:37",
+      "utterance": "自分の話をする時には、どんなことが頭に浮かんでいる感じでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T13:05:21",
+      "utterance": "相手にどう思われるかなとかですかね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:06:02",
+      "utterance": "そんはしんどくなってしまいますよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T13:06:34",
+      "utterance": "怖いですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:07:26",
+      "utterance": "そうでしたか、とてもそのお気持ちが伝わってきました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:08:22",
+      "utterance": "いつ頃からそんなふうに感じるようになったのでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T13:09:02",
+      "utterance": "何時頃からかは分からないですね、、だいぶ前からだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:09:59",
+      "utterance": "そうなんですね、長い間怖い思いを抱えてこられたのですね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T13:10:13",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:11:17",
+      "utterance": "自分のことを話すのが怖いのは、相手とかは関係ありそうでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T13:12:12",
+      "utterance": "知らない人に話すのはまだ大丈夫な気がします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:12:22",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:12:54",
+      "utterance": "そうすると、身近な人の方が怖い感じなのですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T13:13:13",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:14:03",
+      "utterance": "確かに身近な人だと返って、話しにくいところもありますよね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:15:13",
+      "utterance": "身近な人とお話しするときは、どんなことを思ったりしますか"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T13:16:15",
+      "utterance": "この話をするとどう思われるかなって思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:16:59",
+      "utterance": "知っている人だけに、相手の反応とか色々考えてしまいますよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T13:17:20",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:19:07",
+      "utterance": "ご自身が話をして怖くなってしまう身近な人は、どんな方がおられますか"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T13:20:24",
+      "utterance": "基本知り合い全般のような気がします、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:21:31",
+      "utterance": "そうでしたか、知り合い全般だと嫌になってしまいますよね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:22:33",
+      "utterance": "最近だとそのように怖いなと感じるような場面はありましたでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T13:23:56",
+      "utterance": "仕事を辞めて、勉強することにしたんですが、それをなかなか家族以外の周りに言えなかったりします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:25:00",
+      "utterance": "そんなふうに思っていることを言えないのは苦しくなりますよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T13:25:54",
+      "utterance": "そうですね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:26:41",
+      "utterance": "何とか伝えたいって思いますよね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:27:49",
+      "utterance": "ちなみに、お仕事を辞められたのはいつ頃なのでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T13:28:17",
+      "utterance": "三か月前くらいですかね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:28:28",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:29:19",
+      "utterance": "何か辞めようとしたきっかけようなことはありましたか（お話しできればで結構です）"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T13:30:14",
+      "utterance": "自分のやりたいことをやろうと思ったからです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:30:48",
+      "utterance": "なるほど、それで勉強を始められたのでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T13:30:57",
+      "utterance": "そうです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:31:51",
+      "utterance": "ちなみに今どんな勉強をされていますか（お話しできればで結構です）"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T13:33:37",
+      "utterance": "心理学の勉強をしています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:33:54",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:34:36",
+      "utterance": "そのことを周りの人に話すのが、怖い感じなのですね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T13:35:10",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:36:45",
+      "utterance": "先ほど、周りからどう思われるかと頭によぎると教えてもらいましたが、他にはどんなことが浮かんだりしますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T13:38:12",
+      "utterance": "悪く思われたくないとか、いい自分でいなきゃとかですかね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:39:03",
+      "utterance": "うんうん、そう考えてしまうと身動き取れない感じで苦しいですよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T13:39:28",
+      "utterance": "そうですね。言いたい気持ちはあるんですけど、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:39:36",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T13:39:54",
+      "utterance": "それが出来ないのがもどかしいですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:40:33",
+      "utterance": "それは何か心に詰まってしまうような感じでしんどいですよね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:41:52",
+      "utterance": "もし言えるとしたら、どんな感じのことが伝えてみたいですか"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T13:42:24",
+      "utterance": "自分のありのままを伝えられればと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:42:37",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:43:03",
+      "utterance": "そうですよね、そうしたら気持ちが楽になれそうに思いますよね"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T13:43:32",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:44:05",
+      "utterance": "ご自身の思っておられるありのままって、どんな感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T13:44:46",
+      "utterance": "自分が思っていること、今の状況をそのまま話すことですかね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:46:09",
+      "utterance": "そうですよね、そういったことをストレートに伝えられないのはモヤモヤしますよね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:47:52",
+      "utterance": "もしそういったことを話したとしたら、どんな反応がありそうだなと感じたりしますか"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T13:48:44",
+      "utterance": "こんな時期にやめるなんてとか、辞めないほうがよかったんじゃないとかですかね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:49:29",
+      "utterance": "そうですよね、そんなふうにネガティブな反応が来たらとても怖いですよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T13:50:09",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:50:49",
+      "utterance": "そのように思うと自分の話をするのが怖くなってしまうのは当然だと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:51:49",
+      "utterance": "ご自身が今日のご相談で一番解決したかった点はどのようなところでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T13:52:19",
+      "utterance": "話せるようになりたいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:52:32",
+      "utterance": "うんうん、そうですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:52:56",
+      "utterance": "ありのままの自分を周りに伝えたいという感じでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T13:53:16",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:55:01",
+      "utterance": "知らない人とお話しするのはそんなに気にならないけど、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:55:23",
+      "utterance": "身近な人とかに、自分自身のことを伝えることにとても怖さを感じておられる"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:55:36",
+      "utterance": "ということだと思うのですがいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T13:55:56",
+      "utterance": "そうです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:57:18",
+      "utterance": "それは先ほどの心理を勉強しているということと関係しているでしょうか。それともそれ以外のお話でも自分の話は怖いと感じているでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T13:58:56",
+      "utterance": "あまり関係ないと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:59:18",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T13:59:49",
+      "utterance": "お話をお聞きしていて、私の感じたことをお伝えしてもよろしいでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T14:00:18",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T14:01:27",
+      "utterance": "あなたは、とても相手を気遣うことができる方なのだと感じました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T14:02:11",
+      "utterance": "だからこそ、その分だけ自分の考えを言ったりすことに怖さも感じておられるのだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T14:02:33",
+      "utterance": "そして、あなたはとても自分の考えを持って進んでいく芯の強さをお持ちなのではないかとも感じました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T14:02:54",
+      "utterance": "自分のやりたいことをやろうという、あなたの熱いお気持からそう感じました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T14:04:01",
+      "utterance": "一方で、相手のことを思いやることが出来る分、自分のことよりも相手のことを考え過ぎて何も言えない状態なのではないかなと感じました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T14:05:06",
+      "utterance": "信頼できるご友人に、一度自分のお気持をお話してみるとかはいかがでしょうか。思い当たる方はおられますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T14:05:54",
+      "utterance": "すぐには思いつきませんがちょっとかんがえてみようと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T14:06:45",
+      "utterance": "そうですね、是非やってみてください。人をとても気遣えるあなたなら、きっと相手もお話を受け止めてと私は思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T14:07:09",
+      "utterance": "はい。ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T14:07:10",
+      "utterance": "ポイントは出来ることからです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T14:07:55",
+      "utterance": "直接話すのが難しかったら、LINEからでもよいかと思います。少しずつ気持ちを伝えてみていって欲しいと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T14:08:10",
+      "utterance": "分かりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T14:08:31",
+      "utterance": "それでは本日のご相談はこれで終了としたいと思いますが、大丈夫でしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T14:08:46",
+      "utterance": "はい。ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T14:08:54",
+      "utterance": "こちらこそ、大切なお話を聞かせていただき有難うございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T14:09:12",
+      "utterance": "それでは終了させていただきます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T14:09:31",
+      "utterance": "（お疲れさまでした！時間オーバーすみませんでした。。）"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T14:09:38",
+      "utterance": "（"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T14:09:57",
+      "utterance": "（大変勉強になりました。どうも有難うございました。）"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T14:10:02",
+      "utterance": "お疲れさまでした。大丈夫です。ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-17T14:10:20",
+      "utterance": "（それでは失礼いたします）"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-17T14:10:29",
+      "utterance": "（はい。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "自分を表現することへの恐怖"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2047,
+    "評価作成日時": "2021-06-17T14:25:00",
+    "クライアント役ID": 166,
+    "カウンセラー役ID": 39,
+    "点数": 50,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 4,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 2,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2047,
+    "evaluation_created_at": "2021-06-17T14:25:00",
+    "client_id": 166,
+    "counselor_id": 39,
+    "score": 50,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 4,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

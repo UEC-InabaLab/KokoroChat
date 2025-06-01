@@ -1,0 +1,994 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:23:03",
+      "utterance": "こんにちは。本日はよろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:23:17",
+      "utterance": "こんにちは、本日はよろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:23:34",
+      "utterance": "時間になりましたら開始させていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:30:07",
+      "utterance": "分かりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:30:48",
+      "utterance": "こんにちは。相談員です。はじめにご年齢と性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:31:08",
+      "utterance": "20代女性です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:31:19",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:31:36",
+      "utterance": "本日はどのようなご相談ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:32:04",
+      "utterance": "今日は、評価されるのが怖い気持ちについて話したいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:32:41",
+      "utterance": "ええ。評価されるのが怖いということですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:32:52",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:33:26",
+      "utterance": "どういうときに感じるお気持ちですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:34:13",
+      "utterance": "カウンセラーの仕事をやりたいなと思ってまして"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:34:27",
+      "utterance": "ええ、"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:34:53",
+      "utterance": "専門学校で、生徒同士のロールプレイがあるんですけど、"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:35:02",
+      "utterance": "そのロールプレイのあとに"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:35:06",
+      "utterance": "うんうん、"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:35:08",
+      "utterance": "相手からフィードバックもらうんですけど"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:35:19",
+      "utterance": "いいところは嬉しいんですけど"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:35:23",
+      "utterance": "はい、"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:35:32",
+      "utterance": "改善点を聞くのが怖い、ときがありまして"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:35:37",
+      "utterance": "昔からそうなんですけど"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:35:48",
+      "utterance": "インスタとか、Facebookとか"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:35:51",
+      "utterance": "投稿したいと思っても"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:35:53",
+      "utterance": "ええ、"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:35:59",
+      "utterance": "周りからの目や評価を気にしすぎてしまい"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:36:07",
+      "utterance": "結構投稿やめたりとか"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:36:10",
+      "utterance": "そう言うことが多く"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:36:15",
+      "utterance": "悩んでます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:36:27",
+      "utterance": "そうなんですね。。。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:36:34",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:37:15",
+      "utterance": "周りから見られてると思うと、SNSも楽しめなかったりしますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:37:25",
+      "utterance": "そーですね、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:38:51",
+      "utterance": "投稿したいと思っていても、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:40:18",
+      "utterance": "楽しむためのツールなのに悩んでしまいますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:40:26",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:41:06",
+      "utterance": "専門学校で、生徒同士のロールプレイの時は、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:41:30",
+      "utterance": "改善点を聞く時は、どんなお気持ちになるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:41:53",
+      "utterance": "いやだなーというか、否定されてる気持ちになります"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:43:00",
+      "utterance": "そうなんですね。確かに否定されてると感じると、聞くのが怖いと感じたりしますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:43:25",
+      "utterance": "はいそうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:44:02",
+      "utterance": "周りからの目や評価を気にしすぎてしまうというのは、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:44:20",
+      "utterance": "いつ頃からでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:45:16",
+      "utterance": "いつごろからかはあんまり覚えてないですね。。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:45:27",
+      "utterance": "でも"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:45:34",
+      "utterance": "ええ、"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:45:35",
+      "utterance": "高校の時とかも"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:45:49",
+      "utterance": "勉強とか評価されたり比較されるのは嫌いでした"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:46:04",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:46:27",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:47:06",
+      "utterance": "学生の頃は勉強とか、点数とか順位とか評価されるようなことが多いですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:47:17",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:48:18",
+      "utterance": "本日はどのようなことが一番相談したい点になりますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:48:51",
+      "utterance": "気にしすぎてしまうので、評価を怖がらなくなりたいですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:49:52",
+      "utterance": "かしこまりました。ではその目標に向けて一緒に考えていきましょうね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:50:02",
+      "utterance": "はいお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:50:45",
+      "utterance": "ちなみに、カウンセラーの仕事をやりたいと思ったきっかけはどんなものですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:50:54",
+      "utterance": "自分が学生の頃"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:50:58",
+      "utterance": "辛かった時"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:51:02",
+      "utterance": "はい、"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:51:07",
+      "utterance": "コーチングやカウンセリングを仕事にしている方に救われて"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:51:11",
+      "utterance": "そこから目指すようになりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:51:22",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:51:27",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:52:13",
+      "utterance": "ご自身が救われた経験から、今度は自分が目指す職業になったのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:52:21",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:52:52",
+      "utterance": "教えていただきありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:53:08",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:53:34",
+      "utterance": "話が少し戻ってしまいますが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:54:18",
+      "utterance": "周りからの目や評価を気にしすぎてしまうのは、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:54:49",
+      "utterance": "何か理由みたいなものはありそうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:55:13",
+      "utterance": "うーん"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:55:34",
+      "utterance": "たぶん"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:55:40",
+      "utterance": "幼稚園行ってたときに"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:55:41",
+      "utterance": "ええ、"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:56:00",
+      "utterance": "サッカーチームのユニホームみたいな服を着て一回行ったことがあって"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:56:07",
+      "utterance": "それをみんなにすごく馬鹿にされたんですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:56:14",
+      "utterance": "それで結構傷ついた記憶があって"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:56:17",
+      "utterance": "ええ…"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:56:27",
+      "utterance": "すごく恥ずかしい気持ちになったので"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:56:30",
+      "utterance": "そこからかなとは思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:57:36",
+      "utterance": "そうだったんですね。みんなにすごく馬鹿にされたら、それは傷つきますね。。。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:57:50",
+      "utterance": "はい、当時はすごく傷ついたと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:58:31",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:58:37",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T12:58:55",
+      "utterance": "傷つくのは無理がないと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:58:59",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T12:59:02",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:00:03",
+      "utterance": "サッカーのユニホームだってファッションの一部ですからね。否定される筋合いはないですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:00:13",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:01:00",
+      "utterance": "でも平気でバカにするような発言をするような子もいますね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:01:10",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:02:16",
+      "utterance": "今までのお話の他にも、評価を気にしすぎてしまう時はありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:03:35",
+      "utterance": "特にないですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:04:01",
+      "utterance": "承知しました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:04:51",
+      "utterance": "今まで、"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:04:57",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:05:18",
+      "utterance": "フィードバックもらうときなど、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:05:45",
+      "utterance": "否定されてる気持ちになるとのことでしたが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:06:14",
+      "utterance": "そのあとはどんな気分になったりしますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:07:11",
+      "utterance": "きぶん、、そうですね、、"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:07:35",
+      "utterance": "まあでもボジティブに"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:07:44",
+      "utterance": "はい、"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:07:46",
+      "utterance": "評価が自分を成長させるから、"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:07:56",
+      "utterance": "大丈夫って言い聞かせるようにはしてます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:08:12",
+      "utterance": "なるほどですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:08:53",
+      "utterance": "成長するための大事なフィードバックですからね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:09:16",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:10:03",
+      "utterance": "大丈夫って言い聞かせるのは、気持ち的にうまくいってる感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:10:10",
+      "utterance": "うーん"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:10:15",
+      "utterance": "あんまり効果はないかなって感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:10:24",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:11:12",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:11:44",
+      "utterance": "だと、今まではポジティブに言い聞かせたり、試してはきたが、"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:11:48",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:12:07",
+      "utterance": "あまり効果が得られなかったという感じなのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:12:14",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:12:34",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:12:58",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:13:33",
+      "utterance": "気にしすぎなかったり、評価を怖がらなくなるといのは、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:13:47",
+      "utterance": "あなたにとってどんなイメージですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:13:58",
+      "utterance": "うーん"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:14:09",
+      "utterance": "どんなイメージ。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:14:41",
+      "utterance": "例えば、"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:14:45",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:15:13",
+      "utterance": "今評価を気にしたな、と自覚して気持ちを切り替えたり"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:15:20",
+      "utterance": "とかでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:15:31",
+      "utterance": "そーですね。。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:15:38",
+      "utterance": "自覚はめっちゃしてるので"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:15:46",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:16:19",
+      "utterance": "評価も糧になると思い、ありがたくどんな評価も受け取るイメージが理想ですが"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:16:24",
+      "utterance": "そう頭ではわかっていても"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:16:32",
+      "utterance": "なかなか心が納得いかない部分がありますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:16:39",
+      "utterance": "はい、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:17:26",
+      "utterance": "ありがたくどんな評価も受け取るイメージという理想が持っておられ、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:17:50",
+      "utterance": "でも心が納得いかない部分もあるということですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:17:59",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:18:28",
+      "utterance": "そうですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:18:50",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:19:25",
+      "utterance": "フィードバックだって今後のための改善点とわかっているけど、でも傷つきたくないし、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:20:10",
+      "utterance": "気にしなきゃいいというのは、頭でわかっていても気になったり、評価が怖かったりとかありますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:20:26",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:21:05",
+      "utterance": "なかなか心が納得いかない部分というのはそのような感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:21:37",
+      "utterance": "そのような感じとはなんでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:22:17",
+      "utterance": "なかなか心が納得いかない部分というのは、気にしなきゃいいというのは頭でわかっていても気になったり、評価が怖かったり"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:22:26",
+      "utterance": "ということでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:22:40",
+      "utterance": "いえ、そこではなく"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:22:49",
+      "utterance": "はい、"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:22:56",
+      "utterance": "評価って誰でも傷つくもんじゃないかな？って言う"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:23:10",
+      "utterance": "傷つくことを気にしなくていいんじゃないかなって言う気持ちですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:23:37",
+      "utterance": "そういうことなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:23:50",
+      "utterance": "そこまでポジティブに無理に捉えようとしなくてもいいんじゃない？って感じですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:24:12",
+      "utterance": "なるほどですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:24:18",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:25:03",
+      "utterance": "確かに例えば、落ち込んでいたときに、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:25:36",
+      "utterance": "無理にポジティブになろうとしたって、ポジティブにはなれないですからね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:25:44",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:26:30",
+      "utterance": "子どもの時の楽しく遊んでいる時とか、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:27:07",
+      "utterance": "周りの人とか評価とか気にしていないですもんね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:27:13",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:27:42",
+      "utterance": "それと同じように、というと語弊があるかもしれないですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:28:31",
+      "utterance": "昨日の自分から一歩だけでも成長したと思える自分を評価してあげるのはいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:28:45",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:29:02",
+      "utterance": "自分が成長した部分は自分しかわからないので"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:29:12",
+      "utterance": "ええ、"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:29:12",
+      "utterance": "その評価を相手に求めると言うよりは"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:29:17",
+      "utterance": "自分でしてあげるのはいいですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:29:44",
+      "utterance": "あなたのことを今一番評価していいのは、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:29:55",
+      "utterance": "あなた自身ですからね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:30:01",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:30:11",
+      "utterance": "評価を気にしたりする時って、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:30:41",
+      "utterance": "どうしても周りの評価を一番上にしちゃうので、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:31:32",
+      "utterance": "評価を自分自身でするってとても肯定感も上がりますし、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:32:11",
+      "utterance": "もしあなたがカウンセラーになったら、クライアントに伝えて欲しい言葉です。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:32:23",
+      "utterance": "はい、ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:32:41",
+      "utterance": "何かご質問はありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:32:50",
+      "utterance": "大丈夫です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:33:08",
+      "utterance": "少しは参考になりましたでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:33:16",
+      "utterance": "はい、ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:34:13",
+      "utterance": "ありがとうございます。自分自身の評価するのは自分に甘くなるわけではないので、ぜひ参考にしてみてください。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:34:34",
+      "utterance": "はい、今日はありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:35:37",
+      "utterance": "それではこれで終了させていただきます。あなたのこれからを応援しています。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-18T13:35:55",
+      "utterance": "お疲れ様でした。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:36:05",
+      "utterance": "（お疲れ様でした。ありがとうございました。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-18T13:36:45",
+      "utterance": "（お手隙に評価いただけると幸いです。それでは終了させていただきます。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "評価不安によるストレス"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3495,
+    "評価作成日時": "2022-05-18T22:39:00",
+    "クライアント役ID": 290,
+    "カウンセラー役ID": 136,
+    "点数": 71,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 3,
+    "要約": 5,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3495,
+    "evaluation_created_at": "2022-05-18T22:39:00",
+    "client_id": 290,
+    "counselor_id": 136,
+    "score": 71,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 5,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

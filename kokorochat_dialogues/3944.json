@@ -1,0 +1,534 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-09-10T13:29:28",
+      "utterance": "(システムの方で色々あったみたですが、本日はよろしくお願いします。）"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T13:29:50",
+      "utterance": "宜しくお願い致します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T13:30:24",
+      "utterance": "（さっそく始めさせていただいてもよろしいでしょうか？）"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T13:30:36",
+      "utterance": "大丈夫です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T13:31:26",
+      "utterance": "こんにちは。相談員です。まずはじめに、ご年齢、性別、相談内容を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T13:32:10",
+      "utterance": "32歳女性です。最近、体調が優れません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T13:32:52",
+      "utterance": "教えてくださってありがとうございます。それは憂鬱というか、辛いですね、、。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T13:33:04",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T13:33:17",
+      "utterance": "どう、体調が優れないのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T13:33:36",
+      "utterance": "胃が時々痛くなります"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T13:34:19",
+      "utterance": "胃ですか。辛い、、。ご飯は食べれていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T13:34:28",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T13:34:40",
+      "utterance": "良かったです。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T13:34:52",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T13:35:16",
+      "utterance": "胃が痛みだしてどれくらいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T13:35:42",
+      "utterance": "ここ１ヶ月位です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T13:36:30",
+      "utterance": "なるほど。1ヶ月もそのような状態だったんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T13:36:40",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T13:37:14",
+      "utterance": "なにかその頃からストレスになるようなことはありましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T13:37:35",
+      "utterance": "特にないんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T13:38:12",
+      "utterance": "ずっと抱えている悩みなどは、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T13:38:20",
+      "utterance": "ないんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T13:39:39",
+      "utterance": "お話ししづらいという訳ではないですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T13:40:02",
+      "utterance": "それはないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T13:41:05",
+      "utterance": "では、環境が変わったや、食べるものが変わったなど、ありましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T13:41:49",
+      "utterance": "４月に転職しました。食べ物はいつも通りです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T13:43:25",
+      "utterance": "転職されたんですね。もしかしたら、ですけど転職という環境の変化によって、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T13:44:33",
+      "utterance": "少しづつ疲れみたいなものが溜まっていて胃が痛いのかもしれないんですけど、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T13:45:20",
+      "utterance": "そうなんですかね。仕事には、慣れたんですが。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T13:46:51",
+      "utterance": "そうなんですね。無理やりストレスと結びつけるつもりはないのですが、胃が痛む、とおっしゃられる相談者さんで、ご自身も気づかないうちにストレスをため込んでいる方が結構いらっしゃるので、お聞きしました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T13:47:08",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T13:47:46",
+      "utterance": "どういうときに胃が痛むのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T13:48:14",
+      "utterance": "まちまちです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T13:49:19",
+      "utterance": "まちまち、というと時間、状況は関係なくということでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T13:49:29",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T13:50:32",
+      "utterance": "思い当たることもないのに、ただ痛むのはご自身でも困ってしまいますね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T13:50:43",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T13:51:11",
+      "utterance": "病院へは行かれましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T13:51:28",
+      "utterance": "行ってません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T13:53:07",
+      "utterance": "そうなんですね。ストレスや悩みが今はこれといってなく、胃が痛む場合は一度病院へ行ってみてもよいのかと思うんですけど、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T13:53:53",
+      "utterance": "そうですね。もう少し様子をみたいと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T13:55:16",
+      "utterance": "そうですね。様子を見るのも大切なことですね。ただ、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T13:56:29",
+      "utterance": "わざわざこちらに相談をしに来てくださったので、何か悩みごとなどあるのかなと思ってしまいました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T13:57:28",
+      "utterance": "体調が優れないことが悩みです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T13:58:04",
+      "utterance": "そうですね。言葉が足らず大変申し訳ありません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T13:59:23",
+      "utterance": "体調不良の後ろに精神的な悩みがおありなのかと想像してしまいました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T14:00:38",
+      "utterance": "自分ではいつも通りに生活しているつもりなんですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T14:01:15",
+      "utterance": "そなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T14:01:38",
+      "utterance": "でも、胃が時々痛くなって、何でなんだろうと考えてしまうんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T14:01:52",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T14:02:39",
+      "utterance": "でも思い当たることはないのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T14:03:50",
+      "utterance": "特には。自分では気付かないストレスかな、とも思ったりもします"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T14:04:04",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T14:04:51",
+      "utterance": "気づかぬ内にストレスが掛かっていることってありますものね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T14:05:01",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T14:07:23",
+      "utterance": "では、もしかしたら掛かっているかもしれないストレスを軽減するような方法を一緒に考えていくというのはいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T14:07:38",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T14:08:37",
+      "utterance": "ありがとうございます。では、あなたはどういったときに楽しさや嬉しさ、安心感などを感じますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T14:09:12",
+      "utterance": "お風呂です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T14:09:41",
+      "utterance": "わかります。お風呂ってホッとできますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T14:09:47",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T14:11:43",
+      "utterance": "お風呂はホッとするほかに何か楽しみも入れていたりしますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T14:12:03",
+      "utterance": "いいえ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T14:13:12",
+      "utterance": "そうなんですね。入浴剤などを入れてみるとよりリラックスできるかもしれません。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T14:13:28",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T14:14:12",
+      "utterance": "はい。他にも好きなこと、楽しいと思うことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T14:15:00",
+      "utterance": "特には、ドラマをみたり。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T14:15:45",
+      "utterance": "いいですね。どんなドラマがお好きなんですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T14:16:26",
+      "utterance": "言いにくかったら言わなくて大丈夫ですからね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T14:16:29",
+      "utterance": "韓流ドラマです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T14:17:04",
+      "utterance": "韓流ドラマですか。どんなところがお好きなんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T14:17:44",
+      "utterance": "ハラハラドキドキです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T14:18:21",
+      "utterance": "なるほど。それは集中して見てしまいそうですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T14:18:40",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T14:20:12",
+      "utterance": "そしたら、そのお風呂の時間や韓流ドラマを見る時間を少し多めにして、みるというのはいかがでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T14:20:32",
+      "utterance": "自分の好きな時間を増やすというか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T14:20:34",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T14:23:26",
+      "utterance": "気持ちが楽になる時間や、楽しいと思える時間を増やしていったら掛かっているかもしれないストレスも軽減されるのではないかと思うのですが、どうでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T14:24:00",
+      "utterance": "そうなったら良いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T14:25:30",
+      "utterance": "そうですね。今より体調をよくしたいですもんね。試してみてはいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T14:25:40",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T14:27:09",
+      "utterance": "お時間が近づてきてしまったのですが、何か伝えきれてないことなどありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T14:27:38",
+      "utterance": "ありません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T14:29:16",
+      "utterance": "それなら良かったです。まずは病院へ行ってみてくださいね。そして楽しい時間を増やしてみてください。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T14:29:27",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T14:30:30",
+      "utterance": "それでもまた痛むようなら、いつでもここへお越しくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T14:30:45",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T14:31:47",
+      "utterance": "それではお時間になりますので、これで終了とさせていただきますね。本日はありがとうございました。体調がよくなることを祈っております。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T14:32:07",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T14:32:14",
+      "utterance": "では、失礼します。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-10T14:32:33",
+      "utterance": "お疲れ様でした。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T14:32:51",
+      "utterance": "（ありがとうございました。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-10T14:33:12",
+      "utterance": "（終了させていただきますね。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "身体的健康問題",
+    "main_en": "Physical Health Issues",
+    "sub": "胃痛の原因の特定とストレスの影響"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3944,
+    "評価作成日時": "2022-09-10T14:56:00",
+    "クライアント役ID": 305,
+    "カウンセラー役ID": 292,
+    "点数": 69,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 5,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 4,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3944,
+    "evaluation_created_at": "2022-09-10T14:56:00",
+    "client_id": 305,
+    "counselor_id": 292,
+    "score": 69,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

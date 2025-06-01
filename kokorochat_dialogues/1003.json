@@ -1,0 +1,654 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2020-12-25T16:23:31",
+      "utterance": "こんにちは。宜しくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T16:23:57",
+      "utterance": "よろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T16:25:11",
+      "utterance": "もし、初めて良ければよろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T16:25:27",
+      "utterance": "はい、大丈夫です。宜しくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T16:25:46",
+      "utterance": "こんにちは、相談員です。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T16:26:02",
+      "utterance": "こんにちは。お願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T16:26:10",
+      "utterance": "よろしくお願いいたします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T16:26:31",
+      "utterance": "ご相談にお越しいただきありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T16:26:48",
+      "utterance": "初めにご年齢と性別、ご相談の中でなんとお呼びしたら良いかを教えて下さい。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T16:27:39",
+      "utterance": "50代　男性、呼び名はAでお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T16:28:26",
+      "utterance": "ありがとうございます。それではAさん、今日はどの様なご相談でお越し頂きましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T16:29:38",
+      "utterance": "はい、病気がちで、不安でたまりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T16:30:33",
+      "utterance": "そうなんですね、そんなお気持ちを抱えていらっしゃるのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T16:30:47",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T16:31:10",
+      "utterance": "もう少し、詳しく教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T16:32:31",
+      "utterance": "三年前から、大きな病気が次々と見つかって。今は病気が３つあります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T16:32:50",
+      "utterance": "まあ、そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T16:33:17",
+      "utterance": "病気は一つでも辛いのに、、しかも大きいのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T16:33:33",
+      "utterance": "それは、どんなにお辛いお気持ちかと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T16:35:03",
+      "utterance": "そのいくつかの病気ともに同時に治療中なのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T16:36:24",
+      "utterance": "二つは治療中で！一つは来週悪性か結果が出ます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T16:36:44",
+      "utterance": "今、結果を待っておられるのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T16:36:52",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T16:37:49",
+      "utterance": "それもあって、不安になるのは当たり前だと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T16:38:09",
+      "utterance": "はい、不安でたまりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T16:38:30",
+      "utterance": "失礼ですが、ご家族はいらっしゃいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T16:38:43",
+      "utterance": "妻がおります"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T16:39:19",
+      "utterance": "奥様は、ご病気のことに対してどのようにおっしゃっていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T16:40:37",
+      "utterance": "結果を伝える程度で、あまり話はしません"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T16:41:26",
+      "utterance": "そうですか、病気のことは、あまり伝えたくないと云うことなのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T16:42:30",
+      "utterance": "いえ、そんなことはありません。今までもお互い忙しくしてきたので、これが普段の会話という感じです、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T16:43:06",
+      "utterance": "なるほど、そうなんですね。いつも通りに過ごされていると云うことですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T16:43:16",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T16:43:39",
+      "utterance": "ご夫妻とも、お忙しくお仕事をなさっていらっしゃるのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T16:44:35",
+      "utterance": "はい。子供もいませんので"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T16:45:58",
+      "utterance": "悪性化の結果待ちということですが、どちらになっても、ご報告をなさいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T16:46:49",
+      "utterance": "妻にですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T16:46:56",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T16:47:16",
+      "utterance": "そうですね、すると思います。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T16:48:32",
+      "utterance": "とにかく病気が不安で、、、どうしたらいいでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T16:49:23",
+      "utterance": "そうですよね、病気は本当にこkろを不安にさせますよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T16:49:58",
+      "utterance": "不安でしかたありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T16:50:28",
+      "utterance": "無理もないと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T16:51:17",
+      "utterance": "その中でも、一番不安なことはこれなんだということはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T16:54:05",
+      "utterance": "結果が悪性で、長くいきられなかったら、、、と思うと怖いです"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T16:54:44",
+      "utterance": "生きていたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T16:55:04",
+      "utterance": "そうですよね、生きていたいですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T16:55:24",
+      "utterance": "はい、もう少し生きたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T16:55:32",
+      "utterance": "病気がちとのことですが、小さい頃からだったのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T16:56:05",
+      "utterance": "小さい頃は元気でした"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T16:56:21",
+      "utterance": "そうだったんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T16:56:31",
+      "utterance": "でも、家系がガンと脳疾患があって、、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T16:57:13",
+      "utterance": "そうですか、家系に病気がちがあると、なお不安ですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T16:57:25",
+      "utterance": "そうなんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T16:57:43",
+      "utterance": "でも、今は新しい治療法が次々にできていますよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T16:58:09",
+      "utterance": "そうなんですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T16:59:13",
+      "utterance": "私の身近にも癌の人が二人に一人くらいいて、治療法を調べてみるのですが、日々、というくらい進んでいるみたいです"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T16:59:32",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T16:59:44",
+      "utterance": "もう少し生きたい　のもう少し生きたい、という言葉が気になりますが、何か今やりたいことをお持ちですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T17:00:32",
+      "utterance": "いや、特にありません。今の生活を続けたいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T17:01:09",
+      "utterance": "そうですね、普通の生活が一番幸せなのだとよく耳にします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T17:02:21",
+      "utterance": "お医者様は信頼できる方ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T17:03:05",
+      "utterance": "特に不信に思ったことはありません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T17:03:57",
+      "utterance": "そうですか、不信に思わないというのは何よりだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T17:04:15",
+      "utterance": "不安の一つが消えますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T17:05:24",
+      "utterance": "少し、お話をまとめさせてください、"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T17:05:24",
+      "utterance": "そこはあまり不安に思ったことはありません。もう少し疑った方がいいのでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T17:07:09",
+      "utterance": "いいえ、疑う気にならない先生なのですから、とても素晴らしいと思います。信頼できるということはいい先生なのだなと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T17:07:37",
+      "utterance": "そうですか。安心しました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T17:07:54",
+      "utterance": "もし、不安にさせてしまっていたらごめんなさい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T17:08:21",
+      "utterance": "お話を少しまとめさせていただいていいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T17:08:43",
+      "utterance": "いえ、大丈夫です。そんなに多くの医者にあったことが無いので。はい。お願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T17:08:58",
+      "utterance": "今、病気を複数抱え、しかも一つが心配な結論待ちである。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T17:09:14",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T17:09:23",
+      "utterance": "ご夫妻がお忙しいけれど、病気のことはお話しできている。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T17:09:41",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T17:09:50",
+      "utterance": "信頼できる先生にかかっていらっしゃる。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T17:09:57",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T17:10:30",
+      "utterance": "病気が心配だけれど、病気にかかって心配ないと思う方は一人もいないと思うのです、"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T17:10:53",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T17:11:03",
+      "utterance": "なので、心配でたまらないのは、当たり前かなと思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T17:11:10",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T17:11:37",
+      "utterance": "そして、もう少し生きたいと思う、前向きな気持ちを持っていらっしゃる"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T17:11:54",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T17:13:08",
+      "utterance": "病気は怖いけれど、それをきちんと治療しようとしているAさんには、心の免疫力がちゃんと備わっていると思います。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T17:13:58",
+      "utterance": "心の免疫力とは、どのようなことでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T17:15:05",
+      "utterance": "病は気からと昔から言われることですが、心が元気なら、病と戦える力が生まれてくるというようなことかな"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T17:15:55",
+      "utterance": "私の心が元気ということですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T17:17:15",
+      "utterance": "不安を抱いていると、元気ではないですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T17:18:13",
+      "utterance": "自分で自分の心を少しずつ元気にしてあげる方法があるのですが、ご提案させていただいてもいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T17:18:30",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T17:19:18",
+      "utterance": "朝、起きてすぐに、鏡を見てこんな言葉をいいます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T17:19:37",
+      "utterance": "私は私が大好き私は私が大好き私は私が大好き"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T17:20:30",
+      "utterance": "そして、私は元気になる私は元気になる私は元気になる"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T17:21:08",
+      "utterance": "これは、私、実験済みなんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T17:21:49",
+      "utterance": "不安を抱えて元気をなくすと、ご自分がかわいそうなので、ご自分をうんと大切にしていただきたいのです"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T17:22:22",
+      "utterance": "なるほど。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T17:22:52",
+      "utterance": "今、できることは、今、ご自分を大切になさることだと思うのですが、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T17:24:32",
+      "utterance": "そうですね、、、。大切にしていないこともなかったと思いますが、意識して大切に思ったこともありません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T17:24:56",
+      "utterance": "普通そんな感じて過ごしてしまいますよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T17:25:10",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T17:25:30",
+      "utterance": "でも、ご病気になったからこそ、考えること、気づくことがあるのではないかと思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T17:25:54",
+      "utterance": "そうかもしれないですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T17:26:20",
+      "utterance": "普通の生活がどんなに素晴らしいかも、気づく時間かもしれません"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T17:26:37",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T17:27:13",
+      "utterance": "せっかくそんなチャンスを得たと思って、やってみていただけたらと思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T17:28:00",
+      "utterance": "そう思えるときが来たらやってみたいと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T17:28:37",
+      "utterance": "ありがとうございます。「もう少し生きたい」という言葉をとても深く受け止めさせていただきました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T17:30:03",
+      "utterance": "いただく言葉の裏に強さを感じたので、きっと不安と向き合えるとご自分を信じていただきたいと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T17:30:55",
+      "utterance": "今の不安は当たり前のことなので、ご自分の気持ちを悲しく思わないでくださいね、"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T17:31:16",
+      "utterance": "はい。わかりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T17:31:31",
+      "utterance": "ありがとうございます。ここまででご相談を終了させていただいても大丈夫でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T17:31:56",
+      "utterance": "はい、大丈夫です。ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T17:32:42",
+      "utterance": "クリスマスが終わりますが、この後、寒い日が続きますので、お身体を暖かくしてお過ごしください。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T17:33:02",
+      "utterance": "ご相談にいらしていただきありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-25T17:33:17",
+      "utterance": "はい、ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-25T17:33:42",
+      "utterance": "それでは終了メッセージをお送りします。"
+    }
+  ],
+  "topic": {
+    "main_jp": "身体的健康問題",
+    "main_en": "Physical Health Issues",
+    "sub": "病気による不安感"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1003,
+    "評価作成日時": "2020-12-25T17:56:00",
+    "クライアント役ID": 32,
+    "カウンセラー役ID": 106,
+    "点数": 51,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1003,
+    "evaluation_created_at": "2020-12-25T17:56:00",
+    "client_id": 32,
+    "counselor_id": 106,
+    "score": 51,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

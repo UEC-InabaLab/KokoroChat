@@ -1,0 +1,624 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-03-27T11:51:42",
+      "utterance": "（こんにちは。本日は12時からよろしくお願いいたします。）"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T11:55:49",
+      "utterance": "こんにちは"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T11:55:55",
+      "utterance": "本日はよろしくお願いいたします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T11:56:44",
+      "utterance": "12時になりましたら、お声がけさせていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T11:57:16",
+      "utterance": "承知いたしました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T12:00:08",
+      "utterance": "（12時になりましたので、始めさていただきます。）こんにちは。相談員です。本日は、どうされましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:00:34",
+      "utterance": "よろしくお願いいたします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T12:00:47",
+      "utterance": "よろしくお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:01:24",
+      "utterance": "良くない過去を振り返る癖を改善したいです"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:01:42",
+      "utterance": "意識はしてますが"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:02:00",
+      "utterance": "無意識のうちに振り返る癖があります"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T12:02:41",
+      "utterance": "そうなんですね。振り返る癖を改善したいとお考えなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:02:48",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T12:03:31",
+      "utterance": "詳しくお話をおうかがいしたいのですが、もしよろしければ、年齢、性別、このトークルームでの呼び名を教えていただけますでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:04:16",
+      "utterance": "19歳男です"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:04:25",
+      "utterance": "村田とお呼びください"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T12:05:07",
+      "utterance": "村田さん、教えていただきありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:05:20",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T12:06:29",
+      "utterance": "良くない過去を振り返る癖を改善したいとのことですが、たとえば、どのようなことを思い出してしまうことがあるのでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:07:02",
+      "utterance": "過去の失敗したと思う出来事です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T12:07:48",
+      "utterance": "そうなんですね。思い出すというより、振り返るとおっしゃっていました。申し訳ありません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T12:08:14",
+      "utterance": "その時のことを色々とあとで、振り返るということでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:08:50",
+      "utterance": "んー"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:09:21",
+      "utterance": "フラッシュバックのようなものかなと思ったりします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T12:10:47",
+      "utterance": "先ほども無意識で、とおっしゃっていましたので、その時の状況などが、パッとでてくるのですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:10:58",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T12:11:36",
+      "utterance": "失敗した時のこととなると、お辛いですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:12:09",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:13:16",
+      "utterance": "過去は変えられないので、思い出しても乗り越えられる術があれば知りたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T12:14:45",
+      "utterance": "そうですね。わかります。なので、乗り越えたいとお考えなのですね。その術を一緒に考えていければと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T12:15:14",
+      "utterance": "思い出される過去の失敗は、いつも同じものですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:15:50",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:16:02",
+      "utterance": "３つくらいですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T12:17:58",
+      "utterance": "3つくらいなのですね。もう長い間、思い出されて苦しまれているのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:19:54",
+      "utterance": "きっかけははっきりしませんが、ここ2年くらいはこの傾向があります"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T12:22:00",
+      "utterance": "2年もこの傾向にお悩みになられていたのですね。お辛かったですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:22:09",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T12:24:58",
+      "utterance": "頻度はどれくらいなのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:26:37",
+      "utterance": "毎日ですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:26:49",
+      "utterance": "重度ではないとは思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T12:28:01",
+      "utterance": "毎日なのですか。。それは、なおのこと改善したいですね。村田さんは、19歳とのことでしたが、今は学生ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:28:38",
+      "utterance": "大学生です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T12:29:48",
+      "utterance": "学校に行っている時も思い出したりしてしまいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:30:24",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:30:36",
+      "utterance": "ふとした瞬間に"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:30:45",
+      "utterance": "って感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T12:33:17",
+      "utterance": "そうなんですね。学校でも、思い出してしまうんですね。過去の失敗を思い出してしまうのは、お辛いと思うのですが、そうなってしまった時に、何か他に困ることなどありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:34:37",
+      "utterance": "「嫌だな」「また思い出した…」"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:34:49",
+      "utterance": "と嘆くぐらいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T12:37:44",
+      "utterance": "失敗を思い出すのは、嫌ですもんね。。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:38:04",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:38:25",
+      "utterance": "思い出さないことができれば良いですが"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:39:00",
+      "utterance": "せめて思い出しても、乗り越えられる力をつけたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T12:39:49",
+      "utterance": "はい乗り越えられる力をつけたいとおっしゃっていましたもんね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:40:04",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T12:41:36",
+      "utterance": "村田さんは、良くない過去を振り返ってしまうが過去は変えられないので、乗り越えたい改善したい！とお考えなのですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:41:49",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T12:42:05",
+      "utterance": "改善したいというお気持ち。素晴らしいと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:42:27",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T12:42:49",
+      "utterance": "人は、誰でも失敗することはあると思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:43:01",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T12:44:20",
+      "utterance": "村田さんは、最初のお言葉で、過去を振り返る。とおっしゃっていたので、単に思い出すというより、振り返ってどのようにすれば良かったかかなど、改善に向けて考えたりもされているのかなと感じました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:45:21",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:45:55",
+      "utterance": "そうしないといつまでも同じことを繰り返すのかな"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:45:57",
+      "utterance": "と思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T12:46:31",
+      "utterance": "同じことを繰り返すのかなと、思われるんですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:46:50",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T12:47:02",
+      "utterance": "でも、そうならないために、どうすれば良かったかを振り返って考えている"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:48:09",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T12:48:45",
+      "utterance": "次に向けて、また失敗しないように、乗り越える方法をすでに、取られているからこそ、思い出してしまうのかもしれませんね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:50:04",
+      "utterance": "先生も近しいご経験はありましたか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T12:50:28",
+      "utterance": "はい。実は、私も結構あります。。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:50:40",
+      "utterance": "そうなんですか！？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T12:51:08",
+      "utterance": "そうなんです。とても小さい事柄でもです。例えば、"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:51:21",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T12:51:59",
+      "utterance": "あの時、あの言い方をして、あの人は嫌な気持ちになったんじゃないかな。違う言い方をすれば良かったな。とか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:52:29",
+      "utterance": "ああ…そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T12:53:00",
+      "utterance": "はい…そうなんです"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:53:34",
+      "utterance": "そういう時は"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:53:59",
+      "utterance": "違う言い方をした場合を想定するのですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T12:56:04",
+      "utterance": "はい。何度も頭で、シミレーションを繰り返してしまってます。それで、これが良いかも！という答えはなんとなくですがでます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T12:56:46",
+      "utterance": "この間は、上手くいかなかったけど、次に同じような場面が出てきたら、次こそは上手くやろう！と気持ちを切り替えるようにしています。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:57:02",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:57:09",
+      "utterance": "なるほど！"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T12:57:26",
+      "utterance": "何か参考になりましたでしょうか。村田さんもおっしゃっているように、過去は変えられないですもんね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:57:59",
+      "utterance": "シミュレーションして次に備えるんですね。勉強になりました！"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T12:58:19",
+      "utterance": "良かったです！とはいえ、毎日のように考えてしまうのは、辛いし、疲れてしまいます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T12:58:38",
+      "utterance": "無意識ですので、考えたくなくても考えてしまいます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:59:01",
+      "utterance": "私も頭で考えて混乱してるので、"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T12:59:24",
+      "utterance": "紙に書いたりして少し整理してみようと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T13:00:42",
+      "utterance": "紙に書くのはすごくいいですね！紙に書くと、やはり整理されると思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T13:00:54",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T13:01:17",
+      "utterance": "でもまだやってないので1回試してみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T13:02:05",
+      "utterance": "はい。一回試してみてください。きっと、頭で考えて混乱していたことも、書くことで整理されることもあると思います。あと、どうしても考えが浮かんだら10分だけなど時間を決めて無理やり、10分後には違うことを考えるという方法もあります。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T13:02:51",
+      "utterance": "分かりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T13:06:25",
+      "utterance": "紙に書いてみるとともに時間も試してみてください。村田さんは、改善に向けてすごく前向きに考えられているからこそだと思いますので、たまには、この時間は考えない！という時間も持つことも良いかなと思いました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T13:06:42",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T13:06:54",
+      "utterance": "今日は、お時間になってしまいましたが、あと気になることなどございますでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T13:07:25",
+      "utterance": "はい、大丈夫です。心も少し軽くなった気がします！"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T13:08:15",
+      "utterance": "心も少し軽くなられたとここと、良かったです！少しずつ、試してみてください。応援しています。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T13:08:22",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T13:08:32",
+      "utterance": "ありがとうございました！"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T13:08:43",
+      "utterance": "それでは、これで終了とさせていただきますが、よろしいでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T13:09:04",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T13:09:45",
+      "utterance": "それでは、終了いたします。本日は、ありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T13:10:12",
+      "utterance": "はい！失礼いたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T13:10:35",
+      "utterance": "失礼いたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T13:11:12",
+      "utterance": "（ありがとうございました。それでは、終了させていただいて、よろしいでしょうか）"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T13:11:36",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-27T13:11:41",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-27T13:12:04",
+      "utterance": "（それでは、終了いたします。ありがとうございました。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "過去の失敗を振り返る癖の改善"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1520,
+    "評価作成日時": "2021-03-27T16:04:00",
+    "クライアント役ID": 136,
+    "カウンセラー役ID": 164,
+    "点数": 86,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 5,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 4,
+    "要約": 3,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 5,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1520,
+    "evaluation_created_at": "2021-03-27T16:04:00",
+    "client_id": 136,
+    "counselor_id": 164,
+    "score": 86,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

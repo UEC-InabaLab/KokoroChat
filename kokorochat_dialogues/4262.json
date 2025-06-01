@@ -1,0 +1,909 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2022-11-23T12:51:43",
+      "utterance": "（本日相談者役をさせて頂きます。よろしくお願い致します。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T12:52:10",
+      "utterance": "（こんにちは。13時から始めさせていただきます。よろしくお願いいたします）"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T12:52:39",
+      "utterance": "（承知しました。ありがとうございます。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T12:53:01",
+      "utterance": "（よろしくお願いいたします）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:00:03",
+      "utterance": "こんにちは、相談員です。今日はご相談に来てくださりありがとうございます。初めに、性別・年齢を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:00:20",
+      "utterance": "17歳　女性"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:00:40",
+      "utterance": "教えてくださりありがとうございます。本日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:00:53",
+      "utterance": "先が見えない"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:01:15",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:01:30",
+      "utterance": "先が見えないというのは、とても不安が大きいと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:02:09",
+      "utterance": "ちなみに、校種と学年を教えてもらえますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:02:28",
+      "utterance": "高校3年生です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:02:46",
+      "utterance": "教えてくださりありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:03:37",
+      "utterance": "卒業を控えていらっしゃるのですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:04:04",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:04:18",
+      "utterance": "どのようなことから、先が見えないと感じているのか、聞かせていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:05:05",
+      "utterance": "受験勉強していて"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:05:30",
+      "utterance": "はい（聞いていますので、続けてお話しくださいね）"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:06:08",
+      "utterance": "これでいいのか分からなくなった"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:06:17",
+      "utterance": "そうだったのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:07:05",
+      "utterance": "勉強しているときに、迷いがでてきたのですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:07:19",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:07:36",
+      "utterance": "これでいいのか、ということでしたが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:08:22",
+      "utterance": "どんなことを考えるようになったのか、聞かせてもらえますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:09:14",
+      "utterance": "これからのことですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:09:36",
+      "utterance": "これからのこと・・・とても大切なことですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:10:02",
+      "utterance": "受験を前に、これでいいのかと迷われていらっしゃるということは"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:10:29",
+      "utterance": "それだけ、あなたが真摯に自分の人生に向き合っていらっしゃるからこそなのではないかと感じます"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:11:26",
+      "utterance": "うーん、そうなんですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:11:27",
+      "utterance": "具体的に、考えていることについて教えてもらえますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:12:01",
+      "utterance": "工芸学科に入りたい"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:12:09",
+      "utterance": "大学の"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:12:20",
+      "utterance": "そうなのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:12:50",
+      "utterance": "自分の希望がしっかりあるのですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:13:07",
+      "utterance": "まあ、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:13:18",
+      "utterance": "どこに悩まれている感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:13:36",
+      "utterance": "これでいいのかなと"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:13:43",
+      "utterance": "そうなのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:14:37",
+      "utterance": "工芸学科に入りたい希望はあるけれど、本当に、この進路でいいのだろうか、という迷いがあるということで、理解があっていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:15:09",
+      "utterance": "それもあるし"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:15:41",
+      "utterance": "ええ（聞いてきますので、そのままお話しくださいね）"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:15:42",
+      "utterance": "他の学科を受けた方がいいのか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:16:05",
+      "utterance": "ええ（お話し続けてくださいね）"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:16:05",
+      "utterance": "でも工芸学科しか考えられない"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:17:06",
+      "utterance": "工芸学科というご希望をしっかりお持ちだけれど"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:17:27",
+      "utterance": "他の学科にした方がいいのか、迷われているのですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:17:49",
+      "utterance": "というか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:18:10",
+      "utterance": "はい（聞いていますので、お話し続けてくださいね）"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:18:11",
+      "utterance": "他の学科はすべり止めで、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:18:39",
+      "utterance": "はい（お話続けてくださいね）"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:19:14",
+      "utterance": "とにかくやる気が出ないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:19:26",
+      "utterance": "そうだったのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:20:09",
+      "utterance": "受験を前にやる気がでないというのは、焦りもでてくるのではないかと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:20:39",
+      "utterance": "ちなみに、工芸学科の受験科目はどんなものなのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:21:01",
+      "utterance": "数学と英語"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:21:16",
+      "utterance": "教えてくださりありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:21:57",
+      "utterance": "その2科目については、どんな感じですか？やる気がでる、でないとか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:22:07",
+      "utterance": "まあまあ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:22:21",
+      "utterance": "そうだったのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:23:02",
+      "utterance": "もしよければ、どうして工芸学科を目指されているのか、聞かせてもらえますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:23:26",
+      "utterance": "物作りがしたくて"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:23:39",
+      "utterance": "そうなのですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:23:48",
+      "utterance": "デザインとか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:24:11",
+      "utterance": "素敵ですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:24:51",
+      "utterance": "今は空間デザインと言って、街づくりをしたいです。あと絵も学びたい。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:25:06",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:25:15",
+      "utterance": "わあ、すごく夢があるのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:25:44",
+      "utterance": "しっかりご自分のこれからやってみたいことを、考えられていて"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:25:53",
+      "utterance": "はい。みんなに楽しんでもらったり、"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:26:10",
+      "utterance": "くつろげる場所づくりをしたい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:26:22",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:27:02",
+      "utterance": "しっかりとした、自分のビジョンというか、目標であったり夢をお持ちなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:27:19",
+      "utterance": "そんなでもないですけど"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:28:06",
+      "utterance": "とても楽しそうだし、ワクワクするな、と感じました"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:28:14",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:29:16",
+      "utterance": "でも"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:29:26",
+      "utterance": "親がうるさくて"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:29:50",
+      "utterance": "そうなのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:30:12",
+      "utterance": "親御さんは、どんなことを言ってくる感じなのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:30:33",
+      "utterance": "最初工芸学科に入りたいと話したら"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:30:38",
+      "utterance": "反対されて"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:31:03",
+      "utterance": "そうだったのですね・・・（聞いていますので、続けてくださいね）"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:31:43",
+      "utterance": "今は大丈夫だけど、いろいろ決めつけてくるから話したくない"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:31:59",
+      "utterance": "決めつけを・・・"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:32:05",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:32:51",
+      "utterance": "信頼してくれていないと感じていれば、話したくないお気持ちになるのも、自然なことだと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:33:17",
+      "utterance": "今は、大丈夫なのですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:33:28",
+      "utterance": "あの人たち"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:33:47",
+      "utterance": "あ、あの人たちっていうのは両親です"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:33:53",
+      "utterance": "今は、まあまあ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:34:00",
+      "utterance": "はい（お聞きしていますので、続けてくださいね）"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:34:20",
+      "utterance": "両親、本当にイヤ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:34:30",
+      "utterance": "そうだったのですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:34:50",
+      "utterance": "父は公務員をしていて、本当につまらない人間だし"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:35:07",
+      "utterance": "ええ（お話続けてくださいね）"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:35:11",
+      "utterance": "母は世間知らずだし"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:35:23",
+      "utterance": "そうなのですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:35:32",
+      "utterance": "あんな人になりたくない"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:35:43",
+      "utterance": "そうだったのですね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:37:00",
+      "utterance": "価値観が古すぎる"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:37:19",
+      "utterance": "そうなのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:37:59",
+      "utterance": "あなたとは、価値観や考えなどいろいろ合わないところがあるのですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:38:15",
+      "utterance": "合わないことしかない"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:38:27",
+      "utterance": "そうだったのですね・・・分かり合えないというのは、悔しいし悲しいですよね"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:39:07",
+      "utterance": "母からはお父さんみたいに安定した公務員がいいわよ、と言われて、"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:39:26",
+      "utterance": "押し付けられそうになったから"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:39:31",
+      "utterance": "ええ（お聞きしていますので、続けてくださいね）"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:39:37",
+      "utterance": "なるべく話したくない"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:39:47",
+      "utterance": "そうだったのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:40:13",
+      "utterance": "自分の人生を、親であっても、人から押し付けられたくないですよね"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:40:30",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:40:51",
+      "utterance": "話したくないと思われるも、無理もないと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:41:17",
+      "utterance": "今は、工芸学科に進学したいことについては、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:41:28",
+      "utterance": "ご両親はどのような意見なのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:41:44",
+      "utterance": "仕方ない"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:42:14",
+      "utterance": "そうだったのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:43:03",
+      "utterance": "ご自身の進みたい道があって、ご両親も積極的でないにしても、容認してくださっているのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:43:53",
+      "utterance": "この理解で合っていますでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:47:20",
+      "utterance": "今、お返事しにくい状況でしょうか？もしよければ、様子を教えてくださいね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:49:50",
+      "utterance": "（すみません。お返事がこちらでみられないようですが、お返事してくださっている感じでしょうか）"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:52:28",
+      "utterance": "あ、今返事が来た"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:52:44",
+      "utterance": "ごめんなさい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:52:59",
+      "utterance": "電波の関係でしょうか、こちらこそ、失礼しました"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:53:28",
+      "utterance": "ありがとうございます。容認はしてるかもしれないけど、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:53:46",
+      "utterance": "ええ（お聞きしていますので、続けてくださいね）"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:54:36",
+      "utterance": "相談すると、やっぱりあなたには無理でしょと言われそうで"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:54:53",
+      "utterance": "そうだったのですね・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:55:09",
+      "utterance": "これから、まっすぐに進路に向かっていきたい時に"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:55:10",
+      "utterance": "やる気が出ないなんて言えない"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:55:16",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:55:33",
+      "utterance": "そうだったのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:55:55",
+      "utterance": "やる気がでないとのことでしたが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:56:17",
+      "utterance": "先ほど、ご自分のやりたい方向性を話してくださいましたね"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:56:24",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:56:39",
+      "utterance": "それが、あなたのやる気に対する"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:56:58",
+      "utterance": "とても大切な種なのではないかな、と感じました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:57:08",
+      "utterance": "いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:57:41",
+      "utterance": "そうなのかな…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:58:12",
+      "utterance": "どういったことを迷われている感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:58:42",
+      "utterance": "いきなりやる気が出なくなって"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:58:56",
+      "utterance": "受験も1月で"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:59:12",
+      "utterance": "ええ（続けてくださいね）"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T13:59:22",
+      "utterance": "このままだと受からないんじゃないかと思い始めたんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T13:59:52",
+      "utterance": "そうだったのですね。受験もあと少しで、そのような不安な気持ちになるのは、もっともだと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T14:00:26",
+      "utterance": "不安な時は、行動するのが一番の解決ではないかなと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T14:01:04",
+      "utterance": "まずは、これからの勉強の計画を立ててみるというのは、いかかでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T14:01:10",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T14:01:56",
+      "utterance": "確かに…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T14:01:56",
+      "utterance": "実際に、計画を立てる時間をもってみると"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T14:02:11",
+      "utterance": "気持ちも落ち着いてきて、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T14:02:34",
+      "utterance": "やるべきことが見えてくると思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T14:02:43",
+      "utterance": "あなたは、ご自分のやりたいこと、将来のことをしっかりと考えて進路を決めていらっしゃる、賢明な方だと感じました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T14:02:57",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T14:03:15",
+      "utterance": "あなたなら、きっと、また受験に向かっていけると思います。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T14:03:25",
+      "utterance": "わかりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T14:03:51",
+      "utterance": "応援しています。また、何かお役に立てるがあったらと思いますので、こちらに相談にいらしてください。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T14:04:08",
+      "utterance": "立てることがあったらです。すみません"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T14:04:15",
+      "utterance": "ありがとうございます。またよろしくお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T14:04:26",
+      "utterance": "大丈夫です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T14:04:36",
+      "utterance": "はい。今日は、とても大切なお話を聞かせてくださりありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T14:04:53",
+      "utterance": "寒くなってきましたので、どうぞ温かくしてお過ごしくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T14:05:07",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T14:05:23",
+      "utterance": "ありがとうございます。それでは、これで今日の相談を終了させていただきたいと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T14:05:40",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T14:05:54",
+      "utterance": "（ありがとうございました）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T14:06:21",
+      "utterance": "（途中の切断、こちらは見れていたのですが、失礼いたしました）"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-23T14:06:34",
+      "utterance": "（カウンセラー役お疲れ様でした。途中スマホのラインコが止まってしまい、急いでパソコンに切り替えていて遅くなりました。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-23T14:06:59",
+      "utterance": "（了解です。そうだったのですね。ありがとうございました。それでは終了させていただきます）"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "受験への不安とやる気の低下"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4262,
+    "評価作成日時": "2022-11-23T14:24:00",
+    "クライアント役ID": 211,
+    "カウンセラー役ID": 33,
+    "点数": 63,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4262,
+    "evaluation_created_at": "2022-11-23T14:24:00",
+    "client_id": 211,
+    "counselor_id": 33,
+    "score": 63,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,489 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:00:08",
+      "utterance": "こんにちは、相談員です。本日はご相談に来て頂き、ありがとうございます。まず初めに、年齢、性別、ご相談内容について教えてください。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T10:01:36",
+      "utterance": "17歳女ネットの悪口で悩んでいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:02:54",
+      "utterance": "ご連絡ありがとうございます。そうなんですね。具体的に教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T10:03:48",
+      "utterance": "Twitterとかで呟くと知らないひとからきもいとか消えろとか言われます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:04:38",
+      "utterance": "なるほど、Twitterをされててそのような悪口を言われているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T10:04:47",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:05:05",
+      "utterance": "そのことについて、相談者様はどう思われているか教えて頂けますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T10:05:27",
+      "utterance": "傷つきます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:06:57",
+      "utterance": "なるほど。確かに、そのような悪口を書かれるのは嫌ですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T10:07:05",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:07:28",
+      "utterance": "相談者様は、よくTwitterを使用されるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T10:07:39",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:08:19",
+      "utterance": "うんうん、ちなみにお聞きできればなのですが、相談者様はTwitterを普段どのように使用していますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T10:09:08",
+      "utterance": "好きなアイドルのこと呟いたりとか"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:10:06",
+      "utterance": "そうなんですね。お好きなアイドルがいらっしゃるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T10:10:16",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:11:29",
+      "utterance": "そのような呟きにも、悪口を書かれたりするのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T10:11:36",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:12:30",
+      "utterance": "そうですか、それは嫌ですね。せっかくご自身の好きなことを呟かれているのに、、、"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T10:13:21",
+      "utterance": "ブロックしたらブロックするなとか言われるし"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:14:12",
+      "utterance": "うんうん、こちらからしたら、嫌だからブロックしたのにという感じですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:15:14",
+      "utterance": "その悪口は、色々な人から来ますか？それともだいたい同じ人ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T10:15:15",
+      "utterance": "知らないひとだし、怖いし"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:15:27",
+      "utterance": "そうですよね。怖いですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T10:15:56",
+      "utterance": "色々とゆうか2.3人くらいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:17:12",
+      "utterance": "なるほど、特定の人になるのですね。知り合いではないけれど、IDやネームが同じだったりするということでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T10:17:43",
+      "utterance": "そうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:18:33",
+      "utterance": "そうですか。ちなみに、どれくらい前から言われていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T10:18:51",
+      "utterance": "半年くらい前からです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:19:43",
+      "utterance": "なるほど、半年くらい前からなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:20:05",
+      "utterance": "どれくらいの頻度で言われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T10:21:45",
+      "utterance": "頻度、、、難しいですたまにです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:22:40",
+      "utterance": "たまに言われてしまうのですね。だいたいで結構ですので、大丈夫ですよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:23:44",
+      "utterance": "その悪口を書いてくる人たち以外で、気になることや発言はありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T10:24:03",
+      "utterance": "ないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:24:22",
+      "utterance": "うんうん、分かりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:26:47",
+      "utterance": "そういった人たちをブロックしてはまた言われるとのことですが、もし直接何かを言うとしたらどんなことを言いたいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:27:15",
+      "utterance": "もちろん相談者様は絶対に守られている状況とします。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T10:27:24",
+      "utterance": "放っておいてほしい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:28:14",
+      "utterance": "うんうん、承知しました。少しこれまでのお話をまとめますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:29:34",
+      "utterance": "まず相談者様は、Twitterを使用されていて半年前からたまに悪口を言ってくる人がいる。それに対して嫌な思いをされていて、できることなら関わらないで欲しい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:29:50",
+      "utterance": "ということで、合っていますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T10:29:55",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:30:22",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:30:51",
+      "utterance": "Twitterをやるからには、嫌な思いをせずに楽しく使いたいですもんね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T10:31:06",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:31:41",
+      "utterance": "この辺りの改善について、ご一緒に考えていければと思いますが、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T10:31:59",
+      "utterance": "お願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:32:14",
+      "utterance": "はい、分かりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:32:44",
+      "utterance": "まず、悪口を書かれて嫌だということについて、どなたかに相談されたことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T10:32:58",
+      "utterance": "ないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:33:28",
+      "utterance": "そうなんですね。やはり、お話しにくいという感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T10:34:36",
+      "utterance": "話したらTwitterやめろと言われるだけだと思うので"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:35:34",
+      "utterance": "なるほど、やめろと言われてしまう可能性が高いということですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:36:04",
+      "utterance": "ちなみに相談者様は、Twitterのどのような点が楽しいと感じていらっしゃいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T10:36:51",
+      "utterance": "いろんなひとと好きなアイドルの話したりするのが楽しいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:38:08",
+      "utterance": "そうなんですね。確かに、自分の好きなことで話ができるのは嬉しいですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:39:55",
+      "utterance": "悪口を書かれる人に対して、何かこうしよう等考えていることはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T10:40:23",
+      "utterance": "わかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:41:02",
+      "utterance": "うんうん、ブロックしても、あまり効果がないということですもんね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:42:15",
+      "utterance": "1つ提案なのですが、法律の力を借りるというのはいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T10:43:13",
+      "utterance": "あんまり大ごとにはしたくないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:44:56",
+      "utterance": "確かに、法律を使うとなるとかなり大きなことになりますね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T10:46:18",
+      "utterance": "他に方法ありませんか"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:46:22",
+      "utterance": "でしたら、その悪口を書く人に対して、「それ以上言うと訴えます」と言ってみるというのはいかがでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:46:46",
+      "utterance": "このように言われるだけでも、だいぶ効果はあると思いますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T10:47:03",
+      "utterance": "訴えてみろよ！って言われたら？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:48:14",
+      "utterance": "そうしたら訴えていいと思います。もちろんこちらにご相談して頂ければ、相談者様の周りの方に知られないように、こちらだけで対処することも可能ですよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:48:44",
+      "utterance": "また、ご相談して頂けるなら、相談者様の負担も軽減することもできます。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T10:49:32",
+      "utterance": "どうやって対処してくれるんですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:50:44",
+      "utterance": "具体的には、相談者様のことをこちらから法律関係の方に連絡をします。もちろん、内密でのやり取りです。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T10:51:15",
+      "utterance": "親に言わなくていいんですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:53:23",
+      "utterance": "言う必要はありませんよ。悪口を書かれた部分はもしかしたらいるかもしれませんが、そのような方にこちら側から直接訴えることができます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:54:00",
+      "utterance": "また、絶対に相談者様の安全は確保するつもりでいます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:54:21",
+      "utterance": "少し勇気を出して、行動してみてはいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T10:55:14",
+      "utterance": "訴えるとかそういうことまでは全然考えていませんでした。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:56:10",
+      "utterance": "多少抵抗はあるかもしれませんが、こちらも手厚くフォローするつもりです。また、かなり効果的でもあります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:56:29",
+      "utterance": "そろそろお時間が来てしまいますが、ここまでお話してみて、いかがでしたでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T10:58:02",
+      "utterance": "相手を訴えたり、なんか言ったりするのはちょっと嫌です。何か他にいい方法があればいいなと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T10:59:20",
+      "utterance": "分かりました。一旦お話はここまでにして、次の機会にまたお話できればと思いますが、よろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T10:59:34",
+      "utterance": "はい、お願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T11:00:03",
+      "utterance": "ありがとうございます。ぜひ、また来てくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-20T11:00:22",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-20T11:00:31",
+      "utterance": "それでは終了メッセージを送らせて頂きます。"
+    }
+  ],
+  "topic": {
+    "main_jp": "恋愛問題",
+    "main_en": "Romantic Issues",
+    "sub": "SNSでの誹謗中傷による自信の喪失"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4641,
+    "評価作成日時": "2023-02-20T11:29:00",
+    "クライアント役ID": 294,
+    "カウンセラー役ID": 342,
+    "点数": 54,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 2,
+    "要約": 4,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4641,
+    "evaluation_created_at": "2023-02-20T11:29:00",
+    "client_id": 294,
+    "counselor_id": 342,
+    "score": 54,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

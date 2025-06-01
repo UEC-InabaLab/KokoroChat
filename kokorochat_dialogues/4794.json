@@ -1,0 +1,559 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-03-20T19:51:34",
+      "utterance": "こんばんわ　よろしくお願いいたします。時間になりましたら始めさせて頂きたいと思います"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T19:53:29",
+      "utterance": "こんばんは。よろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:00:14",
+      "utterance": "こんばんわ。相談員です。本日はお越しいただきありがとうございます。始めに年齢、性別、相談内容を教えて頂けますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:01:06",
+      "utterance": "16歳　男"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:01:16",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:01:35",
+      "utterance": "ご相談内容を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:02:16",
+      "utterance": "人間関係について相談したいです。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:02:27",
+      "utterance": "浮きたくないけど、なあなあの関係でつるみたくないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:03:26",
+      "utterance": "そうなのですね。それは悩みますよね。学校でのお話ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:03:54",
+      "utterance": "学校の友人関係です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:04:50",
+      "utterance": "普段はどのような、感じで一緒に居てるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:05:40",
+      "utterance": "遊びに誘わってもらったりします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:06:59",
+      "utterance": "そうなのですね。一緒に遊ばれているのですね。その中でなあなあな付き合いとは、どのような感じなのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:08:21",
+      "utterance": "友人と思ってるし、一緒に遊んでくれるのも嬉しいですけど、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:08:27",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:09:34",
+      "utterance": "あんまり遊びに関しての水が合わないと思ってしまいます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:10:21",
+      "utterance": "そうなのですね。それは一緒にいても楽しいと思えないのではないですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:11:56",
+      "utterance": "楽しいと思えないことが多いですね。たまに断ることもありますが、関係性を壊したくないので、6、7割は断らないようにしています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:13:33",
+      "utterance": "なるほど。関係性が壊れるのはやはり怖いと感じられたのではないかと感じましたが、いかがでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:13:52",
+      "utterance": "断るのも勇気がいりますよね"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:13:57",
+      "utterance": "そう思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:13:59",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:15:07",
+      "utterance": "そうですよね。そう思われる気持ちもあるでしょうね。お友達とは長いお付き合いですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:15:55",
+      "utterance": "高校生になってできた友人です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:16:32",
+      "utterance": "そうなのですね。16歳という事は高１ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:16:55",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:18:02",
+      "utterance": "もうすぐ1年くらいですね。ちなみにどのような遊びをされているのでしょう？話せる範囲で大丈夫ですので聴かせていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:19:58",
+      "utterance": "ゲーセン、携帯ゲームやその課金、頻繁に外食、宅飲み、隣県まで行ってショッピングモール"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:20:03",
+      "utterance": "などです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:20:47",
+      "utterance": "ありがとうございます。かなり広範囲に遊ばれているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:21:03",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:21:28",
+      "utterance": "年頃だからってのもあるとは思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:22:33",
+      "utterance": "そうですよね。一つききたいのですが、その課金なのですが、もしかして、あなたが払ってますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:23:14",
+      "utterance": "いえ、その課金する子の親が払っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:23:55",
+      "utterance": "そうなのですね。当然のことで安心しました。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:24:32",
+      "utterance": "はい、心配してくださってありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:25:43",
+      "utterance": "ありがとうございます。ところでこのような遊びをされていて水があわないという事ですが。遊んでいていつもどう思われているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:26:56",
+      "utterance": "楽しい時もありますが、お金とか時間がもったいないと思ったりします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:27:16",
+      "utterance": "なるほど。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:28:22",
+      "utterance": "そうですよね。楽しくないと思われているのだったらそう思うのも当然の事だと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:28:49",
+      "utterance": "楽しいときもあるのですね"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:28:58",
+      "utterance": "そうですか。遊びに誘ってくれてるのに、少し失礼かもしれません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:30:04",
+      "utterance": "水が合わないのと楽しくないのは違いますよね、ごめんなさいね"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:30:15",
+      "utterance": "はい。楽しい時は本当に誘ってくれてありがたいなと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:30:34",
+      "utterance": "いえいえ、大丈夫です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:31:09",
+      "utterance": "そうですよね。お友達ですものね"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:31:26",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:32:23",
+      "utterance": "その中で浮きたくない、なあなあでつるみたくないと思われたのは、いつぐらいからですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:33:05",
+      "utterance": "ここ2ヵ月くらいだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:33:37",
+      "utterance": "何かきっかけのようなことがあったりしましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:34:41",
+      "utterance": "お金とか時間がかかるなと思って、疑問に感じるようになりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:35:42",
+      "utterance": "そうですよね。高1だとお金もかかるし頻繁に行けないですよね"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:36:17",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:37:02",
+      "utterance": "そうですよね。アルバイトとかされていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:38:00",
+      "utterance": "いえ、部活してるのでやってないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:38:53",
+      "utterance": "そうなのですね。それだと本当に、お金も大変だし、時間もないですね"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:39:37",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:40:04",
+      "utterance": "なるほど、少しまとめさせていただきますと"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:40:11",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:40:47",
+      "utterance": "高1になってからのお友達とお金がかかる遊びが多く"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:42:10",
+      "utterance": "時間ももったいない、でも離れるのも怖い。しかしこのまま付き合うのもどうかとおもわてれいるという感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:43:20",
+      "utterance": "大体そんな感じです。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:43:55",
+      "utterance": "関係性を保ったまま、時間とお金がもったいないというモヤモヤがなくなればいいなと思ってます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:44:41",
+      "utterance": "そうなのですね。そう思われているのですね"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:45:09",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:45:31",
+      "utterance": "どうすれば、モヤモヤがましになると思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:46:55",
+      "utterance": "行きたい時だけ、お金がかからなそうな時だけ参加ですかね？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:47:52",
+      "utterance": "そうですね。それができると楽な気持ちになれそうですが、言えそうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:48:35",
+      "utterance": "実際言う度胸はないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:48:57",
+      "utterance": "なるほど勇気がいりますよね"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:49:39",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:50:28",
+      "utterance": "お友達なら言ってもわかってくれそうですか？怒ると思いますか？どのように思われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:51:52",
+      "utterance": "その時怒らないかもですが、自分がいない場面で実際どう思うのか、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:52:03",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:52:05",
+      "utterance": "そう考えてしまいます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:53:05",
+      "utterance": "そうですよね。友達関係がどうなるか心配になるのも当然ですよね。でも、"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:53:19",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:54:34",
+      "utterance": "もしこの関係がずっと続くとなるとそれでも大丈夫かな？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:55:17",
+      "utterance": "それは、、、自分が疲れるかもしれないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:56:31",
+      "utterance": "そうなのですね。それは疲れますよね"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:57:13",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:57:59",
+      "utterance": "お金がない時は、言ってみるのも良いかも知れません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:58:11",
+      "utterance": "がいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:59:10",
+      "utterance": "はい、言えるようになった方がこの先の人生において大事かもしれませんが。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T20:59:24",
+      "utterance": "しれません、でした。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T20:59:48",
+      "utterance": "そう思われたのですね。疲れないぐらいの距離の付き合い方をしてみるのも一つかと思いました"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T21:00:12",
+      "utterance": "はい、頑張ってみます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T21:00:53",
+      "utterance": "これから先、長いお友達だとわかってくれるかもしれません。頑張ってみてください"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T21:01:21",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T21:02:09",
+      "utterance": "お友達と上手く付き合っていける事応援しています。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T21:02:40",
+      "utterance": "ありがとうございます。頑張ってみます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T21:02:47",
+      "utterance": "そろそろお時間ですが、大丈夫ですか？またお話に来てくださいね"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T21:03:24",
+      "utterance": "大丈夫です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T21:03:50",
+      "utterance": "ありがとうございました。では失礼いたします。頑張ってください"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T21:04:14",
+      "utterance": "（クライエント役ありがとうございました。また注意点などよろしくお願いいたします。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T21:04:34",
+      "utterance": "(ありがとうございました。お疲れ様でした。)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-20T21:04:48",
+      "utterance": "では、失礼いたします。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-20T21:04:57",
+      "utterance": "(はい)"
+    }
+  ],
+  "topic": {
+    "main_jp": "人間関係",
+    "main_en": "Interpersonal Issues",
+    "sub": "高校の友人関係における遊びの価値観の不一致"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4794,
+    "評価作成日時": "2023-03-21T17:25:00",
+    "クライアント役ID": 136,
+    "カウンセラー役ID": 237,
+    "点数": 86,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 5,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 5,
+    "問題の明確化": 5,
+    "この相談での目標の明確化": 5,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4794,
+    "evaluation_created_at": "2023-03-21T17:25:00",
+    "client_id": 136,
+    "counselor_id": 237,
+    "score": 86,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

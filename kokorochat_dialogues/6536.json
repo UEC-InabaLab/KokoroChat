@@ -1,0 +1,459 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2024-03-04T14:53:52",
+      "utterance": "（よろしくお願いします。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T14:54:24",
+      "utterance": "（こんにちは、よろしくお願いします。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T15:00:16",
+      "utterance": "こんにちは、相談員です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T15:00:59",
+      "utterance": "あなたの年齢と性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T15:01:21",
+      "utterance": "25歳、女性です"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T15:01:35",
+      "utterance": "教えてくださりありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T15:01:50",
+      "utterance": "今日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T15:02:26",
+      "utterance": "何のために生きているのかわからなくなりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T15:02:51",
+      "utterance": "そうなんですか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T15:03:38",
+      "utterance": "そう思うと虚しくなりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T15:04:09",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T15:04:33",
+      "utterance": "いつ頃からそう思うようになられたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T15:05:21",
+      "utterance": "半年ぐらい前からです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T15:05:41",
+      "utterance": "そうだったのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T15:06:41",
+      "utterance": "その頃に何か状況が変わったこととかありましたでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T15:09:30",
+      "utterance": "彼氏と別れたり、仕事がつまらなかったりですかね"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T15:10:15",
+      "utterance": "生きててもいいことないなって思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T15:10:48",
+      "utterance": "そんな風に感じていらっしゃるのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T15:11:41",
+      "utterance": "とても切ない思いをされていることと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T15:11:51",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T15:12:40",
+      "utterance": "彼氏と別れる前はどんな日々を送られていたのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T15:13:41",
+      "utterance": "彼氏とうまくいってるときは、まあまあ楽しかったです"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T15:13:58",
+      "utterance": "でも仕事が好きじゃなくてやめたかったです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T15:14:46",
+      "utterance": "仕事が好きでないと張り合いがないですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T15:15:15",
+      "utterance": "ちなみに、どんなお仕事をされているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T15:15:47",
+      "utterance": "張り合いがないというか、働くのが好きじゃないです"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T15:16:13",
+      "utterance": "事務の仕事をしてました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T15:16:14",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T15:16:23",
+      "utterance": "してます、の間違えです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T15:19:24",
+      "utterance": "教えていただき、ありがとうございます。働くのは好きではないけれど、生活のために働いているとい感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T15:19:35",
+      "utterance": "そんな感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T15:20:26",
+      "utterance": "そう感じながら働いているのは、気持ちが晴れないことと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T15:20:39",
+      "utterance": "みんなそんな感じじゃないんですかね？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T15:21:09",
+      "utterance": "そんな風に思っていらっしゃるのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T15:21:54",
+      "utterance": "さきほど、生きていてもいいことがないと仰っていましたが、どんなことがあったらいいと思っていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T15:24:05",
+      "utterance": "そうですね、優しい彼氏がいて、結婚してくれたら仕事も辞められるし楽かもしれないですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T15:25:47",
+      "utterance": "そうなんですね。あなたとしては、仕事を続けるよりも家庭に入る方が望ましいとお感じなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T15:26:38",
+      "utterance": "そうなんですかね…"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T15:27:29",
+      "utterance": "仕事毎日行かなくていいのはいいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T15:28:55",
+      "utterance": "家庭に入るというより、仕事を続けたくないということなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T15:30:14",
+      "utterance": "そうかもしれないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T15:32:23",
+      "utterance": "仕事を辞めたいと思ってもなかなかそうもいかないのはもどかしいことと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T15:32:36",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T15:34:34",
+      "utterance": "あなたにとっては仕事は重荷でしかないのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T15:35:26",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T15:35:30",
+      "utterance": "しなくていいならしたくないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T15:36:29",
+      "utterance": "そう感じながら働き続けるのは、しんどいことだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T15:38:34",
+      "utterance": "仕事をやりたくないとしますと、どんなことならやってみたいと思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T15:38:45",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T15:39:27",
+      "utterance": "毎日朝早く起きなくていい仕事があればいいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T15:40:50",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T15:43:41",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T15:45:15",
+      "utterance": "朝早く起きることがしんどく感じているのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T15:45:25",
+      "utterance": "ここまでのお話を一旦整理させていただいてもよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T15:45:45",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T15:46:01",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T15:46:45",
+      "utterance": "あなたは半年ほど前に彼氏と別れてから、何のために生きているのかわからなくなられた。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T15:48:00",
+      "utterance": "それまでは彼氏と付き合っていてまあまあ楽しかったが、仕事は好きではなく辞めたいと思っていた。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T15:49:34",
+      "utterance": "そもそも働くことが好きではなく、できれば働かないでいたい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T15:51:27",
+      "utterance": "朝早く起きるのがしんどいので、毎朝早く起きなくてもいい仕事があればいいと思っていらっしゃる。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T15:52:56",
+      "utterance": "なかなか思うようにならないので、生きていてもいいことがないと感じている。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T15:53:09",
+      "utterance": "ということでよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T15:54:27",
+      "utterance": "はい、そんな感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T15:56:28",
+      "utterance": "働きたくないと感じているのに働き続けなければならないと思うと、本当にやるせない思いをされていると思います。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T15:57:10",
+      "utterance": "ほんとそうですね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T15:57:32",
+      "utterance": "特に朝早く起きるのが苦手なあなたが毎日早く起きて仕事に行くのはとてもしんどいことですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T15:58:25",
+      "utterance": "そうですねどうすればいいですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T16:00:45",
+      "utterance": "そうですね。せめて、朝ゆっくりできるお仕事が見つかるといいとは思うのですが、"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T16:01:50",
+      "utterance": "そうですねーゆっくりのほうがまだましです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T16:03:46",
+      "utterance": "そういったお仕事を探してみるのも一つかと思います。それと、お仕事で満たされない気持ちを他のやりたいことで満たすことで、お仕事がしんどいと思う気持ちを軽くすることもできるかもしれません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T16:06:53",
+      "utterance": "よろしければ、また相談しに来ていただき、どんなことができたらあなたが幸せを感じることができるかを一緒に考えてみませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T16:07:24",
+      "utterance": "そうかもしれませんね。またお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T16:07:56",
+      "utterance": "今日はあなたの大切なお気持ちをお話しいただき、ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T16:08:22",
+      "utterance": "それでは、今日のご相談を終わらせていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T16:09:14",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-04T16:09:21",
+      "utterance": "（ありがとうございました。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T16:09:23",
+      "utterance": "（ありがとうございました。お疲れさまでした。落としどころが難しかったです。忌憚のないご意見をお待ちしています。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-04T16:10:06",
+      "utterance": "（それではロールプレイを終了します。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "仕事を辞めたいという気持ち"
+  },
+  "review_by_client_jp": {
+    "評価ID": 6536,
+    "評価作成日時": "2024-03-04T21:34:00",
+    "クライアント役ID": 474,
+    "カウンセラー役ID": 92,
+    "点数": 52,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 2,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 1,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 6536,
+    "evaluation_created_at": "2024-03-04T21:34:00",
+    "client_id": 474,
+    "counselor_id": 92,
+    "score": 52,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

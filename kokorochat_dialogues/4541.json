@@ -1,0 +1,634 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:00:06",
+      "utterance": "相談員です。今日はご相談ありがとうございます。まずはじめに、年齢、性別をお聞かせください。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:01:03",
+      "utterance": "はい、高３女子です"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:01:10",
+      "utterance": "こちらの質問にご回答くださり、ありがとうございます。本日はどのようなご相談でしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:01:57",
+      "utterance": "中学2年生の頃から摂食障害で悩んでいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:02:56",
+      "utterance": "そうなんですね。長い間、お辛い状態なんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:03:25",
+      "utterance": "はい、何度も死にたいと考えてしまいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:04:26",
+      "utterance": "それは…とても辛い状況だと感じます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:05:06",
+      "utterance": "今現在も死にたい気持ちをお持ちですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:05:46",
+      "utterance": "毎日思います。この病気があると先のことなんて何も考えられない"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:06:45",
+      "utterance": "そうなんですね。生きる喜びや希望を持てないという感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:07:44",
+      "utterance": "はい何をしていても誰といても病気があるからと思ってしまいます"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:08:05",
+      "utterance": "喜びなんてありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:08:32",
+      "utterance": "そうですよね。とてもとても苦しい状況でいらっしゃると感じます。今はご自宅ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:08:51",
+      "utterance": "はい、自宅です"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:10:12",
+      "utterance": "ご自宅からのご相談ですね。あたたかくしてくださいね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:10:29",
+      "utterance": "接触障害、とのことですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:10:41",
+      "utterance": "何かきっかけがあったのでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:11:43",
+      "utterance": "中学2年生の頃仲良くしていたグループの皆にある日突然ハブられました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:12:07",
+      "utterance": "そんな辛いことがあったのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:12:44",
+      "utterance": "はいどんなに私が嫌いかを囲まれて言われ続けました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:13:21",
+      "utterance": "どんなに嫌いかだなんて…なんてひどいことと私は思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:13:48",
+      "utterance": "その時、あなたはどんな思いでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:14:37",
+      "utterance": "昨日まで仲良く笑っていた友達が豹変して世界が真っ暗になりました…"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:15:14",
+      "utterance": "恐ろしいことですよね。真っ暗という言葉そのままだと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:15:34",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:15:56",
+      "utterance": "その出来事について、誰かに聞いてもらいましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:16:31",
+      "utterance": "もう人をしんじられない誰にも話せません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:17:42",
+      "utterance": "そういう気持ちになりますよね。裏切られた思いだし、誰も信じることができない…。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:18:24",
+      "utterance": "ずっと苦しんでいること、よくわかります。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:18:49",
+      "utterance": "はいなのでもう毎日死にたいと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:19:23",
+      "utterance": "そうですよね。楽になりたい気持ちですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:19:51",
+      "utterance": "はい暗闇から逃れたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:20:44",
+      "utterance": "そんな中、苦しい気持ちを話してくれてありがとう。接触障害のことも、誰にも話せませんか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:21:01",
+      "utterance": "ご両親や学校の先生など…"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:22:04",
+      "utterance": "話せません隠れて食べ吐きしてるので…でも親は何となくきがついているかもしれないけど何も言ってきません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:23:00",
+      "utterance": "そうですか。同じお家に住んでいるのですから、何か気がついてご心配されているかもしれませんね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:23:18",
+      "utterance": "私は、あなたのお体がとても心配です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:24:05",
+      "utterance": "食べて吐いた後、どんな気持ちですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:24:09",
+      "utterance": "心配？というか面倒臭いから触れないのかも？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:24:34",
+      "utterance": "行き違ってしまってごめんなさい。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:25:08",
+      "utterance": "大量に食べたら苦しくなるので、吐けばスッキリしますが、か吐くのが辛いです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:26:04",
+      "utterance": "そうですよね。ものすごく辛いと思います。それでもスッキリできる？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:26:43",
+      "utterance": "はい吐ききれたらスッキリしますが、疲れて寝てしまいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:27:19",
+      "utterance": "そうですよね。とても体力と精神力を使いますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:27:34",
+      "utterance": "あと、身体が冷えて外に出られません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:28:02",
+      "utterance": "そうなんですね。学校にはいけていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:29:05",
+      "utterance": "こんなことしてる醜い自分はきちがいで、絶対知られたくないです"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:29:34",
+      "utterance": "学校は休みがちで冬は特に行けなくなります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:30:18",
+      "utterance": "たくさん苦しい状況をお話してくれてありがとう。ここまで状況お聞きして、本当に本当に苦しい状況と思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:31:10",
+      "utterance": "本当は吐きたくないし、学校にも行きたいですよね？どうでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:31:19",
+      "utterance": "すみません…ありがとうございます"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:32:42",
+      "utterance": "普通に朝起きて食事をして出かける旅行に行く人と外食する…そういう普通のことを忘れてしまいました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:33:19",
+      "utterance": "うんうん。あなたにとって普通の暮らし、取り戻したいですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:34:05",
+      "utterance": "やめられる気が全くしないんです"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:34:50",
+      "utterance": "起きている間はずーっと食べ物に支配されている感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:35:12",
+      "utterance": "そうなんですね。でも、中学２年からこれまで、苦しみながらも生きてきた。それだけで、ものすごいことだと私は思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:35:52",
+      "utterance": "そしてやめる自信はないけれど、やめたいと思っている？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:36:53",
+      "utterance": "やめたいけどやめたら私は本当に一人ぼっちです…食べ物は唯一私の味方なんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:37:26",
+      "utterance": "なるほど。食べていると安心する？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:38:17",
+      "utterance": "はい、その時最初の一瞬だけ安心します"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:38:43",
+      "utterance": "そうなんですね。一回どのくらいの量を食べていますか？例えば今日はこれまでどのくらい？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:38:57",
+      "utterance": "その後苦しくなってくると直ぐに後悔します…"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:39:46",
+      "utterance": "3人分位の量は食べますそれ以外に甘いものも"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:40:41",
+      "utterance": "そうなんですね。たくさんの量を食べることは、その時の気持ちの落ち込み方とかに影響する？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:41:00",
+      "utterance": "例えば落ち込みが大きいと、量が増えるとか"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:41:15",
+      "utterance": "はいそれはあります"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:41:44",
+      "utterance": "たくさん食べればその分苦しくなって、吐く量も増える？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:42:43",
+      "utterance": "はい、でも沢山食べないと吐きにくいので吐くまで食べるという感じです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:44:18",
+      "utterance": "そうなんですね。本当に苦しいね。さっき「食べ物は唯一の味方」と教えてくれたけれど、「量が変化しても味方ということには変わらない」というように考えることはできそうですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:45:10",
+      "utterance": "たくさん食べなければ吐けないしスッキリもしないけれど…"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:45:47",
+      "utterance": "んーどうかな量は吐けるかどうかが重要だから沢山食べるしかない…"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:46:38",
+      "utterance": "なるほど。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:47:35",
+      "utterance": "吐くことが大前提なんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:47:43",
+      "utterance": "すみませんこんな気持ち悪い話をして…"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:47:54",
+      "utterance": "そんなことないですよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:48:18",
+      "utterance": "なんでも話してくださいね。一緒に解決策を考えていきたいです"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:48:36",
+      "utterance": "吐くことが重要です履けないと死にたくなります"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:48:50",
+      "utterance": "今は吐くことをやめる、というのはハードルが高そうなので"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:49:15",
+      "utterance": "そのことは自分で認めてあげて"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:49:40",
+      "utterance": "今よりほんのすこしだけ食べる量を減らしてみることはできそうですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:49:55",
+      "utterance": "本当にほんのすこしだけ"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:50:14",
+      "utterance": "はい、少しならできるかもしれないです"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:50:50",
+      "utterance": "それか回数を減らすか"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:50:55",
+      "utterance": "うんうん。できそう、という気持ちだけで十分。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:51:42",
+      "utterance": "ありがとう"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:51:51",
+      "utterance": "まずは、あなたの体のことを考えて、少しだけ、ほんの少しだけ食べる量とはく回数を今より減らしてみる。いかがですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:52:00",
+      "utterance": "そして大事なのは"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:52:14",
+      "utterance": "それができたら、自分を褒めてあげて"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:52:51",
+      "utterance": "はい、少しだけと思えば出来るかもしれない"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:53:10",
+      "utterance": "うんうん。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:53:21",
+      "utterance": "自分を褒めることなんてしたことないです"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:53:50",
+      "utterance": "こんなことしている自分を褒める…"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:53:55",
+      "utterance": "大きすぎる目標を目指すのではなく、小さな変化でも必ず褒めてあげてください"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:54:30",
+      "utterance": "少しだけでも減らすというのは、あなたの努力によってしか生まれないのだから"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:54:40",
+      "utterance": "褒めるべきことです！"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:54:51",
+      "utterance": "人として最低のことしてますよねそれでも褒めていいんですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:55:26",
+      "utterance": "誰かとくらべず、あなたの変化だけに集中しましょう"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:55:48",
+      "utterance": "こうして相談しにきてくれたことも、私は心から感謝しています"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:56:11",
+      "utterance": "その一歩だって、褒めてあげて"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:56:28",
+      "utterance": "誰にも話せなかっこと聞いてくれてありがとう"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:56:45",
+      "utterance": "ここまでたくさん聞かせてくれましたが、お気持ちどうでしょう"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:57:11",
+      "utterance": "褒めるという事を考えてみます"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:57:22",
+      "utterance": "今まで考えもしませんでした…"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:57:42",
+      "utterance": "あなたの小さくても大きな一歩を、褒めてあげましょう！"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:58:04",
+      "utterance": "はいありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:58:08",
+      "utterance": "そしてまたいつでも相談にきてくださいね"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:58:23",
+      "utterance": "はいよろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:58:46",
+      "utterance": "今日のやり取りは記録に残して、また続けて聞かせてもらえるようにしておきますから安心してね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:59:02",
+      "utterance": "今日は本当にありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:59:03",
+      "utterance": "分かりましたありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:59:20",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-03T13:59:27",
+      "utterance": "応援してますね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-03T13:59:36",
+      "utterance": "はい"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "摂食障害とそれに伴う自殺願望"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4541,
+    "評価作成日時": "2023-02-03T15:00:00",
+    "クライアント役ID": 360,
+    "カウンセラー役ID": 357,
+    "点数": 73,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 4,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4541,
+    "evaluation_created_at": "2023-02-03T15:00:00",
+    "client_id": 360,
+    "counselor_id": 357,
+    "score": 73,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

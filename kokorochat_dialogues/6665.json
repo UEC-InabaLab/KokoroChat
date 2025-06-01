@@ -1,0 +1,574 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-03-31T09:52:38",
+      "utterance": "おはようございます本日はよろしくお願いいたしますクライエント役の設定のお願い年齢を若年層での設定でお願いしても大丈夫でしょうか？チェックして頂きたいポイント寄り添ってくれていたと感じられたか受容の言葉プラスオープンクエスチョンがしっかりと伝えられていたかまた何か気づいた点があればフィードバックを頂きたいと思います。(お時間になりましたら始めさせて頂きますね。）"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T09:53:24",
+      "utterance": "おはようございます。承知いたしました。宜しくお願致します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:00:51",
+      "utterance": "おはようございます。相談員です。本日はどのようなお話でいらっしゃいましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:01:17",
+      "utterance": "友だちの事で悩んでます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:03:04",
+      "utterance": "そうだったんですね。お友達のこと詳しくお聞きしても大丈夫ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:03:57",
+      "utterance": "はい。いつも一緒に遊んで友だちだけど、ハブられました"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:05:10",
+      "utterance": "あっちから遊ぼうって行ってきたのに、私をおいて違う子と遊びに行ったの"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:05:10",
+      "utterance": "教えてくれてありがとう。そんなことされたらびっくりするよね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:05:16",
+      "utterance": "うん"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:05:48",
+      "utterance": "（行き違いましたね。すみません）"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:06:08",
+      "utterance": "大丈夫です。言って来たのにです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:07:06",
+      "utterance": "そうやって言ってきたのになんで違う子と遊びに行くんだろうって悲しい気持ちとどうしてって考えちゃいますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:07:16",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:07:51",
+      "utterance": "でもリーダー的な子が途中からきてその子の命令だったと思う"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:08:16",
+      "utterance": "うんうん。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:08:29",
+      "utterance": "リーダーの子がいたんだね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:09:18",
+      "utterance": "はい。明日もまたそうなったら嫌だなって"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:09:27",
+      "utterance": "思う"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:09:37",
+      "utterance": "命令されててもそんなことはやってほしくないよね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:09:44",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:10:47",
+      "utterance": "明日もそうなるかと思うと怖いよね。今は何年生なのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:11:01",
+      "utterance": "5年"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:11:42",
+      "utterance": "小学校5年生なんだね。その中のいい子も同じクラスなのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:11:49",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:12:29",
+      "utterance": "そうだったですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:12:37",
+      "utterance": "うん"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:13:39",
+      "utterance": "あなたは友達にそうされた時どうしたのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:14:19",
+      "utterance": "3人で遊んでいて、後からその子がきて、なんかいきなり今日は"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:14:33",
+      "utterance": "帰ろうってなって、"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:14:44",
+      "utterance": "分かれたけど、"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:14:53",
+      "utterance": "うんうん（聞いてますよ。）"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:15:17",
+      "utterance": "その後にまた、私以外で遊んだみたい"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:15:36",
+      "utterance": "私だけ帰らされた"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:16:36",
+      "utterance": "そうだったんだね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:16:41",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:17:19",
+      "utterance": "あなたはそんなことされてどう思いました？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:17:36",
+      "utterance": "嫌だと思った"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:18:09",
+      "utterance": "そうだよね。そんな仲間はずれにされたらいやだって思うよね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:18:18",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:18:43",
+      "utterance": "いつもは仲がいいのに。。。。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:19:02",
+      "utterance": "怖いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:19:44",
+      "utterance": "いつも仲良いお友達にそうされたら怖いしとっても嫌になっちゃうよね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:19:51",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:20:18",
+      "utterance": "仲のいいお友達とはそのことは話しましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:21:14",
+      "utterance": "一人はごめんねって連絡が来ました"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:21:48",
+      "utterance": "もう一人は話して無いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:22:37",
+      "utterance": "そうだったんだ。連絡が来たんだね。あなたはどう思った？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:22:49",
+      "utterance": "微妙"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:23:20",
+      "utterance": "変な気持ちかな。。。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:23:59",
+      "utterance": "そうだよね。なんだか複雑な気持ちになるよね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:24:13",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:25:27",
+      "utterance": "返事は返しました？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:25:40",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:25:57",
+      "utterance": "何て返したのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:26:28",
+      "utterance": "わかったって返しました。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:26:53",
+      "utterance": "良いよっていう事が言えなかったかな。。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:27:25",
+      "utterance": "そうだよね。言えないよね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:27:40",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:28:25",
+      "utterance": "謝られても実際に仲間はずれにしてるし何がしたいんだろうね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:28:47",
+      "utterance": "わかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:30:23",
+      "utterance": "そうですよね。わからないですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:30:34",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:31:26",
+      "utterance": "でもリーダー的な子のいうことを聞かないと怖いからかも知れないかな"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:31:58",
+      "utterance": "そのリーダーの子はどんな子なのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:32:45",
+      "utterance": "明るい子"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:33:52",
+      "utterance": "明るい子なんだね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:34:15",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:34:42",
+      "utterance": "あなたはその子のことはどう思ってるのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:35:53",
+      "utterance": "機嫌の良い時は大好きだけど、いきなりあの子と話をするのはやめようとか、"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:36:21",
+      "utterance": "うんうん。それはどうしてかな？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:36:28",
+      "utterance": "言ってくるし、その子と話すと機嫌が悪くなるから困る。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:36:45",
+      "utterance": "それは、分からないです"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:37:02",
+      "utterance": "その時の気分なのかも"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:38:22",
+      "utterance": "だから今回は私がその話してはいけない子になったのかなって"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:38:27",
+      "utterance": "怖いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:40:24",
+      "utterance": "うんうん。機嫌悪くなられるのはいやだしそんなことされたら怖いよね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:40:35",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:41:04",
+      "utterance": "明日学校行きたくないなって思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:41:29",
+      "utterance": "その気持ちはあなたの素直な感情だと思いますよ。誰だってそんなことされたら怖いし学校行きたくなくなります。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:41:42",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:42:12",
+      "utterance": "家族の人にはこのことは話したのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:42:27",
+      "utterance": "まだ言ってないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:43:56",
+      "utterance": "そうでした。もしできそうなら家族の方にお話ししてみてもいいかもしれません。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:44:19",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:45:43",
+      "utterance": "怖いと思う気持ちはあなたの大事な気持ちなので、"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:47:04",
+      "utterance": "怖いと思うのは大事な気持なの？そうなんだ"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:47:54",
+      "utterance": "はい。あなたの感じる大事な気持ちの一部だと思いますよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:51:02",
+      "utterance": "その気持ちに蓋をしてしまうとどんどんそれが溜まって言って爆発してしまうこともあるのです。ですがその気持ちに蓋をせずここで素直に気持ちを吐き出してくれたあなたは一歩踏み出せる勇気がある方だと思いますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:52:25",
+      "utterance": "爆発？どうなるんですか"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:53:56",
+      "utterance": "いっぱい怖いと爆発するの？大泣きするとかですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:54:16",
+      "utterance": "そうですね、例えば気持ちを抑え過ぎてどうしたらいいかわからなくなって学校で暴れちゃうなどですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:55:24",
+      "utterance": "なるほどwwwwそうなんだ。。。。。。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T10:57:35",
+      "utterance": "暴れるのはないかもですが。。。でもそう思うかも知れないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T10:59:12",
+      "utterance": "これは例えばのお話しなので。でも爆発のその前にここでもご家族にでも大事な感じた気持ちをお話ししてもらってどうしたらいいか一緒に考えていければいいかと思いますがいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T11:00:03",
+      "utterance": "ありがとうございます。どうすれば良いですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T11:02:24",
+      "utterance": "まずは学校で起きたことを家族の方に自分の気持ちも一緒に伝えてみるのはいかがでしょうか？それからお話や相談がありましたらいつでもこちらにいらしてください。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T11:03:14",
+      "utterance": "分かりました。ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T11:04:57",
+      "utterance": "今日はお話しに来てくれてありがとうございます。まだまだ朝と夜の気温差が激しいので体調に気をつけて過ごしてください。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-31T11:05:16",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T11:05:35",
+      "utterance": "（お時間過ぎてしまいすみません。本日はありがとございました）"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-31T11:05:57",
+      "utterance": "（ロールプレイ終了いたします）"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "友人との関係性に悩む問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 6665,
+    "評価作成日時": "2024-03-31T11:51:00",
+    "クライアント役ID": 237,
+    "カウンセラー役ID": 282,
+    "点数": 31,
+    "聴いてもらえた、わかってもらえたと感じた": 1,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 1,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 1,
+    "一緒に考えながら取り組めた": 1,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 1,
+    "全体として適切でよかった": 1,
+    "今回の相談は価値があった": 1,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 1,
+    "的確な質問による会話の促進": 1,
+    "要約": 1,
+    "問題の明確化": 1,
+    "この相談での目標の明確化": 1,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 1,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 6665,
+    "evaluation_created_at": "2024-03-31T11:51:00",
+    "client_id": 237,
+    "counselor_id": 282,
+    "score": 31,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 2,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 1,
+    "felt_appropriate_and_satisfying": 1,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 1,
+    "asked_effective_questions": 1,
+    "summarized_key_points_effectively": 1,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 1,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

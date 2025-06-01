@@ -1,0 +1,534 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2021-01-03T09:57:44",
+      "utterance": "入りました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T09:59:56",
+      "utterance": "今日はよろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:00:17",
+      "utterance": "こんにちは"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:00:33",
+      "utterance": "こんにちは、お願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:01:05",
+      "utterance": "こんにちは、相談員です。今日はどんなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:01:48",
+      "utterance": "同じチームに動く嫌な人がいて、どうしたらいいかわかりません"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:02:04",
+      "utterance": "凄く、嫌な人。です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:02:47",
+      "utterance": "そうなんですね、それは大変な思いをされていますね。どんな風に嫌なのでしょう？"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:04:10",
+      "utterance": "私がこのチームが素晴らしいと思ったので、その人を誘ったんですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:04:27",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:04:56",
+      "utterance": "かき回されるようになりました"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:06:30",
+      "utterance": "今ではまるで、私が悪者みたいになっています"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:07:26",
+      "utterance": "困ってしまいますね。チームと言うとスポーツですか？もう少しお聞きしたいので、ご年齢と性別、相談中になんとお呼びすればよいか教えてください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:08:22",
+      "utterance": "36才女性。ゆいです"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:08:55",
+      "utterance": "会社の中の5人のチームです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:09:28",
+      "utterance": "ゆいさん、ありがとうございます。会社のお仕事上のチームですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:10:00",
+      "utterance": "そうです。売り上げ達成のためのチームです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:10:36",
+      "utterance": "なるほど、そうだったんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:12:04",
+      "utterance": "先ほど、「かき回される」とおっしゃってましたが、どんなことをされてゆいさんが悪者みたいになっているんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:13:09",
+      "utterance": "上司に嘘を吹き込んで、周りにも誤解されたままで、孤独になってしまいました"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:13:55",
+      "utterance": "それでも、この雰囲気のままではまずいと思い、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:14:13",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:14:33",
+      "utterance": "話しかけてみたら、私のためにあんな言い訳をしてやったとか、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:14:43",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:14:52",
+      "utterance": "みんなにいってまわっていて、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:15:01",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:15:17",
+      "utterance": "挙句、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:16:01",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:16:38",
+      "utterance": "先日の飲み会では、みんなにああしてやった、、こうしてやった、あれは私のおかげだったんだよとか、"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:16:56",
+      "utterance": "感謝を求めてこられました"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:17:37",
+      "utterance": "私だけでなく、みんなにも同じようなことを言っているみたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:18:05",
+      "utterance": "そうですか、それはゆいさんにとってはイライラさせられる事だったでしょうね"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:18:10",
+      "utterance": "私には、もちろん感謝なんてしていないんでしょうね"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:18:20",
+      "utterance": "それどころか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:18:27",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:19:01",
+      "utterance": "こんなとこに連れてこられて！なんて言われました"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:19:37",
+      "utterance": "こっちは、それでも我慢して聞いているのに"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:19:45",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:20:24",
+      "utterance": "そのたびに、仕掛けられて、ひどい目に遭うんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:21:19",
+      "utterance": "そうですか、いやな思いをされましたね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:21:30",
+      "utterance": "そんな人とは知らずに親切心を出した私が馬鹿だった"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:22:03",
+      "utterance": "親切心を出したことを悔やんでしまわれるんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:22:26",
+      "utterance": "ここでいったんお話を整理させていただいてよいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:22:46",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:24:57",
+      "utterance": "ゆいさんが会計チームに誘った方が、周りに「嘘」をついてゆいさんを貶めたり、「自分のおかげでゆいさんのミスをカバーできた」ようにつくろったり、それに増して「ゆいさんに恩を着せる」ようなことを周りにもゆいさんにもして困っておられる"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:25:29",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:25:52",
+      "utterance": "会社の営業チームです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:26:24",
+      "utterance": "それどころか、上司の方にまで同じようにされてしまう、と言う事が今、ゆいさんの悩みでよろしいでしょうか？失礼しました、営業チームですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:27:36",
+      "utterance": "そのご、上司は外れたんですが、今ではまるで自分がリーダー気取りです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:28:35",
+      "utterance": "そうなんですね、大きな態度をされるとやりにくいことがありますよね。話をお聞きしていると、ゆいさんはとても忍耐強く、責任感がある方だと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:29:00",
+      "utterance": "我慢の限界です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:29:29",
+      "utterance": "その方と共同作業をしたりすることもおありですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:30:40",
+      "utterance": "作業というより、方針確認とか、行動目標確認はしなければなりません"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:31:15",
+      "utterance": "まるで、お前は何者だ、っていう態度です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:31:22",
+      "utterance": "なるほど、営業の数字やプロセスの到達目標などですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:31:46",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:32:27",
+      "utterance": "ゆいさんも、ハラスメントという言葉を聞いたことはありますよね"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:33:30",
+      "utterance": "はらすめんと"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:35:27",
+      "utterance": "ハラスメントは上司から部下のものだけでなく、同僚同志でもハラスメントと言えることがあるんです。https://www.check-roudou.mhlw.go.jp/study/roudousya_harassment.html"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:36:03",
+      "utterance": "いやがらせ、とかいじめなどを意味する英語です。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:37:31",
+      "utterance": "私が、その人を訴えて。というコトですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:38:27",
+      "utterance": "訴えるというのも手段の一つですね。先ほど例に出た『「嘘」を周りに言いまわる』行動などはハラスメントにあたるかもしれないと思うのです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:38:56",
+      "utterance": "ゆいさんの会社にはハラスメント窓口のようなところはありませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:39:39",
+      "utterance": "なんか、気が進みません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:40:48",
+      "utterance": "そうですか、上司の方は変わられたとのことですが、だれか相談することのできる人はいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:41:08",
+      "utterance": "なんだか、やり返すみたいに思えて・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:41:48",
+      "utterance": "やり返すように感じてしまうのですね。ゆいさんは優しい方だと感じました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:41:48",
+      "utterance": "新しい上司はまだはっきりしていません"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:42:21",
+      "utterance": "同じ土俵には乗りたくありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:42:59",
+      "utterance": "そうですか、同じ土俵に乗ってしまうようにお感じなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:43:35",
+      "utterance": "だから、つけ込まれたんですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:44:04",
+      "utterance": "よほど、いやなお気持ちになられたんですね・・・これからの時間を考えた時にその方とまだまだ長くお仕事されるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:45:57",
+      "utterance": "そうなるんだと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:47:21",
+      "utterance": "そうですか。人間関係の中で誰か一人だけが我慢したり特別に得をしてなり立つ関係は理不尽な事だと私は思うのです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:47:48",
+      "utterance": "だから、新体制になるまでは、自分の心を平和にして対処していきたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:49:41",
+      "utterance": "そういう思いになられるのはもっともですね。ゆいさんは、新体制になるまでどのくらいの時間があるとおもわれますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:50:33",
+      "utterance": "3月には、人事の改正が発表されると思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:50:54",
+      "utterance": "あと３か月ですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:52:48",
+      "utterance": "相手の起こす、「嫌な行動」はいつ出るかわからないと思うのですが、私は何かまた起きた時にゆいさんが相談できる方があったらよいなと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:53:40",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:54:59",
+      "utterance": "言いふらすとかしかえしするとかでなく、ゆいさんがおっしゃったように「自分の心を平和にして対処」するためにどうしたら良いかという意味で相談できる相手です。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:55:58",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:57:19",
+      "utterance": "「お仕事に支障をきたすような、またはあまりにもひどいゆいさんを傷つける噂を振りまくような」ことを言われるのは立派な「ハラスメント」であることはおわかりいただけたでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:58:06",
+      "utterance": "はい、まあ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:58:14",
+      "utterance": "まずはそういったことをゆいさん一人が我慢することは必要ないと言う事を分かっていただきたいのです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T10:59:01",
+      "utterance": "そうですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T10:59:07",
+      "utterance": "その上で行動するかどうかは別に考えて頂くことだと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T11:00:31",
+      "utterance": "新しい人事までに、少しでも私の気持ちが落ち着ければよかったのですが、"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T11:00:51",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T11:01:02",
+      "utterance": "もしもに備えてなのですが、会社内で相談しにくい場合、弁護士会などが相談に乗ってくれる窓口もあります。リンクを張っておきますね。https://www.justanswer.jp/sip/law-5/?r=ppc%7Cov%7C4%7CLaw%7CEmployment&JPRC=1&JPKW=&JPKD=&JPDC=&JPAD=&JPRQ=&JPAF=txt&JPCD=20120222&mkwid=WmTFsBk9&pkw=%E3%83%91%E3%83%AF%E3%83%8F%E3%83%A9%20%E3%83%8D%E3%83%83%E3%83%88%E7%9B%B8%E8%AB%87&pmt=b&pdv=c&r=ppc%7Cov%7C4%7C&mkwid=RuMGmCAx&jpkw=%E3%83%91%E3%83%AF%E3%83%8F%E3%83%A9%20%E3%83%8D%E3%83%83%E3%83%88%E7%9B%B8%E8%AB%87&pmt=b&pdv=c&pkw=%E3%83%91%E3%83%AF%E3%83%8F%E3%83%A9%20%E3%83%8D%E3%83%83%E3%83%88%E7%9B%B8%E8%AB%87&JPDC=b&JPNW=s&pcrid=341248235205&pdv=c&JPRC=1&JPAF=txt&campaignid=243102856&yclid=YSS.1000060593.EAIaIQobChMIwObW09D-7QIVQqaWCh3uIwYVEAAYASAAEgLt9PD_BwE"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T11:01:35",
+      "utterance": "また、何かあったらご相談ください。ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-03T11:01:51",
+      "utterance": "（ロープレありがとうございました）"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-03T11:01:54",
+      "utterance": "ありがとうござました"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "同僚からのハラスメントによるストレス"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1111,
+    "評価作成日時": "2021-01-03T11:42:00",
+    "クライアント役ID": 108,
+    "カウンセラー役ID": 121,
+    "点数": 58,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1111,
+    "evaluation_created_at": "2021-01-03T11:42:00",
+    "client_id": 108,
+    "counselor_id": 121,
+    "score": 58,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

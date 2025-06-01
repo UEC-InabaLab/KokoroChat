@@ -1,0 +1,789 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:00:07",
+      "utterance": "こんにちは相談員です。よろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:00:15",
+      "utterance": "こんにちはお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:00:27",
+      "utterance": "最初に年齢と性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:00:55",
+      "utterance": "22歳男性です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:01:10",
+      "utterance": "お返事ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:01:22",
+      "utterance": "今日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:03:57",
+      "utterance": "私自身メンタル不調を抱えているのですが、家族がメンタル不調は甘えであるという考えでしんどいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:04:49",
+      "utterance": "そうなんですね。ご家族にそう思われているとしんどいですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:04:55",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:05:40",
+      "utterance": "メンタル不調を感じるようになったのは、どのくらい前からですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:06:15",
+      "utterance": "大学2年生の頃なので、今から2年前くらいですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:06:54",
+      "utterance": "そうなんですね。2年間も辛い思いを抱えてこられたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:08:25",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:09:39",
+      "utterance": "辛い状態だったでしょうね。具体的には日々の生活の中でどんな状況になるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:10:54",
+      "utterance": "最近はかなりマシですが、たまに全て自分のせいであるという考えに囚われたり、過呼吸になったりすることも稀にあります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:11:39",
+      "utterance": "そうなんですね。それは苦しいですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:12:21",
+      "utterance": "そうですね、うっすら不安な気持ちはずっとあります"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:12:33",
+      "utterance": "完全に安心できる場がない感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:12:48",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:12:53",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:13:17",
+      "utterance": "安心できる居場所がないという感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:13:33",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:14:02",
+      "utterance": "やはり理解がある人の方が少ない印象ですのでどこにいても受容されてると感じることができないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:14:46",
+      "utterance": "そうなんですね。気持が安らぐことがないというみたいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:14:54",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:15:35",
+      "utterance": "落ち付けることがなく、日々時間が過ぎていくという感じでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:16:07",
+      "utterance": "そうですね、落ち着けない時間が長く感じます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:16:18",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:16:29",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:16:55",
+      "utterance": "さきほどすべて自分のせいと感じてしまうとのお話がありましたが、なにかきっかけとして思いつくことはあるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:19:19",
+      "utterance": "普段は大丈夫なのですが、たまに調子が悪い時に親にキツく当たられたりすると考えがエスカレートしてしまいがちです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:19:44",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:19:52",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:19:58",
+      "utterance": "例えば、どんな時ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:22:22",
+      "utterance": "そうですね、私がしんどくなってる時に、「自分(父)も疲れてるしそんなん甘い」とか言われるとやっぱり自分がダメなんだなってなっちゃいますね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:22:40",
+      "utterance": "今とかみたいに落ち着いてる時に考えると全くそうは思わないんですけど。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:23:45",
+      "utterance": "あなたがしんどくなっている時に、お父様から言われる一言がずしんと答えてしますのですね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:24:01",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:25:07",
+      "utterance": "自分がしんどくなっている時って、元気がすっかりなくなっている時だから、傷ついたりしますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:25:30",
+      "utterance": "そうですね、流せなくてダメージ100%受けてしまう感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:26:02",
+      "utterance": "そうですよね。無理ないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:26:20",
+      "utterance": "ちなみに、どんなことでしんどくなっている時があるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:27:00",
+      "utterance": "特に理由はないですね。精神的に波があるかんじです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:27:18",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:27:34",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:27:43",
+      "utterance": "気持の変化が大きいのかもしれませんね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:27:53",
+      "utterance": "そうですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:28:58",
+      "utterance": "それとも、精神的に波があるのはどんな所からか、何かご自分なりに思う所はおありですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:30:44",
+      "utterance": "やはり普段から安心できていない状態が続いているのでそれで精神も安定していないのかなと考えています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:31:09",
+      "utterance": "なるほど。そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:31:42",
+      "utterance": "ちなみに、ご家族はお父様の他に同居していらっしゃるのは？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:32:09",
+      "utterance": "母とあと同居ではないですが近くに祖父母も住んでいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:32:26",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:32:29",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:32:44",
+      "utterance": "普段はご両親と3人で暮らしていらっしゃるんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:32:50",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:33:29",
+      "utterance": "さきほど、精神的にしんどい時に、おとう玉から一言あると、こたえてしまうとのことでしたが、お母様はどんな感じですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:33:57",
+      "utterance": "↑「お父様から一言」です。失礼しました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:34:29",
+      "utterance": "辛く感じることはあまりないですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:34:42",
+      "utterance": "結構受け流すことができているような気がします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:34:43",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:35:15",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:36:33",
+      "utterance": "最初に、家族に理解されないと安心できる場所がないとの話でしたが、理解されていたないなと感じるのは、特にお父様に対してですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:36:48",
+      "utterance": "特にはそうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:37:33",
+      "utterance": "あなたとしては、どんなことが理解してもらえたらいいなと思っておいでなのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:38:22",
+      "utterance": "辛い気持ちになったり、気分が憂鬱になってしまうこと自体を理解してもらえたらと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:38:37",
+      "utterance": "まずその段階から認められていない感じなので"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:38:53",
+      "utterance": "そこなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:39:00",
+      "utterance": "辛い気持ちになってはいけない。という感じです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:39:15",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:39:18",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:39:35",
+      "utterance": "人は誰でもへこんでしまう事があるのに・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:39:55",
+      "utterance": "メンタル不調で涙が出てしまう時も、めんどくさいからやめろと言われました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:40:18",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:40:26",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:40:51",
+      "utterance": "本当に気持ちを安らかにする場がなくなってしまうという感じですね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:41:25",
+      "utterance": "そうですね。メンタルが崩れそうな時もずっと家族に気を遣って余計にしんどくなります"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:41:39",
+      "utterance": "ですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:41:46",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:42:25",
+      "utterance": "本当は、疲れた時やへこんだ時は、たっぷりと弱音を吐きたいですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:42:40",
+      "utterance": "それが、安心できる場ですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:42:48",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:43:13",
+      "utterance": "辛い状態の自分を受け入れて欲しいですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:43:30",
+      "utterance": "そうですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:43:43",
+      "utterance": "人間だものね・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:44:00",
+      "utterance": "スーパーマンじゃないんだから・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:44:08",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:44:36",
+      "utterance": "もしかして、そんなあなたの辛い気持ちを聴いてもらえそうな人はいるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:45:49",
+      "utterance": "一応パートナーは話をわかってくれますが、パートナーもメンタル不調があるので、どちらかと言うと第三者の人に話を聞いてもらえたらいいかなと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:46:38",
+      "utterance": "第三者に話しを聴いてもらうという歩はいい考えですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:47:07",
+      "utterance": "そういう場が気軽にあればとはずっと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:47:49",
+      "utterance": "辛い時にお話しを聴いてくれる相談窓口がありますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:47:58",
+      "utterance": "そうなんですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:48:07",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:48:35",
+      "utterance": "各都道府県に、大抵「心の相談窓口」があります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:49:04",
+      "utterance": "名称は県によって少しずつ誓うかもしれませんが、県のHPで見つかると思いますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:49:04",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:49:11",
+      "utterance": "また調べてみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:49:19",
+      "utterance": "大抵無料です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:49:42",
+      "utterance": "電話とか、メールとか、SNSとかいろんな方法で相談できますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:49:53",
+      "utterance": "それならできそうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:50:31",
+      "utterance": "安心して、ご自分に一番都合のいい方法でアクセスしてみてください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:50:38",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:50:42",
+      "utterance": "そうしてみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:51:02",
+      "utterance": "先ほどパートナーさんがいらっしゃるとのお話しでしたけど、ステキですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:51:07",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:51:28",
+      "utterance": "パートナーさんとはどんなお話をよくするのですか？？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:52:00",
+      "utterance": "日常あったことから色々ですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:52:14",
+      "utterance": "いいですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:52:58",
+      "utterance": "パートナーさんにお話しを聴いてもらったり、パートナーさんのお話しを聴いてあげたりしていると、どんな感じになりますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:52:58",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:53:16",
+      "utterance": "その時はあまり気を使わずにいれますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:54:16",
+      "utterance": "無理に、元気ぶる必要もないし、ありのままで話ができるという感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:54:39",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:55:09",
+      "utterance": "ありのままで話せるのが大きいですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:55:28",
+      "utterance": "そうですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:55:36",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:56:20",
+      "utterance": "パートナーさんもあまり気を遣わずにフランクに話してくれる感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:56:28",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:56:48",
+      "utterance": "それはとっても素敵な関係ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:56:55",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:57:27",
+      "utterance": "お互いにありのままに話しができると、そこに安心の場がありそうですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:57:41",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:58:38",
+      "utterance": "きっと、あなたにとっても、パートナーさんにとってもお互いが話し合っている時が貴重な安心の場みたいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T16:59:33",
+      "utterance": "そうですね、そこだけでは気を緩めることができますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T16:59:59",
+      "utterance": "それはとっても大きいことですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T17:00:18",
+      "utterance": "はい、これがなかったらもっと大変だったなと感じます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T17:00:54",
+      "utterance": "ちょっと大げさな言い方になるかもしれませんが、砂漠の中のオアシス的な感じみたいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T17:01:01",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T17:02:54",
+      "utterance": "お二人のありのままの会話がこれからも続いていくように応援させていただきますね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T17:03:02",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T17:03:24",
+      "utterance": "また気になることが出てきたら、ご相談にいらしてください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T17:03:32",
+      "utterance": "わかりました"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T17:03:37",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T17:03:37",
+      "utterance": "ご一緒に考えさせていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T17:03:45",
+      "utterance": "またよろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T17:04:00",
+      "utterance": "こちらこそよろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T17:04:16",
+      "utterance": "今日はここまででよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T17:04:19",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T17:04:22",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T17:04:33",
+      "utterance": "では、失礼させていただきます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T17:05:29",
+      "utterance": "（ロールプレイお疲れさまでした。）"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-08T17:05:47",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-08T17:06:05",
+      "utterance": "こちらこそありがとうございました。"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "家族からの理解不足によるメンタル不調の影響"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2437,
+    "評価作成日時": "2021-09-08T18:19:00",
+    "クライアント役ID": 226,
+    "カウンセラー役ID": 5,
+    "点数": 65,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 4,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2437,
+    "evaluation_created_at": "2021-09-08T18:19:00",
+    "client_id": 226,
+    "counselor_id": 5,
+    "score": 65,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

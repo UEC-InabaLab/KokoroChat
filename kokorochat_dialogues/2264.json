@@ -1,0 +1,654 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-07-28T09:51:10",
+      "utterance": "こんにちは。本日、どうぞよろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T09:51:30",
+      "utterance": "こんにちは。こちらこそ、よろしくお願い致します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T09:52:20",
+      "utterance": "どうもありがとうございます。お時間になりましたら、はじめさせていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T09:52:35",
+      "utterance": "はい、よろしくお願い致します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:00:13",
+      "utterance": "こんにちは。相談員です。ご相談におこしいただいて、どうもありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:00:33",
+      "utterance": "ご相談開始にあたって、最初に年齢性別をお聴きしてもよろしいでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:00:50",
+      "utterance": "15歳　女性です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:01:02",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:01:13",
+      "utterance": "今日はどうなさいましたか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:01:45",
+      "utterance": "友達が、クラスの子に意地悪をしています"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:02:36",
+      "utterance": "そうなのですね。それは気になりますね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:02:41",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:03:03",
+      "utterance": "ちなみに、学年は中学何年生ですか"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:03:14",
+      "utterance": "3年です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:03:31",
+      "utterance": "ありあがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:05:03",
+      "utterance": "どんな状況か詳しくお話しお聴きしたいのですが・・・。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:05:09",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:05:25",
+      "utterance": "お話ししやすいところからお話しひてくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:05:45",
+      "utterance": "無視をしたり"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:06:15",
+      "utterance": "ええ・・。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:06:18",
+      "utterance": "その子だけプリント渡さなかったり"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:06:26",
+      "utterance": "そんな感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:07:31",
+      "utterance": "そうなのですね。苦しくなりますね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:07:41",
+      "utterance": "嫌です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:07:58",
+      "utterance": "そう思われるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:08:03",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:08:58",
+      "utterance": "嫌な気持ちをもう少し詳しくお話ししていただいても、いいでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:10:17",
+      "utterance": "うーん…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:11:31",
+      "utterance": "ごめんなさい。少し、答えにくかったですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:12:05",
+      "utterance": "嫌の詳しくが分かりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:12:43",
+      "utterance": "ごめんなさい。いいかえますね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:13:09",
+      "utterance": "すみません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:14:26",
+      "utterance": "いいえ、こちらこそ。お友達がクラスの子に意地悪しているとき、あなたは、お友達に対して、どんな気持ちになりますか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:14:59",
+      "utterance": "なぜ、そんな事するのかなって思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:15:39",
+      "utterance": "そう思われるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:15:44",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:16:18",
+      "utterance": "そう思われるのは、つらいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:16:53",
+      "utterance": "相手の子も可哀想だし、友達には意地悪をして欲しくないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:17:30",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:17:45",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:18:21",
+      "utterance": "あなたは、お二人のことを大切に思われているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:19:30",
+      "utterance": "友達は、本当は優しい子だから、意地悪なとこを見るのは嫌です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:19:52",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:19:56",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:20:21",
+      "utterance": "そう思われると、本当にお辛い時間を過ごされていますね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:20:31",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:21:18",
+      "utterance": "この状況はいつごろからですか"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:22:04",
+      "utterance": "3年になったくらい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:22:52",
+      "utterance": "そうなのですね。これまで、悩んでいらしたのは、お辛かったですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:23:47",
+      "utterance": "そこまで辛いって感じじゃないけと、ちょっと嫌だなぁって思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:23:47",
+      "utterance": "これから、あなたが、少しでも楽になれるよう一緒に考えていきたいと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:23:56",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:24:12",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:25:36",
+      "utterance": "お友達は、本当は優しい子と感じられているのに、意地悪されているのは、悲しいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:25:44",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:27:28",
+      "utterance": "お友達が意地悪し始めたとき、あなたが何かかわったように感じたことありますか"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:28:34",
+      "utterance": "友達が変わったかってことですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:29:48",
+      "utterance": "お友達が、意地悪する前と、し始めてからのお友達の態度、とかこうどうとか・・・。です。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:30:13",
+      "utterance": "私にはいつも通りです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:31:14",
+      "utterance": "そうなのですね。わかりにくくて、ごめんなさいね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:31:26",
+      "utterance": "すみません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:32:15",
+      "utterance": "いえいえ、こちらこそ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:33:16",
+      "utterance": "意地悪をみること、苦しいですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:33:38",
+      "utterance": "ちょっと嫌な気分になります"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:33:53",
+      "utterance": "そうですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:33:58",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:34:14",
+      "utterance": "一緒にいても、落ち着かないですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:35:11",
+      "utterance": "私には意地悪はしないので、大丈夫です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:35:42",
+      "utterance": "そうなのですね。意地悪の状態は、どんな頻度でされているのでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:36:47",
+      "utterance": "クラスと部活が一緒だから、まあまああるかも…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:37:23",
+      "utterance": "よく、見られる状況なのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:37:36",
+      "utterance": "かもしれません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:37:48",
+      "utterance": "お友達の気持ちをいろいろ考えると悩ましいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:37:54",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:38:20",
+      "utterance": "そして、頻度が多いと、ストレスに感じますね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:38:27",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:40:36",
+      "utterance": "ここで、いったん、お話しをまとめさせていただいても、よろしいでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:40:44",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:41:01",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:41:58",
+      "utterance": "お友達が、クラスの子に意地悪をしていまる状況をみて、苦しい思いをされてご相談にいらっしゃいました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:42:20",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:43:13",
+      "utterance": "意地悪の状況をみて、なぜ、そんな事するのかなって思われています。お友達は、本当は優しい子だから、意地悪なとこを見たくないと思われています。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:43:27",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:43:50",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:45:38",
+      "utterance": "あなたは、苦しいなか、よくご相談にいらしてくださいましたね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:45:48",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:46:58",
+      "utterance": "意地悪をすることは、よくないとおもわれる中、意地悪をしてしまうお友達のことを考えるのは、葛藤があるかと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:47:10",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:47:59",
+      "utterance": "いろいろ考えてしまいますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:48:05",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:49:25",
+      "utterance": "一番に考えることは、どんなことですか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:50:19",
+      "utterance": "分かりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:52:02",
+      "utterance": "いまお聴きして感じたことをお伝えさせていただきますね。よろしいでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:52:09",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:52:20",
+      "utterance": "あなたは、意地悪はよくないと思いながら、お友達のことを思われる、心の広い方だと感じました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:53:24",
+      "utterance": "いまの苦しい状況は、とても伝わってきています。一人で抱え込まないで、きてくださって、ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:54:42",
+      "utterance": "苦しい状況をためこまずに、このように吐き出したください。そして、吐き出せないときは、紙に書いて、ご自身の気持ちを大切にしてください。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:55:54",
+      "utterance": "そして、あなたが大切にしている気持ちを、紙に書いて整理して、お友達に伝えるのは、いかがでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:57:03",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T10:57:53",
+      "utterance": "いままでの、ご相談はいかがでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T10:58:07",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T11:01:02",
+      "utterance": "ありがとうございます。今の状況は、すっきりしていない状況かもしれません。今日お話ししたことをためしてみてください。そして、難しいとおもったら、一緒に考えたいとおもいますので、待っています。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T11:01:19",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T11:02:08",
+      "utterance": "あなたが、あなたらしく、ご自身のお気持ちを大切に過ごされれること願っています。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T11:02:16",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T11:02:51",
+      "utterance": "今日は、貴重なお話をお話しくださってどうもありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T11:02:58",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T11:03:24",
+      "utterance": "今日のご相談は、終了させていただいて、よろしいでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T11:03:29",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T11:03:55",
+      "utterance": "ありあがとうございました。失礼いたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T11:04:03",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T11:04:29",
+      "utterance": "（深いお時間をいただいて、どうもありがとうごあいました。）"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T11:04:41",
+      "utterance": "(お疲れ様でした。こちらこそ、ありがとうございました。)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T11:04:56",
+      "utterance": "（終了させていただいて、よろしいでしょうか）"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-28T11:05:11",
+      "utterance": "(お願い致します。失礼します)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T11:05:35",
+      "utterance": "（ありがとうございます。今後もどうぞよろしくお願いいたします。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-28T11:05:45",
+      "utterance": "失礼いたします"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "友達のいじめ行為についての悩み"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2264,
+    "評価作成日時": "2021-07-28T21:38:00",
+    "クライアント役ID": 159,
+    "カウンセラー役ID": 191,
+    "点数": 49,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 2,
+    "要約": 4,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2264,
+    "evaluation_created_at": "2021-07-28T21:38:00",
+    "client_id": 159,
+    "counselor_id": 191,
+    "score": 49,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

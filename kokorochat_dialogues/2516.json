@@ -1,0 +1,634 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:00:11",
+      "utterance": "こんばんは相談員です。よろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T19:00:41",
+      "utterance": "こんばんは。よろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:00:55",
+      "utterance": "最初に年齢と性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T19:01:15",
+      "utterance": "42歳、女性です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:01:29",
+      "utterance": "お返事ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:01:39",
+      "utterance": "今日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T19:02:35",
+      "utterance": "職場の人にひどいことを言われて悩んでいます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:03:06",
+      "utterance": "それは辛いですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:03:21",
+      "utterance": "どんな事を言われているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T19:03:23",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T19:04:43",
+      "utterance": "こないだは「被害者意識が強い」と言われたんですが、意味がよくわからなくて。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:05:21",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:06:17",
+      "utterance": "難しい言葉のようですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:06:31",
+      "utterance": "どんな事があった時にそんなことを言われたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T19:07:53",
+      "utterance": "最近営業成績がよくなくてミーティングの場でいわれました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:08:19",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:09:04",
+      "utterance": "非難されているような気持ちになってしまったのではないですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T19:09:35",
+      "utterance": "はい。とても傷つきました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:10:16",
+      "utterance": "営業のお仕事で苦労しているうえに、非難されたら辛いですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T19:10:26",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:11:27",
+      "utterance": "営業のミーティングでそんなことを言われた時は、どんな風に受け応えしているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T19:12:40",
+      "utterance": "突然のことでびっくりしてしまい、何も言えませんでした。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:13:09",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:13:36",
+      "utterance": "まさかそんな言い方をされるとは、とさぞショックだったのでしょうね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T19:14:02",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:16:00",
+      "utterance": "突然予想してないひどい言葉を言われたら傷ついて、何も言えなくなってしまうほどショックを受けたのですね。もしかして、だいぶ、そのショックは尾を引いたのでは？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T19:18:07",
+      "utterance": "はい。3週間くらい前のことなんですが、まだ引きずっています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:19:40",
+      "utterance": "そんなに前のことなのに、まだ痛んでいるんですね。かなり深く傷を受けてしまったのですね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T19:20:05",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:20:36",
+      "utterance": "その傷ついたことを誰かに聞いてもらうことはできましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T19:21:41",
+      "utterance": "友達には話したのですが、なんだか全然すっきりしなくて。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:23:23",
+      "utterance": "そうなんですね。お友達に聞いてもらってもすっきりしないとのことですが、あなたとしては、どんなところが一番引っかかっているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T19:24:51",
+      "utterance": "言われた言葉の真意がわからなくて、自分が悪いんだとどんどん責めてしまいます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:25:59",
+      "utterance": "そうだったんですね。言われた言葉の意味が分からないというのは、先ほど話してくれた「被害者意識が強い」という言葉のことですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T19:26:18",
+      "utterance": "はい、そうです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:27:05",
+      "utterance": "その言葉を言ったのは、職場の中の同僚ですか、それとも、先輩でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T19:28:38",
+      "utterance": "年齢は下なんですが、チームリーダーの人です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:29:06",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:29:35",
+      "utterance": "ちなみに、今の営業のお仕事は初めてどのくらい期間が経つのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T19:30:12",
+      "utterance": "10年くらいになります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:30:59",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:32:12",
+      "utterance": "あなたとしても、今の営業の分野では長いこと経験を積んでこられたんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T19:32:27",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:33:25",
+      "utterance": "それなのに、被害者意識が強いなんていわれたら、さぞ心外だったでしょうね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T19:33:58",
+      "utterance": "はい。そうなんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:34:25",
+      "utterance": "ちなみに、先ほどのチームリーダーと一緒に働くようになってからはどのくらいの期間になりますか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T19:35:01",
+      "utterance": "2年間くらいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:35:15",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:35:30",
+      "utterance": "前のチームリーダーはどんな人でしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T19:36:35",
+      "utterance": "前の方はとてもいい方でした。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:36:52",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:37:20",
+      "utterance": "前のチームリーダーの時は、何かとやりやすかったのでは？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T19:37:21",
+      "utterance": "はい。とても仕事がしやすかったです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:38:07",
+      "utterance": "前のチームリーダーには、あなたの考えも割合受け入れてもらっていたのでは？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T19:38:54",
+      "utterance": "はい、そうなんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:39:40",
+      "utterance": "そうだったんですね。その時には、あなたとしても、これでいいんだと安心して営業活動に打ち込めていたのでしょうね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T19:40:17",
+      "utterance": "そうなんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:40:41",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:41:05",
+      "utterance": "新しいチームリーダーはよその部署から異動で来た人ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T19:42:18",
+      "utterance": "はい。そうです。やり手らしいんですが、私はそうは思っていません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:42:36",
+      "utterance": "なるほど。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:43:42",
+      "utterance": "そうすると、新しいチームリーダーは、あなたの部署の営業業務の細かいことまではあまりご存知なかったりもするのかもしれませんね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T19:44:50",
+      "utterance": "うーん、そうなのかもしれません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:46:07",
+      "utterance": "あなたは今の部署で長いご経験があるので細部までよくご存じだとおもいます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:46:56",
+      "utterance": "もしかして、新しいチームリーダーになって、いろいろやりにくい面があったのではないかと思いますがいかがでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T19:49:21",
+      "utterance": "そうですね。やり方のアドバイスは的確ではなく、とても抽象的でやりにくいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:50:15",
+      "utterance": "そうなんですね。それではあなたとしても戸惑ってしまいますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T19:50:56",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:51:32",
+      "utterance": "同じ職場の同僚の人はそのあたりのことはどんな事を言っているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T19:52:37",
+      "utterance": "成績はいいので、いいと思っている人もいます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:53:08",
+      "utterance": "そういう人もいるのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:53:47",
+      "utterance": "ちなみに、あなたのお仕事はどんな分野の営業なのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T19:54:23",
+      "utterance": "食品の卸です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:54:53",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:55:44",
+      "utterance": "そうすると担当顧客の会社の業績によっても大きく影響されるお仕事のようですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T19:57:10",
+      "utterance": "そうなんです。だから今の情勢でとても厳しいのです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:57:44",
+      "utterance": "社会の客観的情勢の影響をもろに受けてしまっているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T19:57:56",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T19:58:32",
+      "utterance": "それを「被害者意識」と言われても辛いですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T19:58:48",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T20:00:05",
+      "utterance": "ちなみに、前のチームリーダーの時にはやりやすかったとのお話しでしたが、その時に、ご自分なりにお仕事がうまく回っていた一番の理由は何だと思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T20:02:03",
+      "utterance": "やはりコミュニケーションがきちんととれていたからだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T20:02:33",
+      "utterance": "お客様とのコミュニケーションでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T20:02:55",
+      "utterance": "それともチームリーダーとのコミュニケーションでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T20:04:00",
+      "utterance": "そうですね。チーム内のコミュニケーションです。問題が起きたときはみんなで対応していました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T20:04:27",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T20:04:50",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T20:05:06",
+      "utterance": "今のチームはその辺はざっくばらんに言っていかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T20:06:38",
+      "utterance": "チームリーダーの横暴な態度で振り回されている気が私はしています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T20:07:20",
+      "utterance": "そうなんですね。それはとっても残念ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T20:07:30",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T20:08:09",
+      "utterance": "同僚の中にも同じような印象を持っている人がいそうな気がするのですが、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T20:09:13",
+      "utterance": "それがよくわからないんです。外面はいい人なので。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T20:09:27",
+      "utterance": "なるほど"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T20:11:41",
+      "utterance": "ちょっと時間がかかるかもしれませんけれど、以前のみんなで対策を練っていくということは良かったなと思っている人を、見つけてみて、仲間にしていってはいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T20:12:30",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T20:12:59",
+      "utterance": "言ってみれば職場の同盟作りですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T20:13:15",
+      "utterance": "なるほどです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T20:14:34",
+      "utterance": "チームリーダーの横暴に負けないで、気持ちの通い合うもの同士でも協力し合って、知恵を出し合うという方向が生まれてくるといいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T20:16:13",
+      "utterance": "そうですね。仲間を見つけられるかはわかりませんが。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T20:16:24",
+      "utterance": "応援しています。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T20:16:31",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T20:16:47",
+      "utterance": "気になることが出てきたらまたご相談にいらしてください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T20:16:58",
+      "utterance": "はい、ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T20:17:00",
+      "utterance": "ご一緒に考えさせていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T20:17:10",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T20:17:21",
+      "utterance": "今回のご相談はここまででよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T20:17:31",
+      "utterance": "はい、ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T20:17:52",
+      "utterance": "こちらこそ、ご相談に来てくださりありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T20:18:13",
+      "utterance": "では失礼いたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T20:18:37",
+      "utterance": "失礼いたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-28T20:18:43",
+      "utterance": "（ロールプレイお疲れさまでした。）"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-28T20:19:01",
+      "utterance": "(お疲れ様でした。ありがとうございました。)"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "チームリーダーとのコミュニケーション問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2516,
+    "評価作成日時": "2021-10-04T00:10:00",
+    "クライアント役ID": 204,
+    "カウンセラー役ID": 5,
+    "点数": 62,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 4,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2516,
+    "evaluation_created_at": "2021-10-04T00:10:00",
+    "client_id": 204,
+    "counselor_id": 5,
+    "score": 62,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

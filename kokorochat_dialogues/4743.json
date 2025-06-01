@@ -1,0 +1,494 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-03-13T20:55:34",
+      "utterance": "(こんばんは。よろしくお願いいたします。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T20:55:50",
+      "utterance": "(よろしくお願いいたします)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T20:58:39",
+      "utterance": "（時間になりましたら、始めさせていただきます）"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T21:00:08",
+      "utterance": "こんばんは。相談員です。よかったらはじめに、年齢・性別・相談内容をお聞かせください。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T21:01:13",
+      "utterance": "50歳、男、娘が学校に行かなくなり、どう接したら良いかわかりません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T21:01:46",
+      "utterance": "そうなんですね。それはご心配ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T21:01:53",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T21:02:36",
+      "utterance": "もう少し詳しく教えてもらえますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T21:04:01",
+      "utterance": "大学生の娘がいるのですが、学校で何かあったのか休みがちになり、理由を聞いても本人は大丈夫というばかりでどうしたらいいのかわからないんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T21:05:06",
+      "utterance": "教えてくださり、ありがとうございます。そうなんですね。それは戸惑いますね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T21:05:13",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T21:06:16",
+      "utterance": "大学生ということですが、何年生なのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T21:06:29",
+      "utterance": "2年生です"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T21:07:00",
+      "utterance": "そうなんですね。いつ頃から、学校に行かなくなったのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T21:07:41",
+      "utterance": "3ヶ月前くらいだと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T21:09:24",
+      "utterance": "ありがとうございます。ちなみに、娘さんはご自宅ではどんな風にすごされていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T21:09:45",
+      "utterance": "部屋に篭りがちですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T21:10:45",
+      "utterance": "そうなんですね。そのような状況だと、親としても不安になりますね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T21:11:05",
+      "utterance": "心配ですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T21:13:43",
+      "utterance": "そのような気持ちになるのは自然なことと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T21:14:20",
+      "utterance": "どうしたらよいでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T21:14:57",
+      "utterance": "部屋でこもりがちということですが、食事はどんなかんじでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T21:15:31",
+      "utterance": "一応食事はとっているようです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T21:16:36",
+      "utterance": "よく理解できなくて、すみません。もう少し詳しく教えていただいてもよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T21:17:23",
+      "utterance": "同じ食卓にはつきませんが、食べてはいるようです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T21:18:08",
+      "utterance": "それは、部屋に食事を持っていかれているということでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T21:19:09",
+      "utterance": "そういうときもありますし、適当に冷蔵庫などから探して食べるときもあるみたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T21:21:13",
+      "utterance": "そうなんですね。娘さんとの関わりは、どんな感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T21:21:28",
+      "utterance": "会話は多くはないですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T21:22:56",
+      "utterance": "そうなんですね。教えてくださり、ありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T21:23:29",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T21:23:42",
+      "utterance": "娘さんの態度をみると、もどかしい気持ちにもなりますね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T21:24:46",
+      "utterance": "もどかしいというか、彼女なりに苦しんでいるのだろうなと感じますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T21:25:20",
+      "utterance": "そうなんですね。どんなところから、そう感じられるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T21:26:37",
+      "utterance": "大丈夫と言いつつつらそうな表情だったり、なにか悩んでいるような雰囲気を感じます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T21:28:23",
+      "utterance": "なるほど。そう言いつつ、つらそうな表情をされると、親自身も同じようになりますね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T21:29:48",
+      "utterance": "でも本人が一番つらいので親までつらそうにするのは違うかなと思いますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T21:32:09",
+      "utterance": "そう思われるんですね。親としてごもっともなことだと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T21:32:31",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T21:33:01",
+      "utterance": "娘さんは夜は眠れているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T21:34:01",
+      "utterance": "そのあたりはあまりわからないですね。寝室も違いますし"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T21:34:38",
+      "utterance": "何を聴いても大丈夫というだけなので、現状どんな感じなのかあまりわかっていません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T21:35:18",
+      "utterance": "そうなんですね。教えてくださり、ありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T21:35:26",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T21:36:00",
+      "utterance": "少し整理させていただきますね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T21:36:06",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T21:41:24",
+      "utterance": "大学2年生の娘さんが、3か月前頃から学校を休みがちになった。理由を聞いても大丈夫というばかりで、何も話さない感じ。部屋にこもりがちだが、食事はとれている様子で、会話も多くはないができている。ただ、大丈夫という言葉とは違って、つらそうな表情をしているので、心配。どう接したらいいか知りたい。という感じでよろししいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T21:41:59",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T21:42:18",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T21:43:29",
+      "utterance": "あなたが娘さんのことを大切に想って、おられることがとても伝わってきます。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T21:43:38",
+      "utterance": "そうですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T21:43:48",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T21:45:10",
+      "utterance": "とにかくどうにかしてあげたいのですが…"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T21:47:09",
+      "utterance": "そうですよね。そう思われるのは親として娘さんのことを思っておられるからですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T21:47:26",
+      "utterance": "娘さんがそうなられてから、あなたが今までに娘さんにどんなことをされてきたか、おしえてもらってもいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T21:48:19",
+      "utterance": "何があったのかきくのと、無理していかなくてもいいよというくらいですかね"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T21:48:43",
+      "utterance": "理由を教えてくれないので他にどうしたらいいのかわからなかったです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T21:49:24",
+      "utterance": "娘さんの気持ちを尊重されていたんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T21:49:56",
+      "utterance": "とても大切なことだと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T21:49:56",
+      "utterance": "まぁそうですね"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T21:50:25",
+      "utterance": "無理に行けと言っても難しい話だと思いますので"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T21:51:31",
+      "utterance": "娘さんのことを第一に考えられていると感じます。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T21:51:48",
+      "utterance": "それはそうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T21:52:31",
+      "utterance": "それと同時に、あなたが娘さんのことを心配しているのが伝わってきます。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T21:52:57",
+      "utterance": "心配ですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T21:54:01",
+      "utterance": "例えばですが、まずは娘さんの興味のありそうなことを投げかけてみるのもひとつかなと思いますが、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T21:54:33",
+      "utterance": "気晴らしということでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T21:56:15",
+      "utterance": "そうですね。そのようなところもあるかもしれませんが、まずは話してもらうということです。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T21:56:46",
+      "utterance": "なるほど。会話をとりあえず"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T21:56:51",
+      "utterance": "するということですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T21:57:40",
+      "utterance": "そうですね。人は自分の好きなことやもの、興味のなることは自然と話したくなるものです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T21:58:05",
+      "utterance": "興味のあること・・・・です。すみません。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T21:58:15",
+      "utterance": "試してみようと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T21:59:31",
+      "utterance": "何気ない会話が楽しいと感じてもらえることから始めてもよいのではないでしょうか。ぜひ試してみてください。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T21:59:42",
+      "utterance": "はいそうしてみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T22:00:42",
+      "utterance": "あなたがとても娘さんのことを愛情深く思っておられると感じました。娘さんは幸せ者ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T22:01:09",
+      "utterance": "そうでしょうか。つらそうにしているのでかわいそうに思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T22:05:52",
+      "utterance": "そう感じられるんですね。娘さんのつらそうな顔をみると、なんとかできないのかと思われるのも無理ないですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T22:06:02",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T22:06:22",
+      "utterance": "そのように、そばに自分のことを想ってくれる人がいることが、娘さんにとって幸せなことだと私は思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T22:07:04",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T22:08:20",
+      "utterance": "今日はご相談にきてくださり、ありがとうございました。娘さん興味のあることを投げかけることから始めてみてくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-13T22:08:32",
+      "utterance": "はい、ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T22:09:12",
+      "utterance": "こちらこそ大切なお話を聴かせてくださり、ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-13T22:09:37",
+      "utterance": "それでは、終了メッセージをお送りいたします。"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "娘の大学生活における不登校問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4743,
+    "評価作成日時": "2023-03-13T22:28:00",
+    "クライアント役ID": 226,
+    "カウンセラー役ID": 156,
+    "点数": 76,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 4,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 5,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4743,
+    "evaluation_created_at": "2023-03-13T22:28:00",
+    "client_id": 226,
+    "counselor_id": 156,
+    "score": 76,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

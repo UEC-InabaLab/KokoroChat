@@ -1,0 +1,829 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-04-09T19:52:43",
+      "utterance": "本日はロールプレイにお付き合いいただきありがとうございます。20時になったらはじめさせていただきますね。よろしくお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T19:59:20",
+      "utterance": "こんばんは。宜しくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:01:16",
+      "utterance": "こんばんは、相談員です。本日はお越しいただき、ありがとうございます。はじめに年齢と性別を教えて頂いてもよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:01:44",
+      "utterance": "はい。14歳。女子です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:02:33",
+      "utterance": "ありがとうございます。14歳というと、中学生でよかったですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:02:52",
+      "utterance": "はい。中学2年生です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:03:42",
+      "utterance": "きょうはどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:04:54",
+      "utterance": "４月になり、新学期が始まってはいるのだけど、学校へ行きたくないのです。でも、お母さんが、行かなくては駄目！と、行ってくるので、困っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:05:35",
+      "utterance": "そうなんですね。学校に行きたくないんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:05:48",
+      "utterance": "はい。嫌なんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:07:11",
+      "utterance": "それは辛いですね。嫌な理由を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:07:37",
+      "utterance": "勉強が難し過ぎて、解らないことか"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:08:12",
+      "utterance": "多く、お友達だった人から、いじめに遭ってるからなんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:09:15",
+      "utterance": "いじめにあってるんですね。それは大変！"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:09:38",
+      "utterance": "そうなんです。いじめに遭い、とても辛いです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:10:06",
+      "utterance": "それは苦しいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:10:28",
+      "utterance": "はい。すごく苦しくて、悲しいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:11:59",
+      "utterance": "それは重大なことなので、一緒に考えさせてくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:12:16",
+      "utterance": "はい。お願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:13:18",
+      "utterance": "きっと、相談するのも勇気がいったと思います。辛かったら、話せるだけでいいので教えてください。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:14:28",
+      "utterance": "まず、いじめというのはどのようなことがあったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:14:37",
+      "utterance": "事の始まりは、元友達が、学校が終わったら、一緒に帰り、その後、遊びに行こう、と言って来たのだけど、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:15:26",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:15:34",
+      "utterance": "私は、学校の成績が悪いので、家に帰宅したら、勉強をしたいから、お友達の誘いを、頻繁に断ってたんです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:15:45",
+      "utterance": "そんな事がしばらく続き、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:16:12",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:16:29",
+      "utterance": "いつも、付き合いが悪いね。勉強と私と、どっちが大事なの？！と言い、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:16:50",
+      "utterance": "始めは少し怒ってるなという感じが、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:17:21",
+      "utterance": "同じクラスの他の人に、その事を言いふらし、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:17:42",
+      "utterance": "元友達とクラスの他の生徒がグルになり、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:18:13",
+      "utterance": "ふんふん、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:18:19",
+      "utterance": "私の下駄箱に置いていた外履きのスニーカーや、かばんの中に入れていた、教科書を"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:18:34",
+      "utterance": "隠したり、ゴミ箱に捨てられたり、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:18:44",
+      "utterance": "そんな事ばかりが続き、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:18:59",
+      "utterance": "え、え！それはひどいね"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:19:09",
+      "utterance": "とうとう私は、学校へ行くのが怖くなって、登校拒否をしています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:19:32",
+      "utterance": "それは、辛かったね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:19:37",
+      "utterance": "そうなんです。すごく、悲しくて辛いです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:20:03",
+      "utterance": "うん、うん、辛くて、悲しいね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:20:34",
+      "utterance": "学校へ行くと、又いじめられると思うと、お腹が少し痛くもなってくるんです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:21:21",
+      "utterance": "先生、助けてください。私は、どうしたらいいのか、解りません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:21:35",
+      "utterance": "あー、そうかあ。体も心と同じに辛くなってるんだよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:21:52",
+      "utterance": "はい。もぉ、きついです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:22:10",
+      "utterance": "よく、我慢したね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:22:23",
+      "utterance": "うん。いっぱい我慢しました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:23:03",
+      "utterance": "お友達からいじめられるからとお母さんに言っても、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:23:06",
+      "utterance": "うん、うん、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:23:28",
+      "utterance": "それくらいのことで学校へ行けなくて、どうするの？！と、怒られてしまいます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:23:59",
+      "utterance": "そうかー。お母さん、あまり理解できてないんだね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:24:35",
+      "utterance": "はい。なんだか、お父さんのことばかりお母さんは気にしていて、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:24:55",
+      "utterance": "どういうことかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:24:58",
+      "utterance": "私のことは、どうでもいいみたいに思える感じなんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:25:21",
+      "utterance": "そうなの？どんな風に？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:25:26",
+      "utterance": "お母さんは専業主婦だから、お父さんに食べさせてもらってるから、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:25:55",
+      "utterance": "うん、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:26:21",
+      "utterance": "お父さんさん自身も、誰が、食わせてやってると思ってるんだ！と、お母さんに言ってるのを、何回か聞いたことがあるので、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:26:43",
+      "utterance": "そんなことを、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:27:19",
+      "utterance": "そんなことを聞くのは辛いよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:27:26",
+      "utterance": "うん。夫婦喧嘩が始まると、私は、自分の部屋に隠れてるの。怖いから。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:27:52",
+      "utterance": "お母さんとお父さんには、いつも仲良くして欲しい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:28:29",
+      "utterance": "そうだね、仲良くしてほしいよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:28:42",
+      "utterance": "うん。喧嘩はしないで欲しいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:29:01",
+      "utterance": "夫婦喧嘩はよくあるのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:29:17",
+      "utterance": "時々、やってます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:30:09",
+      "utterance": "そうか、その度に隠れてるんだね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:30:21",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:30:39",
+      "utterance": "家でもこんなだし、学校でもあんなだし。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:31:06",
+      "utterance": "うん、それは本当に苦しいと思う。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:31:14",
+      "utterance": "うん。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:31:38",
+      "utterance": "私、学校へ行きたいとは思っている気持ちは、少しあるのです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:31:57",
+      "utterance": "そうなのね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:31:59",
+      "utterance": "以前は、すごく仲良くしていたお友達だったから、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:32:12",
+      "utterance": "なるほど、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:32:24",
+      "utterance": "又、仲良くできたらいいのにとは、思っているのです。でも、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:32:44",
+      "utterance": "そうか、そう思ってるんだね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:32:58",
+      "utterance": "でも？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:33:00",
+      "utterance": "先生から、家に帰ってからも、復習をしっかりとしなさいよと言われてるし、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:33:25",
+      "utterance": "なるほど"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:33:26",
+      "utterance": "高校の受験のことも、先生から、そろそろ考えなさいねと言われてるから、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:33:48",
+      "utterance": "遊ぶ時間を、減らさなくてはいけないのです。困ってます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:34:08",
+      "utterance": "勉強のことも大事に考えてるんだね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:34:14",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:34:45",
+      "utterance": "あなたはとてもしっかりした人ですね。わたしはそう思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:35:09",
+      "utterance": "もう２年生なんだから、そろそろ中間テストや期末テストで、良い点数を出さないと、やばいって、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:35:19",
+      "utterance": "先生が言ってたので、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:35:47",
+      "utterance": "先生の言うことは気になりますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:36:02",
+      "utterance": "高校の受験は、二年生と三年生の科目が出題されるみたい。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:36:16",
+      "utterance": "はい。先生のこと、気になります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:36:39",
+      "utterance": "勉強は好き？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:36:49",
+      "utterance": "勉強は、嫌い。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:37:03",
+      "utterance": "でも、高校へは行きたいのです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:37:41",
+      "utterance": "嫌いなのね。でも、高校受験を考えてるんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:38:05",
+      "utterance": "はい、そうです。志望校に、合格したいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:39:05",
+      "utterance": "そうか、勉強を頑張ることはいいことだと思いますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:39:26",
+      "utterance": "そうなんだ！嬉しい！"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:39:43",
+      "utterance": "ええ、頑張ってね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:39:50",
+      "utterance": "うん！"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:40:26",
+      "utterance": "ところで、今は学校には行けてるの？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:40:36",
+      "utterance": "どうやったら、学校へ行けるようになりますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:40:54",
+      "utterance": "一度、まとめさせてくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:41:15",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:42:01",
+      "utterance": "あなたは新学期がはじまったけれど、学校には行きたくないと思っている。それは、元友達にいじめにあうから。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:42:22",
+      "utterance": "そうです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:42:43",
+      "utterance": "そのことをお母さんに伝えてもわかってもらえない。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:42:54",
+      "utterance": "そうです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:43:58",
+      "utterance": "けれど、本当は学校に行きたいと思っている。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:44:12",
+      "utterance": "はい、そうです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:44:28",
+      "utterance": "できれば元友達と仲直りしたいと思っている。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:44:41",
+      "utterance": "うん、そうです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:45:53",
+      "utterance": "それともう一つ。最初に言っていた勉強が苦手というのは悩みですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:47:01",
+      "utterance": "うん。勉強が苦手ではなく、勉強を先生に授業中に教えてもらっても、解らない時が多々とある。です。そのことが、悩みです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:48:00",
+      "utterance": "なるほど。では、今、一番重要な悩みというのは自分ではどれだと考えてますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:49:02",
+      "utterance": "一番重要な悩みは、成績を上げたい。です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:49:17",
+      "utterance": "なるほど。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:50:42",
+      "utterance": "でも、おそらくそのためには、自分の環境を整えることがいいのではないかと思うのです。つまり、普通に学校へ行けるようになることです。どうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:51:17",
+      "utterance": "はい、そうかもしれません。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:51:46",
+      "utterance": "でも、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:52:18",
+      "utterance": "どうやったら、自分の環境が整うのですか？あと、環境を整えるとは、どういう意味ですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:53:02",
+      "utterance": "そうですね。学校は無理には行かないでいいと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:53:56",
+      "utterance": "そうなんだ。でも、欠席が多いと、受験の時に必要となる、内申書に響くと先生が言ってたんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:54:25",
+      "utterance": "それもこまりますね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:54:38",
+      "utterance": "はい。とても困ります。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:54:59",
+      "utterance": "受験の時に、同じ点数の子が２人いる場合、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:55:18",
+      "utterance": "どちらか１人しか合格させてあげることができない場合、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:55:40",
+      "utterance": "なるほど。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:55:44",
+      "utterance": "中学生時代の内申書で判断するそうです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:55:59",
+      "utterance": "では、あなたはどう考えてますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:57:01",
+      "utterance": "学校へ行かなくては！と思う気持ちが強いのと同時に、お友達からいじめられるのが怖い。朝になると、少しお腹が痛くなるしで、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:57:42",
+      "utterance": "うん、それで？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:57:48",
+      "utterance": "成績はどうやったらあげられるのかな？学校へは、どうやったら行けるようになるのかな？と、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:58:08",
+      "utterance": "いっぱい、考えてしまうのね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:58:08",
+      "utterance": "思ったり考えるけど、方法が解らないのです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T20:58:22",
+      "utterance": "はい。いっぱい、考えてしまいます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T20:59:37",
+      "utterance": "今日お話したことで問題が複数あることはわかりましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T21:00:10",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T21:00:26",
+      "utterance": "この相談はもうすぐ終わりになります。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T21:00:48",
+      "utterance": "そうなんですか〜？やばいやばい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T21:01:04",
+      "utterance": "ご自身で問題を振り返って、整理してみてはいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T21:01:28",
+      "utterance": "う〜ん、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T21:01:50",
+      "utterance": "どんな感じに、整理したら良いですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T21:01:58",
+      "utterance": "それと、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T21:02:09",
+      "utterance": "はい、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T21:02:10",
+      "utterance": "他に、誰に相談したら、良いですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T21:02:30",
+      "utterance": "また、いつでもこちらへ相談してください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T21:02:47",
+      "utterance": "解りました。そうします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T21:03:54",
+      "utterance": "あなたは頑張り屋さんで、すばらしいです。でも、決して無理はしないでくださいね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T21:04:33",
+      "utterance": "今日は時間がなくてごめんなさい。是非また来てください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T21:05:03",
+      "utterance": "はい。解りました。ありがとうございました。褒めてくれて、ありがとう！"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T21:05:24",
+      "utterance": "これで終了させていただいてよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T21:05:44",
+      "utterance": "はい。終了でOKです。ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-09T21:06:00",
+      "utterance": "本日はありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-09T21:06:15",
+      "utterance": "はい。"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "いじめによる登校拒否"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1598,
+    "評価作成日時": "2021-04-09T21:53:00",
+    "クライアント役ID": 176,
+    "カウンセラー役ID": 178,
+    "点数": 70,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 5,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 5,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 3,
+    "要約": 5,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 5,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1598,
+    "evaluation_created_at": "2021-04-09T21:53:00",
+    "client_id": 176,
+    "counselor_id": 178,
+    "score": 70,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 5,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

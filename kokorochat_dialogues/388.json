@@ -1,0 +1,539 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-09-01T18:55:26",
+      "utterance": "こんばんは。本日はよろしくお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T18:59:37",
+      "utterance": "よろしくお願いいたします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:00:21",
+      "utterance": "それでははじめてもよろしいでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T19:00:28",
+      "utterance": "はい、お願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:00:52",
+      "utterance": "カウンセラーです。本日はよろしくお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T19:01:03",
+      "utterance": "よろしくお願いいたします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:01:12",
+      "utterance": "本日はどの様なご相談でしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T19:01:28",
+      "utterance": "はい、あの、夜眠れないんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:01:53",
+      "utterance": "そうなんですね。眠れないのはお辛いですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T19:02:02",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:02:57",
+      "utterance": "どういったことでねむれないのでしょう。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T19:03:19",
+      "utterance": "色々考えだすと、不安になって眠れなくなるんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:04:54",
+      "utterance": "いろんなことに不安があって眠れないんです。夜眠れないと昼間お辛いでしょうが、お体は大丈夫ですか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T19:05:38",
+      "utterance": "勤務中に睡魔に襲われたり、ボーッとしたりしてしまいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:06:54",
+      "utterance": "そうですよね。昼間に眠くなってしまいますよね。その状態ではお仕事も集中しずらいので、大変ですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T19:07:00",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:08:03",
+      "utterance": "色々なことを考えてとのことでしたが、どういったことがあるか、もう少し具体的に教えてもらってもよろしいでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T19:08:45",
+      "utterance": "仕事がいつまで続けられるかとか、病気のこととか、親の介護のこととかです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:10:25",
+      "utterance": "すごく色々なことを抱えておられるのですね。それは、お辛いですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T19:10:30",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:11:44",
+      "utterance": "多くのことを抱えておられて大変とは思いますが、順番にお伺いしたいのですが、まず、お仕事が続けられるかとはどういうことでしょう。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T19:12:33",
+      "utterance": "介護職なんですが、体力が落ちてきているので、いつまで続けられるかわかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:13:59",
+      "utterance": "そうなんですね。介護職は体力使うお仕事で大変ですよね。特に腰への負担とかは大丈夫ですか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T19:14:15",
+      "utterance": "つらいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:15:57",
+      "utterance": "そうでなんですね。腰などへの負荷は大きいですよね。介護のお仕事はどれぐらいまで続けたいとおかんがえですか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T19:16:17",
+      "utterance": "できるだけ長くつづけたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:17:36",
+      "utterance": "そうなんですね。長く続けたいご希望なんですね。ちなみに、現在はおいくつぐらいですか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T19:17:55",
+      "utterance": "50代後半です"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T19:20:27",
+      "utterance": "つながってますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:20:44",
+      "utterance": "すいません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:21:26",
+      "utterance": "体力的にもしんどい年代ではありますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T19:21:36",
+      "utterance": "はい、そうなんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:22:19",
+      "utterance": "体力的にもそうですが、先ほど病気もとのお話がありましたが、そのこともありますか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T19:22:42",
+      "utterance": "はい、５年前に子宮頸がんになりました"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T19:23:19",
+      "utterance": "今の所、再発や転移はありませんが"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:23:38",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T19:24:08",
+      "utterance": "再発や転移の不安はいつもあります"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:24:39",
+      "utterance": "再発転移がないのはよかったですが、やはりずっとその不安はかかえながらで、心配が尽きないですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T19:24:46",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:25:53",
+      "utterance": "5年も頑張ってこられたんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T19:26:38",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:27:53",
+      "utterance": "ご自身の病気のこともありながら、体力的にもきつくなってくるお仕事をされてながら、介護のが心配とのことでしたが、ご両親の介護でしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T19:29:06",
+      "utterance": "父は他界していて、母が一人暮らしをしています。今はまだ元気ですが、そのうち私が介護をすることになるので、生活が成り立つか不安です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:29:59",
+      "utterance": "そうなんですね。将来のお母さまの介護が不安でいらっしゃるんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T19:30:24",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:30:35",
+      "utterance": "お母さまはお近くですまわれているんですか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T19:31:03",
+      "utterance": "母は北海道です。私は東京です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:31:50",
+      "utterance": "北海道と東京。。。離れておられると余計心配になりますね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T19:31:59",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:32:52",
+      "utterance": "北海道にご親族の方はおられたりはしないですか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T19:33:33",
+      "utterance": "いるにはいますが、みんな高齢であまり当てになりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:35:06",
+      "utterance": "そうなんですね。みなさん高齢となると、余計不安になりますね。他に頼れるかたはいらっしゃらない感じでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T19:35:15",
+      "utterance": "いません"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:37:18",
+      "utterance": "そうでしたか。お母さまにとっては、あなたがだけが頼りなんですね。それは、不安だけでなくすごく負荷がかかっている気がして、しんどい気持ちになりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T19:37:32",
+      "utterance": "はい、そうなんです"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T19:38:00",
+      "utterance": "不安ばかりが募って、眠れなくなるんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:38:32",
+      "utterance": "そうですよね。不安になってしまうのはしょうがいないと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T19:39:30",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:39:38",
+      "utterance": "お母さまの介護は距離があるので、不安が大木ですが、そのことに関してお母さまとお箸されたことはありますか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T19:40:42",
+      "utterance": "まだ、今のところは元気なので、介護のことははなしたことはありません。心配しなくても大丈夫だって本人は言っています"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:42:18",
+      "utterance": "そうなんですね。元気でおられるんですね。それはよかったですが、将来は、、、とこちらは考えてしまいますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T19:42:26",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:43:28",
+      "utterance": "北海道と東京で、どのように介護をかんがえておられますか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T19:44:03",
+      "utterance": "どうしても介護が必要になったら、北海道に帰るつもりです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:44:56",
+      "utterance": "そうなんですね。お母さまのことを考えておられるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T19:45:43",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:46:25",
+      "utterance": "今までのお話を少し整理してもよろしいでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T19:47:18",
+      "utterance": "はい、おねがいします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:47:38",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:48:18",
+      "utterance": "色々なことが不安で夜眠れない。仕事の継続のこと、自分自身の病気、母の介護のこと。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:49:14",
+      "utterance": "仕事は長く続けたいが、体力的にきついことでいつまでできるか不安。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:50:43",
+      "utterance": "5年前のがんは、いつ再発転移するか心配。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:51:34",
+      "utterance": "北海道の母は、現在は元気だが、将来的な介護が必要な際には心配。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:52:03",
+      "utterance": "このようなことを考えていると、なかなか眠れない。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:52:20",
+      "utterance": "このようなことでよろしいでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T19:52:26",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:55:30",
+      "utterance": "本日、お話して頂いて、少しでもお役に立ちたいのですが、、少しだけ私の意見をお伝えしてもよろしいでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T19:55:45",
+      "utterance": "はいお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:55:56",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T19:57:35",
+      "utterance": "本日、お話頂いて多くの不安を抱えておられる中で、ご自身のことお母さまのことしんどい中、すごく考えて頑張っておられると思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T20:00:06",
+      "utterance": "体力的にはしんどい中でも、お仕事を続けたい想いを持っておられる中で、お母さまの介護に関しては北海道への引っ越しが伴い大きな変化が起こるように感じました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T20:01:29",
+      "utterance": "お母さまが元気でおられるので、なかなかお話するのは難しいですが、一度話されてはいかがでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T20:02:00",
+      "utterance": "そうですか"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T20:02:20",
+      "utterance": "機会があったら話してみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T20:04:30",
+      "utterance": "お母さまのことを考えておられるので、大きな変化が伴うことが、あなたの不安を大きくしているように感じたので、お伝えいたしました。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T20:04:56",
+      "utterance": "わかりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T20:05:56",
+      "utterance": "少しでも不安が減り、眠れる一つかとかんじたました。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T20:06:17",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T20:06:47",
+      "utterance": "ありがとうございます。少し時間過ぎましたが、本日お話されていかがでしたでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T20:07:04",
+      "utterance": "聞いていただいてありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T20:07:44",
+      "utterance": "こちらこそ、お話しいただきましてありがとうございました。少しでもお役にたてましたでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T20:07:56",
+      "utterance": "はい、眠れる手段をまた考えてみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-01T20:08:55",
+      "utterance": "ありがとうございました。それでは、終了致します。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-01T20:09:06",
+      "utterance": "はい、ありがとうございました。"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "不安による睡眠障害"
+  },
+  "review_by_client_jp": {
+    "評価ID": 388,
+    "評価作成日時": "2020-09-01T20:27:00",
+    "クライアント役ID": 41,
+    "カウンセラー役ID": 36,
+    "点数": 42,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 1,
+    "居心地のよいやりとりだった": 1,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 2,
+    "要約": 3,
+    "問題の明確化": 1,
+    "この相談での目標の明確化": 1,
+    "次の行動につながる提案": 1,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 388,
+    "evaluation_created_at": "2020-09-01T20:27:00",
+    "client_id": 41,
+    "counselor_id": 36,
+    "score": 42,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 1,
+    "conversation_felt_comfortable": 1,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

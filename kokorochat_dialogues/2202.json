@@ -1,0 +1,604 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:00:48",
+      "utterance": "こんにちは。相談員です。今日はどのようなご相談へ来られましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T14:01:23",
+      "utterance": "うーんなんかしっくりこなくて"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:01:34",
+      "utterance": "しっくりこない…。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:02:25",
+      "utterance": "もう少し詳しくお話をお聞きしたいので、よかったらあなたの性別・年齢・なんと及びしたらいいか教えてもらってもいいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:03:27",
+      "utterance": "すいません。お呼びしたらでした。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T14:04:09",
+      "utterance": "20代の女子学生あなたでokです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:04:31",
+      "utterance": "教えてもらってありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:05:33",
+      "utterance": "…しっくりこないっていうのは、どんな時にそう思われているんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T14:06:09",
+      "utterance": "最近なんだかふとした時そう思う"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:06:46",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:08:16",
+      "utterance": "学生さんと書かれているけど、学校ではどのように過ごしていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T14:09:18",
+      "utterance": "オンライン授業を受けてたまに学校に行く時もあります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:09:33",
+      "utterance": "なるほど。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:10:38",
+      "utterance": "お友達や先生と会うことはあまりない感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T14:11:12",
+      "utterance": "たまに会うことはあるけど"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:11:29",
+      "utterance": "うんうん（聞いています）"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T14:12:56",
+      "utterance": "何か楽しいとも思わない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:13:25",
+      "utterance": "そう思われるんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T14:13:38",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:14:57",
+      "utterance": "学校以外のお友達やほかの人に会っている時はどうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T14:15:25",
+      "utterance": "何かむなしい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:16:33",
+      "utterance": "…それは寂しいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T14:16:45",
+      "utterance": "うん"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:17:39",
+      "utterance": "…家族の方とはどうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T14:18:04",
+      "utterance": "一人ぐらしだから"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:21:06",
+      "utterance": "では、普段はずっと家でオンライン授業受けたり、あまり人に会わなかったり、一人で過ごす感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T14:21:25",
+      "utterance": "そうだけど"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:23:08",
+      "utterance": "家族の方とは連絡は取ったりしないんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T14:23:55",
+      "utterance": "連絡はとったりします。ラインかな。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:24:13",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:25:34",
+      "utterance": "LINEだと文字のやり取りが多いけど、通話で話したりもしますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T14:25:58",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:26:12",
+      "utterance": "…ご家族と話していても、しっくりこないことが多いですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T14:27:13",
+      "utterance": "家族とは元気であることを伝えています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:27:26",
+      "utterance": "なるほど。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:28:44",
+      "utterance": "状況は話しても、あまり寂しいとか、感情的な事は話しませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T14:29:26",
+      "utterance": "はい家族だから心配するから"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:29:52",
+      "utterance": "心配をかけたくないんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T14:30:04",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:32:47",
+      "utterance": "…家族や友達に、気持を伝えられないのは、しんどいですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T14:33:10",
+      "utterance": "うん"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:33:36",
+      "utterance": "一人で抱えてしまうと、色々考えますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T14:34:27",
+      "utterance": "考えてしまうよりこれでいいのかなって思う"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:34:51",
+      "utterance": "ご自身ではそう思われるんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:35:15",
+      "utterance": "いいか悪いかですか…。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T14:36:40",
+      "utterance": "いいか悪いかよりなんだろうふとした時むなしさかな"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:37:46",
+      "utterance": "（これでいいのかな）と思うと、むなしさが起こってくる…。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T14:38:16",
+      "utterance": "うん"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:38:53",
+      "utterance": "寂しく感じますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T14:39:46",
+      "utterance": "というか私これでいいのかなって"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:41:36",
+      "utterance": "うんうん（聞いていますよ）"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T14:46:11",
+      "utterance": "バイト"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:46:47",
+      "utterance": "これからバイトがあるんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T14:47:55",
+      "utterance": "そうじゃなくてこんな風に生きていていいのかなって"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:48:23",
+      "utterance": "どんなバイトをしているんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T14:48:51",
+      "utterance": "パパ活"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:49:15",
+      "utterance": "…そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:50:52",
+      "utterance": "確かにお金はいいかもしれないけど、本当の関係ではないから、寂しくなったり、しんどさは感じやすいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T14:51:46",
+      "utterance": "それはあるけど"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:52:30",
+      "utterance": "パパ活については、あなた自身は今後どうしたいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T14:53:43",
+      "utterance": "どうしたいというよりいろんなことわからなくなつてきました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:54:02",
+      "utterance": "そう思われるんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:54:59",
+      "utterance": "今までのお話について、こちらが感じたことや思ったことをお伝えしていいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T14:55:07",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:56:40",
+      "utterance": "友達やほかの人と会ってもむなしく感じたり、しっくりこないことが多い。家族には1人暮らしで元気だけど、寂しさやしんどさは心配かけたくないから、言い出せない。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T14:57:24",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:57:53",
+      "utterance": "パパ活をバイトでしているけど、本当の関係ではないから、一人でいてもその人といても、しっくりこなかったり、むなしくなったりする気持ちは変わらない。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T14:58:44",
+      "utterance": "このままでいいかと思いながら、日々過ごしているといったところでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T14:59:16",
+      "utterance": "まぁそんなとこ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T15:01:45",
+      "utterance": "…私の考えをあなたに伝えるならば、あなた自身を大事にしてほしいと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T15:01:57",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T15:02:14",
+      "utterance": "虚しさを感じたり、しっくりこない感じを否定せずに、そのまま受け止めてください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T15:03:38",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T15:03:49",
+      "utterance": "日々、過ごす中で嫌な事とか寂しいことも当然あると思うけど、そんなことを感じてはいけないと思わないでください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T15:05:17",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T15:05:31",
+      "utterance": "日々、過ごしていると嫌だなとか悲しいと思う気持ちが出てくると思います。出てきたら、そのことを紙に書きだしてみてください。書けたら、その紙をビリビリ破いて捨ててください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T15:06:07",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T15:06:51",
+      "utterance": "むなしさやしっくりこない感じは、それで急に収まらないかもしれないけど、少しづつやっていくことで、気持ちがおさまってくることもあります。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T15:07:38",
+      "utterance": "やってみようかな"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T15:08:06",
+      "utterance": "よかったら、やってみてくださいね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T15:08:33",
+      "utterance": "…パパ活って人にはなかなか言いにくいことですよね。教えてくれてありがとう。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T15:09:21",
+      "utterance": "ずっと抱えてしんどかったのではないですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T15:09:43",
+      "utterance": "そうかも"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T15:11:46",
+      "utterance": "相手の方については、今後あなたがどうしたいかっていう気持も大事にしてほしいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T15:12:06",
+      "utterance": "嫌なら無理に続けることはないし。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T15:12:53",
+      "utterance": "なんかやめられないなんでだろう"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T15:14:50",
+      "utterance": "…虚しさやしっくりこない感じを感じていたとしても、相手に会うことで、少し薄まっている感じはないですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T15:16:25",
+      "utterance": "と言うよりお金かな時給なんて必要じゃないし"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T15:16:40",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T15:18:47",
+      "utterance": "お金も大事だけど、パパ活以外でもほかに稼げることがあるかもしれないし、どちらかといえば、あなたの心身に関するリスクが大きいように私は思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T15:19:36",
+      "utterance": "そうかな"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T15:23:19",
+      "utterance": "…でも、むなしくなったり、しっくりこない感じがあることが、あるんですよね？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T15:23:47",
+      "utterance": "その気持ちがあなたの答えの１つではないですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T15:27:22",
+      "utterance": "それだけじゃないよ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T15:27:37",
+      "utterance": "他には？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T15:30:12",
+      "utterance": "あなたがよかったら、ほかの理由をおしえてもらってもいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T15:30:28",
+      "utterance": "時間もきているのでそろそろおしまいにしませんか?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T15:31:16",
+      "utterance": "わかりました。時間を押してしまってごめんなさいね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T15:31:38",
+      "utterance": "きょうはありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T15:33:15",
+      "utterance": "こちらこそありがとうございました。あなたにとって、きつい言い方になってしまったかもしれません。ただ、私はあなたが自分自身を大事にしてほしい気持ちで、今回書かせていただきました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T15:33:40",
+      "utterance": "もし、また何かあったらいつでも相談に来てくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T15:34:19",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T15:34:56",
+      "utterance": "ではこれで終わりますね。時間が過ぎてしまって、ごめんなさい。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T15:35:21",
+      "utterance": "どういたしまして"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T15:36:01",
+      "utterance": "（お疲れさまでした。本当に時間が押してしまって申し訳ありませんでした。これで終了でいいですか？）"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-16T15:36:34",
+      "utterance": "はいお世話様です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-16T15:36:52",
+      "utterance": "（では終了しますね。ありがとうございました）"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "寂しさと虚しさに関する感情の整理"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2202,
+    "評価作成日時": "2021-07-16T16:08:00",
+    "クライアント役ID": 186,
+    "カウンセラー役ID": 112,
+    "点数": 46,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 2,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 2,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2202,
+    "evaluation_created_at": "2021-07-16T16:08:00",
+    "client_id": 186,
+    "counselor_id": 112,
+    "score": 46,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

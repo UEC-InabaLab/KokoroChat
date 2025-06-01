@@ -1,0 +1,659 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-03-26T15:30:04",
+      "utterance": "こんにちは、相談員です。本日はご相談に来て頂き、ありがとうございます。まず初めに年齢、性別、ご相談内容について教えて下さい。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T15:30:55",
+      "utterance": "53歳。女性。孫の将来のことが心配です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T15:31:31",
+      "utterance": "教えて頂き、ありがとうございます。そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T15:31:42",
+      "utterance": "どのようなことを心配されていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T15:32:49",
+      "utterance": "孫は、発達障害です。今中学校2年生で普通教室にいます。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T15:33:12",
+      "utterance": "小学校では支援学級にいました。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T15:33:42",
+      "utterance": "今、学校にあまり行けていない状態です。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T15:34:18",
+      "utterance": "学校に行けていないのが心配です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T15:34:25",
+      "utterance": "なるほど、お孫さんは発達障害をお持ちで、そのような状態なんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T15:34:33",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T15:34:47",
+      "utterance": "確かに、学校に行けてないとなると心配になりますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T15:34:57",
+      "utterance": "どれくらい前から行けてないのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T15:34:57",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T15:35:31",
+      "utterance": "1月ぐらいからです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T15:35:59",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T15:36:08",
+      "utterance": "この先の将来のことも心配です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T15:36:24",
+      "utterance": "そうですよね。学校に行かなくなったのは、何かきっかけ等あったのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T15:37:09",
+      "utterance": "本人に聞いてみたら、学校に行くのがだるいと言っていました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T15:37:39",
+      "utterance": "そのように言われたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T15:37:47",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T15:38:21",
+      "utterance": "相談者様としては、周りの方と同じように学校に行って欲しいというお気持ちが強いのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T15:39:19",
+      "utterance": "ちなみにそのお孫さんが、学校に行かないことによって、どうなることが心配ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T15:39:20",
+      "utterance": "周りと同じとは行かないと思うので、本人が楽しく学校に行って欲しいです。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T15:40:22",
+      "utterance": "学校に行かなくなり、引きこもりになるのが心配です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T15:41:16",
+      "utterance": "被せてしまい、申し訳ありません。そうですよね、引きこもりになってしまうのが心配ですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T15:41:53",
+      "utterance": "相談者様は、お孫さんのことをとても大切にされているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T15:42:14",
+      "utterance": "やはり、発達障害をもってる子は色々と生きづらいことが多いと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T15:42:59",
+      "utterance": "確かに相談者様の仰る通り、そういったことはよく聞きますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T15:43:27",
+      "utterance": "今はそのお孫さんと、一緒に暮らしているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T15:43:43",
+      "utterance": "一緒には住んでいません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T15:44:28",
+      "utterance": "なるほど、一緒ではないのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T15:44:41",
+      "utterance": "両親と一緒に住んでいらっしゃる、ということでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T15:45:00",
+      "utterance": "そうです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T15:45:12",
+      "utterance": "なるほど、分かりました。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T15:45:27",
+      "utterance": "私の娘は16歳でこの子を産みました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T15:46:01",
+      "utterance": "そうだったのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T15:46:12",
+      "utterance": "その後、今の方と出会い結婚し、1月に子供が生まれました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T15:47:16",
+      "utterance": "教えて頂き、ありがとうございます。娘さんとは、よくお話されたりしますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T15:48:07",
+      "utterance": "娘とは、よく話しをしたり家に行ったりしています。弟が出来たことで、学校に行けなくなったのも、一つの要因だったかも知れません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T15:48:56",
+      "utterance": "なるほど、2人目ができたのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T15:49:10",
+      "utterance": "お世話が難しくなりますもんね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T15:49:11",
+      "utterance": "そうです。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T15:49:54",
+      "utterance": "孫は、弟をとても可愛がっています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T15:50:27",
+      "utterance": "そうですか、それはお優しいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T15:50:44",
+      "utterance": "はい。とても優しい子です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T15:51:12",
+      "utterance": "娘さんのご家庭は、仲が良いように思いますが、その辺りはいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T15:51:33",
+      "utterance": "とても仲が良いです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T15:51:55",
+      "utterance": "そうなんですね、それは良いことですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T15:52:12",
+      "utterance": "赤ちゃんが産まれてからは、特に家族が仲良くなったように思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T15:52:32",
+      "utterance": "家族ができると嬉しいですもんね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T15:52:50",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T15:53:33",
+      "utterance": "ただ、やはり学校へ行かないとなると、相談者様としては心配ですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T15:53:49",
+      "utterance": "そうです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T15:54:34",
+      "utterance": "何かしてあげたこと等、ありますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T15:55:30",
+      "utterance": "電話で話したり、会いに行ったりすることぐらいしか出来なくて、歯痒いです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T15:56:27",
+      "utterance": "なるほど、お声かけはよくされているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T15:56:41",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T15:56:50",
+      "utterance": "ただ、他にできなくて、どうしたものかといった感じなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T15:57:07",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T15:57:42",
+      "utterance": "ちなみに、お孫さんが学校へ行かなくなったこと以外で、気になることはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T15:58:14",
+      "utterance": "ないですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T15:59:03",
+      "utterance": "部活でバスケを張り切ってしていると思っていたので、学校に行けていないと聞いてショックでした。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T15:59:45",
+      "utterance": "なるほど、分かりました。それは娘さんからお聞きしたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T15:59:59",
+      "utterance": "そうです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T16:00:38",
+      "utterance": "そういうことですね。では相談者様としては、学校へ行ってくれるのであれば、問題ないということでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T16:01:43",
+      "utterance": "学校に行くだけではなくて、楽しく学校で過ごして欲しいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T16:03:06",
+      "utterance": "楽しく過ごしていけたら、というお気持ちなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T16:03:16",
+      "utterance": "そうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T16:04:06",
+      "utterance": "大事なお孫さんですものね、楽しく過ごして欲しいですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T16:04:12",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T16:04:32",
+      "utterance": "お孫さんの発達障害について、具体的にどのような症状か教えて頂けますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T16:06:06",
+      "utterance": "こだわりが少しありますが、そんなに気にはならないです。ただ、やはり知的あるので相手との会話がスムーズ出来ないことが多いです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T16:07:20",
+      "utterance": "会話が少し難しいという感じなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T16:07:46",
+      "utterance": "色々と教えて頂き、ありがとうございます。少しお話をまとめますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T16:09:29",
+      "utterance": "まず相談者様は、発達障害を持たれているお孫さんがいらっしゃる。現在娘さんより、学校に行っていないということを聞いて心配に感じている。相談者様としては、なんとか学校へ行って、楽しく過ごして欲しいと思っていらっしゃる。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T16:09:39",
+      "utterance": "だいたいですが、お間違いないでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T16:09:44",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T16:09:59",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T16:10:36",
+      "utterance": "それでは、どのようにしていけば、相談者様として気持ちが楽になるか一緒に考えていきましょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T16:10:52",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T16:10:55",
+      "utterance": "よろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T16:11:46",
+      "utterance": "まず相談者様の中で、こうした方がいいのではないか等、お考えになっていることはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T16:12:06",
+      "utterance": "どうしたらいいのでしょうね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T16:12:17",
+      "utterance": "分からないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T16:12:25",
+      "utterance": "そうですよね、難しいですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T16:12:44",
+      "utterance": "お孫さんが学校へ行かないことについて、娘さんはどう思われているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T16:13:26",
+      "utterance": "色々と葛藤があるようですが、じっと見守っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T16:13:42",
+      "utterance": "なるほど、見守られているのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T16:13:58",
+      "utterance": "そのことについて、相談者様はどのように思われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T16:14:45",
+      "utterance": "凄いなぁ、頑張ってるなぁって思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T16:15:31",
+      "utterance": "そのように思われるのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T16:15:53",
+      "utterance": "何か、こうしてあげたらいいのに等、思うことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T16:16:10",
+      "utterance": "娘にですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T16:16:19",
+      "utterance": "はい、そうです。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T16:16:44",
+      "utterance": "娘の話を聞いてあげることぐらいしか出来ないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T16:17:22",
+      "utterance": "なるほど、そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T16:18:07",
+      "utterance": "相談員からの提案になるのですが、お孫さんのことを、このまま見守ってあげてみてはいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T16:18:33",
+      "utterance": "そうなりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T16:19:01",
+      "utterance": "見守ることしか出来ないですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T16:19:28",
+      "utterance": "お話を聞く限り、娘さんもしっかりと向き合っていますし、お孫さんにとって一番近いのは娘さんになりますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T16:19:51",
+      "utterance": "心配なお気持ちがあるのも十分に分かります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T16:20:32",
+      "utterance": "なので、娘さんに「困ったことや、苦しくなったらすぐ助けを求めて欲しい」と伝えてみてはいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T16:20:52",
+      "utterance": "それは、いつも言っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T16:21:10",
+      "utterance": "そうだったのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T16:22:11",
+      "utterance": "頑張っているように見えるとのことでしたので、娘さんも、お孫さんも成長しようとしているのだと思いますよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T16:22:16",
+      "utterance": "いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T16:22:33",
+      "utterance": "そうです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T16:24:06",
+      "utterance": "相談者様からも、定期的にお会いしているとのことでしたので、それを続けてみるのが良いかと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T16:24:23",
+      "utterance": "そうします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T16:24:55",
+      "utterance": "ありがとうございます。ここまでお話しされて、お気持ちはいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T16:25:20",
+      "utterance": "とりあえず、見守るようにします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T16:26:23",
+      "utterance": "分かりました。お孫さん、良い人生を送れるように応援していますね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T16:26:52",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T16:27:31",
+      "utterance": "そろそろ終了のお時間となりますが、学校へ行かないことが続くようでしたら、またご相談に来て頂ければと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T16:27:49",
+      "utterance": "分かりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T16:29:09",
+      "utterance": "はい、本日はご相談に来て頂き、ありがとうございました。終了メッセージを送らせて頂きますが、よろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-26T16:29:20",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-26T16:29:50",
+      "utterance": "ありがとうございます。それでは終了メッセージを送らせて頂きますね。"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "発達障害のあるお孫さんの学校に行けない問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4813,
+    "評価作成日時": "2023-03-26T16:49:00",
+    "クライアント役ID": 353,
+    "カウンセラー役ID": 342,
+    "点数": 55,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4813,
+    "evaluation_created_at": "2023-03-26T16:49:00",
+    "client_id": 353,
+    "counselor_id": 342,
+    "score": 55,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

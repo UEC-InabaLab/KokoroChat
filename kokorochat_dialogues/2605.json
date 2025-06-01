@@ -1,0 +1,469 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-10-23T20:00:06",
+      "utterance": "こんばんは。相談員です。年齢、性別、相談内容を教えていただけますか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T20:00:27",
+      "utterance": "17歳　男性です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T20:00:57",
+      "utterance": "どういったご相談でしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T20:01:07",
+      "utterance": "自分を殴ったり引っ掻いたりしてしまうのがダメだなと思いながら辞められないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T20:01:41",
+      "utterance": "そうですか、それはつらいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T20:01:59",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T20:02:35",
+      "utterance": "いつごろからですか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T20:02:56",
+      "utterance": "あんまり覚えてないです。気づいたらやってた感じです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T20:03:53",
+      "utterance": "きっかけとかは、わかりますか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T20:04:31",
+      "utterance": "昔からなんで、どうしてはじめたかもよくわかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T20:05:35",
+      "utterance": "ご家族とは同居されてますか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T20:05:42",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T20:06:44",
+      "utterance": "ご家族の方は、その行動のことは知っていますか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T20:07:21",
+      "utterance": "知らないと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T20:08:16",
+      "utterance": "そうですか。それではお一人でお悩みなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T20:08:31",
+      "utterance": "そうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T20:09:31",
+      "utterance": "学校へは今通ってますか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T20:10:18",
+      "utterance": "はい、通ってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T20:11:28",
+      "utterance": "学校にいる間は、その行動はでますか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T20:11:50",
+      "utterance": "ないですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T20:13:06",
+      "utterance": "そうですか。どういった時に、その行動がよく現れるんでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T20:14:04",
+      "utterance": "失敗した時とかですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T20:15:33",
+      "utterance": "失敗とかした時にそういう行動が出てしまうんですね。それはおつらいですな。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T20:15:49",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T20:16:54",
+      "utterance": "ご家族とかに、この事を相談したことは、ありますか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T20:17:20",
+      "utterance": "ないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T20:18:00",
+      "utterance": "ご家族には話づらいですか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T20:18:17",
+      "utterance": "話しづらいですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T20:19:15",
+      "utterance": "今まで誰にも相談したことがないんでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T20:19:21",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T20:20:58",
+      "utterance": "その行動をした後はどうゆう気持ちになりますか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T20:21:11",
+      "utterance": "自分はダメだなとおもいますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T20:22:59",
+      "utterance": "かなり強く殴ったり、ひっぱたいたりするんでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T20:23:34",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T20:24:48",
+      "utterance": "どのような失敗をした時に、その行動はでますか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T20:25:09",
+      "utterance": "普通のことができなかったときとかです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T20:26:31",
+      "utterance": "ご家族は何人家族ですか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T20:26:49",
+      "utterance": "5人です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T20:27:48",
+      "utterance": "ご両親と3人兄弟ですか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T20:27:56",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T20:28:33",
+      "utterance": "ご兄弟では何番目ですか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T20:28:46",
+      "utterance": "1番です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T20:31:11",
+      "utterance": "そうですか。ご長男ということで、いつもしっかりしていなければという責任感が強いんではないですか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T20:31:24",
+      "utterance": "そうなんでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T20:34:22",
+      "utterance": "心理的にも一番上のお子さんが真面目で責任感の強い人が多いそうです。何か一番上でプレッシャーを感じた事はありませんか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T20:34:50",
+      "utterance": "1番上でってことでのプレッシャーはあんまりない気がします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T20:36:34",
+      "utterance": "その行動というのは、どのくらいの頻度で起こりますか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T20:36:58",
+      "utterance": "頻度はあまり多くないです。二、三ヶ月に一回あるかどうかですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T20:40:07",
+      "utterance": "そうですか。失敗する時というのは家に居るときが多いんですか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T20:41:08",
+      "utterance": "失敗は外でもしますが、行動するのが家の中って感じです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T20:42:00",
+      "utterance": "何か趣味とかは、ありますか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T20:42:10",
+      "utterance": "あんまりないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T20:43:25",
+      "utterance": "親しい友達とかはいますか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T20:44:05",
+      "utterance": "クラスメイト程度の仲の良さくらいですね。あんまり深い仲の人はいないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T20:45:08",
+      "utterance": "何をしている時がリラックスできますか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T20:45:33",
+      "utterance": "寝てる時ですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T20:47:06",
+      "utterance": "家族の仲はいいほうですか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T20:47:35",
+      "utterance": "他の家族がどんな感じか知らないので、わからないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T20:50:07",
+      "utterance": "誰にも話せないというのが辛いと思うんですが、ご両親に相談する事はできないでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T20:50:16",
+      "utterance": "こわいですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T20:50:58",
+      "utterance": "どういう感じが怖いと思われますか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T20:51:08",
+      "utterance": "怒られるのが怖いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T20:52:36",
+      "utterance": "真剣に話をすれば怒られないように思いますがいかがでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T20:53:07",
+      "utterance": "真剣に話しても聞いてもらえ無いと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T20:56:46",
+      "utterance": "それは辛いですね。ただ心にキズみたいなものがあって、行動にでると思うんですが、失敗した時でも大丈夫と言い聞かせて少しづつ自分に優しくなってみてください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T20:57:12",
+      "utterance": "自分に優しくしたらダメな気がします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T20:58:02",
+      "utterance": "どうしてダメだと思いますか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T20:58:26",
+      "utterance": "出来ていない自分が悪いので優しくしたらダメな気がします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T21:02:00",
+      "utterance": "人間完璧な人はいないので、辛い時は自分に優しくしても大丈夫だと思います。そこからまた成長することもできると思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T21:02:24",
+      "utterance": "そうなんですかね。不安です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T21:03:09",
+      "utterance": "大丈夫です。自分を信じてみてください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T21:03:56",
+      "utterance": "どう優しくしたらいいですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T21:06:43",
+      "utterance": "失敗しても自分をせめないで、何か好きなことや楽しいことを考えたり実践してみたりしてください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T21:06:57",
+      "utterance": "なるほど"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T21:07:45",
+      "utterance": "こうしてお話してみて、いかがでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T21:08:15",
+      "utterance": "ちょっとやってみようと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T21:10:03",
+      "utterance": "お話を聞かせていただき、ありがとうございました。今日はこのあたりにしたいと思うのですがいかがでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T21:10:24",
+      "utterance": "はい大丈夫です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-23T21:10:50",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-23T21:10:56",
+      "utterance": "ありがとうございました"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "自己傷害行為に対する不安と葛藤"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2605,
+    "評価作成日時": "2021-10-23T21:50:00",
+    "クライアント役ID": 226,
+    "カウンセラー役ID": 224,
+    "点数": 56,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2605,
+    "evaluation_created_at": "2021-10-23T21:50:00",
+    "client_id": 226,
+    "counselor_id": 224,
+    "score": 56,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 2,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,649 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:30:05",
+      "utterance": "こんにちは相談員です。よろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T10:30:20",
+      "utterance": "こんにちは。よろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:30:26",
+      "utterance": "最初に年齢と性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T10:30:50",
+      "utterance": "17歳女子です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:30:56",
+      "utterance": "お返事ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:31:08",
+      "utterance": "今日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T10:31:34",
+      "utterance": "コロナなのに休校にならないのが怖いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:31:48",
+      "utterance": "そうですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:31:55",
+      "utterance": "学年も教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T10:32:09",
+      "utterance": "高2です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:32:19",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:32:36",
+      "utterance": "いつから学校は始まる予定ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T10:32:56",
+      "utterance": "9月1日からです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:33:09",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:33:29",
+      "utterance": "コロナというと、どんなことが特に怖いですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T10:34:18",
+      "utterance": "うちには75歳のおばあちゃんもいて、もし私がコロナを移しちゃったらと思うと、本当に怖いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:34:50",
+      "utterance": "高齢のおばあちゃんのことを心配しているんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:35:16",
+      "utterance": "今のところ、おばあちゃんはお元気なんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T10:35:31",
+      "utterance": "はいもちろん、自分がかかるのも怖いです今のコロナってこどもも重症化すると聞いたので"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:36:00",
+      "utterance": "そうみたいなんですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:36:14",
+      "utterance": "本当にゆだんできないですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T10:36:15",
+      "utterance": "おばあちゃん元気ですけど、基礎疾患があって不安です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:36:40",
+      "utterance": "そうなんですね。どんな基礎疾患なんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T10:37:08",
+      "utterance": "高血圧と腎臓だったかな？少し悪いみたいで"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:37:50",
+      "utterance": "それは心配ですね。おばあちゃんは定期的に病院に通っているんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T10:38:06",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:38:43",
+      "utterance": "そうなんですね。病院の行き帰りも大変でしょうね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T10:39:14",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:39:31",
+      "utterance": "その他にご一緒に住んでいるご家族は？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T10:39:48",
+      "utterance": "両親と妹です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:40:01",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:40:31",
+      "utterance": "今までご家族で感染予防では、いろいろ気を付けてこられたのでしょうね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T10:41:03",
+      "utterance": "そうですねでも、感染対策万全にしていてもコロナになる人もいるみたいで、不安です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:41:25",
+      "utterance": "そうかもしれませんね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:41:48",
+      "utterance": "今までは、お家では、どんなことに気を付けてこられたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T10:42:47",
+      "utterance": "基本的なことだと思うんですが、マスク手洗い出歩かない、です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:43:20",
+      "utterance": "基礎的なことを、皆さんできちんとやって来られたんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T10:43:36",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:44:03",
+      "utterance": "妹さんも9月1日から学校が始まるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T10:44:53",
+      "utterance": "妹は中学生なんですが、もしかしたらリモート授業になるかもしれないって言ってました今日明日には分かるみたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:45:10",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:45:39",
+      "utterance": "妹さんはリモートだと、登校しなくても済むから少し安心ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T10:45:56",
+      "utterance": "そうですね、リスクが減りますから"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:46:49",
+      "utterance": "感染者が増えている中でここまでお家の誰も感染しないで来られたのは、やはり、お家の皆さんが感染予防をしっかりやって来られたおかげですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T10:47:50",
+      "utterance": "もう国の対策は頼りないし、自分たちでなんとかしてくしかないと思うので"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:48:36",
+      "utterance": "自分で自分を守るというお気持ちなんでしょうね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T10:49:03",
+      "utterance": "そうですね両親もまだ、ワクチン予約が取れないみたいですけど…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:49:26",
+      "utterance": "それはちょっと心配ですね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T10:50:19",
+      "utterance": "なんか、自粛しろとかワクチン打てとか言いながら、実際は学校休校にもならないしワクチン予約取れないし"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T10:50:35",
+      "utterance": "どうしたらいいのか不安です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:51:02",
+      "utterance": "今混乱してますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:51:16",
+      "utterance": "心配になりますよ…"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T10:51:30",
+      "utterance": "はいそのくせオリンピック開催したりとか、なにがしたいのか分かりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:51:47",
+      "utterance": "確かに"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:52:08",
+      "utterance": "ところで、おばあちゃんはワクチン接種は2回とも済んでいるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T10:52:28",
+      "utterance": "はい、おばあちゃんは打てました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:52:41",
+      "utterance": "それは、よかった。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:52:56",
+      "utterance": "おばあちゃんについては、先ず一安心ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T10:54:21",
+      "utterance": "うーん、あんまり安心じゃないです家族がもしコロナになっちゃったら…予防接種しても、コロナになるじゃないですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:55:00",
+      "utterance": "そういる事例もあるみたいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T10:55:13",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:55:21",
+      "utterance": "そこを考えると心配になってきますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T10:55:31",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:56:07",
+      "utterance": "でも、できることはやっておきたいですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T10:56:16",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:56:23",
+      "utterance": "次はご両親のワクチン接種ですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:56:52",
+      "utterance": "いつ頃できそうか、見通しとかはどうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T10:58:07",
+      "utterance": "いや、分からないです予防接種の予約サイトにアクセスしても、繋がった時にはもう予約が埋まってるっていう状態が、一ヶ月以上続いてます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:58:26",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:58:53",
+      "utterance": "予約自体ができないと、本当にイライラしてきてしまいますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T10:59:15",
+      "utterance": "そうですね、いつになったら打てるんだろうって"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T10:59:50",
+      "utterance": "毎朝、ご両親が予約サイトにアクセスしているんでしょうね・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T11:01:18",
+      "utterance": "毎朝ではなくて、市のホームページにこの日に予約受け付けますって出てるみたいですね予約受け付けが日曜日の朝みたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T11:01:37",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T11:02:05",
+      "utterance": "じゃあ、その日にみんながアクセスするから集中してしまうんでしょうね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T11:02:17",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T11:02:48",
+      "utterance": "予約サイトにアクセスするのも人仕事ですね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T11:03:14",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T11:03:14",
+      "utterance": "↑「ひと仕事」です。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T11:03:24",
+      "utterance": "大丈夫です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T11:03:57",
+      "utterance": "ところで、自治体によっては、12歳以上のワクチン接種を始めたところもあるようですが、そんな話は聞こえてきていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T11:04:33",
+      "utterance": "それがうちの地域ではまだなんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T11:04:43",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T11:05:08",
+      "utterance": "とにかく、せめて、ワクチン接種だけは早めにやっておきたいですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T11:05:22",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T11:06:05",
+      "utterance": "ところで、あなたは9月1日から、学校が始まるとのお話しですが、どんなことに気を付けようと思っているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T11:06:51",
+      "utterance": "マスク手洗いと、あんまり近くで喋らないようにとか、ですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T11:07:17",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T11:07:44",
+      "utterance": "基本ですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T11:08:10",
+      "utterance": "あんまり近くで喋らないことも大事みたいですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T11:08:40",
+      "utterance": "でもせっかくお友達と会っても、話ずらくなってしまうのでは？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T11:09:02",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T11:09:57",
+      "utterance": "夏休みが終わって、久し振りにお友達に会えるのは、本当は、楽しみなのでは？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T11:10:26",
+      "utterance": "楽しみですけど…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T11:11:27",
+      "utterance": "でも、あまり近づくと心配でもある・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T11:12:06",
+      "utterance": "はいここまでして学校行く必要あるのかな？って"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T11:12:31",
+      "utterance": "そう思ってしまいますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T11:12:50",
+      "utterance": "あなたなりの何かお考えがあるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T11:13:59",
+      "utterance": "こんな状況で休校にならないのが不安で、どうしたらいいのか分からなくてここにきました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T11:14:27",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T11:15:50",
+      "utterance": "今のところは、9月1日に学校が始まったら、行くしかないのかなと思っているのでしょうね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T11:17:31",
+      "utterance": "どうしたらいいですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T11:19:02",
+      "utterance": "あるいは、もし、どうしても怖いなら、お休みするということも考えられるかもしれませんけど・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T11:23:24",
+      "utterance": "ご両親ともご相談のうえ、最終的にはご自分でお決めになるほかないと思いますが。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T11:23:43",
+      "utterance": "いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T11:23:53",
+      "utterance": "そうですね、もういいですありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T11:25:05",
+      "utterance": "また是非ご相談にいらしてください。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T11:25:25",
+      "utterance": "更に緒ご一緒に考えさせていただきます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T11:25:47",
+      "utterance": "今日はご相談にいらしてくださりありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T11:25:50",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T11:26:14",
+      "utterance": "では、今回はこの辺で失礼させていただきます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T11:30:17",
+      "utterance": "（ロールプレイありがとうございました。）"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T11:30:29",
+      "utterance": "（ありがとうございました）"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T11:30:57",
+      "utterance": "（これにて失礼させていただきます。）"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T11:31:07",
+      "utterance": "（お疲れさまでした）"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T11:31:21",
+      "utterance": "（お疲れさまでした。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "コロナ禍での学校再開に対する不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2395,
+    "評価作成日時": "2021-08-27T11:58:00",
+    "クライアント役ID": 213,
+    "カウンセラー役ID": 5,
+    "点数": 20,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 1,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 1,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 3,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 1,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 1,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": "チェックあり"
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2395,
+    "evaluation_created_at": "2021-08-27T11:58:00",
+    "client_id": 213,
+    "counselor_id": 5,
+    "score": 20,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 1,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 1,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": "チェックあり"
+  }
+}

@@ -1,0 +1,484 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-07-21T20:22:39",
+      "utterance": "（こんばんは。カウンセラー役です。本日はよろしくお願いいたします。時間になりましたら始めさせていただきます。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T20:26:31",
+      "utterance": "（こんばんは。こちらこそよろしくお願いいたします。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T20:30:17",
+      "utterance": "こんばんは。相談員です。ご相談にお越しいただきありがとうございます。はじめに年齢と性別、今日の相談内容を教えていただけますか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T20:31:02",
+      "utterance": "こんばんは。30歳、女、仕事が見つからない"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T20:31:50",
+      "utterance": "そうなのですね。お困りなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T20:32:10",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T20:32:56",
+      "utterance": "いつ頃から探しているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T20:33:22",
+      "utterance": "半年くらい前からです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T20:34:35",
+      "utterance": "そうでしたか。半年となると焦りも感じますね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T20:34:50",
+      "utterance": "そうなんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T20:35:17",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T20:36:03",
+      "utterance": "今、お仕事探しはどんな様子なのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T20:36:38",
+      "utterance": "面接も受けていますが落とされます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T20:38:17",
+      "utterance": "そうなんですね。お仕事に従事するために行動していても、そうなるとショックを受けてしまいますね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T20:39:01",
+      "utterance": "はい、何の価値もないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T20:39:49",
+      "utterance": "そう思われるのですね。それほど悲しいお気持ちなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T20:39:57",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T20:41:14",
+      "utterance": "ちなみに今、生活は何人で暮らしているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T20:41:53",
+      "utterance": "両親と3人暮らしです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T20:42:35",
+      "utterance": "なるほど、そうなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T20:42:44",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T20:43:28",
+      "utterance": "仕事が見つからないというお話でしたが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T20:44:36",
+      "utterance": "それは自分の望む業界業種の求人がないとか、なかなか希望の条件を満たす仕事がないとか、どのような感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T20:45:51",
+      "utterance": "希望の業種や条件で探していたのですが、なかなか決まらないので広げています"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T20:48:08",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T20:48:21",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T20:49:57",
+      "utterance": "お仕事を探しているなか、どんなことが一番困っていたりするのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T20:50:14",
+      "utterance": "仕事が決まらない事です"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T20:51:16",
+      "utterance": "ええ。半年間ずっと探してきたからこそ、そう思うのは自然なことだと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T20:52:28",
+      "utterance": "でもこんなに決まらないと、自分は価値がない人間なんだって思います"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T20:52:45",
+      "utterance": "生きていても仕方ないし、必要とされていない"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T20:53:22",
+      "utterance": "そう思うほどお辛いのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T20:53:40",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T20:54:13",
+      "utterance": "もう疲れたので死のうと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T20:55:02",
+      "utterance": "そのように思うのですね。あなたの言葉から、そう思うほどお仕事探しを頑張ってきたことが伝わってきます。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T20:55:47",
+      "utterance": "頑張っても見つかりません、世の中から必要とされていないんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T20:57:04",
+      "utterance": "でも頑張ってきたことが報われないとショックですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T20:57:15",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T20:57:23",
+      "utterance": "だから死のうと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T20:59:33",
+      "utterance": "あなたがこれまでお仕事探しを頑張ってきて、それなのに仕事が見つからないことで色々なお気持ちを抱えているのだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T21:00:06",
+      "utterance": "ぜひそのお気持ちを聴かせていただけたらと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T21:02:04",
+      "utterance": "話せる範囲内で大丈夫なので、お仕事を探すことになったきっかけはどんなことでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T21:02:38",
+      "utterance": "無職だったので。生きていくにはお金がかかります"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T21:03:50",
+      "utterance": "そうでしたか。確かに生きるにはお金がかかる世の中ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T21:04:14",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T21:05:35",
+      "utterance": "だから仕事をしようとお考えだったのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T21:06:32",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T21:08:02",
+      "utterance": "ええ。あなたのその思いが、半年間お仕事探しをすることにつながっているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T21:08:31",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T21:09:20",
+      "utterance": "それはあなたの素敵なお気持ちだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T21:09:28",
+      "utterance": "ちなみに、ご両親とはお仕事のことでどんな会話をしているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T21:10:53",
+      "utterance": "どこが素敵ですか？気持ちだけあっても仕事が決まらない意味ないです。両親らあまり触れてこないし、私からも言わないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T21:13:42",
+      "utterance": "ええ。仕事は決まらないと生活費は賄えません。でも半年間もお仕事探しを続けられたのはあなたの強い気持ちの表れだと私は思いますよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T21:14:19",
+      "utterance": "ご両親とは特にお話していないのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T21:14:43",
+      "utterance": "でもその気持ちが切れてしまいました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T21:15:14",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T21:15:56",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T21:16:08",
+      "utterance": "それくらい、しんどい気持ちなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T21:17:23",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T21:18:16",
+      "utterance": "これまで何社くらい応募とか面接を受けてきたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T21:19:17",
+      "utterance": "10社くらいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T21:21:12",
+      "utterance": "そうなのですね。それほど受けるために体力や労力をたくさん使ったと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T21:21:23",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T21:22:32",
+      "utterance": "ここまでお話お聴きして、あなたがお仕事探しを頑張ってきたことや、それが報われず苦しい心境なことが伝わってきます。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T21:23:07",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T21:25:24",
+      "utterance": "頑張っても見つからないと言ってましたが、未来のことはわからないからこそ、今見つかっていないだけかもしれません。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T21:26:03",
+      "utterance": "わからない未来に期待することに疲れました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T21:27:07",
+      "utterance": "だからこそ、あなたなりのペースでゆっくり焦らず探していくのも一つかもしれませんね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T21:28:03",
+      "utterance": "頑張る余裕があったらまた探します"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T21:29:18",
+      "utterance": "ええ。まずは趣味や好きな時間を大切にしながら、少しづつエネルギーを貯めていくのも一つだと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T21:30:56",
+      "utterance": "趣味も好きな時間もないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T21:32:22",
+      "utterance": "そうなんですね。仕事を見つけることと同時に、そういった充実した日常を過ごせるようなことを探してみてくださいね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T21:32:44",
+      "utterance": "頑張れなくても、仕事が見つからなくてもあなたにはそんな単純なことでは推し量れない素敵な部分がたくさんあると思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T21:33:00",
+      "utterance": "そうだといいですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T21:33:03",
+      "utterance": "そんなあなたを心から応援しています。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T21:33:16",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T21:33:31",
+      "utterance": "お時間が来てしまいましたが、最後にご質問等ございますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T21:33:55",
+      "utterance": "ありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T21:34:03",
+      "utterance": "かしこまりました。それではこれで終了いたしますね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-07-21T21:34:23",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T21:34:53",
+      "utterance": "本日は大切なお話聴かせてくださりありがとうございました。あなたのこれからを応援しています。それでは失礼いたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T21:35:09",
+      "utterance": "（ロープレお疲れ様でした。お時間長引いてすみません。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-07-21T21:35:41",
+      "utterance": "（お手隙に評価頂けたら幸いです。よろしくお願いいたします。それでは終了いたします。ありがとうございました。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "仕事探しの困難感"
+  },
+  "review_by_client_jp": {
+    "評価ID": 5504,
+    "評価作成日時": "2023-07-21T21:54:00",
+    "クライアント役ID": 385,
+    "カウンセラー役ID": 136,
+    "点数": 32,
+    "聴いてもらえた、わかってもらえたと感じた": 1,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 1,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 1,
+    "今回の相談は価値があった": 1,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 1,
+    "肯定・承認": 1,
+    "的確な質問による会話の促進": 2,
+    "要約": 2,
+    "問題の明確化": 1,
+    "この相談での目標の明確化": 1,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 5504,
+    "evaluation_created_at": "2023-07-21T21:54:00",
+    "client_id": 385,
+    "counselor_id": 136,
+    "score": 32,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 2,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 1,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 1,
+    "provided_acknowledgment_and_affirmation": 1,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

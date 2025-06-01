@@ -1,0 +1,744 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-07-13T19:53:01",
+      "utterance": "（こんばんは。宜しくお願い致します）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T19:54:53",
+      "utterance": "（時間まで待機しております）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:00:54",
+      "utterance": "こんばんは。相談員です。お越し下さり、ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:01:35",
+      "utterance": "はじめに、年齢と性別をお伺いできますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:04:00",
+      "utterance": "いま、お話が出来る状況ではないでしょうか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:07:04",
+      "utterance": "しばらくお待ちしていますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:11:58",
+      "utterance": "大丈夫ですか？お身体の具合が悪いですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:13:19",
+      "utterance": "緊急事態ですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:16:29",
+      "utterance": "もし緊急事態発生だとしたら、110番、119番に通報できますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:17:40",
+      "utterance": "ご自身で通報が無理ならば、何かサインをお願いします！"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:18:58",
+      "utterance": "応答不能ですね？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:22:07",
+      "utterance": "いま、スマホ画面は見えますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:24:07",
+      "utterance": "スマホの画面ロックを外す画面で緊急通報出来ます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:24:47",
+      "utterance": "試して下さい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:26:13",
+      "utterance": "声は出ますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:26:16",
+      "utterance": "すいません。ちょっとバタバタしておりまして、対応出来ませんでした。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:26:37",
+      "utterance": "どうしましょうか?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:26:54",
+      "utterance": "いえいえ、緊急事態でなくて何よりです。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:26:59",
+      "utterance": "ロールプレイ開始されますか?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:27:12",
+      "utterance": "大変申し訳ありません"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:27:42",
+      "utterance": "お時間大丈夫でしょうか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:27:42",
+      "utterance": "もしご都合が悪くなければ、今から21：00までお願いできますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:27:51",
+      "utterance": "大丈夫です。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:28:21",
+      "utterance": "年齢と性別からいきますね。37歳女性です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:28:30",
+      "utterance": "こんばんは。相談員です。お越し下さりありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:28:55",
+      "utterance": "子供の事で相談です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:29:28",
+      "utterance": "お子さんのことでのご相談ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:29:36",
+      "utterance": "小6の息子がなかなか勉強しなくて困っています。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:30:18",
+      "utterance": "今日懇談でしたが、先生からも指摘されて、困っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:30:39",
+      "utterance": "それはお母さんとしてはご心配ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:30:57",
+      "utterance": "はい。どうしたら自分でやる気が出ますでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:31:18",
+      "utterance": "もともと頭が悪い子供ではないのですが。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:32:17",
+      "utterance": "4年生位から徐々に成績が悪くなって、塾も変えたりしているのですが、効果がありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:32:35",
+      "utterance": "息子さんにやる気を出させたい、頭が悪いわけではないと感じているとしたら、お母さんとしては勿体なく感じますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:32:41",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:33:09",
+      "utterance": "今、小6，というと"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:33:11",
+      "utterance": "何かいい方法はないでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:33:29",
+      "utterance": "はい。行き違いましたね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:33:47",
+      "utterance": "2年間ぐらいそのような状態であったということでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:34:36",
+      "utterance": "コロナで休校になったのをきっかけに、ゲームをし始めてからが特に。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:34:56",
+      "utterance": "お母さんにとってはしんどい2年間だったと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:35:02",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:35:09",
+      "utterance": "コロナについても、"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:35:18",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:35:35",
+      "utterance": "大人でさえ外出自粛のような状態でしたので、"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:35:44",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:36:13",
+      "utterance": "ゲームをして遊ぶのは無理もないとは思いますが、"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:36:22",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:36:52",
+      "utterance": "それが勉強のほうに悪影響を与えるとすると、お感じになるほどなのですね？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:37:21",
+      "utterance": "そうですね…。やればできる子なのですが。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:37:27",
+      "utterance": "やる気が出ないとお母さんが感じる前に、"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:37:39",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:37:59",
+      "utterance": "2年くらい前、何か変わったことは思い当たりますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:38:28",
+      "utterance": "やれば出来る子、というお子さんが"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:38:35",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:39:26",
+      "utterance": "急にやる気をなくしてしまった、という印象だったかどうか覚えておいでですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:40:23",
+      "utterance": "3年位に「学校の勉強が簡単過ぎて面白くない」と言い始め、難しめの進学塾に行かせた事があります。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:40:53",
+      "utterance": "塾選びを間違えたかと後悔しています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:41:13",
+      "utterance": "なるほど、そうでしたか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:41:51",
+      "utterance": "本人に任せ過ぎた所もあり、もう少ししっかり親が見てあげた方が良かったかと思う事もあります"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:42:01",
+      "utterance": "お母さんとしては今、息子さんが行っておいでの塾選びを間違えた気がしておられると。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:42:15",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:42:34",
+      "utterance": "きちんとしてあげればよかったと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:42:39",
+      "utterance": "また、同時にご本人に任せすぎたようなお気持ちもある、ということなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:42:44",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:43:02",
+      "utterance": "それでは、短い時間ではありますが、"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:43:02",
+      "utterance": "ついつい甘くなってしまう所があります"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:43:06",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:44:10",
+      "utterance": "今、息子さんもやる気が出ない状態ということが、自分でもしんどいのでは？と感じたので"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:44:39",
+      "utterance": "それはどういう所からですか?"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:45:06",
+      "utterance": "息子自身がしんどいという点です"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:45:34",
+      "utterance": "参考迄にお聞きしたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:46:47",
+      "utterance": "学校の成績が今までは良かったのに、急に難しくなったと感じているのでは？ということなどを今、考えております。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:46:59",
+      "utterance": "なるほど。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:47:16",
+      "utterance": "そして、お母さんも"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:47:20",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:48:01",
+      "utterance": "塾選びにもっと関わった方が良かったのでは？と思われているようでしたので、"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:48:11",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:49:04",
+      "utterance": "まず、お母さんが「こうしてあげたら良かったかも」というようなことを伺えたらと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:49:49",
+      "utterance": "その上で、息子さんと塾はどんな感じ？などと"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:50:29",
+      "utterance": "話をきいてみてはどうかと考えたのですが、如何ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:51:08",
+      "utterance": "そうですね。もともと息子が生まれた時、産後鬱がひどかったり、幼少期も義両親との同居で鬱になったりしていたので、見るべき時にみれなかったという自責があります"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:52:22",
+      "utterance": "塾に関しては今は楽しそうに通っていますが、友達がいるために集中できていないというのがあります"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:53:13",
+      "utterance": "何が息子にとって最適なのか、後悔したくないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:53:23",
+      "utterance": "今、お母さんも非常にお悩みで、息子さんの産後鬱と闘いながら子育てが充分に出来ていないとお感じなのですね？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:53:37",
+      "utterance": "行き違ってしまいました行き違ってしまいました"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:53:46",
+      "utterance": "大丈夫です。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:54:53",
+      "utterance": "今は鬱ではないですが、幼少期にちゃんとみてあげられなかった為に、色々出来ていない所も感じています。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:55:21",
+      "utterance": "姿勢が悪かったり、歯磨きがきちんと出来なかったり"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:55:35",
+      "utterance": "なるほど、そうでしたか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:55:51",
+      "utterance": "字も汚いし、なかなか言っても治らなくて"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:56:24",
+      "utterance": "私自身が1人でも出来ていたので、余計にそう思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:56:31",
+      "utterance": "お母さんはきちんと息子さんのことをかんさつしておいでなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:56:36",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:57:13",
+      "utterance": "それは、なかなか出来ることではありません。産後鬱という経緯はあったかも知れませんが、"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:57:19",
+      "utterance": "なので、焦ります。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:57:40",
+      "utterance": "はい。すいません行き違いましたね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:58:02",
+      "utterance": "焦るお気持ちは分かります。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:58:12",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T20:58:58",
+      "utterance": "お母さんは、みんな息子さんに一生懸命、よい子に育って欲しいとお思いですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:59:03",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T20:59:19",
+      "utterance": "皆さんそう思うと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T21:00:08",
+      "utterance": "まず、お母さん自身、何もかもご自分のせいだと思わないよう、少し見方を変えてみませんか？お嫌でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T21:00:30",
+      "utterance": "どう変えればいいでしょうか?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T21:01:11",
+      "utterance": "産後鬱になったのは、けしてお母さんが育児を怠ったのではなく、"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T21:01:20",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T21:01:49",
+      "utterance": "大事にしっかり子育てをなさろうとしていたからでは、と思うのです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T21:02:07",
+      "utterance": "そして、いま、息子さんに対して"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T21:02:21",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T21:02:54",
+      "utterance": "もっと関わった方が良かったのでは、とも思っておられますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T21:03:47",
+      "utterance": "産後鬱も病気のひとつと思って頂き、"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T21:04:15",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T21:04:17",
+      "utterance": "いまこうして、息子さんについてこれだけ真剣に悩まれているお気持ちで、"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T21:04:26",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T21:05:25",
+      "utterance": "完全にではなくとも、息子さんに対して最も大切な愛情が溢れていると感じたのです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T21:06:06",
+      "utterance": "焦らずに息子さんとお話をして頂いて、"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T21:06:26",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T21:06:48",
+      "utterance": "息子さんが何を今感じているかを聞いてあげることも、"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T21:07:26",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T21:07:46",
+      "utterance": "お母さんとして非常に素晴らしい在り方だと思うのですが、如何でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T21:08:02",
+      "utterance": "ありがとうございます。気持がちょっと軽くなりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T21:09:01",
+      "utterance": "お母さん自身が、病気で息子さんを充分に見てあげられなかったというお気持ちだけでも、素晴らしいと思うのです。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T21:09:23",
+      "utterance": "そうなんですか。後悔ばかりしてました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T21:10:07",
+      "utterance": "もちろんです、育児放棄をするお母さんがいる世の中で、"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T21:10:17",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T21:10:32",
+      "utterance": "息子さんのことをよく観察なさっていて、"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T21:10:51",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T21:11:11",
+      "utterance": "非常に悩んでいること自体が、息子さんをおもうからこそのお気持ちですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T21:11:37",
+      "utterance": "肝心なご相談が進まず、申し訳ありません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T21:12:28",
+      "utterance": "ご都合の良いときでかまいませんので、次回また、息子さんの事を一緒に考えて見ませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-13T21:13:47",
+      "utterance": "ありがとうございます。そうします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T21:14:30",
+      "utterance": "非常に大切なお話の途中申し訳ありませんが、終了時間となってしまいました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T21:15:45",
+      "utterance": "どうしてもこれは話したい、ということがありましたら、少しだけ時間延長できますが如何でしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T21:16:45",
+      "utterance": "終了のメッセージをお送りしても大丈夫ですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-13T21:18:30",
+      "utterance": "お忙しい中、お越し下さってありがとうございました。終了メッセージを送らせて頂きます。"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "子供の勉強のやる気に関する悩み"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3708,
+    "評価作成日時": "2022-07-13T21:55:00",
+    "クライアント役ID": 112,
+    "カウンセラー役ID": 273,
+    "点数": 88,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 5,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 5,
+    "一緒に考えながら取り組めた": 5,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 5,
+    "問題の明確化": 5,
+    "この相談での目標の明確化": 5,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 5,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3708,
+    "evaluation_created_at": "2022-07-13T21:55:00",
+    "client_id": 112,
+    "counselor_id": 273,
+    "score": 88,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 5,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

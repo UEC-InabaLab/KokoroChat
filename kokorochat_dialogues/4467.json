@@ -1,0 +1,439 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-01-19T19:51:35",
+      "utterance": "（こんばんは。相談員役です。本日はよろしくお願いいたします。時間になりましたら始めさせていただきます。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-19T19:56:21",
+      "utterance": "かしこまりました。よろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:00:16",
+      "utterance": "こんばんは。相談員です。ご相談にお越しいただきありがとうございます。はじめに年齢と性別、今日の相談内容を教えていただけますか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-19T20:02:26",
+      "utterance": "23才、男、ときどき自分はこれでいいのかな？と不安のような気持ちになります。どうしたらいいでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:02:52",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:03:28",
+      "utterance": "例えば、どのような時にそういう気持ちになるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-19T20:05:08",
+      "utterance": "明らかにこういう時って訳ではないですが、夜に考える・思ったりします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:06:36",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:06:54",
+      "utterance": "夜は眠れているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-19T20:07:18",
+      "utterance": "はい。眠れてます。"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-19T20:07:45",
+      "utterance": "寝る時に考える訳では無いです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:08:13",
+      "utterance": "そうでしたか。眠れているのなら少し安心しました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:09:44",
+      "utterance": "そうやって夜に考えたり、思ったりするのは、週にどのくらいあるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-19T20:10:39",
+      "utterance": "定期的に考える訳では無いです。本当に時々です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:11:27",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:12:34",
+      "utterance": "自分はこれでいいのかな？というと、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:13:29",
+      "utterance": "選択したことが正しいことか不安になる、という感じなのでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:13:47",
+      "utterance": "違っていたら、教えてくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-19T20:14:25",
+      "utterance": "いえ、自分の選択についてでは無いですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-19T20:15:22",
+      "utterance": "何と言うか、これからの事を考えて、これでいいのかな？という感じです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:16:00",
+      "utterance": "ええ。そのような感じなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:16:42",
+      "utterance": "例えば、どんなこれからの事を考えたりするのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-19T20:18:01",
+      "utterance": "具体的に考えるというより、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:18:23",
+      "utterance": "ええ、"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-19T20:19:16",
+      "utterance": "将来の事が不安、今のままでいいのかなと思ったりします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:20:53",
+      "utterance": "そうでしたか。具体的なことというよりも、将来の事が漠然と不安といった感じなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-19T20:21:20",
+      "utterance": "そうですね。そんな気持ちです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:22:18",
+      "utterance": "ええ。そうやって将来の事を考えると不安だったり、焦りが生じてしまいますね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-19T20:23:02",
+      "utterance": "ええ、落ち着かないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:24:10",
+      "utterance": "そうでしたか。不安や落ち着かない気持ちの中、何か今困っていることはあるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-19T20:24:55",
+      "utterance": "いえ、はっきりとした問題はないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:25:18",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:26:59",
+      "utterance": "今日の相談では、将来の事で感じている不安をなんとかしたい、具体的にできそうな事を考えていきたいなど、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:27:17",
+      "utterance": "どんなところで考えていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-19T20:29:04",
+      "utterance": "どんなところ、「どうしたいか？」と言う意味でしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:29:33",
+      "utterance": "はい。どうしたいとお考えでしたか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-19T20:31:56",
+      "utterance": "悩むのが嫌なので、それを解消出来ないかなと考えてます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:33:18",
+      "utterance": "お答えありがとうございます。大事な事ですので、そのためにできそうな事を一緒に考えていきましょうね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-19T20:33:40",
+      "utterance": "よろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:35:44",
+      "utterance": "ちなみに、自分はこれでいいのかな、今のままでいいのかなというのは、仕事とか、プライベートとか、どんなことに対して思ったりするのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-19T20:36:43",
+      "utterance": "多分仕事に対してだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:37:18",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:38:18",
+      "utterance": "ちなみに、お仕事は何をされているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-19T20:38:56",
+      "utterance": "公務員です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:40:00",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:42:11",
+      "utterance": "先ほど、今困っていることは、はっきりとした問題はないとのことでしたが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:43:39",
+      "utterance": "将来の事を考えた時、お仕事のことで、どんなことが不安だったり、落ち着かなく感じたりするのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-19T20:46:11",
+      "utterance": "仕事で不安を感じ訳では無いです。むしろ、何も感じ無いから、"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-19T20:46:43",
+      "utterance": "こんなのでいいのかなと気になってしまいます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:47:09",
+      "utterance": "そういうことだったんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:47:26",
+      "utterance": "教えてくださりありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:50:04",
+      "utterance": "何も感じ無いというのは、現状を楽しんでいたり、満足感を得ているからなのかなと思うのですが、どう思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-19T20:51:08",
+      "utterance": "そうですね。満足感はあまり無いかもしれません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:51:27",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:52:11",
+      "utterance": "では、あなたが悩んだり、不安に思ったりせずに済むためには、どんなことができそうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-19T20:54:11",
+      "utterance": "そうですね、何かした方がいいでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:55:53",
+      "utterance": "行動するのも一つですし、解釈を変えるのも一つかと思います。例えば、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:57:15",
+      "utterance": "不安に感じたら、自分がリラックスできるような「大丈夫」という言葉をかけたり、好きな音楽を聴いたり、好きな匂いを嗅いだり、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:58:42",
+      "utterance": "また不安というのはそもそも人間の防衛本能として備わっているので、「悪いことではない」と思うことで、感じるストレスも小さくなっていくと思いますよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:59:28",
+      "utterance": "あとは自分に合う合わないが出てくると思うので、合いそうなものを探してみてくださいね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T20:59:42",
+      "utterance": "参考になりそうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-19T21:00:24",
+      "utterance": "はい、ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T21:01:26",
+      "utterance": "将来の事を考えるのは、あなたがそれだけ将来の事を大事に思っているからこそだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T21:01:58",
+      "utterance": "そんなあなたを尊敬していますし、これからも応援させていただきます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T21:02:08",
+      "utterance": "最後にご質問等ございますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-19T21:02:31",
+      "utterance": "いえ、大丈夫です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T21:03:10",
+      "utterance": "承知しました。それではこれで終了いたしますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T21:03:25",
+      "utterance": "本日はありがとうございました。あなたのこれからを応援しております。"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-19T21:03:33",
+      "utterance": "はい、ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T21:03:44",
+      "utterance": "（ロープレお疲れ様でした。お時間長引いてすみません。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-19T21:04:11",
+      "utterance": "（お疲れさまでした。時間は大丈夫です。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-19T21:04:15",
+      "utterance": "（お手隙に評価頂けたら幸いです。よろしくお願いいたします。それでは終了いたします。ありがとうございました。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-19T21:04:47",
+      "utterance": "（こちらこそありがとうございました。大変勉強になりました。ありがとうございました。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-19T21:04:54",
+      "utterance": "（失礼します）"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "将来に対する漠然とした不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4467,
+    "評価作成日時": "2023-01-20T18:34:00",
+    "クライアント役ID": 302,
+    "カウンセラー役ID": 136,
+    "点数": 90,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 5,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 5,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 5,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 5,
+    "今回の相談は価値があった": 5,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 5,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 5,
+    "要約": 5,
+    "問題の明確化": 5,
+    "この相談での目標の明確化": 5,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4467,
+    "evaluation_created_at": "2023-01-20T18:34:00",
+    "client_id": 302,
+    "counselor_id": 136,
+    "score": 90,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 4,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

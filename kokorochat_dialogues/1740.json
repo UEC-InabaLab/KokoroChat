@@ -1,0 +1,629 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:00:07",
+      "utterance": "こんにちは相談員です。よろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:00:39",
+      "utterance": "はい、よろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:00:58",
+      "utterance": "最初に　年齢と性別を教えていただいてもいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:01:17",
+      "utterance": "16差　男子"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:01:39",
+      "utterance": "お返事ありがとうございます。今日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:01:54",
+      "utterance": "生きる意味って何ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:02:24",
+      "utterance": "教えてください"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:02:33",
+      "utterance": "なんでしょうね。そのことが気になっているんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:02:59",
+      "utterance": "生きる意味なんてあるの？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:03:25",
+      "utterance": "ご一緒に考えさせていただきます。どんなことから　生きる意味について考えることになったのでしょう？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:03:41",
+      "utterance": "べつに"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:04:09",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:04:39",
+      "utterance": "でも生きる意味って何？と考えてしまっているのですね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:05:17",
+      "utterance": "生きる意味って…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:06:23",
+      "utterance": "はい　お聞きしていますよ・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:07:01",
+      "utterance": "わからない・・・何をしても楽しくない無意味"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:07:48",
+      "utterance": "そうなんですね。どんなことをしてみたのですか・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:08:25",
+      "utterance": "何もしてない、部活もしてない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:08:54",
+      "utterance": "そうなんですね。ちなみに学年を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:09:16",
+      "utterance": "高2"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:09:30",
+      "utterance": "教えてくれてありがとう。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:10:01",
+      "utterance": "学校に行っても楽しいことがないと言う感じでしょうか…"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:10:21",
+      "utterance": "友だちもいない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:10:45",
+      "utterance": "そうなんですね。それは　寂しいですね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:12:37",
+      "utterance": "生きる意味って、ないよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:13:31",
+      "utterance": "どうかな・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:13:31",
+      "utterance": "もう行くのやめようかな…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:13:58",
+      "utterance": "学校に行くのやめようかなと考えているの？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:14:31",
+      "utterance": "やりたいこともわかんないし、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:14:47",
+      "utterance": "やめたって、誰も困らない…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:15:37",
+      "utterance": "そう思っているんだ・・・友達がいないと　言っていたけれど、学校に行くと　なにか嫌なことでもあるの？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:16:46",
+      "utterance": "話したいと思うやつもいない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:17:12",
+      "utterance": "そうなんだね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:17:35",
+      "utterance": "気の合いそうな人は学校にはいないんだ・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:17:57",
+      "utterance": "どうせ、誰も俺と話したくなんかない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:18:25",
+      "utterance": "どんなところから　そう思うのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:19:20",
+      "utterance": "誰とも話したことないから、ただ、暗い奴としか思われてない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:20:58",
+      "utterance": "そう　思ってしまうと　話しかけたりも　できにくくなってしまうよね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:21:52",
+      "utterance": "帰宅部だし、話題もない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:22:35",
+      "utterance": "そうか。いつごろから　そんな風になのかな・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:23:18",
+      "utterance": "むかしから・・ずっと"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:23:59",
+      "utterance": "そうなんだね。小学校とか　中学とか　でも？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:24:55",
+      "utterance": "小学生から、だんだん…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:25:05",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:26:15",
+      "utterance": "小学校に入りたての頃は　そうでもなかったのかな・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:26:38",
+      "utterance": "そうかもしれない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:27:30",
+      "utterance": "じゃあ　とても　長い間　一人でいた　と言う感じなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:28:27",
+      "utterance": "今は、誰とも付き合いもない"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:28:54",
+      "utterance": "生きる意味がわからない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:29:55",
+      "utterance": "長い事　誰とも付き合わないで　いてと　そういう気持ちになっているんですね・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:31:00",
+      "utterance": "誰も話し相手もいないと　とても　寂しいですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:31:56",
+      "utterance": "淋しいけど、慣れた"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:32:18",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:33:00",
+      "utterance": "ちなみに　おうちでは　どのように　過ごしているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:33:28",
+      "utterance": "一人で過ごしてる"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:33:41",
+      "utterance": "ご家族とかは？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:34:28",
+      "utterance": "母親"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:34:48",
+      "utterance": "そうなんですね。お母さんと二人暮らし？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:34:56",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:35:29",
+      "utterance": "お母さんとは　話したりするの？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:35:50",
+      "utterance": "あまり話さない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:36:45",
+      "utterance": "そうなんだ。お母さんは忙しいのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:37:32",
+      "utterance": "忙しいし、口数も少ないし、話すこともない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:38:19",
+      "utterance": "そうなんだね。ここまでの所　少し　お話を整理させていただいてもいいかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:38:27",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:38:38",
+      "utterance": "ありがとう。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:39:11",
+      "utterance": "小学校の頃からずうっと　一人だった。　友達も特におらず。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:39:48",
+      "utterance": "今は高２だけど、部活せず、帰宅部。学校では話したいと思う相手もいない。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:40:29",
+      "utterance": "家では　お母さんと二人暮らしだけれど、お母さんは忙しいし、特に話題もないので　ほとんど話さない。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:41:02",
+      "utterance": "ずうっと　一人で　生きてきたので、一人でいることに慣れてしまった。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:41:30",
+      "utterance": "特に　やりたいこともない。　生きている意味って何だろう？　と考えてしまう。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:41:42",
+      "utterance": "こんな理解でよいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:42:59",
+      "utterance": "そうだね。ホントに俺は、ひとりだから、消えたって、誰も困らないね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:43:36",
+      "utterance": "そこなんだけど、少しだけ私の感じたことを話してもいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:43:59",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:44:07",
+      "utterance": "ありがとう。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:44:31",
+      "utterance": "ちなみに　あなたは何とお呼びしたらいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:45:31",
+      "utterance": "山田でいいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:45:51",
+      "utterance": "山田さんですね。教えてくれてありがとう。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:46:16",
+      "utterance": "山田さんは、先ほど「一人でいることに慣れた」と言っていたと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:46:50",
+      "utterance": "私はそれを聞いて、山田さんは一人で生きていることで　強くなったんだな　と思いました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:48:00",
+      "utterance": "特に　話したい相手がいないから　話さない。それは　強い人の一つのスタイルだなとも思ったのですが・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:48:09",
+      "utterance": "いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:49:26",
+      "utterance": "スタイル・・・？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:49:49",
+      "utterance": "はい一つのスタイルだと　思いますよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:55:08",
+      "utterance": "山田さんは　これまでの生活の中で　一人でも大丈夫　というものを　身に着けてこられたという気がするのですが・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:56:33",
+      "utterance": "ご自分のそんなところを　大事にしていかれるというのも　一つだと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:56:49",
+      "utterance": "そういう風に考えればいいのか…でも、普通、友だちが多くて、はきはきしたやつの方がいいに決まってるよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:57:52",
+      "utterance": "人と付き合う　というのも　一つの生き方。人と付き合わない　というのも　一つの生き方だと私は思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:58:20",
+      "utterance": "どちらが　よくて　どちらが悪いということはないと私は思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:58:37",
+      "utterance": "その点では　自由になっていいのでは？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T10:59:26",
+      "utterance": "悪いってことじゃないの？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T10:59:45",
+      "utterance": "はい　私はそう思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T11:00:56",
+      "utterance": "山田さん、今日のご相談はそろそろ終わりにしなければならない時間になったのですが・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T11:00:56",
+      "utterance": "友だちが多くて、やりたいことでキラキラしている奴を見てると"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T11:01:09",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T11:01:14",
+      "utterance": "つぶされそうな気分になる"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T11:01:52",
+      "utterance": "そんな気持ちになってしまうんですね。それもすごくわかります。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T11:03:01",
+      "utterance": "そうじゃない奴、俺は、生きててもしょうがないと思ってた"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T11:03:43",
+      "utterance": "そういう人もいる、そうでない人もいるどちらも　ありと私は思っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T11:04:28",
+      "utterance": "山田さんの生き方も　ありです。もし、　山田さんがそれで行くなら　それを　応援していますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T11:05:09",
+      "utterance": "相談員さん、ありがとう"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T11:05:26",
+      "utterance": "気持が役になりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T11:05:27",
+      "utterance": "どういたしまして。山田さんを応援していますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T11:05:33",
+      "utterance": "楽に…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T11:05:43",
+      "utterance": "気が向いたらまた来てください。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T11:06:00",
+      "utterance": "では　今日の所はこの辺で終了でもよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T11:06:07",
+      "utterance": "はい、又聞いてほしいです。ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T11:06:35",
+      "utterance": "こちらこそ　いらしてくださりありがとうございます。では失礼いたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T11:07:52",
+      "utterance": "(お疲れさまでした）"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-28T11:08:12",
+      "utterance": "(大変良い学びの時間となりました。ありがとうございました)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-28T11:08:43",
+      "utterance": "こちらこそありがとうございます。（お疲れさまでした。失礼します。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "生きる意味についての悩み"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1740,
+    "評価作成日時": "2021-04-28T14:12:00",
+    "クライアント役ID": 108,
+    "カウンセラー役ID": 5,
+    "点数": 97,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 5,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 5,
+    "一緒に考えながら取り組めた": 5,
+    "やりとりのリズムがあっていた": 5,
+    "居心地のよいやりとりだった": 5,
+    "全体として適切でよかった": 5,
+    "今回の相談は価値があった": 5,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 5,
+    "要約": 3,
+    "問題の明確化": 5,
+    "この相談での目標の明確化": 5,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 5,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1740,
+    "evaluation_created_at": "2021-04-28T14:12:00",
+    "client_id": 108,
+    "counselor_id": 5,
+    "score": 97,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

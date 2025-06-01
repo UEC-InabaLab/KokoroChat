@@ -1,0 +1,639 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-01-28T14:51:13",
+      "utterance": "こんにちは。本日はよろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T14:56:25",
+      "utterance": "よろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T14:57:33",
+      "utterance": "もしご準備大丈夫なようでしたら始めさせていただきたいのですが、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T14:58:16",
+      "utterance": "お願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T14:58:34",
+      "utterance": "ありがとうございます。それでは始めさせていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T14:59:04",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T14:59:17",
+      "utterance": "こんにちは、相談員です。相談に入る前に年齢と性別を教えていただいてもよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:00:21",
+      "utterance": "30代 女性です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:00:31",
+      "utterance": "教えていただきありがとうございます。それでは本日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:01:46",
+      "utterance": "ペットについてのことです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:02:31",
+      "utterance": "ええ、そうなんですね。もしよろしければ詳しくお話しいただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:03:45",
+      "utterance": "ペットショップに行った時に飼う予定がなかったのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:04:08",
+      "utterance": "はい（聴いています。どうぞ続けてくださいね）"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:05:04",
+      "utterance": "通常のケースではなく離れた違う場所にいた犬がいて"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:05:16",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:05:52",
+      "utterance": "その子を見て子供が可哀想だから家族にしたいと言ってきました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:06:08",
+      "utterance": "けれど私は子供の"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:06:18",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:07:10",
+      "utterance": "普段の生活態度から犬のお世話は困難だと思ったので"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:07:43",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:08:31",
+      "utterance": "受け入れなかったのですが、自分で責任を持ってやると伝えてきたので"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:08:51",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:09:13",
+      "utterance": "子供のことを信じようと決め家族になったのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:09:46",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:09:59",
+      "utterance": "可愛がるだけでしつけをきちんとしないので私が参ってしまっています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:11:07",
+      "utterance": "ええ、そうでしたか。確かに家族が増えるのは楽しいことだけど、しつけがなっていないと生活を乱されることも多くなってきて大変ですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:11:43",
+      "utterance": "このことについてはお子さんとはどのようなお話をされたのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:11:47",
+      "utterance": "そうなのです..."
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:12:57",
+      "utterance": "可愛がるだけではなく犬にとっての気持ちを考えてあげることが大切だと思うと"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:13:07",
+      "utterance": "いう話をしてきました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:14:46",
+      "utterance": "ええ、もっと本質的に大切だと思う観点を伝えられたのですね。そういうことも含めて命のことについて考えていくことって大切ですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:15:04",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:15:11",
+      "utterance": "そのお話をしたとき、お子さんはどのように言っていましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:16:56",
+      "utterance": "言われていることが頭ではわかるのだけれど"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:17:07",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:17:58",
+      "utterance": "可愛がることや掃除をしてあげることは出来ても"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:18:14",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:18:47",
+      "utterance": "命の尊厳ということに実感として持てていないようです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:19:09",
+      "utterance": "過去に"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:19:21",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:20:02",
+      "utterance": "子供自身が選んだインコを飼っていた時に"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:20:19",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:20:55",
+      "utterance": "夜、寝る時に鳥かごにしまい忘れてしまい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:21:12",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:22:04",
+      "utterance": "自分の胸のとこで寝ていたインコを潰してしまい命を奪ってしまったと"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:22:32",
+      "utterance": "ええ、そんなことが・・・。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:22:38",
+      "utterance": "とても苦しんでいたにも関わらず"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:22:50",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:23:37",
+      "utterance": "自分がお世話すると決めた犬に対しての関わり方を見ていると"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:23:59",
+      "utterance": "わかっているように思えないのです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:24:40",
+      "utterance": "なるほどですね・・・。過去のことを踏まえると確かにそこは心配になってしまいますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:25:10",
+      "utterance": "はい普段は"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:25:54",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:26:12",
+      "utterance": "優しい子なのですが、何かあった時に受け止めることが出来ないとこがあります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:27:57",
+      "utterance": "ええ、そうでしたか・・・。そうですね、かわいがっていた命にもしものことがあったら、と思うとお子さんのことが心配ですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:28:44",
+      "utterance": "今までも"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:29:14",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:29:42",
+      "utterance": "注意して見てあげてるということを意識してやっていないので"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:30:08",
+      "utterance": "ええ、そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:30:50",
+      "utterance": "骨折させてしまったこともあるんです(男の子で元気なので)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:31:28",
+      "utterance": "ええ、そうでしたか。それは大変でしたね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:32:05",
+      "utterance": "では今回の相談は犬のしつけができていないことというよりは、命の尊厳についてお子さんにもっと意識をしてもらいたいということで大丈夫だったでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:32:20",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:33:05",
+      "utterance": "なによりお子さん自身が悲しい想いをしないように、大切さを分かってもらいたいということですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:34:12",
+      "utterance": "ちなみになんですが家族構成はどのような感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:34:21",
+      "utterance": "家族に迎えるなら責任感と守ってあげたいという気持ちを持ってもらいたいのです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:35:25",
+      "utterance": "主人と子供3人の5人家族のです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:35:32",
+      "utterance": "ええ、命を大切にするためにもそこは大切ですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:35:43",
+      "utterance": "教えていただきありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:36:18",
+      "utterance": "ではこのことについては夫さんとお話をされたことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:37:08",
+      "utterance": "はいよく話してきました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:38:17",
+      "utterance": "ええ、そうだったんですね。夫さんとはどのようなお話になったのでしょうあ？"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:39:38",
+      "utterance": "自分にとって可愛いという気持ちだけではなく"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:40:18",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:40:39",
+      "utterance": "犬の気持ちを大事にしてあげたいという主人も同じ思いでした。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:42:13",
+      "utterance": "ええ、そうでしたか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:43:14",
+      "utterance": "同じ思いで安心されましたよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:43:24",
+      "utterance": "ちなみに普段お子さんはその新しい家族のお世話はどのような感じでされているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:45:19",
+      "utterance": "ご飯はすすんであげていたり、触れ合いはよくしてるのですがお散歩に関しては"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:45:45",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:45:49",
+      "utterance": "自分の気分を優先してしまうようです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:46:17",
+      "utterance": "行ったりいかなかったり、という感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:47:07",
+      "utterance": "行ったり行かなかったりは可愛いそうなので私が声がけをしてます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:48:01",
+      "utterance": "ええ、なるほどですね。確かにそれは不憫に思いますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:48:16",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:48:29",
+      "utterance": "ここまでお話をお聞きして、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:50:25",
+      "utterance": "あなたはお子さんのことを信じたいという想いと、過去のインコを買っていた時のことを踏まえた今のお子さんの世話の仕方から、お子さんを信じきることができなくて苦しんでいるように感じたのですが、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:51:28",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:52:26",
+      "utterance": "ただ、お子さんが過去悲しんだことなども踏まえると、そうやって心配になってしまうのも無理はないと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:53:26",
+      "utterance": "お話をお聞きする限りお子さんはとてもやさしい心の持ち主だということはすごく伝わってきました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:54:59",
+      "utterance": "インコのことや離れたところにいた犬が気になったことなど、本質的には命を想いやる心があるように感じたのですが、それについてはどう感じていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T15:56:55",
+      "utterance": "そうですね。そういう思いを持てたことが優しさなのだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:57:17",
+      "utterance": "ええ、そうですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T15:58:52",
+      "utterance": "ですので、本人にとってはもしかすると辛いかもしれませんが、インコのことや初めにペットショップで犬を見かけたときの気持ちなどをお子さんに聞いてみて、そこから改めて命の大切さについて話をしてみてもいいのかなと思ったのですが、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T16:00:49",
+      "utterance": "それはとても良いと思います。私は今の接し方だけを見てしまったいたのだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T16:01:36",
+      "utterance": "しつけ、ということに注目するとそうなってしまうのは自然だと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T16:02:21",
+      "utterance": "はい..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T16:02:36",
+      "utterance": "ただ今回お話を聞かせていただいて、もっと深いところでお子さんへ伝えたいことがあるという事が分かったので、今回のような提案になったと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T16:03:23",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T16:03:47",
+      "utterance": "今日お話聴かせていただいた中で、お子さんのことや新しい家族のことについてとても思いやりを持っていらっしゃるのがすごく伝わっていました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T16:04:24",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T16:05:05",
+      "utterance": "旦那さんも同じ思いを持たれているということなので、ご家族みんなで今回のことについてお話しされてみるといいかもしれませんね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T16:05:28",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T16:05:41",
+      "utterance": "それでは今日お話ししたいことは話せた感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T16:05:57",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T16:06:16",
+      "utterance": "それは良かったです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T16:06:41",
+      "utterance": "それでは本日は大切なお話を聞かせていただきありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T16:06:57",
+      "utterance": "また何かありましたら遠慮なくお越しくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T16:07:06",
+      "utterance": "こちらこそありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T16:07:16",
+      "utterance": "はい！"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T16:07:30",
+      "utterance": "こちらこそお越しいただきありがとうございました。それでは失礼いたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T16:07:59",
+      "utterance": "それではRPも終了させていただくのですが大丈夫でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-28T16:08:13",
+      "utterance": "大丈夫です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-28T16:08:40",
+      "utterance": "はいそれではありがとうございました。お疲れさまでした。失礼いたします。"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "子供のペットに対する責任感の育成問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1263,
+    "評価作成日時": "2021-01-28T23:00:00",
+    "クライアント役ID": 133,
+    "カウンセラー役ID": 115,
+    "点数": 89,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 5,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 5,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 5,
+    "要約": 4,
+    "問題の明確化": 5,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1263,
+    "evaluation_created_at": "2021-01-28T23:00:00",
+    "client_id": 133,
+    "counselor_id": 115,
+    "score": 89,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

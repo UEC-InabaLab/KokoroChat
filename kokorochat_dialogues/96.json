@@ -1,0 +1,564 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:00:18",
+      "utterance": "こんばんは。相談員です。本日はよろしくお願い致します。"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:00:29",
+      "utterance": "よろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:00:36",
+      "utterance": "本日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:01:12",
+      "utterance": "はい、実は同居している母とのことでご相談です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:01:57",
+      "utterance": "そうなんですね。どのような状況なのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:03:24",
+      "utterance": "母は85歳で、認知症です。昔はしっかり者の母でしたが、最近は言ったことをすぐ忘れてしまいます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:06:43",
+      "utterance": "そうなんですね。お母さまのサポートをしていらっしゃるんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:08:59",
+      "utterance": "はい、そうなんです。認知症は病気なので仕方ないのですが、母はたまにイライラすると、夜中に台所でものを激しくぶつけるんです。その音が２階の私の部屋に響いて、とても怖いんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:09:00",
+      "utterance": "物忘れは気になりますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:09:41",
+      "utterance": "怖いですし心配になりますよね。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:10:27",
+      "utterance": "そのようなとき、あなたはどのようにされているんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:11:32",
+      "utterance": "何も手につかなくて、布団の中で音がおさまるのを待っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:12:37",
+      "utterance": "様子を見に行くのも怖いですよね。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:12:53",
+      "utterance": "そうなんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:13:11",
+      "utterance": "そのようなお母さまの行動はどのくらいの頻度で起きていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:14:16",
+      "utterance": "昔はよくありましたが、最近は2ヶ月に1回くらいでしょうか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:14:39",
+      "utterance": "以前より落ち着いてきているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:14:52",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:16:32",
+      "utterance": "お母さまがイライラしてそうなる、とのことでしたが、その日にはどのような出来事があったとか、お母さまの様子はいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:19:50",
+      "utterance": "いつもと違うことだと、私が夕飯の母の食器を洗って、ご飯のついた茶碗だけ、洗い桶に浸けておいたことかな。普段は母の食器は全て洗わないようにしています。夕飯を食べていないというから。"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:21:16",
+      "utterance": "理由は思い当たりません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:22:15",
+      "utterance": "お母さまの食事後の食器を全部洗わずに敢えて残しておいているということで合っていますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:23:00",
+      "utterance": "思い当たることがないとびっくりしてしまいますよね。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:23:14",
+      "utterance": "合っています。母は食器の洗い片付けは出来るから。"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:24:37",
+      "utterance": "昔からイライラすると、物に当たることで、家族に八つ当たりしていました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:25:23",
+      "utterance": "普段はお母さまご自身で食器の片付けをするけれども、あなたが食器の片づけをした日にお母さまの例の行動が起きたということですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:25:58",
+      "utterance": "それが原因かどうかは、確認していません。"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:26:40",
+      "utterance": "ですが、その日で間違いないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:26:47",
+      "utterance": "そうなのですね。ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:27:15",
+      "utterance": "昔からそのようなことはあったのですね。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:27:30",
+      "utterance": "はい、しょっちゅうでした。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:28:10",
+      "utterance": "怖い思いをされてきたのですね。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:28:35",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:29:09",
+      "utterance": "しょっちゅうだった、というのは大体いつ頃のお話ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:30:24",
+      "utterance": "1年位前まででしょうか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:30:50",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:31:44",
+      "utterance": "それから急に認知症がひどくなってきて、少し穏やかになってきました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:32:14",
+      "utterance": "そういうことなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:33:05",
+      "utterance": "先ほどお母さまはイライラすると八つ当たりをする、とのことでしたが、他にはどのような行動をされていらっしゃったんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:35:09",
+      "utterance": "気になる行動はそれくらいです。私への対応は、支配的でした。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:36:38",
+      "utterance": "そういう態度だったのですね。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:37:22",
+      "utterance": "私の家が全て引き戸の部屋なので、支配しやすかったと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:37:48",
+      "utterance": "そういうことだったのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:38:15",
+      "utterance": "支配的、というのはどのような感じだったのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:39:55",
+      "utterance": "嘘は絶対NG。少しでも仕事が遅くなると、会社に電話かけてくる。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:41:08",
+      "utterance": "社会人になっても・・それは息苦しかったですね。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:41:41",
+      "utterance": "それはいつ頃からこのような感じだったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:42:20",
+      "utterance": "中学生の頃からです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:43:04",
+      "utterance": "中学生から１年ほど前まで。。ちなみにあなたは今おいくつでいらっしゃいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:44:00",
+      "utterance": "59歳です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:44:29",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:44:43",
+      "utterance": "ずっと一緒というわけではありませんが。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:45:50",
+      "utterance": "そうなのですね。お母様とはどのくらいの期間離れてお過ごしだったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:46:49",
+      "utterance": "20年位かな。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:47:08",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:47:31",
+      "utterance": "どのようなきっかけで再びお母さまと一緒に暮らすことになったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:47:53",
+      "utterance": "離婚しました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:48:30",
+      "utterance": "そうだったのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:49:03",
+      "utterance": "ご実家に帰られてからのお母さまの様子はどのような感じだったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:50:07",
+      "utterance": "いろいろあって、ハッキリ覚えていません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:50:50",
+      "utterance": "覚えきれないほどたくさんのことがあったんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:51:46",
+      "utterance": "思い出したくないのかも。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:52:10",
+      "utterance": "そういうこともありますよね。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:54:14",
+      "utterance": "その時も、母とは仲が良くなかったです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:54:30",
+      "utterance": "そうだったのですね。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:55:01",
+      "utterance": "お母様のことで、どなたかにご相談されたことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:55:18",
+      "utterance": "はい、あります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:55:48",
+      "utterance": "どなたにご相談されたかお伺いできますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:56:34",
+      "utterance": "精神科に行って話してみました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:56:44",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T20:57:05",
+      "utterance": "そのときはどのようなお話をされましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T20:59:18",
+      "utterance": "過保護、過干渉で支配されている。「周囲の人に話しても、あんたのことなんか誰も信用しないよ」と言われたことなどを話しました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:00:03",
+      "utterance": "そうだったのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:00:25",
+      "utterance": "過保護、過干渉ということを聞いてどのようにお感じになりましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T21:01:13",
+      "utterance": "すみません、それは、私が先生に説明した言葉です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:01:39",
+      "utterance": "あ！失礼しました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:02:03",
+      "utterance": "それをお話ししてみて、先生はどのようなお話をされましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T21:03:01",
+      "utterance": "聞いてはくれましたが、特にこれということもなく、お薬を出してくれました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:03:37",
+      "utterance": "そうだったのですね。なんとなくすっきりしないですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T21:03:52",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:05:11",
+      "utterance": "すみません、もう時間がきてしまいました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:05:47",
+      "utterance": "ここまでのお話をまとめさせていただいて本日は終了させて頂きたいと思いますが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:06:05",
+      "utterance": "あと５分ほどお時間よろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T21:06:27",
+      "utterance": "はい、大丈夫です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:06:36",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:07:21",
+      "utterance": "現在認知症のお母さまと一緒に住んでいらして、夜中にイライラして物に当たるお母様が怖い"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:08:13",
+      "utterance": "１年ほど前まではしょっちゅうだったが、頻度が減ったと同時に認知症が進行した"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:08:49",
+      "utterance": "お母様はあなたが中学生の頃から支配的な態度だった"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:09:43",
+      "utterance": "嘘は絶対にNGで、仕事が少しでも遅くなると会社に電話がかかってきていた"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:10:56",
+      "utterance": "あなたが実家に戻ったときにはお母さまとは色々ありすぎて、その頃のことは思い出したくないのかもしれない"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:11:34",
+      "utterance": "精神科にお母さまのことを相談し、母が過保護・過干渉であることを伝えたが"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:11:59",
+      "utterance": "これといったことはなく薬を処方された"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:12:07",
+      "utterance": "ここまででよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T21:12:22",
+      "utterance": "はい、ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:12:44",
+      "utterance": "おしてしまって申し訳ありません。"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T21:12:55",
+      "utterance": "大丈夫です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:13:17",
+      "utterance": "この続きはまたお聞かせくださいね。本日はありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2020-06-28T21:13:31",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-06-28T21:13:38",
+      "utterance": "ロールプレイを終了致します。"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "母との支配的な関係によるストレス"
+  },
+  "review_by_client_jp": {
+    "評価ID": 96,
+    "評価作成日時": "2020-06-29T10:12:00",
+    "クライアント役ID": 49,
+    "カウンセラー役ID": 48,
+    "点数": 48,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 96,
+    "evaluation_created_at": "2020-06-29T10:12:00",
+    "client_id": 49,
+    "counselor_id": 48,
+    "score": 48,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

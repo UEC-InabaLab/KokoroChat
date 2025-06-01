@@ -1,0 +1,559 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-11-23T14:21:26",
+      "utterance": "本日はよろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T14:23:33",
+      "utterance": "よろしくお願い致します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T14:24:45",
+      "utterance": "お時間になりましたら始めさせて頂きます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T14:30:17",
+      "utterance": "こんにちは相談員です。本日はお越し頂きありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T14:30:36",
+      "utterance": "はじめにあなたの年齢と性別をお聞かせいただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T14:31:25",
+      "utterance": "65歳、女です。今日はよろしくお願い致します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T14:31:45",
+      "utterance": "ありがとうございます。本日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T14:32:48",
+      "utterance": "主人が3年前倒れまして、身障者になりました。毎日介護で疲れてます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T14:33:27",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T14:33:36",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T14:33:59",
+      "utterance": "突然介護をする事となって、お辛い事も多いと思われます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T14:34:26",
+      "utterance": "介護認定は、取られておりますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T14:36:02",
+      "utterance": "それは3年前に手続きはやってますよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T14:36:14",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T14:36:19",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T14:37:17",
+      "utterance": "運転免許も返納して、どこも行けれませんし、毎日主人の介護で一日が終わるんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T14:37:20",
+      "utterance": "全てにおいて大変だとは思うのですが、介護されてて一番負担になっている事はなんでしたでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T14:38:05",
+      "utterance": "今程お伝えした事です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T14:38:25",
+      "utterance": "そうなのですね。行き違いになり、申し訳ございません。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T14:38:48",
+      "utterance": "いえ、大丈夫です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T14:39:59",
+      "utterance": "運転免許返納されたと言う事でしたら、気分転換に車で少し出る事とかも出来ませんもんね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T14:40:49",
+      "utterance": "ホームヘルパーは、利用されておりますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T14:41:07",
+      "utterance": "そうですね。娘と孫が変わりに運転してくれるのですが、そういつもかも頼るわけにもいきませんし。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T14:41:31",
+      "utterance": "おっしゃる通りですね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T14:42:47",
+      "utterance": "運転してくれると言う事は、娘さんはお近くにお住まいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T14:42:56",
+      "utterance": "介護保険内ではデイケアと訪問リハビリと介護用具でヘルパーさんまでの枠はないとケアマネさんから言われてます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T14:43:23",
+      "utterance": "そうなのですね…"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T14:43:50",
+      "utterance": "一緒に住んでます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T14:45:00",
+      "utterance": "では介護時間が、必然的に長くなってしまいますね…娘さんは、日中働かれていらっしゃいますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T14:46:31",
+      "utterance": "娘は日中はいますが夜の仕事で、昼夜逆転です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T14:46:52",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T14:46:56",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T14:47:36",
+      "utterance": "ずっと介護をされているとお身体も心の面も心配なのですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T14:48:18",
+      "utterance": "娘さんにも、時折介護のお手伝いをして頂くこともありますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T14:49:04",
+      "utterance": "主人が元気な時は、旅行とか行ってましたが、もう行けないし、このまま私も面倒を見て死んでいくのかと思ってしまいます。ありますよ、入院中は本当に世話になりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T14:49:29",
+      "utterance": "そうなんですね。お優しい娘さんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T14:50:10",
+      "utterance": "６５歳でしたら、まだやりたい事もたくさんやれる年齢だと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T14:50:16",
+      "utterance": "今は、3年程経過してますので、主人の状態もその時よりは、ましになりまして、"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T14:50:29",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T14:51:25",
+      "utterance": "そうなんですね！今は、できる事が増えられたのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T14:52:42",
+      "utterance": "すみません。できる事が増えたとは、一体、何の事でしょうか、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T14:53:48",
+      "utterance": "ご主人の状態が少し良くなられたとお聞きしましたので、ご質問をいたしました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T14:54:23",
+      "utterance": "そうだったんですか。わかりました、ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T14:54:39",
+      "utterance": "言葉足らずで、申し訳ございませんでした。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T14:55:18",
+      "utterance": "良くなったといっても、後遺症は治りませんから、入院中に比べたらですけどね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T14:56:28",
+      "utterance": "少し良くなられたのだとお聞きして、少し私も嬉くなったもので…そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T14:57:14",
+      "utterance": "旦那様は、お話することは出来ますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T14:57:39",
+      "utterance": "会話できますよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T14:58:24",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T14:59:05",
+      "utterance": "では、コミュニュケーションは取れるのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T15:00:02",
+      "utterance": "旦那様は、介護されている事について何か言われていたりしますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T15:00:28",
+      "utterance": "3年前に脳出血で倒れまして、片麻痺なんですね、寝たきりというよりも、コミュニケーションはとれますが、脳出血の後遺症で病気前よりは言葉は低下してます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T15:01:13",
+      "utterance": "そうなのですね。ご本人様もお辛いですね…"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T15:01:36",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T15:02:14",
+      "utterance": "では、歩行はお一人でも大丈夫でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T15:03:52",
+      "utterance": "一応大丈夫ですが、杖ですので転倒注意のため、介助が必要なときもあります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T15:04:21",
+      "utterance": "そうなのですね。それは、ご心配ですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T15:04:26",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T15:05:08",
+      "utterance": "なので、毎日が介護で終わり、疲れるんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T15:05:25",
+      "utterance": "そうですよね…"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T15:06:01",
+      "utterance": "やはり、自分の時間や自由の時間が、欲しいですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T15:06:13",
+      "utterance": "心がまいってしまう前に、是非気分転換を考えられて欲しいと思うのです…"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T15:06:50",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T15:06:57",
+      "utterance": "娘さんがお休みの時、少し旦那さんを見てもらう事も出来ますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T15:07:32",
+      "utterance": "できると思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T15:07:51",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T15:07:58",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T15:09:11",
+      "utterance": "では是非娘さんに甘えて頂き、お自分の気分転換をめいいっぱいされてください！"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T15:09:53",
+      "utterance": "後お話をお聞きしてて思ったのですが、"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T15:09:55",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T15:11:32",
+      "utterance": "旅行がお好きだったと聞いたので、来年１月〜またｇｏtoキャンペーンが始まると聞きました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T15:12:19",
+      "utterance": "主人をおいて私だけ旅行にはいけません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T15:12:57",
+      "utterance": "娘さんのお休みの日にでも、旦那さんもご一緒に、せっかくお安くいける機会なので、近くの旅館や民宿で美味しいお料理でもと思いました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T15:13:58",
+      "utterance": "ありがとうございます。お気持ちはうれしいのですが、片麻痺ですから、なかなか難しいんですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T15:14:17",
+      "utterance": "行けたら、本当、どれだけうれしいか、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T15:14:40",
+      "utterance": "そうなのですね…軽はずみな提案で、申し訳ございませんでした。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T15:15:18",
+      "utterance": "旅行好きでしたら、本当にそう思いますよね…"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T15:15:38",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T15:16:08",
+      "utterance": "でも、今の現状を受け止めないといけませんので。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T15:17:49",
+      "utterance": "そうですね…でも相談者様の心もとても大切ですので、疲弊しないように娘さんにもご協力を是非仰いでください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T15:18:09",
+      "utterance": "はい、ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T15:19:17",
+      "utterance": "今日はお話をされて、少しでも心を癒せる事ができましたでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T15:20:23",
+      "utterance": "どうでしょうか、わかりませんが、色々とお話を聞いて頂き、ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T15:21:09",
+      "utterance": "そうですね…介護は本当に大変だと思われます…"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T15:21:15",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T15:21:55",
+      "utterance": "でも相談者様もまだお若いので、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T15:22:57",
+      "utterance": "ご自分のしたい事も、旦那様の様子を見ながら諦めないようにして下さい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T15:24:53",
+      "utterance": "そろそろお時間なのでここまでとさせて頂きますが、大丈夫でしたでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T15:25:22",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T15:26:18",
+      "utterance": "またストレスが溜まってきましたら、いつでもご相談にいらっしゃってください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T15:26:30",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T15:27:10",
+      "utterance": "ありがとうございました。寒さも厳しくなってきましたので、ご家族共に体調を崩さないようご自愛ください。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T15:27:30",
+      "utterance": "それでは、これで失礼いたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T15:28:02",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T15:28:20",
+      "utterance": "（本日は、クライアント役ありがとうございました。）"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T15:28:46",
+      "utterance": "こちらこそ、ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T15:29:21",
+      "utterance": "いろいろご指導のほど、よろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T15:29:37",
+      "utterance": "では、失礼いたします。"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "介護疲れと家族のサポート不足"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2756,
+    "評価作成日時": "2021-11-23T15:53:00",
+    "クライアント役ID": 241,
+    "カウンセラー役ID": 238,
+    "点数": 57,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2756,
+    "evaluation_created_at": "2021-11-23T15:53:00",
+    "client_id": 241,
+    "counselor_id": 238,
+    "score": 57,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

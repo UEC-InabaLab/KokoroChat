@@ -1,0 +1,464 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-05-01T12:00:06",
+      "utterance": "こんにちは、相談員です。宜しくお願いします。初めに、年齢、性別、相談内容をお聞かせください。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:00:19",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:00:29",
+      "utterance": "23歳"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:00:34",
+      "utterance": "男"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:00:39",
+      "utterance": "です"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-01T12:03:12",
+      "utterance": "ありがとうございます。では、ご相談内容をお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:04:10",
+      "utterance": "今つらいのでもう楽になりたいと思っています"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-01T12:05:28",
+      "utterance": "今がお辛いとのことですね。いつ頃からそう思われているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:06:16",
+      "utterance": "去年の夏くらいからです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-01T12:07:44",
+      "utterance": "それは長い間お辛い気持ちをかかえて苦しいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:08:02",
+      "utterance": "はう"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:08:06",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-01T12:08:29",
+      "utterance": "去年の夏からとのことですが、何かきっかけがあったのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:10:19",
+      "utterance": "大学を卒業して就職した会社を辞めて、それから家にずっといるので"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:11:08",
+      "utterance": "それからどんどんつらくなっています"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-01T12:12:46",
+      "utterance": "そうでしたか、、宜しかったらお仕事をお辞めになった理由お聞きしたもよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:14:35",
+      "utterance": "仕事は…大きな理由とかはないです。自分に合わないと思ったので"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-01T12:16:20",
+      "utterance": "そうでしたか、合わないと思ったのはどんなところでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:17:33",
+      "utterance": "会社に勤めること自体向いていないのかもしれません"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:18:27",
+      "utterance": "自分なんて専門的な知識もないし、どうせ何もできない"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-01T12:19:39",
+      "utterance": "会社に勤めるのが向いていないのかもしれないと思った出来事などがあったのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:20:52",
+      "utterance": "話、そのことでなくていいですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-01T12:24:46",
+      "utterance": "失礼しました。では、このことを他に相談されている方はいらっしゃいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:25:18",
+      "utterance": "いえいないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-01T12:26:15",
+      "utterance": "今までお一人で我慢してきたのですね、、辛かったですよね"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:27:00",
+      "utterance": "我慢していたんでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:27:11",
+      "utterance": "つらいのはつらいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-01T12:27:47",
+      "utterance": "今の体調面はどうでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:28:09",
+      "utterance": "あまり良くないです頭が痛いことがよくあります"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-01T12:29:27",
+      "utterance": "眠れてはいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:31:11",
+      "utterance": "あまりよく眠れていないですなかなか眠れなくて、朝までということもあります"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-01T12:33:36",
+      "utterance": "眠れずに、頭も痛くて苦しいですよね。では、あなたが今何が一番つらいですか？例えば、眠れずに頭が痛い体調面でしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:33:45",
+      "utterance": "いえ"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-01T12:34:30",
+      "utterance": "何が一番つらいと感じていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:34:33",
+      "utterance": "自分が何もできない価値のない人間的だということがつらいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-01T12:35:54",
+      "utterance": "何もできずに価値がないと思われているのですね、、"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:36:38",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-01T12:37:12",
+      "utterance": "では、そのような思いが少しでも忘れらるときは何をしている時ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:37:37",
+      "utterance": "そういう時はないです。ずっとひきこもっているので"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-01T12:38:41",
+      "utterance": "そうでしたか、お家は安心できる場所にはなっていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:41:20",
+      "utterance": "家は…親と顔をあわせたくないので基本ずっと自分の部屋にいます自分の部屋は安心できるわけでもないけれど、外はこわいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-01T12:43:14",
+      "utterance": "そうなんですね、外が怖いと思われて部屋にいるんですね。親にあったら何か言われるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:43:31",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:43:47",
+      "utterance": "親は顔をあわすとそろそろ働けと"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-01T12:44:14",
+      "utterance": "それは、嫌なお気持ちになりますよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:44:23",
+      "utterance": "働けないのにそう言われるの本当に嫌です"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-01T12:45:05",
+      "utterance": "今までお話を聞いてあなたは今は人生の中の休憩する時間だと思いました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-01T12:45:43",
+      "utterance": "そんな時にこのようなこと言われると本当に嫌になりますよね"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:46:13",
+      "utterance": "はい　それなので親とは顔をあわさないようにしています"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-01T12:47:17",
+      "utterance": "今はそのような行動をとるのは自然なことだとおもいます。では、あなたはこれからどうなりたいと考えていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:47:33",
+      "utterance": "もう楽になりたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-01T12:47:58",
+      "utterance": "あなたの楽というのはどんなことですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:48:12",
+      "utterance": "消えてしまいたいと思うようになりました"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:48:36",
+      "utterance": "ただ親に迷惑はかけたくないので"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-01T12:48:46",
+      "utterance": "そうですか、消えたいくらいお辛いということですね"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:49:06",
+      "utterance": "消えてしまえば楽になれると思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-01T12:49:19",
+      "utterance": "ちなみに、消えようと考えて行動に移したことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:49:51",
+      "utterance": "ネットで調べたりしています"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-01T12:50:52",
+      "utterance": "調べている時はどんなお気持ちですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:53:39",
+      "utterance": "どうすれば迷惑をかけずに消えてしまえるかという気持ちですあと奨学金の返済が残っているのがきになります"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-01T12:55:13",
+      "utterance": "そうですか、先ほどもありました親には迷惑をかけたくないということが、奨学金の返済にもつながっていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:55:45",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-01T12:56:16",
+      "utterance": "あなたにとって親はどんな存在ですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-01T12:58:15",
+      "utterance": "そろそろ働けばと言われることが嫌というのは、一番わかってもらいたい存在なんだと思いましたが、いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:58:32",
+      "utterance": "よくわかりません"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:59:05",
+      "utterance": "育ててもらった恩はあるし"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-01T12:59:15",
+      "utterance": "今のあなたのお気持ちを誰に一番わかってもらいたいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:59:40",
+      "utterance": "わかりません"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T12:59:47",
+      "utterance": "思いつかないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-01T13:00:07",
+      "utterance": "そうでしたか、育ててもらった音があり、親を大切に思われているのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-01T13:00:42",
+      "utterance": "すみません、今日はお時間ですが、ここまで話していかがでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T13:02:17",
+      "utterance": "楽になれる方法を教えてほしかったです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-01T13:03:19",
+      "utterance": "では、後日楽になるためにまたお話を聞かせてください。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T13:03:32",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T13:03:50",
+      "utterance": "（本日はありがとうございました）"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-01T13:04:04",
+      "utterance": "本日は大切な思いを話してくれてありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-01T13:04:35",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-01T13:05:44",
+      "utterance": "（すみません、力不足で、よかったらどこに本質があったか振るかえりで聞けたら嬉しいです）"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-01T13:07:03",
+      "utterance": "失礼します"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "自己価値の低下と生きる意味の喪失"
+  },
+  "review_by_client_jp": {
+    "評価ID": 6806,
+    "評価作成日時": "2024-05-01T14:09:00",
+    "クライアント役ID": 485,
+    "カウンセラー役ID": 443,
+    "点数": 70,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 3,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 3,
+    "要約": 4,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 6806,
+    "evaluation_created_at": "2024-05-01T14:09:00",
+    "client_id": 485,
+    "counselor_id": 443,
+    "score": 70,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

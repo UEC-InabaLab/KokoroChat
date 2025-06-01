@@ -1,0 +1,599 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-10-26T19:21:33",
+      "utterance": "(こんばんは。本日はよろしくお願いいたします。時間になりましたら始めさせていただきますね。）"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T19:21:59",
+      "utterance": "（ありがとうございます。承知しました。よろしくお願い致します。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T19:30:10",
+      "utterance": "こんばんは。相談員です。本日はお越しいただきありがとうございます。まずはじめに、年齢、性別、相談内容を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T19:30:36",
+      "utterance": "18歳　学生周りの目が気になる"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T19:30:58",
+      "utterance": "教えてくださってありがとうございます。周りの目が気になるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T19:31:06",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T19:31:25",
+      "utterance": "どんな時に周りの目が気になるなと思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T19:31:33",
+      "utterance": "いつもです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T19:31:53",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T19:32:43",
+      "utterance": "ちなみに、いま何年生か教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T19:33:01",
+      "utterance": "1年生"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T19:33:10",
+      "utterance": "大学生です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T19:33:32",
+      "utterance": "教えてくださってありがとうございます。大学1年生なのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T19:33:44",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T19:33:50",
+      "utterance": "周りの目が気になり始めたのは、いつごろからですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T19:34:00",
+      "utterance": "中学生ぐらい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T19:35:16",
+      "utterance": "そんなに前から気にされていたのですね。周りの目が気になってしまうと、しんどいことも多いと想像できますが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T19:35:54",
+      "utterance": "周りの目が気になってしまうことで、どんなことに悩んでいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T19:36:24",
+      "utterance": "よくわからないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T19:37:09",
+      "utterance": "そうなのですね。周りを気にしている時に、あなたはどんなお気持ちになりますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T19:38:00",
+      "utterance": "つらいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T19:38:17",
+      "utterance": "お辛いんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T19:39:44",
+      "utterance": "そうですよね。周りを気にしてしまうと、びくびくしてしまってつらいこともあるのかなと想像しました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T19:39:55",
+      "utterance": "はい、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T19:40:39",
+      "utterance": "周りの目が気になるときは、自分と周りを比べてしまったりして辛くなるのでしょうか？何がつらいなと感じますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T19:41:51",
+      "utterance": "評価される感じ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T19:42:25",
+      "utterance": "なるほど、評価される感じがしてつらいのですね、、。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T19:43:39",
+      "utterance": "周りが自分のことをどう思ってるんだろうと常々考えてしまうと、身動きがとれなくなってしまいますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T19:44:20",
+      "utterance": "はい、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T19:45:20",
+      "utterance": "それは、つらいですよね、、。周りの目が気になり始めたきっかけは何かありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T19:46:46",
+      "utterance": "中学より高校に入ってからひどくなった"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T19:47:44",
+      "utterance": "そうだったのですか。どうして高校に入ってからひどくなったか、思いあたることはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T19:49:03",
+      "utterance": "先生から"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T19:49:13",
+      "utterance": "容姿について言われた"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T19:49:44",
+      "utterance": "ええ。容姿について、、そうだったのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T19:50:00",
+      "utterance": "みんなの前で"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T19:50:11",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T19:50:22",
+      "utterance": "嫌だった"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T19:50:51",
+      "utterance": "みんなの前で、容姿のことについて言われて、嫌な思いをされることがあったのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T19:51:14",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T19:51:50",
+      "utterance": "お話しできる範囲で大丈夫なので、どんなことを言われたのか教えていただくことはできますか？言いたくなければ、無理しないでくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T19:53:07",
+      "utterance": "あんまり言いたくない"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T19:53:42",
+      "utterance": "そうですよね。それほど、あなたにとって嫌なことだったのですよね。答えてくださってありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T19:54:23",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T19:54:30",
+      "utterance": "そんなことがあって、周りにどう評価されているかが気になってしかたなくなってしまったのですね、、。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T19:55:00",
+      "utterance": "親もできてないことを責めてくる"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T19:55:16",
+      "utterance": "ええ。そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T19:55:47",
+      "utterance": "ちなみに、できてないこと、というのはどういったことですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T19:56:11",
+      "utterance": "家事が時間で終わらない時"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T19:57:21",
+      "utterance": "そんなときに、責められるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T19:57:31",
+      "utterance": "はい、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T19:57:59",
+      "utterance": "それも、しんどいお気持ちになりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T19:58:24",
+      "utterance": "いつも怒られる"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T19:58:53",
+      "utterance": "そうでしたか、、。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T19:59:37",
+      "utterance": "ちなみに、家事は、何か分担等であなたがやることが決められているような感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T19:59:55",
+      "utterance": "中学から自分がしています"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T20:01:17",
+      "utterance": "中学からされているのですか。それは、大変な思いをされたことがたくさんおありだったんだろうなと想像できます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T20:01:56",
+      "utterance": "家事はほとんどあなたがされていらっしゃるのですか？割合的にはどんな感じでしょう？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T20:02:50",
+      "utterance": "夜ご飯と洗い物と、洗濯。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T20:03:57",
+      "utterance": "そういった家事をされていらっしゃるのですね。それができていないと親御さんに責められるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T20:04:20",
+      "utterance": "時間で終わらないと言われます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T20:05:24",
+      "utterance": "そうなのですね。念のために確認させていただきたいのですが、時間で終わらないと、というのは時間が決められていてその時間内に終わらないと、という認識で合っていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T20:07:20",
+      "utterance": "はい、そうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T20:07:48",
+      "utterance": "わかりました。ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T20:08:52",
+      "utterance": "時間内に終わらず、そういう風に親御さんに怒られると、あなたはどんなお気持ちになりますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T20:09:14",
+      "utterance": "私が悪いと思いました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T20:09:34",
+      "utterance": "そんな風に思われているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T20:10:37",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T20:11:16",
+      "utterance": "親御さんに怒られて、自分が悪いと自分を責めることが続くと、つらくなってきてしまうのかなと思ったのですが、いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T20:12:13",
+      "utterance": "よくわからないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T20:12:41",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T20:13:52",
+      "utterance": "では、外に出ると周りの目が気になってしまうし、家では家事ができないと責められてしまう、今はそんな状況があるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T20:15:03",
+      "utterance": "はい、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T20:16:12",
+      "utterance": "そんな状況だと、なかなかリラックスもできないし、緊張状態が続いてしまってお辛いと思います。だからこそ疲れも溜まってきているのではないかなと心配になります。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T20:17:05",
+      "utterance": "勉強が忙しいから"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T20:17:12",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T20:17:17",
+      "utterance": "家族に話したけど"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T20:17:27",
+      "utterance": "聞いてもらえませんでした"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T20:18:51",
+      "utterance": "ご家族に話しても聞いてもらえなかったんですね、、。お話ししたのは、勉強が忙しいから家事が時間内にできないということでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T20:19:25",
+      "utterance": "そうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T20:20:10",
+      "utterance": "そうでしたか。理由がちゃんとあるのに、聞いてもらえないとなると、むなしいですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T20:20:53",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T20:22:23",
+      "utterance": "あなたは勉強も忙しいなか、家事をしようと思っても、なかなか時間内にできなくて、どうしようもない気持ちになりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T20:22:57",
+      "utterance": "はい、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T20:23:51",
+      "utterance": "あなたが、なんとか、勉強も家事もちゃんとやろうとしている様子が見てとれます。とても頑張っていらっしゃいますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T20:24:41",
+      "utterance": "でももう疲れた"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T20:25:18",
+      "utterance": "そうなのですね。もう限界になるまで頑張ってこられたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T20:25:47",
+      "utterance": "もう消えたい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T20:26:02",
+      "utterance": "そう思われるのですね、、。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T20:26:39",
+      "utterance": "それほどまでに、今おつらいのですよね、。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T20:27:11",
+      "utterance": "疲れました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T20:28:14",
+      "utterance": "疲れたのですよね、、。私は、限界までがんばってきたあなたのことが、とってもすごいなと思うと同時にとっても心配です。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T20:29:06",
+      "utterance": "疲れたので、これで終わりにしていいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T20:30:32",
+      "utterance": "私は、あなたに生きていてほしいなと思います。もうお時間がやってきてしまうけれど、本当はもっとあなたのお話しが聞きたいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T20:31:10",
+      "utterance": "ここでは、あなたのお気持ちどんなことでも吐き出して大丈夫です。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T20:31:17",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T20:31:38",
+      "utterance": "だから、私は、またここに来てほしいと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T20:31:56",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T20:32:15",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T20:32:23",
+      "utterance": "あなたの役に立てることはもしかしたら少ないのかもしれないけれど、役に立ちたいと思っています。なので、また来てくださいね。待っています。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T20:33:07",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T20:33:40",
+      "utterance": "今日はお越しいただきありがとうございました。また次回お待ちしています。今日はひとまず、終了とさせていただきますね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T20:33:51",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T20:34:03",
+      "utterance": "では、失礼いたします。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-26T20:34:14",
+      "utterance": "はい、ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-26T20:34:25",
+      "utterance": "（本日はありがとうございました。FBよろしくお願いいたします。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "周りの目が気になることによるストレス"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4167,
+    "評価作成日時": "2022-10-26T20:59:00",
+    "クライアント役ID": 211,
+    "カウンセラー役ID": 295,
+    "点数": 38,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 1,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 1,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 2,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 2,
+    "要約": 1,
+    "問題の明確化": 1,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4167,
+    "evaluation_created_at": "2022-10-26T20:59:00",
+    "client_id": 211,
+    "counselor_id": 295,
+    "score": 38,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 1,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 1,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

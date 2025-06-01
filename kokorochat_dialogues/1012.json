@@ -1,0 +1,754 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-12-27T10:54:50",
+      "utterance": "おはようございます。画面に入っています。時間になりましたら、よろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T10:58:13",
+      "utterance": "おはようございます。宜しくお願い致します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:00:09",
+      "utterance": "こんにちは、相談員です。よろしくお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:00:23",
+      "utterance": "よろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:00:38",
+      "utterance": "今日はご相談にお越し頂きありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:01:27",
+      "utterance": "初めにご年齢と性別、ご相談の中でなんとお呼びしたら良いかを教えて下さい。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:02:11",
+      "utterance": "４０歳、女、ゆり　でお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:02:40",
+      "utterance": "ゆりさん、教えていただいてありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:03:09",
+      "utterance": "それでは、ゆりさん、今日はどの様なご相談でお越し頂きましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:04:08",
+      "utterance": "資格に何度も滑って、自信喪失しています"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:04:46",
+      "utterance": "なるほど、そんなお気持ちを抱えていらっしゃるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:04:52",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:04:53",
+      "utterance": "お辛いですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:05:06",
+      "utterance": "はい辛いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:05:12",
+      "utterance": "もう少し、詳しく教えてくださいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:06:11",
+      "utterance": "社会福祉士の資格を四回滑ったので、"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:06:48",
+      "utterance": "自分は何をやってもきっと駄目なんだと・・。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:07:10",
+      "utterance": "思っています"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:07:23",
+      "utterance": "なるほど、頑張って4回受けてこられたのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:08:09",
+      "utterance": "はい、受けた人は二、三回で受かったと聞きます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:08:58",
+      "utterance": "そうなんですね。ゆりさんも毎回、期待して結果を待っておられたと思いますので、お辛い気持ちが伝わります。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:09:23",
+      "utterance": "はい、結構頑張ったので。ショックでした。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:09:40",
+      "utterance": "そうですよね、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:10:16",
+      "utterance": "ショックが重なって自信をなくされるのは、当たり前のことだと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:10:56",
+      "utterance": "はい。自分はそこを目指せる人間ではないと、"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:11:12",
+      "utterance": "ハンコを押されたような気がしてきて。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:11:27",
+      "utterance": "そのように感じ初めているのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:11:33",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:12:16",
+      "utterance": "どんなに頑張っても無理なものは無理なのかな・・と。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:12:29",
+      "utterance": "4回のチャレンジは、そうできる人はいないと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:12:51",
+      "utterance": "どこがダメだったのかを検証はされたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:14:19",
+      "utterance": "試験の結果を見直して、ああ、そうっか、とはなります。ただ、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:14:33",
+      "utterance": "はい、ただ、、"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:14:37",
+      "utterance": "試験の範囲が莫大に多いので、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:15:12",
+      "utterance": "そうですよね、命に関わる大切なお仕事なので、さぞ大変であろうと思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:15:14",
+      "utterance": "中々です。不得意分野でやられています"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:15:37",
+      "utterance": "不得意なところは、どうしてもありますよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:15:52",
+      "utterance": "はい、その不得意が、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:16:04",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:16:57",
+      "utterance": "社会の問題が苦手で。社会福祉士だから福祉の問題も大事なのですが、社会の問題は"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:17:09",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:17:57",
+      "utterance": "仕事でも関係してくる。向いてないのかなと、思いかけながらも、自分の人柄までも自信喪失に・・。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:18:22",
+      "utterance": "なるほど"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:19:24",
+      "utterance": "上手くいかないと、自分をせめてしまうことも、よくあることだなぁと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:20:00",
+      "utterance": "社旗の問題が苦手でも、それが必要であることは、よく気がついておられるのですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:20:58",
+      "utterance": "社会を打ち間違えました、御免なさい"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:21:02",
+      "utterance": "はい、勿論気づいているので、自分の不甲斐なさに落ち込んでます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:21:22",
+      "utterance": "なるほど、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:22:05",
+      "utterance": "落ち込んでしまうのは、関心を持ってこなかったことに気がついたという感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:23:22",
+      "utterance": "受かって、その仕事をして、自分に自信を持ちたい。でも、スタート地点にも立てていない。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:24:35",
+      "utterance": "そうなんですね、そのお仕事をしたいと、勉強なさっているゆりさんだからこそ、苛立ちがましてしまいますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:25:08",
+      "utterance": "はい、何を勉強しても駄目なんじゃないかと・・。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:25:29",
+      "utterance": "がっかりしてしまっているのですね、"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:25:52",
+      "utterance": "自分にがっかりです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:26:26",
+      "utterance": "でも、社会問題に弱点があると気づいたことは、他の問題はクリアできそうと言うところまできていると言うことでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:27:22",
+      "utterance": "他の問題はひたすら過去問で頭に入るのですが、苦手な分野って、入りにくいと実感していて。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:27:41",
+      "utterance": "同じ間違いもしてる。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:28:28",
+      "utterance": "なるほど、同じ間違いをすると、またそこでがっかりしますよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:28:43",
+      "utterance": "いっそ、違う資格に挑んで、自信をつけようかとも思ったけど、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:28:59",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:29:39",
+      "utterance": "また滑ったら、自信喪失の上塗りになると思うと、怖くて。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:30:32",
+      "utterance": "なるほど、他の資格は考えていらっしゃるのですか？これから一から始める感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:31:58",
+      "utterance": "まだ何をとまでは考えてないのですが、社会福祉士が厳しそうなら、と逃げてるのでしょうか・・。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:32:28",
+      "utterance": "逃げているかもしれないというお気持ちがあるのですね、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:32:45",
+      "utterance": "社会福祉士の資格を得たいと思った動機はなんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:33:23",
+      "utterance": "はい、高卒なので自身が欲しくて、ヘルパーの資格はスイスイとれたので。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:33:35",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:33:49",
+      "utterance": "↑自信です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:34:02",
+      "utterance": "はい、大丈夫です"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:34:12",
+      "utterance": "自信が欲しいが強いです"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:34:17",
+      "utterance": "あと、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:34:56",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:35:22",
+      "utterance": "ヘルパーで訪問介護していて、時間が少しできたのと、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:35:39",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:35:58",
+      "utterance": "社会福祉士になってもっと広い目で見えるようになりたいと思ったのですが、"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:36:44",
+      "utterance": "現実は高卒の自分にはやはり無理だよと、言われてた気がしています"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:37:08",
+      "utterance": "そうだったんですね、意欲を持たれていて素晴らしいです"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:37:39",
+      "utterance": "打ちのめされて、今です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:37:57",
+      "utterance": "なるほど、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:39:15",
+      "utterance": "ヘルパーさんの仕事も、気持ちがないとなかなか続けられないお仕事だと思うので、そこからさらに上を目指そうとなさっているお話はとても素晴らしいと思いました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:40:19",
+      "utterance": "ちょっとお話をまとめさせていただいていいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:40:48",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:41:03",
+      "utterance": "社会福祉士の資格を四回滑り自信喪失している"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:41:13",
+      "utterance": "社会の問題が弱点と気がついた"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:41:42",
+      "utterance": "違う資格に挑んで、自信をつけようかとも思ったが、逃げかもしれないと思う"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:42:29",
+      "utterance": "ヘルパーの仕事をして、さらに勉強して、資格を取り、自信を持ちたい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:43:13",
+      "utterance": "しかし、試験に受からないと高卒の自分にはやはり無理だよと、言われてた気がしている"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:44:06",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:44:31",
+      "utterance": "向上心があり、目的があるので、受験して、期待する"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:44:57",
+      "utterance": "落ちるたびにがっかりしてしまうけれど、4回もチャレンジができている"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:45:32",
+      "utterance": "ここに、ゆりさんの負けないぞパワーがすごくあると思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:46:20",
+      "utterance": "ありがとうございます。自分でも馬鹿だから四回も受けれてるんだと。もう、五回目は流石に恥ずかしいと。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:46:59",
+      "utterance": "思ってます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:47:25",
+      "utterance": "そんなことはないと思います、5回でも6回でも受けようとする姿勢が素晴らしい、自信を持っていいところだと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:47:52",
+      "utterance": "資格を持って、自信を持って生きていきたいという自分への気づきも、ゆりさんが自信として持っていいところだと感じます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:48:40",
+      "utterance": "苦手なところに来ると、頭が拒否をして、なかなか上手くいかないことはよくあります。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:49:21",
+      "utterance": "向いてない、の見極めも必要なのかなと、思ったりもします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:50:06",
+      "utterance": "なるほど、そんな言葉を私ももらったことがあります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:50:38",
+      "utterance": "でも、ゆりさんはヘルパーという、その道を進んでいらしたのですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:50:59",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:51:32",
+      "utterance": "私も、母の介護でお世話になって、なかなか続けることの難しいお仕事だと感じていますが、いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:53:14",
+      "utterance": "就職で、他は採用してもらえなかったので、子育てしながら出来るのが、これだっただけなんですけどね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:54:05",
+      "utterance": "そうだったんですねでも、続けて来られた"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:54:19",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:55:07",
+      "utterance": "そしてステップアップしようとなさっている"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:55:22",
+      "utterance": "問題点は社会問題だとわかっている"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:55:24",
+      "utterance": "はい、もっと上を目指したいけど、やっぱ、ヘルパー止まりかなと、、思いかけてる。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:56:23",
+      "utterance": "思いかけているところで、ご相談に来てくださった。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:56:31",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:56:40",
+      "utterance": "これ、すごいタイミングだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:57:15",
+      "utterance": "今、せっかくここまで来たのですから、山登りの途中で降りてしまうのは、もったいなくありませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T11:57:33",
+      "utterance": "そうですかね？結構行き詰ってる感じがして苦しいのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:58:09",
+      "utterance": "苦手な社会問題を克服することは、今、面と向かっていること意外にも、とっても役に立つことだと思うのです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T11:58:31",
+      "utterance": "例えば、子育てにも、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T12:00:21",
+      "utterance": "あなたが自信を持って生きたい人生なのに、人がどう見るかを気にする必要があるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T12:01:51",
+      "utterance": "人がどう見るか？は関係ないにしても、受からないと、自信にも繋がらなくて"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T12:02:17",
+      "utterance": "受かるために、今、何が必要だと思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T12:03:31",
+      "utterance": "勉強で"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T12:03:34",
+      "utterance": "す"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T12:03:45",
+      "utterance": "そうですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T12:04:03",
+      "utterance": "それから、まだありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T12:04:53",
+      "utterance": "分かりません自信喪失中なので"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T12:05:21",
+      "utterance": "でも、今できる事は勉強。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T12:05:31",
+      "utterance": "そうですよね、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T12:05:43",
+      "utterance": "今、ここで、が大切ですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T12:06:51",
+      "utterance": "今できること、ここでやることにしっかり向き合っていると、自信がないっていう思いも忘れてしまうかもしれません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T12:08:04",
+      "utterance": "あまり、お力になれなかったかもしれませんが、ゆりさんの向上心にしっかり向き合って、もう一歩のチャレンジをしていただくことをお勧めします。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T12:08:48",
+      "utterance": "いえ、高卒だと言う事に力が入りすぎてる所もあるので"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T12:09:07",
+      "utterance": "楽しく勉強できるようにやってみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T12:09:16",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T12:09:28",
+      "utterance": "今日は、ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T12:09:30",
+      "utterance": "そんな言葉を聞かせていただいてほっとしました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T12:09:43",
+      "utterance": "学歴より、人間力です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T12:10:06",
+      "utterance": "寒くなっているので、暖かくして勉強なさってください"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T12:10:25",
+      "utterance": "今日はご相談に来てくださってありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-27T12:10:35",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-27T12:10:43",
+      "utterance": "これで終了とさせていただきます。"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "資格試験への挑戦と自信喪失"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1012,
+    "評価作成日時": "2020-12-27T14:22:00",
+    "クライアント役ID": 25,
+    "カウンセラー役ID": 106,
+    "点数": 68,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 4,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1012,
+    "evaluation_created_at": "2020-12-27T14:22:00",
+    "client_id": 25,
+    "counselor_id": 106,
+    "score": 68,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 2,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

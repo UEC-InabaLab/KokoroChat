@@ -1,0 +1,639 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2021-09-15T15:37:25",
+      "utterance": "テスト"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:00:07",
+      "utterance": "こんにちは相談員です。よろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:00:27",
+      "utterance": "こちらこそお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:00:40",
+      "utterance": "最初に年齢と性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:01:14",
+      "utterance": "はい。29歳、男です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:01:26",
+      "utterance": "お返事ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:01:37",
+      "utterance": "今日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:02:42",
+      "utterance": "会社に行くのがいやで休みがちです。どうすればいいかと。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:03:04",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:03:12",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:04:03",
+      "utterance": "ご事情を話しやすいところから話してみてだけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:05:41",
+      "utterance": "はい。この会社で３社目なんですが、仕事や人間関係がいつも辛くて。朝なかなかおきれません。遅刻が多いです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:07:00",
+      "utterance": "そうなんですね。お仕事も職場の人間関係もダブルに辛く感じているんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:07:29",
+      "utterance": "ええ。夜もなかなか眠れません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:08:35",
+      "utterance": "会社の辛い状況が夜にまで影響が出ているのですね。それでは、朝も起きたくなくなるのも無理ないですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:09:28",
+      "utterance": "はい。昼間もねむくてぼーっとしてます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:09:54",
+      "utterance": "夜よく眠れなかったら、そうなってしまいますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:10:07",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:10:35",
+      "utterance": "夜よく眠れなかったり、朝起きたくないという状態はどのくらい続いているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:11:36",
+      "utterance": "半年くらいです。今の会社に入って8ヶ月なので、3ヶ月目からですかね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:12:22",
+      "utterance": "そんなに長く、辛さを抱えてこられたんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:13:28",
+      "utterance": "半年もそんな状態が続いていると、身体も気持ちもすっかり、溜まってしまっているのではないですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:13:28",
+      "utterance": "でも前の会社もその前もそうだったので。仕事が合わないのではと。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:13:57",
+      "utterance": "はい。しんどいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:14:13",
+      "utterance": "そうですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:14:23",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:14:28",
+      "utterance": "ちなみにどんなお仕事なのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:14:59",
+      "utterance": "ずっと営業や販売職です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:15:23",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:16:44",
+      "utterance": "3社とも、営業や販売職をしてこられたとのことですが、ご自分なりにはこのお仕事を選んで始められたと思うのですが、どんな期待を持って始められたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:18:27",
+      "utterance": "大学を卒業して入った会社で営業に就き、転職しても出来ることがそれだけなのでずっと同じです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:18:56",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:19:03",
+      "utterance": "特に期待はありません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:19:59",
+      "utterance": "そうだんたんですね。たまたま最初の会社で営業を担当することになったから、そのまま営業職を続けているということなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:20:13",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:21:01",
+      "utterance": "さきほど、仕事が合わないかもしれないとおっしゃっていましたけれど、どんなところが、ご自分に合わないかもと思うのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:22:15",
+      "utterance": "いや、とのかく会社に行くのがすぐ辛くなるので、このまま会社勤めができるのかと。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:22:39",
+      "utterance": "会社が合わないんですかね」"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:23:10",
+      "utterance": "もしかしたら、そういう面もあるのかもしれませんね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:23:32",
+      "utterance": "人間関係が辛いというお話がありましたよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:23:50",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:24:53",
+      "utterance": "職場での人間関係がうまく行かないと考えただけで、足が向きにくくなるのでしょうね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:25:39",
+      "utterance": "はい。職場だけではなくお客さんとの関係も良くなくて。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:26:02",
+      "utterance": "コミュニケーションが下手です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:26:02",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:26:22",
+      "utterance": "ご自分ではそう思っているんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:26:30",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:26:48",
+      "utterance": "どんな時に、コミュニケーションが苦手と思われるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:28:33",
+      "utterance": "とにかく会話が苦手です。気の利いたことが言えないんです。何を言えばいいのか常に迷います。話題性に乏しくて。上手く話しているひとが羨ましいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:28:57",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:29:28",
+      "utterance": "すぐに会話が途切れてしまい続きません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:30:17",
+      "utterance": "それは困ってしまいますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:30:26",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:30:34",
+      "utterance": "これまでは、そんな時にはどうしていたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:32:20",
+      "utterance": "そのまま気まずい雰囲気になり席を外したり帰ったりとか。皆んなが私のことを良く思ってないような気がして悲しくなります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:33:37",
+      "utterance": "そうなんですね。気まずい雰囲気のまま帰るときには、さぞ悲しいお気持ちに沈んでいらっしゃるのでしょうね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:33:51",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:34:46",
+      "utterance": "皆があなたのことをよく思っていないのではないかと思うだけで、つらくもなりすよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:35:11",
+      "utterance": "はい。とても辛いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:36:26",
+      "utterance": "そんな日々を、これまでの3社では、どこでも体験して来られたのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:37:09",
+      "utterance": "はい。大体同じパターンです。どうすれば良いですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:37:57",
+      "utterance": "長いこと、落ち込んだ気持ちのままでいるのは、身体にも気持ちにもよくないように思うのですが。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:39:08",
+      "utterance": "誰か相談できる人がいるといいと思うのですが、誰か話を聴いてくれそうな人はいそうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:40:30",
+      "utterance": "同僚に少し相談しましたが、そんなに気にせず気楽にやればと言われました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:40:49",
+      "utterance": "でもそんな気分になれなくて。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:42:02",
+      "utterance": "そうですよね。そんな気になれないから苦しんでいるんですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:42:23",
+      "utterance": "なので相談に来ました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:42:44",
+      "utterance": "はいありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:43:39",
+      "utterance": "お話を聞いて、よく同僚の人に話してみましたねと思いました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:44:08",
+      "utterance": "勇気のいることだったのではと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:44:35",
+      "utterance": "いや、他にいませんし。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:45:10",
+      "utterance": "腹を割って話しをするという関係ではありません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:45:24",
+      "utterance": "そうなんですね。同僚と話しても、残念ながら手掛かりになるものは得られなかったのですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:45:38",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:46:15",
+      "utterance": "そうすると、上司に率直に話をしてみるのが一つかと思いますが、いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:47:01",
+      "utterance": "上司とのコミュニケーションも悪いので・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:47:21",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:48:07",
+      "utterance": "上司の方にも話ずらいんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:48:08",
+      "utterance": "どうすればコミュニケーションが撮れるのでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:49:09",
+      "utterance": "職場の人間関係を良好に保つのは上司の役割の原則となっています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:50:05",
+      "utterance": "なので、ちょっと理屈っぽくなりますが、あなたのお困りの状況を本当は上司は聞いて、ご一緒に解決策を考えるのが、上司としての役割になるはずなのですが。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:51:09",
+      "utterance": "良く話しかけてはくれますが、私が上手く話せないので。気の利いたことが言えません。私が悪いんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:51:44",
+      "utterance": "そうなんですね。ということは、上司の方は、あなたのことを気にかけてくれているようですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:52:16",
+      "utterance": "はい。上司にも申し訳ないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:52:43",
+      "utterance": "そんなお気持ちもわかります。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:53:00",
+      "utterance": "悲しいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:53:18",
+      "utterance": "そうですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:53:57",
+      "utterance": "では、口頭でうまく話ずらいということのようなので、先ほど話してくれたことを、お手紙かメモに書いて持って行って、見てもらってはいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:54:29",
+      "utterance": "手紙かメモですか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:55:13",
+      "utterance": "はいそうです。長い文章でなくても、簡単に箇条書きでもいいと思いますよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:55:21",
+      "utterance": "そうすると、上司の方は、少なくともあなたが何で困っているかが分かってくれると思いますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:55:46",
+      "utterance": "書くのは苦手ではないので。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:56:02",
+      "utterance": "それは、よかった。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:56:23",
+      "utterance": "少し勇気が要りますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:56:34",
+      "utterance": "たしかに"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:56:43",
+      "utterance": "応援していますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:56:55",
+      "utterance": "でもそれは考えてみます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:57:27",
+      "utterance": "今までその発想は無かったので"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:57:46",
+      "utterance": "そうなんですね。上司とのコミュニケーションのきっかけづくりになると思いますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:58:17",
+      "utterance": "はい、ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:58:21",
+      "utterance": "上司の方が声をかけてくれているということは、あなたのことを知りたいと思っているからなのだと思いますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:58:37",
+      "utterance": "そうなんですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:59:06",
+      "utterance": "そうでなければ、声をかけたりしないと思いますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T16:59:22",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T16:59:54",
+      "utterance": "また気になることが出てきたら、ご相談にいらしてくださいね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T17:00:19",
+      "utterance": "ご一緒に考えさせていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T17:00:30",
+      "utterance": "ありがとうございます。来週手紙を渡します。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T17:00:43",
+      "utterance": "また、結果報告します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T17:01:12",
+      "utterance": "応援しています。誰にも話せないと思っていたのに、思い切って、ここにご相談に来てくれたありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T17:01:26",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T17:01:38",
+      "utterance": "それでは、今日はここで終了とさせていただいてもいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-15T17:01:45",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T17:01:59",
+      "utterance": "では、失礼させていただきます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-15T17:03:01",
+      "utterance": "（ロールプレイお疲れさまでした。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "職場での人間関係の悩み"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2459,
+    "評価作成日時": "2021-09-15T20:53:00",
+    "クライアント役ID": 227,
+    "カウンセラー役ID": 5,
+    "点数": 74,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 5,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 5,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2459,
+    "evaluation_created_at": "2021-09-15T20:53:00",
+    "client_id": 227,
+    "counselor_id": 5,
+    "score": 74,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 4,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

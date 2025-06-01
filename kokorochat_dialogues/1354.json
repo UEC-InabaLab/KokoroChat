@@ -1,0 +1,794 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-02-17T19:50:55",
+      "utterance": "こんばんは。本日はどうぞよろしくお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T19:51:30",
+      "utterance": "こんばんは、どうぞ宜しくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T19:52:04",
+      "utterance": "少し早いですがはじめてもよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T19:52:48",
+      "utterance": "はい、大丈夫です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T19:53:05",
+      "utterance": "ではよろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T19:53:34",
+      "utterance": "よろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T19:54:02",
+      "utterance": "こんばんは。相談員です。はじめに年齢と性別、お話の中でなんとお呼べすれば良いか教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T19:54:41",
+      "utterance": "17才、男"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T19:54:53",
+      "utterance": "ゆうき"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T19:55:45",
+      "utterance": "ゆうきさん、教えていただきありがとうございます。本日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T19:56:10",
+      "utterance": "何でも話して大丈夫ですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T19:56:53",
+      "utterance": "ここでは、なんでもお話していただいて大丈夫です。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T19:57:29",
+      "utterance": "母との関係で悩んでいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T19:58:24",
+      "utterance": "お母さまとのご関係でのご相談ですね。具体的にどのようなことか教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:00:00",
+      "utterance": "母が急に怒り出して、おまえはあいつ(父)と顔がそっくりだ"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:00:20",
+      "utterance": "おまえはあっちの血を引いている"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:00:29",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:00:41",
+      "utterance": "最低の人間だと言って"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:00:49",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:01:36",
+      "utterance": "おまえなんか居なくなればいいと言ってきます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:02:22",
+      "utterance": "そうだったのですね。母親にそう言われると悩んでしまいますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:02:30",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:02:59",
+      "utterance": "何か具体的な出来事があったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:03:57",
+      "utterance": "父と離婚したので、それが原因だと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:04:41",
+      "utterance": "そうだったのですね。お母さんもそうですが、ゆうきさんもお辛かったのではと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:04:55",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:05:22",
+      "utterance": "失礼ですが、お母さんは今、おいくつなのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:05:43",
+      "utterance": "39才です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:06:23",
+      "utterance": "ありがとうございます。そのことについてどなたかにご相談されたことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:07:02",
+      "utterance": "いいえ誰にも相談してません"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:07:26",
+      "utterance": "こういうことは普通なのでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:08:19",
+      "utterance": "そうでしたか。なかなか言えずに、この相談窓口に相談してくださったのですね。個人的には普通ではないのではないかと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:09:01",
+      "utterance": "両親が離婚したのはいつ頃なのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:09:22",
+      "utterance": "4年前です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:10:06",
+      "utterance": "そうでしたか。暴言のようなことが始まったのもそのあたりでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:10:45",
+      "utterance": "そうですね、離婚してしばらくしてからだったと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:11:20",
+      "utterance": "そうだったのですね。急な変化にびっくりされたのではないでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:12:16",
+      "utterance": "はい普段は優しいのですが、ふとすると急に怒り出して"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:12:25",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:12:36",
+      "utterance": "子供なんか産まなきゃよかった"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:12:44",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:13:02",
+      "utterance": "生んだから私の人生はめちゃくちゃになったと"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:13:12",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:13:14",
+      "utterance": "怒り散らすのです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:14:36",
+      "utterance": "そうだったのですね。急に怒り出されるとびっくりしてしまいますよね。精神的に不安定になっているようですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:15:14",
+      "utterance": "どこ怒り出すかわかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:15:38",
+      "utterance": "そうですよね。構えていないとびっくりしてしまいますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:15:49",
+      "utterance": "ちなみにですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:16:41",
+      "utterance": "お母さんは、「更年期障害って言われた。」なんてことはありませんでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:17:03",
+      "utterance": "それは分かりません"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:17:12",
+      "utterance": "怖くて"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:17:24",
+      "utterance": "聞くこともできません"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:17:34",
+      "utterance": "またいつ怒り出すか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:17:36",
+      "utterance": "そうですよね。大変失礼いたしました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:18:11",
+      "utterance": "心理学的にお話させていただいてもよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:18:19",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:19:03",
+      "utterance": "怒りというのは、二次感情といって、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:19:26",
+      "utterance": "他の感情に隠れています。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:19:36",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:19:41",
+      "utterance": "一次感情としては、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:20:27",
+      "utterance": "不安や、恐怖といったようなことがあり、その感情が怒りに繋がっているという考え方になります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:20:43",
+      "utterance": "お母さんは、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:21:14",
+      "utterance": "もしかすると、怒りの前に不安や恐怖の感情があるのかもしれません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:21:28",
+      "utterance": "何か思い当たることってありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:21:44",
+      "utterance": "そうなんですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:22:09",
+      "utterance": "はい。怒りは何かの感情から発動します。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:22:25",
+      "utterance": "思いあたることは無いのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:22:32",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:23:24",
+      "utterance": "父との関係でかな？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:24:33",
+      "utterance": "それもあるかもしれませんよね。怒りの前にある感情を無くして行ければ急に怒り出すことも減るのではと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:24:55",
+      "utterance": "一緒に考えてみませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:25:13",
+      "utterance": "はい、お願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:25:43",
+      "utterance": "ゆうきさんは、お母さん思いで優しいかたですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:25:58",
+      "utterance": "では、一緒に考えていきましょうね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:26:26",
+      "utterance": "そうなんでしょうかいつ怒り出すか怖いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:27:41",
+      "utterance": "怖さもあると思いますが、お母さんを思っているからこそご相談してくださっているわけですからね。素晴らしいことだと思います。怒りの前の感情として思い当たることはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:28:15",
+      "utterance": "ないです"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:29:00",
+      "utterance": "以前、学校でいじめられていたのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:29:09",
+      "utterance": "例えば、お父さんと別れたことによる寂しさとか。これからの不安などなんでも結構です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:29:14",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:29:43",
+      "utterance": "その時も最初はかばってくれていたのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:29:50",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:30:09",
+      "utterance": "急にどうせおまえが悪いことしたんだろ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:30:23",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:30:29",
+      "utterance": "おまえが原因でいじめられたんだと言って"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:30:37",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:30:55",
+      "utterance": "私が悪者にされてしまいました"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:31:18",
+      "utterance": "おまえはあいつにそっくりだ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:31:31",
+      "utterance": "そうだったのですか。少し理不尽に思ってしまいますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:31:32",
+      "utterance": "おまえなんか産まなきゃよかった"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:31:47",
+      "utterance": "と怒り散らすのです"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:32:04",
+      "utterance": "これって普通なんでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:32:19",
+      "utterance": "毒親だとは思いますが"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:32:30",
+      "utterance": "普通ではないと思いますが、いじめを受けていたのは離婚後ということでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:32:35",
+      "utterance": "機嫌が悪いだけなのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:32:56",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:33:26",
+      "utterance": "機嫌が悪いだけでそのようになるとは考えにくにような気もしてしまいますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:34:02",
+      "utterance": "繰り返しになってしまいますが、急に怒るということは、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:34:29",
+      "utterance": "急に何かしらの感情に襲われるのだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:34:46",
+      "utterance": "解決方法の一つとしては、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:35:30",
+      "utterance": "お母さんのその感情についてお聞きし、それを取り除いてあげるのが重要かと思いますがいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:35:59",
+      "utterance": "いつ怒り出すか分からず"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:36:07",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:36:29",
+      "utterance": "あの人の生活音だけでびくびくしてしまいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:37:33",
+      "utterance": "そう思うのも無理もありませんよね。ゆうきさんもその恐怖を無くしていきたいですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:38:03",
+      "utterance": "一つご提案よろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:38:13",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:38:53",
+      "utterance": "お母さんとの思い出の場所なんてありますか？お母さんが安らげるようなところならなおさら良いですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:39:37",
+      "utterance": "母は働き詰めで"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:39:45",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:40:01",
+      "utterance": "あまり遊んでもらった記憶は無いのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:40:10",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:40:48",
+      "utterance": "昔子供の頃に住んでた家の近くの公園かな？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:41:21",
+      "utterance": "おお。お話するには絶好の場所ですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:41:36",
+      "utterance": "そこに誘ってみて、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:42:01",
+      "utterance": "お母さんの素直なお気持ちを聞いてみるのはいかがでしょう？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:42:11",
+      "utterance": "そして、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:42:46",
+      "utterance": "お母さんが、「不安」という感じの感情であれば、"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:42:49",
+      "utterance": "また急に怒り出しておまえの顔なんか見たくないって言われたらどうしたらいいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:44:14",
+      "utterance": "「いつもそう言われるとこっちも辛くなるよ」と、ゆうきさんもまず、本音でお話することを提案いたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:44:22",
+      "utterance": "そうすることで、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:45:01",
+      "utterance": "お母さんも、ゆうきさんのお気持ちを察知し「はっ」と気づくかもしれません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:45:44",
+      "utterance": "本音で語り合うことほど心を動かすものはないかと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:46:05",
+      "utterance": "なかなかお辛いことは承知しております。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:46:30",
+      "utterance": "現状を打破するためのご提案になります。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:47:42",
+      "utterance": "これで母からおまえなんか産まなきゃよかったとか、おまえはあいつにそっくりで最低の人間だと言われなくなりますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:49:02",
+      "utterance": "はい。怒りの前にある感情（不安など）が少なくなれば、きっと言わなくなってくると思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:49:29",
+      "utterance": "そうなんでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:49:56",
+      "utterance": "今すごくお辛いかと思いますが、お母さん思いのゆうきさんならきっと心を開けると思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:50:33",
+      "utterance": "誘うのも怖いですが、どうこえかけたらいいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:51:24",
+      "utterance": "「お母さん、恥ずかしいけどデートしてみない？」なんてのはだめでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:51:36",
+      "utterance": "えっ…"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:51:47",
+      "utterance": "それはちょっと…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:51:54",
+      "utterance": "お母さんはドキッとするのではないでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:52:04",
+      "utterance": "そうなんでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:52:40",
+      "utterance": "「それだけ大事なお話がある」という風に持って行くことが重要かと思いますがいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:53:04",
+      "utterance": "はい、わかりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:54:07",
+      "utterance": "ゆうきさんなら必ずお母さんの心の氷を溶かすことができると思います。また何かありましたらいつでもご相談くださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:54:16",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:54:48",
+      "utterance": "それでは本日のご相談を終了いたしますね。ありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:54:57",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:55:11",
+      "utterance": "（ロールプレイ終了してもよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:55:26",
+      "utterance": "はい、お疲れ様でした！"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-17T20:55:38",
+      "utterance": "また宜しくお願い致します"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-17T20:55:51",
+      "utterance": "はい。お疲れ様でした。それでは失礼いたします。"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "母との関係の改善方法"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1354,
+    "評価作成日時": "2021-02-17T21:14:00",
+    "クライアント役ID": 39,
+    "カウンセラー役ID": 113,
+    "点数": 55,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 3,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1354,
+    "evaluation_created_at": "2021-02-17T21:14:00",
+    "client_id": 39,
+    "counselor_id": 113,
+    "score": 55,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

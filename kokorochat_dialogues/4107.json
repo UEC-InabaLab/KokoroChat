@@ -1,0 +1,494 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-10-03T20:51:52",
+      "utterance": "(本日はよろしくお願いいたします。お時間になりましたら始めさせていただきます。）"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T20:56:16",
+      "utterance": "（こちらこそよろしくお願い申し上げます。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T21:00:05",
+      "utterance": "こんばんは。相談員です。本日はお越しくださり、ありがとうございます。はじめにご年齢、性別、相談内容を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:00:45",
+      "utterance": "27歳　男性転職しようか悩んでいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T21:01:29",
+      "utterance": "そうなんですね。どういったことから転職しようとお考えなんでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:02:08",
+      "utterance": "今は、不動産会社の営業です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T21:02:16",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:03:15",
+      "utterance": "そこから、なんらかの仕事に転職したいなと思っています"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:04:38",
+      "utterance": "でも何をすれば良いのやら"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T21:04:54",
+      "utterance": "そうだったのですね。それは迷いますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:05:11",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T21:05:40",
+      "utterance": "ちなみに今のお仕事に関してはどのように感じておられるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:07:44",
+      "utterance": "うーん"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:07:52",
+      "utterance": "なんかストレスが"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:07:58",
+      "utterance": "多く、"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:08:10",
+      "utterance": "仕事量も多くて死にそうです"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:08:26",
+      "utterance": "すぐにでも辞めたいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T21:08:33",
+      "utterance": "そうなんですね。そのように感じてしまうと辛いですよね"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:08:39",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T21:10:17",
+      "utterance": "ええ、すぐに辞めたいくらい追い込まれておられるようですが、職種も変えられたいとお考えなんでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:10:24",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:11:09",
+      "utterance": "不動産独特のクセみたいなものがあって、そこから出たいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T21:11:41",
+      "utterance": "そうなんですね。独特のくせとはどのようなものなんでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:12:45",
+      "utterance": "はい。簡単に言えば、ノルマです。達成しないと、上司ではなくて同僚にイヤミを言われます。とてもイヤです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T21:13:38",
+      "utterance": "なるほど。周りから言われるとへこみますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:14:30",
+      "utterance": "はい。上司は、パワハラを恐れて言わないんですよね"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:14:46",
+      "utterance": "同僚は怖いです"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:15:02",
+      "utterance": "でも上司がそういう雰囲気を作っています"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T21:15:24",
+      "utterance": "そうなんですね。そうなると仕事もやりにくいですよね"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:16:05",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T21:16:48",
+      "utterance": "お辛い状況のなか頑張っておられることが伝わってきましたが、仕事内容自体はいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:17:21",
+      "utterance": "仕事もお客さんとの打ち合わせがとても嫌になってしまって。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:17:32",
+      "utterance": "昔は好きだったのに"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T21:18:19",
+      "utterance": "ええ、そうなんですね。職場の雰囲気や同僚の態度などで考えが変わってしまったのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:18:35",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:18:57",
+      "utterance": "いろいろカラミ合っているような気がします"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T21:19:52",
+      "utterance": "そうでしたか。その中でも一番気になると言いますか、解消したいのはどういったことでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:21:14",
+      "utterance": "転職したいですが、何をしたらいいかわかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T21:23:56",
+      "utterance": "ええ、そうですよね。何をしたいかわかれば、すぐにでも転職できそうでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:24:33",
+      "utterance": "本気で考えているので、方向さえ決まればという感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T21:25:22",
+      "utterance": "ええ、お話をお伺いして今の職場から早く逃げ出したいお気持ちが伝わってきました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:25:57",
+      "utterance": "逃げ出したいといわれると、ややヘコミますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T21:27:08",
+      "utterance": "すみません。心機一転別の世界に飛び込んでいくイメージでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:27:27",
+      "utterance": "はい。そうでありたいなと思っています"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T21:28:51",
+      "utterance": "そうなんですね。不動産会社の営業は昔は好きだったとのことですが、転職する場合、候補にはあがりますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:29:56",
+      "utterance": "はいやはり"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:30:06",
+      "utterance": "営業はやりたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T21:30:39",
+      "utterance": "そうなんですね。営業のお仕事がお好きなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:30:52",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T21:32:10",
+      "utterance": "ええ、別の環境でお好きな仕事ができたらいいですよね"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:32:18",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:33:02",
+      "utterance": "でももうすぐ30で、転職できるかどうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T21:33:29",
+      "utterance": "ええ、それも悩んでしまいますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:33:35",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T21:34:52",
+      "utterance": "例えば、同じ不動産会社の営業で職場を変えるということに関してはどのように考えますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:36:07",
+      "utterance": "うーん。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:36:15",
+      "utterance": "あんまり"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:37:09",
+      "utterance": "他のところの営業がいいかなと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T21:38:24",
+      "utterance": "なるほど。あなたのなかでは、違う業界にいってみたいお気持ちが強いのですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:38:31",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T21:39:27",
+      "utterance": "新しい世界に飛び込んでいこうとする勇気は素晴らしいと思います。あとはどういう業界にいくかですよね"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:39:41",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:39:48",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:40:08",
+      "utterance": "どういう業界がよいのやら"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T21:40:51",
+      "utterance": "ええ、沢山あると迷ってしまいますよね。あなたのなかでいま気になっていたり、過去に気になっていた業界など何かありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:42:44",
+      "utterance": "そういえば、昔、ポンプの営業をしている友達がいて、とても必要な仕事だなと思いました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T21:43:57",
+      "utterance": "そうなんですね。そのときはお仕事内容などもお聞きになられたのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:45:40",
+      "utterance": "はい。集合住宅ほもちろん、さまざまなところにポンプをつけて、人のライフラインの役に立つ内容を聞きました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T21:46:31",
+      "utterance": "そうなんですね。それは興味深いですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:46:49",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T21:48:09",
+      "utterance": "今はまだ何をするか迷われているかと思いますので、そのときのように周りの方のお話をまずは聞いてみると言うのも１つかと思いましたがいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:48:35",
+      "utterance": "はい。そうしてみます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T21:50:19",
+      "utterance": "今はお辛い状況かとは思いますが、あなたの培ってきた営業力が活かせる業界が見つかるように色々な情報を得るのも良いかと思いました"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:50:33",
+      "utterance": "はい。ありがとうございます"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:53:38",
+      "utterance": "自分で探したり、周りに聞いたりして、よい転職をしたいと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T21:54:42",
+      "utterance": "ええ、沢山の選択肢のなかから自分のやりたいことを見つけることは大変かとは思いますが、ご自身が気になるものに飛び込んでみるのも悪くはないと思います"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:55:00",
+      "utterance": "はい。ありがとうございます。そうします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T21:57:02",
+      "utterance": "ええ、そろそろ終了の時間が近づいてきてしまいました。今日お話ししてみていかがでしたでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:57:33",
+      "utterance": "まだ不安はありますが、とても先が見えてきました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T21:58:28",
+      "utterance": "そうでしたか。また、不安なことがございましたらいつでもお話にいらしてください。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:59:07",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T21:59:14",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T21:59:27",
+      "utterance": "本日はお越しくださり、ありがとうございました。これにて終了させていただきます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T21:59:51",
+      "utterance": "（ロープレありがとうございました。）"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T22:00:09",
+      "utterance": "ありがとうございました"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "転職先選びに関する不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4107,
+    "評価作成日時": "2022-10-11T22:48:00",
+    "クライアント役ID": 293,
+    "カウンセラー役ID": 294,
+    "点数": 72,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 5,
+    "一緒に考えながら取り組めた": 5,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 4,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4107,
+    "evaluation_created_at": "2022-10-11T22:48:00",
+    "client_id": 293,
+    "counselor_id": 294,
+    "score": 72,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 2,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

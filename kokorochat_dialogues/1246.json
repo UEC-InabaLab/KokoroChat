@@ -1,0 +1,674 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-01-25T19:22:30",
+      "utterance": "こんばんは。今日は宜しくお願いします。時間になりましたら、私の方から、始めますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T19:30:32",
+      "utterance": "こんばんは。相談員です。本日はご相談に来てくださってありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T19:32:03",
+      "utterance": "最初に年代と性別を教えていただけますか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T19:38:46",
+      "utterance": "こんばんは、電波が繋がらなくなってしまいました。すいません、宜しくお願いします"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T19:39:11",
+      "utterance": "30代、女性です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T19:39:25",
+      "utterance": "宜しくお願い致します。ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T19:39:38",
+      "utterance": "今日はどのようなご相談ですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T19:40:08",
+      "utterance": "はい、子どもの様子がおかしくて"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T19:40:23",
+      "utterance": "それは、ご心配ですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T19:40:39",
+      "utterance": "少し詳しくお話していただけますか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T19:41:31",
+      "utterance": "はい、学校から帰って来たと思ったら部屋で泣いて、声をかけても関係ない❗️って言われて"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T19:41:50",
+      "utterance": "そんなことがあったんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T19:42:02",
+      "utterance": "戸惑いますね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T19:42:07",
+      "utterance": "イライラして、大きな声をあげたり"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T19:42:10",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T19:42:33",
+      "utterance": "ええ、大きな声の後は?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T19:43:43",
+      "utterance": "普通にする時間もあるんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T19:44:03",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T19:44:34",
+      "utterance": "その変化は、時間単位ですか?それとも、日にち単位ですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T19:45:12",
+      "utterance": "時間単位です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T19:45:53",
+      "utterance": "そうですか。それは、どうなっているんだろう、とおろおろしますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T19:46:01",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T19:46:21",
+      "utterance": "ちなみにお子さんの年齢はおいくつですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T19:46:41",
+      "utterance": "13才です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T19:46:54",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T19:47:04",
+      "utterance": "たぶん、いじめられているんじゃないかと"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T19:47:34",
+      "utterance": "そうなんですね。学校での出来事のように思われるんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T19:47:42",
+      "utterance": "たぶん"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T19:47:59",
+      "utterance": "何か思い当たることがおありですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T19:48:37",
+      "utterance": "幼馴染みや私の知っている子どもではないように思うんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T19:49:33",
+      "utterance": "そのように感じておられるんですね。知らないお子さんが相手だと余計に、心配になりますね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T19:49:47",
+      "utterance": "はい、入学半年でバレー部の部活も辞めてしまったので、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T19:50:32",
+      "utterance": "そうですか。ということは、13歳・・・中学1年生ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T19:50:35",
+      "utterance": "それからのお友達関係が把握できなくなってしまいました"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T19:50:38",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T19:50:53",
+      "utterance": "なるほどです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T19:51:31",
+      "utterance": "部活を辞めるまでは、お友達関係も把握できていたということですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T19:51:41",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T19:52:06",
+      "utterance": "お友達がつかめなくなると不安ですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T19:52:44",
+      "utterance": "今まではどのような形でお友達のことをつかんでらっしゃったんですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T19:53:49",
+      "utterance": "小学校から一緒の子が部活に居たので、自然にわかる感じでした"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T19:54:04",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T19:54:26",
+      "utterance": "お子さんは、どうして部活を辞められたのですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T19:55:48",
+      "utterance": "コロナの休校で、ほとんど活動しないのが続き、つまらなくなってです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T19:56:28",
+      "utterance": "そうでしたか。コロナで十分活動できなくて可哀想でしたね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T19:56:32",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T19:56:48",
+      "utterance": "お子さんとは、それについてお話されましたか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T19:57:14",
+      "utterance": "部活をやめる事ですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T19:57:22",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T19:57:35",
+      "utterance": "はい、話しました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T19:57:58",
+      "utterance": "どのようなお話でしたか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T19:58:40",
+      "utterance": "その時間を塾に行く事にしました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T19:58:56",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T19:59:22",
+      "utterance": "直接お子さんからやめる理由は聞かれましたか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T20:00:37",
+      "utterance": "はい、活動しないので入ってるいみがないと"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:01:04",
+      "utterance": "そうですか。しっかりしたお子さんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:01:24",
+      "utterance": "塾に行くのもお子さんの希望でしたか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T20:01:35",
+      "utterance": "そこはただ、つまらなくなったって事だとおもいました"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T20:02:30",
+      "utterance": "塾は私が勧めました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:03:53",
+      "utterance": "そうなんですね。お子さんは塾に行かれて何かおっしゃってますか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T20:05:06",
+      "utterance": "中学校が分かれてしまった小学校の同級生に会ったと、言ってました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:05:38",
+      "utterance": "久しぶりに会ったんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:05:58",
+      "utterance": "塾は休まずに通われていますか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T20:06:19",
+      "utterance": "私立に進学した子達なので、うちの子より行動範囲が広いんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:06:48",
+      "utterance": "小学校のお友達のことですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T20:06:51",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:08:17",
+      "utterance": "先ほど、お子さんの様子がおかしい原因として、いじめではないか、と言われていましたが、そう思われるのはどうしてですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T20:08:32",
+      "utterance": "何となくうちの子がいじめられていると言うより、仲間に引き込まれているようなきがします"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T20:09:10",
+      "utterance": "それで、いじめに加担しているから私にも言えないんじゃないかと"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:09:58",
+      "utterance": "そう思われると心配ですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T20:10:14",
+      "utterance": "いじめられていたら、物が無くなったりとかありそうですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:10:45",
+      "utterance": "そういうこともあるかもしれないですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T20:10:59",
+      "utterance": "お話しているうちに、本人がいじめられてたら、言える気がしてきました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:11:36",
+      "utterance": "そんな風に思われるんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T20:11:45",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:12:09",
+      "utterance": "お子さんのことはお母さんが一番よくわかっていらっしゃるから、そうかもしれないですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:12:31",
+      "utterance": "13歳というと"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:12:42",
+      "utterance": "正に思春期ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T20:12:51",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:13:12",
+      "utterance": "お子さんが大人から自立していく過程で、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:13:29",
+      "utterance": "今まで素直だったのに、反抗的になったり、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:14:05",
+      "utterance": "かと思えば、甘えてきたりする疾風怒涛の時期と言われています。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T20:14:16",
+      "utterance": "いじめに加担していたらどうしたら良いのでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:14:35",
+      "utterance": "ご心配なのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T20:15:05",
+      "utterance": "反抗的と言うよりは、混乱しているようにおもうので"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:15:19",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T20:15:43",
+      "utterance": "泣いたり、大きな声をあげたり"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:16:09",
+      "utterance": "尋常ではないので、いじめられている、ことより、加担しているのではないか、ということの方が心配になっておられるんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T20:16:16",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:16:55",
+      "utterance": "小さい頃からお子さんを見てこられて、"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T20:17:16",
+      "utterance": "学校に言った方がいいでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T20:17:22",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:17:24",
+      "utterance": "そのようなことになそうなところがおありですか?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:17:54",
+      "utterance": "すみません。そのようなことになりそうな・・・です。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T20:19:37",
+      "utterance": "これまでは普通に友達と仲良くしたり、喧嘩したりで、大した問題は無かったです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:20:03",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:20:38",
+      "utterance": "今回に限っては、あまりにいつもと違うので疑ってしまうんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T20:20:47",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:21:00",
+      "utterance": "今までのお話をお聴きして"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T20:21:04",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:21:39",
+      "utterance": "あなたはお子さんのことを、本当に愛しく大切に育ててこられたことが伝わってきました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T20:21:51",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:22:43",
+      "utterance": "今は、コロナの影響もあって、普段考えもつかないようなことが起こりそうな気がするのも無理のないことだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:23:39",
+      "utterance": "お子さんが落ち着かれたときに、学校の話や、塾の話、お友達のお話など無理のないところから"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T20:23:47",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:24:17",
+      "utterance": "少しお話してみられるのは如何でしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T20:25:10",
+      "utterance": "はい、今までいじめられているんじゃないかとばかり考えていたから、何となく納得いきました。話せそうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:25:32",
+      "utterance": "それは、良かったです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:26:01",
+      "utterance": "思春期は一般的に情緒が不安定になる時です。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T20:26:31",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:26:35",
+      "utterance": "ホルモンのバランスからいうと、更年期の時くらいに、大きな変化があると言われています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:27:23",
+      "utterance": "お話できれば、あなたも、少し安心されるのではないかと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T20:27:38",
+      "utterance": "はい、やってみます！"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:28:38",
+      "utterance": "お話されてみてどうだったか、また、お困りのことがあればぜ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:29:18",
+      "utterance": "お力になりたいので、是非、お話にいらしてください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T20:29:27",
+      "utterance": "また相談に来ます！ありがとうございました！"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:29:45",
+      "utterance": "こちらこそ、ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:30:09",
+      "utterance": "では、本日の相談を終了致しますね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T20:30:23",
+      "utterance": "はい、ありがとうございました"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-25T20:31:02",
+      "utterance": "（失礼します）"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-25T20:31:36",
+      "utterance": "ロールプレイを終了しますね。"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "子どものいじめや友人関係の懸念"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1246,
+    "評価作成日時": "2021-01-26T01:07:00",
+    "クライアント役ID": 121,
+    "カウンセラー役ID": 91,
+    "点数": 77,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 5,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1246,
+    "evaluation_created_at": "2021-01-26T01:07:00",
+    "client_id": 121,
+    "counselor_id": 91,
+    "score": 77,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

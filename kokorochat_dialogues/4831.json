@@ -1,0 +1,614 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2023-03-23T21:30:54",
+      "utterance": "（よろしくお願いいたします。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T21:35:30",
+      "utterance": "（5分経ちましたが、今、どのような状況でしょうか？）"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T21:41:01",
+      "utterance": "（今日はどうさせていただきましょうか？）"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T21:53:50",
+      "utterance": "すみません。間違った方と始めてしまっていました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T21:54:11",
+      "utterance": "これから始めさせていただいてよろしいでしょうか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T21:55:41",
+      "utterance": "こんばんは。本日は、相談に来ていただきありがとうございます。はじめに、年齢、性別を教えていただけますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:00:27",
+      "utterance": "本日は、お時間をいただいたのに申し訳ありませんでした。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:03:57",
+      "utterance": "40代、女"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:04:52",
+      "utterance": "返信ありがとうございます。本日の相談内容を教えてください。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:05:35",
+      "utterance": "夫が自分勝手で困ってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:06:28",
+      "utterance": "そうなんですね。旦那さんが自分勝手だと、つらいですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:07:05",
+      "utterance": "つらいというより困っています"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:07:45",
+      "utterance": "どうしたら相手のことを考えてもらえるようになりますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:08:33",
+      "utterance": "困ってらっしゃるんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:08:40",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:09:23",
+      "utterance": "旦那さんの自分勝手なところを教えていただいてもよろしいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:10:26",
+      "utterance": "いろいろお話を伺って、どうするのが良いかを一緒に考えていきたいと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:10:32",
+      "utterance": "自分中心なところで、例えば子どもより自分が優先"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:11:18",
+      "utterance": "子供より自分ですか。それは困りますね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:11:22",
+      "utterance": "テレビのチャンネル権、子どもの話より自分の話をきいてほしい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:11:49",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:12:41",
+      "utterance": "他にもあげたら、きりがないという感じでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:12:50",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:13:18",
+      "utterance": "いままでで、一番困ったことってなんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:13:56",
+      "utterance": "子どもより自分が優先ということでしょうか・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:14:40",
+      "utterance": "お子様より優先は、困りますね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:15:17",
+      "utterance": "子どもがまだ小さいころ、やることやったあと、私が体調悪くて寝込んでたんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:15:28",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:16:12",
+      "utterance": "子どもは私のところに来たのですが寝ているので、夫のところに行ったんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:16:55",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:17:54",
+      "utterance": "お酒飲む人なので、まだ晩酌しながらごはん中だったので、邪魔するなと子どもに怒って、さらに私に対して迷惑だと言われました"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:18:40",
+      "utterance": "とても悲しかったのを今でも覚えています"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:19:25",
+      "utterance": "子供のことやって、具合悪くて寝てるのに、迷惑とは"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:20:19",
+      "utterance": "相談者さんは、悲しいといわれましたが、私は少しイラっとしてしまいました。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:20:37",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:21:51",
+      "utterance": "はい。お子様は、相談者さんの体調不良をわかってて、旦那さんのところに行ったのではないでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:22:10",
+      "utterance": "そうだと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:23:56",
+      "utterance": "旦那さんは、相談者さんに向かって何が迷惑なのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:25:44",
+      "utterance": "「しんどい顔でリビングで寝ていたらめいわくだ」"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:25:59",
+      "utterance": "と、言われました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:26:41",
+      "utterance": "そんなこと言われたんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:26:47",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:27:46",
+      "utterance": "リビングで寝ていたらってことは、寝室で休めということだったりというのはないですかね？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:28:57",
+      "utterance": "怒鳴られたので、そんな感じではないと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:29:24",
+      "utterance": "怒鳴られたんですね。怒鳴られると恐怖も感じますね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:29:28",
+      "utterance": "布団を引かないと寝れないし、かなりしんどかったので、とりあえず横ならないと動けない感じだったので"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:31:06",
+      "utterance": "そんな時に、怒鳴るとは、悲しくなりますね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:31:38",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:32:34",
+      "utterance": "相談者さんは、困ったときにそのことを旦那さんに伝えたことってありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:33:19",
+      "utterance": "今までも何度も何度も言い続けていますが、直りません"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:34:01",
+      "utterance": "他人に厳しく、自分に甘いという感じです"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:34:45",
+      "utterance": "夫は自分が一番大事なんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:34:51",
+      "utterance": "伝えているんですね。それでも変化がないので、相談にきてくださったんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:35:07",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:36:13",
+      "utterance": "相談者さんが何度も伝えているというのは、言い方を変えたり"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:36:55",
+      "utterance": "いう時のシチュエーションを変えたりなどは、していらっしゃいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:37:28",
+      "utterance": "そうですね。今までしたりしてきました"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:39:08",
+      "utterance": "私が我慢するしかないのでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:39:16",
+      "utterance": "やはり様々な方法で伝えようとしているけど、伝わってないという感じですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:39:40",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:39:55",
+      "utterance": "我慢する。なぜそう思われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:40:56",
+      "utterance": "言っても変わらないなら、そうするしかないのではないのでは？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:42:36",
+      "utterance": "相談者さんが、我慢するのは違うと私は思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:43:04",
+      "utterance": "どうしたらよいのでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:44:54",
+      "utterance": "相談者さんは、旦那さんを変えたいと思っていますよね？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:45:39",
+      "utterance": "変えたいというか、もう少し理解してほしいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:46:36",
+      "utterance": "そうなんですね。理解とは、相手の気持ちとか状況とかでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:46:49",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:47:35",
+      "utterance": "気持ちや状況を、もっと詳細に伝えるというのはどうでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:48:10",
+      "utterance": "気に入らないことがあるとすぐ切れるので"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:48:44",
+      "utterance": "うーん"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:49:15",
+      "utterance": "どうでしょうか・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:49:20",
+      "utterance": "相手が怒っているときに"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:49:37",
+      "utterance": "何か言うのは、怖いですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:49:52",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:50:13",
+      "utterance": "落ち着いたときに、さっきあの時、という形で話を持っていくことは可能ですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:50:27",
+      "utterance": "それとも、話を蒸し返すな"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:50:39",
+      "utterance": "と言われてしまうでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:51:43",
+      "utterance": "そのように言われることもありますし、右から左に流したりする時もあります。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:51:58",
+      "utterance": "その時の気分で変わります"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:52:12",
+      "utterance": "ただ、人の話は聞きません"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:52:24",
+      "utterance": "自分が悪いとも思っていません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:53:00",
+      "utterance": "そうなんですね。旦那さんは、誰のいうことも聞かないということでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:53:39",
+      "utterance": "この人の話なら、少しは聞くという人はいないですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:54:34",
+      "utterance": "自分が嫌われたくない人、メリットのある人には相手に合わせます"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:54:53",
+      "utterance": "今はいないように思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:55:01",
+      "utterance": "そうねんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:55:18",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:55:45",
+      "utterance": "旦那さんに理解を促すには、時間が必要に思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:56:13",
+      "utterance": "なので、相談者さんにストレスがかからない方法を"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:56:15",
+      "utterance": "時間なのでしょうか・・・"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:56:59",
+      "utterance": "もう分かってもらえるのは無理なような気がします"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:57:13",
+      "utterance": "時間だけでなく、他のアプローチに仕方なども必要になると思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:57:37",
+      "utterance": "アプローチ・・・？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T22:58:34",
+      "utterance": "第3者に入ってもらうとか、お子様から言われるなどを考えました。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:59:46",
+      "utterance": "やったことはあるんですけどね"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T22:59:59",
+      "utterance": "その時だけですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T23:00:27",
+      "utterance": "そうなんですね。すでにやってらっしゃいましたか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T23:00:55",
+      "utterance": "喉元過ぎれば、暑さ忘れる・・・という感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T23:01:25",
+      "utterance": "そうなんですね。その時だけで、また同じことを繰り返すんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T23:01:42",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T23:03:17",
+      "utterance": "申し訳ありません。お時間が来てしまいました。解決に至りませんでした。申し訳ありません。また、相談に来ていただき、再度お話させていただきたいと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T23:03:47",
+      "utterance": "お話を聞いてくださりありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T23:03:51",
+      "utterance": "そこで、他に何かできることがないかを一緒に考えていければと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T23:04:04",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T23:04:43",
+      "utterance": "（本日は、時間通りに始まらず、お時間を奪う形となってしまい申し訳ありません。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T23:05:26",
+      "utterance": "（いえいえ、こちらこそすぐにお返事できず、すみませんでした）"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-23T23:05:59",
+      "utterance": "（ロールプレイをしていただき、ありがとうございました。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-23T23:06:01",
+      "utterance": "（本当にありがとうございました。終了ボタンを押させていただきます。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦）",
+    "main_en": "Family Issues (Spouse)",
+    "sub": "夫の自分勝手な行動による困りごと"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4831,
+    "評価作成日時": "2023-03-30T08:02:00",
+    "クライアント役ID": 156,
+    "カウンセラー役ID": 341,
+    "点数": 50,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4831,
+    "evaluation_created_at": "2023-03-30T08:02:00",
+    "client_id": 156,
+    "counselor_id": 341,
+    "score": 50,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

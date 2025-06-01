@@ -1,0 +1,559 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:00:04",
+      "utterance": "こんにちは、相談員です。本日はご相談に来て頂き、ありがとうございます。初めに、年齢、性別、ご相談内容について教えてください。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:00:22",
+      "utterance": "32　男"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:00:40",
+      "utterance": "仕事を辞めさせられそうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:01:44",
+      "utterance": "教えて頂き、ありがとうございます。それは大変ですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:01:53",
+      "utterance": "具体的に教えて頂けますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:02:14",
+      "utterance": "何を言えばいいのですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:02:51",
+      "utterance": "そうですね、なぜ辞めさせられそうと感じていらっしゃいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:03:27",
+      "utterance": "上司からの警告がありました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:03:56",
+      "utterance": "そうなんですね。どのような警告だったんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:04:17",
+      "utterance": "客からのクレームが多いことです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:05:20",
+      "utterance": "なるほど、そのようなことがあったのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:06:02",
+      "utterance": "これ以上多いと辞めさせる、といったことを言われたとかでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:06:18",
+      "utterance": "そんなところですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:07:21",
+      "utterance": "そうなのですね。相談者様としては、今どのようなお気持ちか教えて頂けますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:07:43",
+      "utterance": "辛い"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:08:11",
+      "utterance": "なるほど、そのようなお気持ちなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:08:49",
+      "utterance": "いつごろ、上司の方から言われましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:09:00",
+      "utterance": "今日"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:09:31",
+      "utterance": "今日だったのですね。ちなみに、それ以前はそのように言われることはありましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:09:41",
+      "utterance": "いいえ"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:09:58",
+      "utterance": "今日突然言われた、といった感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:10:06",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:10:46",
+      "utterance": "そうだったのですね。確かに、突然言われると辛い気持ちになりますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:11:42",
+      "utterance": "お客様からクレームが多いとのことですが、どのようなクレームがあるのですか？お話できる範囲で構いません。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:11:55",
+      "utterance": "言葉遣いが悪いことです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:12:18",
+      "utterance": "なるほど、そのように言われるのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:12:38",
+      "utterance": "相談者様としては、そのことについてどのように思われていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:13:24",
+      "utterance": "黙ってほしいと思いました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:14:54",
+      "utterance": "そうですよね。そのようなことを言われても嫌なだけですもんね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:15:09",
+      "utterance": "客側が悪いですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:16:20",
+      "utterance": "確かに、お客様が良くない対応をされるという時はあるかもしれませんね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:16:32",
+      "utterance": "そのクレームは、どのくらいの頻度で言われるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:17:01",
+      "utterance": "かなり言われます。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:17:28",
+      "utterance": "良くない対応ってどういうこと"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:17:41",
+      "utterance": "なるほど、そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:18:27",
+      "utterance": "やはり、お客様も感情的になって相手を責めてしまうということもあります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:18:52",
+      "utterance": "ちなみに、どういったお仕事をされていらっしゃるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:19:14",
+      "utterance": "スーパー"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:19:30",
+      "utterance": "じゃあ客も悪いということですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:20:07",
+      "utterance": "スーパーでお仕事をされているのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:20:57",
+      "utterance": "一概に悪いと決めつけることはできかねますが、その場合もあると思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:21:36",
+      "utterance": "それとも自分がおかしいのでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:22:37",
+      "utterance": "うーん、一度お話を整理してみましょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:23:02",
+      "utterance": "その前に答えて"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:24:27",
+      "utterance": "そうですね、失礼致しました。まず、相談者様がおかしいということは無いと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:24:41",
+      "utterance": "誰だってクレームを言われるのは嫌ですものね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:26:24",
+      "utterance": "じゃあ上司から警告もらうのもおかしいですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:26:24",
+      "utterance": "ただ、対応を少し変えれば、クレームを言われることを少なくすることもできると思っていますが、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:26:45",
+      "utterance": "それは嫌です"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:26:48",
+      "utterance": "重なってしまい申し訳ありません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:29:51",
+      "utterance": "上司の方からの警告については、そうですね。いきなり言われるのも嫌ですもんね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:30:40",
+      "utterance": "自分が悪くないのに、対応を変えるっておかしくないですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:32:17",
+      "utterance": "もちろん、相談者様は悪くないと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:33:03",
+      "utterance": "ただ、今の状況としましても、どのような環境になったら、相談者様としてはやりやすいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:33:13",
+      "utterance": "普通に仕事ができればいいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:34:37",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:35:01",
+      "utterance": "職場の方からは、何か言われたりしますか？上司の方以外で。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:35:13",
+      "utterance": "特に何も"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:36:06",
+      "utterance": "うんうん。クレームは、色々な人から言われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:36:15",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:37:17",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:37:54",
+      "utterance": "言葉遣いで、とのことでしたが、どのような使い方にクレームを言われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:38:15",
+      "utterance": "態度が失礼とか、不快とかですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:38:56",
+      "utterance": "なるほど、態度についてそのように言われるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:39:14",
+      "utterance": "理解ができません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:39:54",
+      "utterance": "うんうん、嫌な気持ちになりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:40:17",
+      "utterance": "裁判起こした方がいいですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:42:56",
+      "utterance": "裁判を起こすべきかどうかについては、難しいですね。もう少し色々と聞かせてください。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:43:55",
+      "utterance": "上司の方から警告を言われた時、相談者様は何か言いましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:44:25",
+      "utterance": "いいえ"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:44:53",
+      "utterance": "何も言わずに受け止めた、という感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:45:29",
+      "utterance": "わかりません"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:45:58",
+      "utterance": "面倒事は嫌なので黙りました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:46:24",
+      "utterance": "うんうん、早く終わらせたかったのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:46:49",
+      "utterance": "そういうわけではないですけど"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:47:51",
+      "utterance": "そうでしたか、とにかく面倒ごとが嫌だったということですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:48:04",
+      "utterance": "少しお話をまとめさせて頂きますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:50:08",
+      "utterance": "今日、日々のクレームのことから上司の方より警告があり、それについて辛いと感じていらっしゃる。日々のクレームについては主に言葉遣いを指摘されるが、相談者様としてはお客様が悪いと感じている。ということで間違いないでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:50:36",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:50:56",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:51:53",
+      "utterance": "相談者様としては普通に働きたいけれども、このままだと辞めさせられるかもしれないということですよね？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:52:10",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:53:11",
+      "utterance": "そのようでしたら、面倒ごとは嫌だと存じていますが、一度上司の方とお話をしてみたらいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:53:41",
+      "utterance": "何を話すのですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:53:48",
+      "utterance": "どのようにすればよいとかではなく、今相談者様が思っていらっしゃることで良いと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:55:18",
+      "utterance": "クレームを言われることについて納得がいかない等、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:55:50",
+      "utterance": "でも、上司が警告するほどなのだから、聞く耳を持ってくれないと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:57:31",
+      "utterance": "そう思われているのですね。確かに言われた相手に対して聞くのは気が引けるかもしれないですが、勇気を出して聞いてみてもいいかもしれません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:58:02",
+      "utterance": "そろそろお時間が来てしまいます。ここまでお話されてきて、いかがでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:58:03",
+      "utterance": "勇気出したところで、結果は目に見えてると思いますが"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:58:12",
+      "utterance": "解決してません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T16:59:22",
+      "utterance": "お力になれず、申し訳ありませんでした。また次回、お話して頂けますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T16:59:41",
+      "utterance": "わかりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T17:00:07",
+      "utterance": "ありがとうございます。ぜひ、また来てくださいね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T17:00:22",
+      "utterance": "終了メッセージを送らせて頂きますが、よろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-27T17:00:31",
+      "utterance": "（お疲れ様でした。このまま終了メッセージ送信で、ロープレ完了をお願いします。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T17:00:55",
+      "utterance": "それでは、終了メッセージを送らせて頂きます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-27T17:01:05",
+      "utterance": "（ありがとうございました。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "上司からの警告によるストレス"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4684,
+    "評価作成日時": "2023-02-27T17:19:00",
+    "クライアント役ID": 125,
+    "カウンセラー役ID": 342,
+    "点数": 52,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 2,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 1,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 4,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 1,
+    "次の行動につながる提案": 1,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4684,
+    "evaluation_created_at": "2023-02-27T17:19:00",
+    "client_id": 125,
+    "counselor_id": 342,
+    "score": 52,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 2,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 1,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,824 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:29:08",
+      "utterance": "こんばんは"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:29:45",
+      "utterance": "宜しくお願い致します。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T19:29:45",
+      "utterance": "こんばんわ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:29:59",
+      "utterance": "はむさんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T19:30:12",
+      "utterance": "本日デビューなんです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T19:30:31",
+      "utterance": "そうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:30:35",
+      "utterance": "画面操作で手間取ってしまいました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:30:56",
+      "utterance": "では、時間ですので、私の方から始めますね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T19:31:01",
+      "utterance": "不慣れなところがあると思いますがよろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T19:31:22",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:31:36",
+      "utterance": "承知しました。みんな一回目はドキドキだから、大丈夫ですよ!"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T19:31:52",
+      "utterance": "お気遣い"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T19:32:01",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:32:16",
+      "utterance": "こんばんは。相談員です。本日は相談に来ていただいてありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:32:23",
+      "utterance": "初めに"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:32:39",
+      "utterance": "年代と性別を教えていただけますか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T19:33:06",
+      "utterance": "50代の男性です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:33:19",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:33:32",
+      "utterance": "今日はどのようなご相談ですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T19:33:57",
+      "utterance": "会社の女性の事で相談です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:34:35",
+      "utterance": "そうなんですね。詳しくお話していただけますか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T19:35:49",
+      "utterance": "もう一年ぐらいになるんですが、突然にド無視されだしその状態が続いているんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:36:20",
+      "utterance": "一年もそんな状態が続いているのは、とても辛いですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T19:36:57",
+      "utterance": "そうですね。原因が不明？？？なんですよ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:37:17",
+      "utterance": "そうなんですね。それは悶々としますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T19:37:53",
+      "utterance": "なんというか・・・何が原因って感じなんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:38:07",
+      "utterance": "なるほど・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:38:43",
+      "utterance": "原因がつかめず無視の状態が続くと仕事をする気も失せますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:39:56",
+      "utterance": "ちなみに会社では、その人とどのような立ち位置ですか?　同僚とか上司と部下とか"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T19:40:08",
+      "utterance": "他の部署なのでさほど仕事には影響ないんですがたまたま、家が近くてなんかね…変な感じなんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:40:35",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T19:41:11",
+      "utterance": "それまでは普通にしゃべっていて、むしろ中が良いぐらいだったんですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:41:25",
+      "utterance": "そうだったんですね。会社での嫌な事が家が近いと家でも思い出されますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T19:41:26",
+      "utterance": "ほんと突然だったので"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T19:42:03",
+      "utterance": "ちょこちょこ朝も会うし"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:42:22",
+      "utterance": "そうですよね。そして、仲が良いくらいだったと思われていて、突然無視とは"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:42:38",
+      "utterance": "余計に気になりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T19:43:07",
+      "utterance": "気になるんですよ、ほんとに何が原因なのか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:43:24",
+      "utterance": "そうですね。お気持ち分かります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:43:43",
+      "utterance": "今までお話されていたということでしたが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:44:00",
+      "utterance": "相手の方にお聴きになったりしましたか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T19:44:43",
+      "utterance": "聞ける雰囲気ではないぐらいのド無視なんですよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:44:57",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T19:45:05",
+      "utterance": "さけてるに近いかな？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:45:17",
+      "utterance": "なるほど・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:45:53",
+      "utterance": "今まで仲が良かったころはどのようなお話をされていたのですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T19:47:26",
+      "utterance": "本当に普通の会話でしたね。ただどちらかというと社交的な子ではないのでしゃべる人は社内でも限られてはいるようでしたがね・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:47:56",
+      "utterance": "そうだったんですね。ということは"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:48:32",
+      "utterance": "相手の方にとってあなたは貴重な話せる人だったのかもしれませんね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T19:49:33",
+      "utterance": "かもしれません。とにかくビックリするぐらいの美人なんです。芸能人以上といえるぐらいの"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:49:52",
+      "utterance": "そうでしたか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:50:10",
+      "utterance": "そんなにお綺麗なのに"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:50:39",
+      "utterance": "話ができる人が限られているんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:51:04",
+      "utterance": "あなたは、その方のことをどのように思われていましたか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T19:52:55",
+      "utterance": "30歳ぐらいだと思いますが私の場合は娘に近いぐらいなので下心などありませんが同じぐらいの年の男性はかなり意識していると思いますよなので話す相手も選んでいるのかと・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:53:22",
+      "utterance": "なるほど。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T19:53:32",
+      "utterance": "私はなんともですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T19:54:14",
+      "utterance": "近くに住んでいる同じ会社の女の子ぐらいですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:54:38",
+      "utterance": "ありがとうございます。意識しているのは周りの男性が、ですか?　男性をですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T19:56:04",
+      "utterance": "周りの男性が意識していますね。だから私とよくしゃべっていたところは、私のことをうらやましいと言っている人もいましたよ・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:56:24",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T19:56:49",
+      "utterance": "美人過ぎて高貴に見えるんじゃないですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:57:24",
+      "utterance": "なるほど。あなたは羨ましいと言われて、どのように感じておられましたか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T19:58:04",
+      "utterance": "そうなんや・・・という感じです。しゃべったら普通ですけどね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T19:58:28",
+      "utterance": "意識している人は近づきにくいのかもしれませんね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:58:58",
+      "utterance": "そうですね。なかなか意識すると声などかけにくいですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:59:04",
+      "utterance": "まして"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T19:59:30",
+      "utterance": "そのような美人では、ためらってしまいますね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T19:59:51",
+      "utterance": "うん、そうですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T20:00:36",
+      "utterance": "私も最初は俺みたいなおじさんとしゃべってくれるんや・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T20:00:58",
+      "utterance": "そう思いましたね。思い出しました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:01:08",
+      "utterance": "そんな風に思われたんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:01:13",
+      "utterance": "でも"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:01:26",
+      "utterance": "話してみたら、普通で"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:01:55",
+      "utterance": "自然に話をされるようになっていた、というところでしょうか?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:04:51",
+      "utterance": "今までのお話を少しまとめてみても宜しいですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T20:05:16",
+      "utterance": "そうですね。もともと自分からしゃべる子ではないんですよ。ただ、たまたま家が近い事がわかったのでそれからですかね。その子からもしゃべって来たし、おじさんだから逆に安心なのかな？ぐらいで思っていました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T20:05:34",
+      "utterance": "どうぞまとめて"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:05:55",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:06:59",
+      "utterance": "一年ほど前から突然、会社の娘ほどの年の女性にド無視されている。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:07:44",
+      "utterance": "原因はわからない。仕事に支障はないが家も近いし困っておられる。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:08:22",
+      "utterance": "相手に理由を訊けるような雰囲気ではない。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:09:44",
+      "utterance": "女性は芸能人以上の美人で周りの男性は意識しているようだが、社交的ではなく話をするする人も限られているようである。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:11:02",
+      "utterance": "以前は話をしていたし、仲が良いくらいに感じておられた。如何でしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T20:12:14",
+      "utterance": "そうですね。その様な状況です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:12:35",
+      "utterance": "今までお話をお聴きしていて"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T20:12:45",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:13:31",
+      "utterance": "仕事に支障はなくても家がお近くて今のままでは嫌だと感じておられると思うのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:13:50",
+      "utterance": "あなた自身はどうされたいと思われますか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T20:16:09",
+      "utterance": "うーん、普通にしてくれればいいんですが・・・何があったのか？原因が知りたいですね。ほんとうにわからないので"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:16:29",
+      "utterance": "そうですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:16:49",
+      "utterance": "不可解だし、気分悪いですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T20:17:17",
+      "utterance": "ひとつ、きっかけはあったんです。ただ・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:17:33",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T20:17:43",
+      "utterance": "原因にならないんですよ・・・私の中では"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:17:56",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:18:04",
+      "utterance": "もしよければ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:18:21",
+      "utterance": "お聞かせいただけますか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T20:19:25",
+      "utterance": "彼女が私にお土産（差し入れって言ったかもしれません）を要求したことがあったんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:19:39",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T20:19:41",
+      "utterance": "食べ物ね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:19:48",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:20:02",
+      "utterance": "で、どうされたんですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T20:20:48",
+      "utterance": "で・・・リクエストに応えて差し入れをしてあげたんです。会社で渡したんですけどね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:21:29",
+      "utterance": "そんなことがあったんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:21:53",
+      "utterance": "その時、その人はどんな反応だったんですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T20:21:54",
+      "utterance": "それからぐらいなんですよね・・・原因になります？ならないでしょ？"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T20:23:12",
+      "utterance": "不思議だったのは・・・喜んでいたんですがなんでもらえるの？って言ったんです。おかしいでしょ"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T20:23:33",
+      "utterance": "リクエストしたんですよ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:23:57",
+      "utterance": "そうですね。なんだか変ですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:24:18",
+      "utterance": "で、あなたは何かリアクションされたのですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T20:26:03",
+      "utterance": "えっ？て感じでした。えっ自分が言うたやん？ですよ。ただ会社の中であまりしゃべっているのもという感じだったので"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:26:19",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T20:28:12",
+      "utterance": "いつも出勤のときによく会う場所があったので明日、そこに来てといいました。彼女の不思議発言の真意が知りたかったので"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:28:31",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T20:28:56",
+      "utterance": "でも来ませんでした。それぐらいからなんですよ・・・たぶんしゃべらなくなったのは"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T20:29:09",
+      "utterance": "すぐではないですよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T20:29:19",
+      "utterance": "徐々にかな？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:29:45",
+      "utterance": "そうだったんですね。あなたが真意を知りたいと思われるのもとても自然なことだと思います。ただ、今までの話をお聴きしていて感じたのは、"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T20:30:36",
+      "utterance": "ほー、ほー、聞かせてください。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:30:47",
+      "utterance": "社交的ではない彼女が、お菓子のリクエストをしたというのは、相当あなたに心を開いていたのかもしれないと思うのですが、如何ですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T20:32:20",
+      "utterance": "いやーーー、ないと思いますよ。心は開いていたかもしれませんがそれ以上はないですよ。たぶん"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T20:32:52",
+      "utterance": "開いていましたね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:33:20",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:33:52",
+      "utterance": "だから、リクエストに応えてもらったことがとても嬉しかったのかもしれませんね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T20:34:18",
+      "utterance": "コンビニに行くとき偶然会ったことがあって・・・なんか買ってくださいとついて来たことがありましたわ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:34:37",
+      "utterance": "そんなこともあったんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T20:34:53",
+      "utterance": "でもなんで無視？"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T20:35:07",
+      "utterance": "わからんでしょ？？？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:35:17",
+      "utterance": "なかなか難しい問題ですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:35:36",
+      "utterance": "分からないと思われるのも当然だと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T20:36:01",
+      "utterance": "むずかしい。美人女性の心はこんなもんなんですかね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:36:06",
+      "utterance": "でも、直接尋ねることはできないんですよね?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:36:38",
+      "utterance": "美人が関係しているかどうかは分かりませんが、"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T20:36:44",
+      "utterance": "あの雰囲気は・・・近づくなオーラありますからね・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:37:11",
+      "utterance": "あなたの問題というよりも、彼女の中に何かあるのかもしれませんね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:37:42",
+      "utterance": "美人というだけではなく、人を寄せ付けない何かが"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T20:37:58",
+      "utterance": "たぶん。というかそれしかないんですよ。ただ気になるんですよ。これだけ態度が変わると・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:38:15",
+      "utterance": "勿論、そうですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:38:27",
+      "utterance": "それは分かります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:38:48",
+      "utterance": "今日は、時間になっていますので"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:40:20",
+      "utterance": "もし、宜しければ次回、もう少し、女性のことを理解しつつあなたの気持ちのもやもやを解決していけたらと思いますが、如何ですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T20:41:12",
+      "utterance": "これ、もう少しいろんな人に相談しよ。ほんとに最近の出来事で一番？？？なんです。ぜひ、お願いします。ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:41:36",
+      "utterance": "こちらこそ、ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:42:09",
+      "utterance": "★時間が押してしまってすみませんでした。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T20:42:31",
+      "utterance": "いえいえ、ありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T20:42:49",
+      "utterance": "どうしたらいいのかな"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:43:06",
+      "utterance": "★では、ロールプレイを終了しますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:43:26",
+      "utterance": "機械操作はカウンセラー役しかできないので。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-13T20:43:31",
+      "utterance": "はい、了解いたしました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-13T20:43:50",
+      "utterance": "では失礼します。ありがとうございました。"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "会社の女性からの突然の無視問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1172,
+    "評価作成日時": "2021-01-13T20:51:00",
+    "クライアント役ID": 150,
+    "カウンセラー役ID": 91,
+    "点数": 72,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 4,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 5,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1172,
+    "evaluation_created_at": "2021-01-13T20:51:00",
+    "client_id": 150,
+    "counselor_id": 91,
+    "score": 72,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

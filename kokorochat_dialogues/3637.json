@@ -1,0 +1,839 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-06-17T19:21:36",
+      "utterance": "こんばんは。本日はよろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T19:21:54",
+      "utterance": "時間になりましたら始めさせていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:22:07",
+      "utterance": "はい、よろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T19:30:20",
+      "utterance": "こんばんは。相談員です。本日はご相談にお越しいただきありがとうございます。はじめにご年齢と性別を教えていただけますか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:32:05",
+      "utterance": "21歳、女性です"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:32:09",
+      "utterance": "お願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T19:32:22",
+      "utterance": "ありがとうございます。本日はどのようなご相談ですか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:32:39",
+      "utterance": "就活のことで相談しにきました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T19:33:28",
+      "utterance": "かしこまりました。就活のどんなことをご相談したい感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:33:43",
+      "utterance": "今内定もらってる会社があるんですけど"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:33:50",
+      "utterance": "もう研修とかも一応進んでて"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T19:34:00",
+      "utterance": "ええ、"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:34:03",
+      "utterance": "でも後々、やっぱりその会社で働きたくないと思って、悩んでます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T19:34:45",
+      "utterance": "それはお悩みですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:34:51",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T19:35:46",
+      "utterance": "その会社で働きたくないと思っている気持ち、もう少し詳しく教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:36:03",
+      "utterance": "やりたいと思えないんですよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:36:04",
+      "utterance": "なんか"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:36:14",
+      "utterance": "医療機器メーカーの営業なんですけど"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T19:36:17",
+      "utterance": "はい（聞いております）"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:36:23",
+      "utterance": "医療機器とか本当はあんまり興味ないので"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:36:29",
+      "utterance": "働きたくなくなってきました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T19:37:02",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:37:09",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T19:38:56",
+      "utterance": "それはお困りですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:39:05",
+      "utterance": "はい、そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T19:39:55",
+      "utterance": "ちなみに就活はどうされていますか？他にも検討されている感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:40:10",
+      "utterance": "他にはまだ検討できてないですね、、"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:40:15",
+      "utterance": "とりあえずどうしよって思いながら"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:40:26",
+      "utterance": "この内定もらった職場でインターン続けてます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T19:40:48",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:40:52",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T19:41:56",
+      "utterance": "インターンを続けてみて、お気持ちとしては「働きたくなくなってきた」という感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:42:06",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T19:43:13",
+      "utterance": "そうでしたか。まだ検討されてないとなると、焦りや不安などもあるのではないでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:43:34",
+      "utterance": "そうですね、焦りますし不安です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T19:44:43",
+      "utterance": "それはお辛いですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:44:51",
+      "utterance": "はい、辛いですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T19:46:07",
+      "utterance": "ええ。ちなみに他にまだ検討されてない理由は、どんなことがあるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:46:35",
+      "utterance": "うーん、今のところで働きながら、他を探すのはちょっと罪悪感もありますし"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:46:49",
+      "utterance": "今のところを続けるか、内定を辞退するのか決めてからの方が"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:46:53",
+      "utterance": "いいのかなって思いました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T19:48:03",
+      "utterance": "ええ。罪悪感を感じるため、続けるか辞退するかハッキリした方がいいとお考えなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:48:14",
+      "utterance": "そうなんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T19:49:33",
+      "utterance": "それは本当に悩んでしまうのも無理はないと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:49:43",
+      "utterance": "はい、そうですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T19:50:30",
+      "utterance": "ちなみにこのことで、どなたにご相談されましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:50:41",
+      "utterance": "一回"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:50:45",
+      "utterance": "このインターン先を"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:50:53",
+      "utterance": "紹介してくれたお世話になってる人に"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:50:56",
+      "utterance": "相談したら"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T19:51:02",
+      "utterance": "はい（聞いております）"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:51:08",
+      "utterance": "それは一時的な気持ちだから"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:51:15",
+      "utterance": "一回その内定もらってるところで"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:51:22",
+      "utterance": "頑張ったほうがいいんじゃない？といわれ"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:51:37",
+      "utterance": "まあたしなにそうなのかなっておもって"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T19:51:39",
+      "utterance": "ええ、"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:51:44",
+      "utterance": "いまにいたります"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T19:53:19",
+      "utterance": "そうだったんですね。その言葉を聞いて、確かになと思ったようですが、お気持ちとしてはどう感じましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:53:39",
+      "utterance": "うーんなんか"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:53:54",
+      "utterance": "あんまり本気で寄り添ってくれてる感は感じなくて"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:53:57",
+      "utterance": "流されてる感というか"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:54:03",
+      "utterance": "まあその人が紹介してくれたんで"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:54:07",
+      "utterance": "私がここでやめたら"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T19:54:10",
+      "utterance": "はい、"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:54:16",
+      "utterance": "その人のメンツが潰れるから"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:54:28",
+      "utterance": "向こうはそういってるのかなーって感じで"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:54:35",
+      "utterance": "あんまり腑に落ちなかったですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:54:44",
+      "utterance": "でもまあ"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:54:51",
+      "utterance": "その人結構すごい経営者なので"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T19:54:52",
+      "utterance": "ええ、"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:55:05",
+      "utterance": "その人がそういうなら、そうなのかなあ、、っていう感じですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T19:55:50",
+      "utterance": "相談者さんはあんまり腑に落ちなかったのですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:56:11",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T19:57:39",
+      "utterance": "では今日のご相談ではどんなことを望んでおられますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T19:58:04",
+      "utterance": "そーですねー。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T19:59:58",
+      "utterance": "ええ、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T20:00:41",
+      "utterance": "ゆっくりでいいですからね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:00:47",
+      "utterance": "まあ自分の気持ちを確かめたいですかね…"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:00:57",
+      "utterance": "どんなことを望んでるのか"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:01:03",
+      "utterance": "あんまり自分でもわからないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T20:01:48",
+      "utterance": "承知しました。あなたにとって大事なことなので一緒に考えていきましょうね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:02:05",
+      "utterance": "はい、ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T20:03:45",
+      "utterance": "では、大きく分けると二つ選択肢があると思います。「内定先で頑張る」または「別なところを探す」と。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:03:56",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T20:04:25",
+      "utterance": "それぞれ、メリットとデメリットがあるとすると、どんなことがありそうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:04:48",
+      "utterance": "内定先で頑張るメリットは"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:04:55",
+      "utterance": "家族を安心させられることですかね"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:05:01",
+      "utterance": "デメリットは、自分がしんどいこと"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:05:12",
+      "utterance": "別のところは"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:05:20",
+      "utterance": "メリットは"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T20:05:34",
+      "utterance": "ええ（お話続けてくださいね）"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:05:34",
+      "utterance": "そのしんどさから逃れられることと"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:05:38",
+      "utterance": "デメリットは"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:05:55",
+      "utterance": "親を悲しませたり、安心できる確証がないことですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T20:06:37",
+      "utterance": "しっかりと分析されているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:06:43",
+      "utterance": "そうですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T20:07:37",
+      "utterance": "そう思いますよ。ちなみに内定先で頑張るメリットとして、家族を安心させられることとありますが、"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:07:44",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T20:07:59",
+      "utterance": "その内定先はご家族が望まれている感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:08:15",
+      "utterance": "そうですね、安定したところなので"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:08:21",
+      "utterance": "内定取った時は喜んでました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T20:09:20",
+      "utterance": "そうだったんですね。その喜びがあったゆえに、辞退するとなると悲しませてしまうとお考えなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:09:30",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T20:10:43",
+      "utterance": "そう思うとなかなか辞退するとなると勇気がいるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:10:56",
+      "utterance": "そうなんですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T20:12:42",
+      "utterance": "これまでのお話を聞いていたら、しんどい思いを抱えておられるのが伝わってきます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:12:58",
+      "utterance": "はい、ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T20:13:36",
+      "utterance": "ちなみに、内定先で一回頑張ってみるとしたら、"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:13:46",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T20:14:45",
+      "utterance": "働いている自分自身はどんな様子か、イメージが湧きそうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:15:04",
+      "utterance": "しんどいけど頑張ってるイメージですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T20:15:51",
+      "utterance": "しんどさを抱えながら頑張ってる感じですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:15:56",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T20:16:26",
+      "utterance": "反対に、他のところで働く場合はどんなイメージが湧きますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:16:46",
+      "utterance": "その他のところがどこかまだ決まってないので"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:16:53",
+      "utterance": "イメージが湧かないですね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T20:17:16",
+      "utterance": "分かりました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:17:34",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T20:19:12",
+      "utterance": "例えばですが、内定先で頑張ったとして途中で転職することもあるかもしれませんが、その場合もご両親は悲しみそうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:19:54",
+      "utterance": "それはどうだろう…わからないですね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T20:20:27",
+      "utterance": "お話を聞いていて、相談者さんは"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:20:40",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T20:21:54",
+      "utterance": "内定先やそこを紹介してくれた方、ご両親等にとても気を使っていて、ご自身の気持ちは後回しにされてるのかなと感じたのですが、どう思われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:22:20",
+      "utterance": "そーですね。。それはあるかもしれないですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T20:22:38",
+      "utterance": "そう思われるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:22:44",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T20:24:25",
+      "utterance": "内定先で働くことは、「やりたいと思えない」「あんまり興味がない」「働きたくなくなってきた」とのことからかなりしんどい思いをされるのではないかと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:24:33",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T20:25:52",
+      "utterance": "もし内定先に入ったとして、途中で転職したいと思っても、「ご両親を悲しませるのではないか？」と思われるのではないでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:26:20",
+      "utterance": "えーどうなんでしょう、、途中で転職とかは今は先のことすぎて、イメージがわかないですね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T20:27:22",
+      "utterance": "そうですよね、ご両親の気持ち（内定を喜んだ）を優先している様子からの推測でした。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:27:45",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T20:28:23",
+      "utterance": "なので自分のお気持ちを第一に優先して選んでいただきたいと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T20:28:42",
+      "utterance": "そうすると、後々後悔することはありませんからね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:28:55",
+      "utterance": "そーですね、、自分の気持ちを優先できたらいいんですけどね"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:29:14",
+      "utterance": "優先の仕方がわからないので"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T20:30:16",
+      "utterance": "しんどさから逃げてもいいのではないでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:30:33",
+      "utterance": "逃げるってどうやって逃げるんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:30:53",
+      "utterance": "すみません、ご飯に呼ばれたので"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:31:07",
+      "utterance": "ここらへんで失礼します"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T20:31:18",
+      "utterance": "自分の気持ち（感情）を優先してあげるということです。例えば、これが食べたいと思ったらそれを食べる、というようにです。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:31:37",
+      "utterance": "それがちょっとよくわからないです"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:32:04",
+      "utterance": "このケースにおける優先するというのは、内定先を辞退するということでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T20:32:41",
+      "utterance": "そう思いますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:33:02",
+      "utterance": "それができないから悩んでおります。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:33:19",
+      "utterance": "すみませんがここまでで離脱させていただきます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T20:34:17",
+      "utterance": "おそらくですが、辞退したら、悲しませる、とか内定先に悪い、と思うかもしれませんが、そう思う必要はないですからね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:35:03",
+      "utterance": "はい、わかりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T20:35:48",
+      "utterance": "すみません話の途中ですが、終了させていただきますね。内定先を選ぶのも選択肢の一つではありますからね。どんな決断であれ、あなたのことを応援しています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T20:36:21",
+      "utterance": "本日はありがとうございました。それでは失礼いたします。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-17T20:36:38",
+      "utterance": "（本日は貴重なお時間ありがとうございました！お疲れ様でした。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T20:36:44",
+      "utterance": "（お疲れ様でした。ありがとうございました。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-17T20:37:35",
+      "utterance": "（お時間ある際に評価いただけたらと思います。よろしくお願いいたします。それでは終了させていただきます。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "内定先の辞退の悩み"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3637,
+    "評価作成日時": "2022-06-20T23:07:00",
+    "クライアント役ID": 290,
+    "カウンセラー役ID": 136,
+    "点数": 48,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 1,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 1,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3637,
+    "evaluation_created_at": "2022-06-20T23:07:00",
+    "client_id": 290,
+    "counselor_id": 136,
+    "score": 48,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 1,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,654 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-05-07T09:52:43",
+      "utterance": "（おはようございます。相談員役です。本日はよろしくお願いいたします。時間になりましたら始めさせていただきます。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T09:53:17",
+      "utterance": "(宜しくお願い致します。)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T09:53:33",
+      "utterance": "（相談者の設定を中高生の相談でお願いしたいのですが、よろしいでしょうか？）"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T09:54:01",
+      "utterance": "(承知致しました)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T09:54:29",
+      "utterance": "（ありがとうございます。よろしくお願いいたします。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T09:55:03",
+      "utterance": "(こちらこそ宜しくお願い致します)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:00:32",
+      "utterance": "こんにちは。相談員です。ご相談にお越しいただきありがとうございます。はじめに年齢と性別、今日の相談内容を教えていただけますか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:01:04",
+      "utterance": "ハイ高3の女子です"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:01:14",
+      "utterance": "やる気が出ません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:01:56",
+      "utterance": "そうだったんですね。お困りですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:02:17",
+      "utterance": "ハイ"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:02:48",
+      "utterance": "どうしたらやる気が出ますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:03:22",
+      "utterance": "ええ。一緒に考えていきましょうね。それはどういう時に出ないとか、逆にこういう時だったら出るとか、もう少し詳しく教えてもらえますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:04:17",
+      "utterance": "いつも出ない感じです"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:04:46",
+      "utterance": "やらなきゃいけないから仕方なくやってる感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:05:18",
+      "utterance": "そうなんだ・・・。そう思うと疲れてしまいますね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:05:41",
+      "utterance": "ハイ"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:05:52",
+      "utterance": "やらなきゃいけないことは、具体的にどんなことなのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:06:38",
+      "utterance": "受験勉強とかが多いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:07:34",
+      "utterance": "そうなんだ。受験勉強を頑張っている最中なのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:07:53",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:08:35",
+      "utterance": "もう志望校は決まっている感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:09:13",
+      "utterance": "幾つか候補はあるんですが…"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:10:09",
+      "utterance": "そうなんですね。これから候補を絞っていく感じなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:10:24",
+      "utterance": "そうなります"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:10:47",
+      "utterance": "でも、どこでもいい様な気もします"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:11:24",
+      "utterance": "将来のイメージがつかなくて"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:12:36",
+      "utterance": "なるほど・・・将来のことはイメージがつかないからこそ、そう思うのは自然なことだと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:12:56",
+      "utterance": "やっぱりそうですよね"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:13:14",
+      "utterance": "どうしたらいいですかね？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:14:41",
+      "utterance": "そう思いますよ。そんな中、受験勉強をしているのは、親から進学するよう言われたからとか、どんな理由があるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:15:39",
+      "utterance": "いや、親は特に好きにしていいと思っているみたいな感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:16:03",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:16:26",
+      "utterance": "進学校だから、何となく大学かなあと"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:17:17",
+      "utterance": "なるほど。そう考えているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:17:32",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:18:45",
+      "utterance": "いつも勉強はどんな感じでしているのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:20:03",
+      "utterance": "どんな感じ一応時間を決めてやってます"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:20:29",
+      "utterance": "でも集中出来てないことが多いかも"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:20:50",
+      "utterance": "やる気が出ないのでw"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:21:07",
+      "utterance": "そっか。そんな感じなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:21:14",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:22:15",
+      "utterance": "周りの友達とかの進路はどんな感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:22:45",
+      "utterance": "みんなほとんど決まってると思います"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:22:59",
+      "utterance": "3年ですから"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:23:16",
+      "utterance": "普通そうですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:23:40",
+      "utterance": "そうなんですね。だとすると焦りを感じたりしているのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:24:04",
+      "utterance": "それもあるかもです"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:24:58",
+      "utterance": "相談員さんはどうやって勉強に集中してたんですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:25:27",
+      "utterance": "そうなんだね。焦りもあったり、でもやる気が出ないなか勉強するのはしんどいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:25:44",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:26:11",
+      "utterance": "進路ってどうやってきめたんですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:27:48",
+      "utterance": "私は、本当に集中力がない人なので、「1分だけまずやってみよう」を達成したら「もう1分だけやろう」を繰り返してやっていましたよ。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:28:13",
+      "utterance": "1分、なるほど"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:28:50",
+      "utterance": "1分って短いですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:28:55",
+      "utterance": "進路は何となくで決めたかもしれません。だから大人になって、「もっとこうすればよかった」と後悔しています。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:29:09",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:29:35",
+      "utterance": "後悔しないためにはどうすればいいんですかね？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:30:18",
+      "utterance": "1分だと集中力に自信がない人でも抵抗を感じにくいので、参考になればと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:31:04",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:31:16",
+      "utterance": "例えばですが、過去に後悔したことってどんなことがありましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:31:52",
+      "utterance": "私ですか？何だろう"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:33:05",
+      "utterance": "勉強に限らず、友人とか恋愛とか何か取り組んだこととか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:34:22",
+      "utterance": "特に無いかも"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:35:09",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:35:18",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:36:26",
+      "utterance": "でも、大学やその先ってこれからの人生が決まると思うし、後悔しない様にしたいです"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:37:02",
+      "utterance": "相談員さんの後悔ってどんなことだったんですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:37:08",
+      "utterance": "ええ。私はあなたが後悔しない選択をしてもらいたいと思っています。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:37:53",
+      "utterance": "やっぱり後悔しない様にした方がいいですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:39:03",
+      "utterance": "そうですね。私の場合は周りに流されて生きてきたことですかね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:39:49",
+      "utterance": "そのせいで自分の好きでもないことに時間やお金を費やしたりしました。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:40:04",
+      "utterance": "そうなんですね私もそうなるかもどうしたら後悔しないように出来ますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:41:27",
+      "utterance": "自分が納得できる選択をすることだと思っています。例えば、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:42:35",
+      "utterance": "自分が好きだなと思って付き合いたいと思っても、告白できずにいて他の子にとられたりしたら、それって後悔すると思うんです。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:42:52",
+      "utterance": "なるほど"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:43:49",
+      "utterance": "でも、告ってフラれてたら？"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:44:18",
+      "utterance": "フラれたら？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:44:28",
+      "utterance": "告白してダメだったのと、告白せずにダメだったのって、結果は同じでも、後悔の差は大きいと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:44:29",
+      "utterance": "です"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:44:39",
+      "utterance": "ああ"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:44:55",
+      "utterance": "そうかもしれないですね"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:45:26",
+      "utterance": "でもショックは受けたくないかなあ"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:45:42",
+      "utterance": "立ち直れないかも"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:46:57",
+      "utterance": "ええ。そう思いますよね。告白してダメだったら、落ち込んでしまいますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:47:08",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:48:14",
+      "utterance": "でもその経験が、あなたをより魅力的な人にさせたり、成長させてくれることが多いにありますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:48:47",
+      "utterance": "そうなんだ…"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:49:50",
+      "utterance": "それで魅力的になるって、あまりイメージがつかないです"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:50:09",
+      "utterance": "どういうことですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:51:41",
+      "utterance": "例えば、フラれた人がその悔しさから、自分を磨いて、とてもオシャレになったり綺麗になったりするんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:51:57",
+      "utterance": "また同じ悔しさを経験しないために。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:52:47",
+      "utterance": "そうなのか…"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:53:44",
+      "utterance": "それでもまたフラれたら余計にキツくないですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:53:44",
+      "utterance": "それが納得しないまま、何となく生きている人は、そういうショックとかは受けないけど、そういう成長は得られないし、後々後悔に気づく可能性があります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:55:13",
+      "utterance": "それはとても落ち込むと思います。でも落ち込んだ分だけ、人として魅力的になる可能性をたくさん秘めていると思いますよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:55:28",
+      "utterance": "話が少しそれてしまいましたが、あなたがこれから、やってみたいと思うことって、どんなことがありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:55:56",
+      "utterance": "それが分からなくて"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:56:23",
+      "utterance": "特に何もないので"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:56:40",
+      "utterance": "ええ。もしかしたら今まで考えてなかったことかもしれません。すぐに見つからなくても大丈夫ですよ。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:56:54",
+      "utterance": "そうなんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:57:13",
+      "utterance": "でも進路って決めなきゃですよね？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:58:15",
+      "utterance": "ええ。大丈夫ですよ。私は見つからないまま、何とかなくで大学進学してしまったので。でもあなたにはまだ探す時間が残されていますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T10:59:34",
+      "utterance": "大丈夫ですかね？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T10:59:47",
+      "utterance": "やりたいことがわからない場合は、まずはやりたくないことをリストアップすることも一つです。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T11:00:04",
+      "utterance": "なるほど！"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T11:00:26",
+      "utterance": "大丈夫ですよ。少しずつ考えていくことで、あなたが後悔する可能性は減らせると思いますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T11:00:59",
+      "utterance": "努力や苦労はしたくないです！"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T11:01:30",
+      "utterance": "あなたが今日来てくれたのも、それだけ進路のことを考えている証拠なのですからね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T11:02:13",
+      "utterance": "ですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T11:02:33",
+      "utterance": "今日はお時間が来てしまったので、またお話したくなったら、ここで一緒に考えていきましょうね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T11:02:49",
+      "utterance": "わかりました"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T11:02:58",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T11:03:31",
+      "utterance": "今日はありがとうございました。あなたのことを心から応援しています。それでは失礼します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T11:04:06",
+      "utterance": "（ロープレお疲れ様でした。ありがとうございました。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-07T11:04:33",
+      "utterance": "(大変お疲れ様でした，ありがとうございました)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-07T11:04:40",
+      "utterance": "（お手隙に評価頂けたら幸いです。よろしくお願いいたします。それでは終了いたします。ありがとうございました。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "進学先の選択に迷いがある"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4999,
+    "評価作成日時": "2023-05-07T11:41:00",
+    "クライアント役ID": 179,
+    "カウンセラー役ID": 136,
+    "点数": 72,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 4,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4999,
+    "evaluation_created_at": "2023-05-07T11:41:00",
+    "client_id": 179,
+    "counselor_id": 136,
+    "score": 72,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

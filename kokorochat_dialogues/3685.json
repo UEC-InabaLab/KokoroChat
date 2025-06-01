@@ -1,0 +1,374 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-07-06T11:21:43",
+      "utterance": "待機しています。時間になったら始めます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T11:22:33",
+      "utterance": "（本日は宜しくお願い致します）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T11:22:49",
+      "utterance": "こちらこそよろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T11:30:06",
+      "utterance": "こんにちは、相談員です。年齢、性別、相談内容を教えていただけますか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T11:30:51",
+      "utterance": "20歳　男　自分に自信が持てなくて悩んでます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T11:32:16",
+      "utterance": "そうなんですね。自分に自信が持てないとは、どういう事かもう少し詳しく教えていただけますか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T11:33:15",
+      "utterance": "昔からなにやっても上手くいかなくて、自分のことが好きになれないし、周りの人が羨ましく思えてしまいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T11:34:30",
+      "utterance": "そうなんですね。それはお辛いですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T11:34:46",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T11:35:42",
+      "utterance": "そういう気持ちになったのは、いつごろからですか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T11:36:08",
+      "utterance": "そうですね、高校生になってからだと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T11:37:04",
+      "utterance": "そうなんですね。何か原因があったのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T11:38:35",
+      "utterance": "恋愛とか学校生活とか上手くいかなくて、劣等感を感じるようになったのかもしれません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T11:39:35",
+      "utterance": "そうですか。それはお悩みですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T11:40:04",
+      "utterance": "そうなんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T11:41:42",
+      "utterance": "学校生活で上手くいかなかったというのは、どういった事でしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T11:42:28",
+      "utterance": "なんか上手く馴染めなくてバカにされることが多かったです"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T11:43:00",
+      "utterance": "勉強もあまり出来なかったですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T11:43:51",
+      "utterance": "そのような状況だと、お辛い気持ちになりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T11:45:01",
+      "utterance": "そうですねそこで自信が無くなっていったかもしれないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T11:46:24",
+      "utterance": "そうなんですね。友人関係とかはどういった感じだったんでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T11:47:14",
+      "utterance": "一応居たは居たんですけど、あまり心は開いてなかったです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T11:48:40",
+      "utterance": "趣味とかは、どういったものがあるのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T11:49:32",
+      "utterance": "趣味っていうほどでは無いですけど、ゲームとか映画観たりするのが好きですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T11:50:29",
+      "utterance": "そういった時は、リラックスできているのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T11:51:26",
+      "utterance": "そうですね落ち着いてる時間だと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T11:52:51",
+      "utterance": "そうなんですね。今、一番苦しいと思う事は、どんなことですか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T11:53:25",
+      "utterance": "自分に自信が持てないことです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T11:54:16",
+      "utterance": "それは、不安になりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T11:55:10",
+      "utterance": "劣等感が強いのをなんとかしたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T11:56:14",
+      "utterance": "そうなんですね。何か人と比べてしまうことが、あるんでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T11:56:55",
+      "utterance": "はい人と比べて劣ってると思ってしまうのが辛いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T11:58:07",
+      "utterance": "今は、大学生ですか、それとも働かれているのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T11:58:30",
+      "utterance": "フリーターです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T11:59:16",
+      "utterance": "どういったお仕事をされていますか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T11:59:48",
+      "utterance": "飲食店のデリバリーの仕事をしています"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T12:01:05",
+      "utterance": "そうなんですね。今の仕事では何か困ったことは、あるのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T12:02:12",
+      "utterance": "仕事は無難にこなしていると思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T12:03:41",
+      "utterance": "そうですか。劣等感とは、どういった事に対して一番思いますか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T12:05:10",
+      "utterance": "みんな人間関係や人生が上手くいってて楽しそうに見えちゃうんですよね"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T12:05:32",
+      "utterance": "自分はやりたいことも見つからないし、なにかやり遂げたこともないんで"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T12:06:44",
+      "utterance": "そうなんですね。それは辛いですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T12:07:19",
+      "utterance": "どうしたら自分に自信持てるようになるんですかね、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T12:09:54",
+      "utterance": "そうですね。小さな目的を作って進んでいくというのは、どうでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T12:10:25",
+      "utterance": "小さな目標というのは？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T12:13:27",
+      "utterance": "まず、あなたが今後どういった事をしていきたいか考えて、少しずつ、それに近づけていける方向を考えてみるというのはどうでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T12:15:08",
+      "utterance": "どういう事をしたいか考えないといけないとは思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T12:16:31",
+      "utterance": "そうですね。そんな簡単には行かないからお悩みなんですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T12:17:07",
+      "utterance": "考えたりはするんですけど、なにも続かない気がしちゃって、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T12:19:54",
+      "utterance": "続かなくてもいいので、何か少しずつでもチャレンジするというのはどうでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T12:20:55",
+      "utterance": "チャレンジはしたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T12:22:26",
+      "utterance": "そうなんですね。でもそう簡単には思いつきませんよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T12:23:27",
+      "utterance": "うーんそうですね、今のところは"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T12:25:21",
+      "utterance": "どういった事に楽しいと思うことがありますか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T12:28:11",
+      "utterance": "あまり思いつかないです家にいるときは楽しいというか落ち着きますけど"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T12:31:13",
+      "utterance": "（そろそろ時間なので終了しますか？）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T12:31:37",
+      "utterance": "そうなんですね。少しでも、小さな目標を見つけられて、少しずつでもチャレンジができるような事が、今後考えられるといいと思いますがいかがでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T12:32:47",
+      "utterance": "また考えてみて何かあれば相談にこようと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T12:33:04",
+      "utterance": "今日はお話を聞かせていただきありがとうございました。これで終わりにさせていただいてもよろしいでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T12:33:21",
+      "utterance": "はい大丈夫です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T12:33:33",
+      "utterance": "ありがとうございました。これで終わりにさせていただきます。"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "自分に自信が持てない悩み"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3685,
+    "評価作成日時": "2022-07-06T12:51:00",
+    "クライアント役ID": 280,
+    "カウンセラー役ID": 224,
+    "点数": 53,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3685,
+    "evaluation_created_at": "2022-07-06T12:51:00",
+    "client_id": 280,
+    "counselor_id": 224,
+    "score": 53,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

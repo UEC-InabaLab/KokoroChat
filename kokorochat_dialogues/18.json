@@ -1,0 +1,904 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-03-23T13:51:05",
+      "utterance": "こんにちは。相談員です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T13:51:33",
+      "utterance": "ご都合がついたら話しかけてくださいね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T13:52:32",
+      "utterance": "お差支えなかったら、始めに年齢と性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T13:55:21",
+      "utterance": "20代女性"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T13:55:31",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T13:55:33",
+      "utterance": "よろしくおねがいします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T13:55:42",
+      "utterance": "よろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T13:55:58",
+      "utterance": "今日はどのようなご相談ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T13:56:40",
+      "utterance": "なんだか疲れてしまって、このまま消えてしまえたらと思うんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T13:57:14",
+      "utterance": "そうなのですね・・それはお辛いですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T13:57:40",
+      "utterance": "もう少し詳しくお話聞かせていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T13:58:04",
+      "utterance": "なんで生きてるのか、生きる意味ってなんだろうと考えます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T13:58:28",
+      "utterance": "そう考えていらっしゃるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T13:58:36",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T13:58:59",
+      "utterance": "そう考えるようになったのはいつ頃からなのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T13:59:28",
+      "utterance": "いつ頃からだろう..."
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T13:59:44",
+      "utterance": "空を飛べたらいいなと思ってた"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:00:01",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:00:34",
+      "utterance": "どのようなことからそう思った感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:00:45",
+      "utterance": "このまま飛んだら楽になるのかなって高校生の時に、思ってました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:01:38",
+      "utterance": "そうだったのですね・・・高校生の特なにかあった感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:01:59",
+      "utterance": "それからよく屋上とか、景色のいいところとか好きで、ぼーっとしていました"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:02:30",
+      "utterance": "何もなかった"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:02:56",
+      "utterance": "そうでしたか。特になにもないけどそう思っていらっしゃったのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:03:19",
+      "utterance": "はい。私は何もなかった。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:04:02",
+      "utterance": "そうだったのですね。お友達かどなかたかに何かあった感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:04:44",
+      "utterance": "いいえ。友達とはよく遊んでました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:05:35",
+      "utterance": "そうでしたか。景色のいいところで眺めているとどんな感じでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:05:59",
+      "utterance": "よくわからないけど、涙が出てきます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:06:44",
+      "utterance": "そうだったのですね・・・なんだか悲しい、寂しいといったかんじでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:07:02",
+      "utterance": "よくわからない"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:07:39",
+      "utterance": "けど、母のことを思い出しています。"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:08:26",
+      "utterance": "そばに行きたいなって思う時もある"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:08:54",
+      "utterance": "そうなのですね・・お母さまのことを懐かしく思われているのですね・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:09:26",
+      "utterance": "お母さまのどのようなことをおもいだされている感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:09:32",
+      "utterance": "懐かしく、、、、、そうかもしれません"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:10:02",
+      "utterance": "闘病中の母の姿です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:10:03",
+      "utterance": "お母さまがそばにいなくて寂しい思いをされているのですね・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:10:16",
+      "utterance": "行き違いごめんなさい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:10:34",
+      "utterance": "お母さまはご病気だったのですね・・"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:11:20",
+      "utterance": "母と父が喧嘩してて、私は何もできなくて母はベランダから飛び降りようとしました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:11:42",
+      "utterance": "それはショックでしたよね・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:12:03",
+      "utterance": "心臓がとまるほどびっくりされたと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:13:04",
+      "utterance": "そのときそこにいらしたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:13:10",
+      "utterance": "私は何もできなくて"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:13:34",
+      "utterance": "母が私の部屋を通り抜けベランダに行ったんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:14:12",
+      "utterance": "そうでしたか・・・それはびっくりして、動けなくなってしまいますよね・・"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:15:17",
+      "utterance": "昨年母は亡くなりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:15:55",
+      "utterance": "とても悲しい思いをされたのですね・・"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:16:32",
+      "utterance": "誰も母の辛い闘病を理解しなかったからだと思う。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:16:53",
+      "utterance": "そうお感じなのですね・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:17:15",
+      "utterance": "どのようなことから、そうお感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:17:53",
+      "utterance": "母が父にあなたのせいで病気になったと言っていました"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:18:44",
+      "utterance": "母を怒らせるようなことを私もしていたと思う"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:19:19",
+      "utterance": "そうだったのですね。そう思うとつらいですよね・・・例えばどんなとなのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:20:24",
+      "utterance": "ふと、景色を見ていると、スーッと引き寄せられて、飛び降りようと思うようになりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:21:14",
+      "utterance": "それほど辛く苦しい思いをなさっているのですね・・"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:21:44",
+      "utterance": "いつも思い出しているわけではありません。"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:22:15",
+      "utterance": "なんとなく、高いところにいると、飛び降りようという気持ちになります"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:22:38",
+      "utterance": "死にたいのではないです。"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:23:07",
+      "utterance": "ふっと空を飛んで消えてしまいたいのです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:23:25",
+      "utterance": "そうですか・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:24:19",
+      "utterance": "高いところにはどのようなときにいく感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:24:34",
+      "utterance": "仕事は順調で次年度の配置も決まり、忙しくしていて、それなりにやりがいはあります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:25:09",
+      "utterance": "そうなのですね・・でも消えたい、と思われてしまうのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:25:51",
+      "utterance": "仕事の昼休みは屋上にいるし、高校時代も大学時代もよく空を見に屋上に上がります"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:26:24",
+      "utterance": "生きるってなんなのでしょう"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:27:10",
+      "utterance": "空を見ると、そう考えていらっしゃる感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:27:21",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:28:16",
+      "utterance": "いつのまにか時間が過ぎていて、慌てて仕事に戻ります"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:28:35",
+      "utterance": "そんな繰り返しの日々です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:30:28",
+      "utterance": "母おやの死に対して自分を責めている、そこからくる虚無感が見立てで、あなたは悪くない、という支援を考えました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:33:16",
+      "utterance": "空を見ているとき母親思い出す、というところに戻り、そこから飛び降りの件にもどり、何もできなかったあなたは悪くない、というように考えました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:34:56",
+      "utterance": "あと、闘病のときに怒らせてしまった、ということも触れようと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:35:38",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:36:26",
+      "utterance": "自分にはなんの価値もないと思うんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:37:08",
+      "utterance": "そうお感じなのですね・・そう思うと苦しいですよね・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:37:14",
+      "utterance": "これまでのお話を少し整理させていただきますね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:37:25",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:37:56",
+      "utterance": "なんだか疲れて、このまま消えてしまえたらと思う。生きる意味ってなんだろうと考える。"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:38:39",
+      "utterance": "はい、今日はそう思いました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:39:08",
+      "utterance": "これは今日思われたのですね。ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:39:21",
+      "utterance": "続けますね。高いところで空を見て、空を飛んでこのまま消えてしまいたいと思う。"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:39:37",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:39:51",
+      "utterance": "ふと涙がでることもある。"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:40:15",
+      "utterance": "はい。高校生の時からそんなことが何度もあります"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:40:40",
+      "utterance": "そうだったのですね。ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:40:54",
+      "utterance": "続けますね。闘病中のお母さまの姿も思い出される。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:41:39",
+      "utterance": "お母さまがお父さまとけんかしたとき、自分の部屋を通ってベランダから飛び降りようとなさった"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:41:51",
+      "utterance": "そのとき何もできなかった。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:42:27",
+      "utterance": "お母さまが闘病中のときも、おこらせてしまったり、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:42:43",
+      "utterance": "苦しさをわかってあげられなかった"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:43:08",
+      "utterance": "いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:43:37",
+      "utterance": "母のことを一も考えているわけではありません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:43:53",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:43:58",
+      "utterance": "いつも考えているわけではありませんです"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:45:20",
+      "utterance": "ぼーっと空を眺めてるんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:46:03",
+      "utterance": "そうなのですね。何も考えず、という感じなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:46:31",
+      "utterance": "ただ、ずーっと眺めてると涙が出てきます"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:47:05",
+      "utterance": "すると母の姿が思い出されるのです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:47:17",
+      "utterance": "そうですか・・何も考えないけど心が何か感じていらっしゃるのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:47:40",
+      "utterance": "そのときにお母さまの姿が思い出されるのですね・・"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:47:43",
+      "utterance": "わからないけど、時間だけが経っています"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:47:47",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:48:31",
+      "utterance": "お話を伺って、お母さまを助けられなかった、悔しい、悲しい思いから、ご自分を責めていらっしゃるのかな、と感じました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:48:57",
+      "utterance": "でも動けなかったあなたが悪いのではないと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:49:07",
+      "utterance": "あなたのせいではないです。"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:49:12",
+      "utterance": "私は私を責めているのでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:49:39",
+      "utterance": "そう感じましたが、いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:50:00",
+      "utterance": "わからないです"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:50:27",
+      "utterance": "私が悪かったのかなぁ"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:51:22",
+      "utterance": "お母さまをとめられなかったとき、どのようにお感じでしたか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:51:51",
+      "utterance": "はい、すみません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:53:05",
+      "utterance": "はい、その点を聞いてみます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:53:27",
+      "utterance": "お母さまはどのようなかただったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:53:52",
+      "utterance": "いつも笑ってる、優しい母でした"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:54:23",
+      "utterance": "すてきなお母さまですね・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:55:02",
+      "utterance": "お母さまとの思いで、どんなことが心に残っていらっしゃいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:55:09",
+      "utterance": "だから抗がん剤治療がきつかったのかなぁと思います。だからイライラしてたんだと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:55:45",
+      "utterance": "そうだたのですね。がんの治療を受けられていたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:55:51",
+      "utterance": "母とのことあまり思い出せないんです"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:56:05",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:56:33",
+      "utterance": "そうなのですね・・優しいお母さまがイライラされているのを見て、びっくりされてしまったのかもしれませんね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:58:00",
+      "utterance": "私は母の着替えを病院に持ってたりしてました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:59:04",
+      "utterance": "そうだったのですね。お母さまのために行かれていたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T14:59:17",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T14:59:38",
+      "utterance": "そのときお母さまとはどのように接していらっしゃった感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T15:00:32",
+      "utterance": "ベッドで寝てました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T15:01:27",
+      "utterance": "ベットで寝ているお母さまをご覧になっていたのですね・・"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T15:01:33",
+      "utterance": "私は生きるってなんだろうと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T15:01:59",
+      "utterance": "自分の無力さを知っているからです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T15:02:20",
+      "utterance": "お母さまが寝ていらっしゃる姿をご覧になって、そう感じていらっしゃったのですね・・"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T15:02:47",
+      "utterance": "ふと空をみると飛びたくなるんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T15:03:03",
+      "utterance": "そうなのですね・・優しいお母さま、そのお母さまを助けてあげらない・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T15:03:22",
+      "utterance": "悔しいし、もどかしいし、悲しいし、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T15:03:46",
+      "utterance": "辛いお気持ちでいっぱいだったのですね・・"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T15:04:12",
+      "utterance": "あなたはどうして生きているのですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T15:05:39",
+      "utterance": "ほかの人はなぜ、というお気持ちなのですね・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T15:06:16",
+      "utterance": "あなたはお母さまのためにできる限りのことはなさったと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T15:06:49",
+      "utterance": "でも、お母さまを前に、ご自分で助けられなかった、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T15:07:22",
+      "utterance": "悔しいし、無力感を感じてしまわれたと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T15:08:07",
+      "utterance": "すみません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T15:08:47",
+      "utterance": "そうだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T15:10:34",
+      "utterance": "私もときどき考えます、こたえを探しています。というのはいかがでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T15:11:10",
+      "utterance": "いつも、ですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T15:11:56",
+      "utterance": "そうですね。相談者とマッチングできていませんでした。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T15:12:54",
+      "utterance": "はい、気を付けます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T15:13:57",
+      "utterance": "生きるってなんだろう、私もいつも考えています。"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T15:14:24",
+      "utterance": "そうなんですね、相談員さんも考えるのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T15:14:30",
+      "utterance": "安心しました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T15:14:50",
+      "utterance": "はい。考えてしまいましすよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T15:15:10",
+      "utterance": "答えを探しながら毎日過ごしている、という感じです。"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T15:15:32",
+      "utterance": "そうですか、それもしんどそうですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T15:16:01",
+      "utterance": "今日は空は飛びません"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T15:16:10",
+      "utterance": "安心してください"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T15:16:28",
+      "utterance": "安心させてくれてありがとう。"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T15:16:43",
+      "utterance": "今日はありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T15:17:15",
+      "utterance": "はい、フィードバックの途中で終わってしまいました。"
+    },
+    {
+      "role": "client",
+      "time": "2020-03-23T15:18:37",
+      "utterance": "もうすぐ母の命日です、お墓参りにでも行こうと思います。今日はありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T15:19:39",
+      "utterance": "そうなんですね。お母さまと、お気持ち、伝えたかったことなど、お話してみてくださいね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T15:20:26",
+      "utterance": "お母さま思いのあなただからこそ、悔しい思いがあると思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T15:20:54",
+      "utterance": "でも、あなたが助けられなかったわけではありません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T15:21:16",
+      "utterance": "あなたは精一杯できる限りのことをやったと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T15:22:21",
+      "utterance": "お母さまもそれをわかっていらっしゃると思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T15:23:35",
+      "utterance": "優しいお母さまの思い出、大切にしてくださいね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T15:23:49",
+      "utterance": "今日はご相談ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-03-23T15:28:13",
+      "utterance": "どうもありがとうございました。"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "自分に対する無価値感"
+  },
+  "review_by_client_jp": {
+    "評価ID": 18,
+    "評価作成日時": "2020-03-23T16:31:00",
+    "クライアント役ID": 2,
+    "カウンセラー役ID": 12,
+    "点数": 54,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 2,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 18,
+    "evaluation_created_at": "2020-03-23T16:31:00",
+    "client_id": 2,
+    "counselor_id": 12,
+    "score": 54,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 2,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 2,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

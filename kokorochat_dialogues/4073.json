@@ -1,0 +1,394 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-10-03T12:55:56",
+      "utterance": "(こんにちは。今日はよろしくお願いします。）"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T12:56:16",
+      "utterance": "(よろしくお願いします。本日ご希望のケース等はございますでしょうか？)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T12:57:08",
+      "utterance": "（特にございません。たずねていただきありがとうございます。）"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T12:57:22",
+      "utterance": "(かしこまりました)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T12:57:43",
+      "utterance": "（時間になりましたら始めさせていただきます。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T13:00:30",
+      "utterance": "こんにちは。相談員です。はじめに、年齢、性別、相談内容をお聞かせください。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T13:00:48",
+      "utterance": "32 男"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T13:01:06",
+      "utterance": "生活し辛いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T13:03:04",
+      "utterance": "相談に来てくださりありがとうございます。生活しづらいとのことですが、現在はお仕事をされていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T13:03:12",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T13:04:32",
+      "utterance": "ええ、お仕事をされていて、以前と変わったことはありますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T13:04:46",
+      "utterance": "特に何も"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T13:05:42",
+      "utterance": "そうなんですね。では、どんなことに生活しづらいと思われていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T13:06:10",
+      "utterance": "家に居場所がありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T13:08:12",
+      "utterance": "そうですか、それは気が休まらないですね。どんな時に居場所がないとお感じになられますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T13:09:19",
+      "utterance": "邪魔者扱いされます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T13:10:53",
+      "utterance": "え、そうなんですか。それは悲しいですね。差し支えなければで大丈夫ですが、ご家族は他にどなたがいらっしゃるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T13:11:07",
+      "utterance": "妻と子供1人です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T13:12:05",
+      "utterance": "ありがとうございます。どのような場面で邪魔者扱いをされているように思われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T13:12:24",
+      "utterance": "いつもです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T13:13:19",
+      "utterance": "そう感じるのですね。おつらいですね。いつごろからそのように感じられるようになったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T13:13:41",
+      "utterance": "わかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T13:15:54",
+      "utterance": "ええ、そうなんですね。あなたは仕事から帰ると家でどのようにお過ごしですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T13:16:32",
+      "utterance": "基本1人で過ごします"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T13:19:18",
+      "utterance": "ええ、そうなんですね。それは寂しく感じますね。仕事から帰って一息ついたときなど、妻さんやお子さんとお話になりたいとのではないかと思いますが、あなたのお気持ちはいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T13:19:48",
+      "utterance": "もうなんとも思いません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T13:21:54",
+      "utterance": "そうなんですね。邪魔者扱いされているように感じて一人で過ごす時間が長いと、なんとも思わなくなるのかもしれませんよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T13:22:40",
+      "utterance": "そんなもんなんですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T13:25:13",
+      "utterance": "人によっては気持ちに蓋をすることもあるように思いました。では、ご結婚された当初はいかがでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T13:25:34",
+      "utterance": "思い出したくありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T13:27:13",
+      "utterance": "ええ、そう思われるのですね。誰が悪いとか、正しいとかそういうことではないのですが、何かきっかけのようなこと、心当たりはございますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T13:27:27",
+      "utterance": "わかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T13:29:43",
+      "utterance": "そうなんですね。今までのお話を整理しますと、あなたは家にいても一人で過ごすことが多くて居場所がないと感じられておられるのですね。孤独を感じますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T13:31:32",
+      "utterance": "では、家以外、例えば職場などでは、周りの方とはいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T13:31:59",
+      "utterance": "どういう意味ですが"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T13:32:05",
+      "utterance": "どういう意味ですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T13:33:33",
+      "utterance": "分かりにくかったですね。では、周りの方とお話をされたり相談されたりなど、人間関係はいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T13:33:53",
+      "utterance": "普通です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T13:36:59",
+      "utterance": "ひとそれぞれに普通があると感じましたのでお聞きしますが、普通に会話をされているということですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T13:38:18",
+      "utterance": "それは決めつけですか"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T13:38:34",
+      "utterance": "確かにそうなのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T13:40:22",
+      "utterance": "いいえ、決めつけではないのです。あなたが家以外でどのように人付き合いをされているのかをお聞きできればと思いました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T13:40:58",
+      "utterance": "私にはそう感じたのですけどね"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T13:41:32",
+      "utterance": "気にしなくていいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T13:42:06",
+      "utterance": "ええ、そういうことでしたら安心します。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T13:42:58",
+      "utterance": "こっちは安心ではないですがね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T13:44:52",
+      "utterance": "はい、そうですよね。あなたは他の方と接するように家でも妻さんやお子さんと接したいと思われているのだと思いますがいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T13:45:16",
+      "utterance": "なんでそうなるのですか"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T13:45:54",
+      "utterance": "それはあなたの価値観ですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T13:46:13",
+      "utterance": "違うのですね。失礼致しました。あなたはどんな風にしたいと思われていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T13:46:36",
+      "utterance": "まだわかりませんよそんなの"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T13:48:21",
+      "utterance": "そう感じているのですね。では、これからの時間、家であなたがあなたらしくいられるようにどうしたらいいかを考える、ということでよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T13:49:15",
+      "utterance": "どうしてそうなるのですか？はっきりと説明してください"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T13:51:44",
+      "utterance": "違うと思われているのですね。あなたは家族に邪魔者扱いをされているように感じ、一人で過ごされていて生活しづらいと思われているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T13:52:14",
+      "utterance": "違うとも言ってませんけど"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T13:54:21",
+      "utterance": "そうなのですね。あなたはどう思われていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T13:54:48",
+      "utterance": "何についてですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T13:56:27",
+      "utterance": "家であなたがあなたらしくいられるようにどうしたらいいかを考える、ということについて、どう思われますか？それともほかに話されたいことはありますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T13:57:14",
+      "utterance": "まだ何をするのがいいのかもわかりません"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T13:57:19",
+      "utterance": "時間なのでこれで失礼します"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T13:57:56",
+      "utterance": "ええ、そうなのですね。お話が進まず申し訳なく思っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T13:58:39",
+      "utterance": "もうすぐお時間になりますね。もしよろしければまたご相談にいらしてください。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-03T13:59:19",
+      "utterance": "(ありがとうございました。終了メッセージ送信でロープレ完了をお願いします。)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T13:59:21",
+      "utterance": "本日はありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-03T13:59:34",
+      "utterance": "（終了メッセージを流させていただきます。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦）",
+    "main_en": "Family Issues (Spouse)",
+    "sub": "家での居場所のなさとコミュニケーションの欠如"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4073,
+    "評価作成日時": "2022-10-03T14:09:00",
+    "クライアント役ID": 125,
+    "カウンセラー役ID": 313,
+    "点数": 46,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 1,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 2,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 1,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4073,
+    "evaluation_created_at": "2022-10-03T14:09:00",
+    "client_id": 125,
+    "counselor_id": 313,
+    "score": 46,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 2,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 1,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

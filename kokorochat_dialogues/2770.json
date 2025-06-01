@@ -1,0 +1,804 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-11-25T19:51:47",
+      "utterance": "こんばんは。本日はよろしくお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T19:55:46",
+      "utterance": "よろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T19:56:45",
+      "utterance": "お時間になりましたら、始めますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:00:22",
+      "utterance": "こんばんは。相談員です。本日はご相談に来てくださりありがとうございます。はじめに年齢、性別を教えていただけますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:01:10",
+      "utterance": "こんばんは、よろしくお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:01:33",
+      "utterance": "28才女です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:02:08",
+      "utterance": "教えていただきありがとうございます。こちらこそよろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:02:31",
+      "utterance": "本日はどのようなご相談でしょうか？？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:03:21",
+      "utterance": "最近電車内での事件とか多いので怖いなと思っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:04:07",
+      "utterance": "そうなんですね。たしかに今、電車内の事件が多いですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:04:34",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:04:58",
+      "utterance": "こわいと思ってしまいますよね、、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:05:30",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:06:01",
+      "utterance": "電車はけっこう利用される感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:06:15",
+      "utterance": "そうなんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:06:55",
+      "utterance": "そうなんですね。それは不安にもなりますよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:07:03",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:07:31",
+      "utterance": "どこに乗るのが安全なんだろうかと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:07:32",
+      "utterance": "お仕事の通勤で利用されるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:07:42",
+      "utterance": "そうです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:08:16",
+      "utterance": "そうですよね。安全なとこに乗りたいですよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:08:34",
+      "utterance": "帰りが遅い時とか酔っ払いがいてやだなと思っていたのですが、コロナになって酔っ払いがいなくて安心していたんですけど"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:08:56",
+      "utterance": "ええ（聴いていますよ）"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:09:32",
+      "utterance": "なんか帰り道が特に怖いなって思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:10:34",
+      "utterance": "そうなんですね。帰りは夜で暗いから、余計に怖いですよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:11:13",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:11:37",
+      "utterance": "帰り道のどういう時が怖いと感じますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:12:45",
+      "utterance": "変な人が周囲にいないかキョロキョロしています"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:13:56",
+      "utterance": "だからとっても通勤が疲れます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:13:57",
+      "utterance": "そうなんですね。疑心暗鬼になってしまいますよね、、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:14:05",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:15:05",
+      "utterance": "そうですよね、、いつもの通勤でその状態が毎日続くと、とてもしんどいですよね、、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:15:50",
+      "utterance": "そうなんです"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:16:04",
+      "utterance": "私が気にしすぎなのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:16:22",
+      "utterance": "みんなはどうしているんだろうとか思っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:16:42",
+      "utterance": "そんなことはないですよ。あなたがこわいと思うのは当然のことだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:17:35",
+      "utterance": "誰かと電車がこわいという話などはされましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:17:37",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:18:07",
+      "utterance": "はなしてないでs。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:18:15",
+      "utterance": "話してないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:19:36",
+      "utterance": "そうだったのですね。ずっと1人で怖い思いを抱えていたのですね、、つらかったですよね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:20:21",
+      "utterance": "ここでは何でも話してくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:20:46",
+      "utterance": "職場では結構気を張って働いているので"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:21:44",
+      "utterance": "けどなんだか疲れてしまったので、誰かに話したいと思いました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:22:54",
+      "utterance": "そうなのですね。話すことで、ガス抜きにもなるので何でも言ってくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:23:11",
+      "utterance": "どんなに頑張っても、事件に巻き込まれたら、何もかも無になってしまいますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:23:43",
+      "utterance": "そう思われているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:23:50",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:24:08",
+      "utterance": "全然関係ない人が巻き込まれているので"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:24:43",
+      "utterance": "そうですね。罪のない人が巻き込まれていますね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:24:57",
+      "utterance": "怖いですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:25:32",
+      "utterance": "そうですね。私も怖いと思っています。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:26:36",
+      "utterance": "どうしたら気にならなくなりますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:27:41",
+      "utterance": "そうですね。気にならなくしたいですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:28:13",
+      "utterance": "職場の人は楽しそうに、過ごしています。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:28:38",
+      "utterance": "なんか最近自分が笑はなくなったなとも思っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:28:59",
+      "utterance": "そうなのですね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:29:30",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:30:04",
+      "utterance": "笑わなくなったきっかけは、やはり電車内の事件のことがあってでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:30:40",
+      "utterance": "そもそも、いろんなことを気にする性格はありますけど"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:31:04",
+      "utterance": "コロナの前までは気になってなかったです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:31:35",
+      "utterance": "そうなのですね。どういうことが気になるようになってきたのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:31:42",
+      "utterance": "そんなに人と話さなくても苦じゃなかったので"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:31:53",
+      "utterance": "なんでしょうね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:32:10",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:32:28",
+      "utterance": "酔っ払いが臭くて嫌で、車両を移動したりしてました"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:32:45",
+      "utterance": "けど、今は何に気をつけたらいいのか"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:33:43",
+      "utterance": "隣の車両の接続部分の扉が開くのが1番怖い"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:34:06",
+      "utterance": "どうして怖いのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:34:48",
+      "utterance": "怖くないですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:36:25",
+      "utterance": "そうですね、、電車内の事件が多くなってきてからは、気にすることはあります。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:36:35",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:37:17",
+      "utterance": "ビクッと見てしまうんですよね。相手もびっくりですよね笑"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:38:04",
+      "utterance": "なるほど。お互いびっくりするのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:38:27",
+      "utterance": "はい笑"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:38:50",
+      "utterance": "なんか病院行ったほうがいいのかな、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:39:59",
+      "utterance": "あなたが病院へ行ったほうがいいなと思うのでしたら、行ったほうがいいと思いますよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:40:20",
+      "utterance": "体調はいかがですか？心配です、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:40:39",
+      "utterance": "行こうと思うのは心療内科です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:41:54",
+      "utterance": "そうなのですね。失礼しました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:42:12",
+      "utterance": "心配してくださりありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:42:54",
+      "utterance": "お身体の具合は大丈夫ですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:43:24",
+      "utterance": "なかなか寝れないとか食べれてないなど、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:43:33",
+      "utterance": "身体はなんだか疲れてるだけです"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:44:11",
+      "utterance": "サラダとかお粥とか食べているので大丈夫です"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:44:24",
+      "utterance": "お粥とか好きなんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:44:59",
+      "utterance": "そうなんですね、、いつも張り詰めた気持ちだとしんどいですよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:45:08",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:45:17",
+      "utterance": "食欲があってよかったです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:45:27",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:45:37",
+      "utterance": "お粥おいしいですよね。私も好きです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:46:06",
+      "utterance": "どうしたら、この怖がり癖治りますかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:47:40",
+      "utterance": "そうですね、、でも怖がることは悪いことではないですよ。人間として当たり前だと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:48:05",
+      "utterance": "けど、今困ってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:48:15",
+      "utterance": "未然に危険を察知することにもつながります。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:48:24",
+      "utterance": "なるほど"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:49:25",
+      "utterance": "そうですよね。前は今より電車に乗ってて怖いなどの気持ちはあありましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:50:03",
+      "utterance": "怖いではなくて、嫌だなという気持ちでした。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:50:50",
+      "utterance": "そうなんですね。前は嫌という気持ちが強かったのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:51:01",
+      "utterance": "あー何か液体かけられた人もいましたね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:51:40",
+      "utterance": "名古屋駅の事件ですかね?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:51:54",
+      "utterance": "以前は酔っ払いが嫌いでした。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:52:24",
+      "utterance": "液体は東京の白金だったかな？　名古屋でもあったのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:52:36",
+      "utterance": "酔っ払いには困ってしまいますよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:52:45",
+      "utterance": "臭いし嫌いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:53:35",
+      "utterance": "あ、東京でもありましたね。名古屋駅で最近体液をかけられたというのもありました、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:53:56",
+      "utterance": "そうですすよね。いやですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:53:57",
+      "utterance": "あー日本全国怖いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:54:27",
+      "utterance": "そう思ってしまいますよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:54:30",
+      "utterance": "どうしようにもないですかね、この怖がりは"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:57:10",
+      "utterance": "私は、直さなくてもいいと思います。ぼーとしてて事件に巻き込まれる可能性があるより、周りを見て未然に防いだりすることもできると思いますので。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:57:23",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T20:57:54",
+      "utterance": "あなたはどういう時が安心しますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:58:17",
+      "utterance": "先程、誰かに話したかと聞かれましたが、怖がりな話は周囲にするには、抵抗があるので、話せません。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T20:58:37",
+      "utterance": "先程お粥の話をしてた時がなんだか安心できました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T21:00:28",
+      "utterance": "そうなんですね。どういうことがあって抵抗感があるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T21:00:48",
+      "utterance": "なんて思われるか分からないから、"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T21:01:06",
+      "utterance": "そのあと付き合い方が変わるかもしれないからです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T21:01:07",
+      "utterance": "好きなものの話をすると安心できるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T21:01:53",
+      "utterance": "そうですね。さっきなんだか安心した気持ちになれるました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T21:02:24",
+      "utterance": "というか　笑　って使ってしまってる自分がいました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T21:02:54",
+      "utterance": "そうなのですね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T21:03:36",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T21:04:05",
+      "utterance": "好きな気持ちは安心感がありますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T21:04:19",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T21:05:10",
+      "utterance": "家では安心感などありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T21:06:11",
+      "utterance": "家はくつろいでます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T21:07:21",
+      "utterance": "それはよかったです。私も安心しました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T21:09:11",
+      "utterance": "その安心や落ち着く時間を職場の休憩時間などどこかのタイミングでとったら、疲れが癒されて今より状況が改善されるかもしれません。いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T21:09:34",
+      "utterance": "はいありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T21:10:33",
+      "utterance": "残念ながら、そろそろお時間になってしまいました、、本日は話してみてどうでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T21:12:44",
+      "utterance": "話すとスッキリしますね"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T21:12:58",
+      "utterance": "知らない人だから安心もある"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T21:13:15",
+      "utterance": "身元も明かさなくていいし"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T21:13:37",
+      "utterance": "それはよかったです。知らない人だからこそ、話やすいことがありますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T21:14:26",
+      "utterance": "はい。知らない人は怖いけど、知らない人の方が話しやすい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T21:15:52",
+      "utterance": "今日あなたと話してみて、あなたは繊細で周りに気を配れる優しい方だと思いました。だからこそ、不安だったりこわいという気持ちにも敏感なのだと思いました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T21:16:42",
+      "utterance": "でも、怖がりは悪いことではありません。うまく付き合っていけば自分を守る事にもつながります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T21:17:34",
+      "utterance": "まだ改善されないや話したいと思ったら、またご相談に来てください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T21:17:49",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T21:18:16",
+      "utterance": "ありがとうございました。それでは終了させていただきますね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T21:18:24",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T21:18:57",
+      "utterance": "（お時間過ぎてしまいすみませんでした。勉強になりました。ありがとうございました）"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T21:19:00",
+      "utterance": "(カウンセラー役さんお疲れ様でした！)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T21:19:32",
+      "utterance": "（お疲れ様でした！）"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-25T21:19:55",
+      "utterance": "（それでは終了ボタンおしますね）"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-25T21:20:40",
+      "utterance": "ありがとうございました"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "電車内での恐怖感と不安感。"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2770,
+    "評価作成日時": "2021-11-25T21:43:00",
+    "クライアント役ID": 2,
+    "カウンセラー役ID": 155,
+    "点数": 87,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 5,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 5,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 5,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 5,
+    "要約": 4,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2770,
+    "evaluation_created_at": "2021-11-25T21:43:00",
+    "client_id": 2,
+    "counselor_id": 155,
+    "score": 87,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

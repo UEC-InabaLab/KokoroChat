@@ -1,0 +1,404 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-01-25T12:52:21",
+      "utterance": "本日はよろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-25T12:52:33",
+      "utterance": "よろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T12:52:50",
+      "utterance": "お時間になりましたら始めさせて頂きます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T13:00:15",
+      "utterance": "こんにちは相談員です。本日はお越し頂きありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T13:00:22",
+      "utterance": "はじめにあなたの年齢と性別をお聞かせいただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-25T13:00:32",
+      "utterance": "15　男"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T13:00:42",
+      "utterance": "ありがとうございます。本日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-25T13:01:06",
+      "utterance": "何もかもやる気が起きません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T13:02:47",
+      "utterance": "そのように感じているのですね。お話出来る範囲で構いませんので、やる気が出ないと思われている、もう少し詳しい状況をお教えいただけますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-25T13:03:37",
+      "utterance": "来月クラス分けテストがあるのですが、勉強する気が起きません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T13:05:00",
+      "utterance": "勉強のやる気が起きないのですね。そのクラス分けは、成績順でのクラス分けなのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-25T13:06:10",
+      "utterance": "多分そうだと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T13:07:09",
+      "utterance": "そうなのですね。やる気が出ないことに対しては、どのような感情が湧いてきますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-25T13:07:53",
+      "utterance": "焦りですかね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T13:09:07",
+      "utterance": "焦りの感情が湧いてくるのですね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T13:09:42",
+      "utterance": "ご自身が目指したいクラスは、あるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-25T13:10:28",
+      "utterance": "上のクラスならどこでもって感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T13:11:04",
+      "utterance": "そうなのですね。でも、上位のクラスには行きたいと思われているのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T13:11:51",
+      "utterance": "勉強のやる気が起きなくなったのは、いつ頃からでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-25T13:12:10",
+      "utterance": "覚えてません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T13:13:07",
+      "utterance": "そうなのですね。今は、高校１年生でしたでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-25T13:13:25",
+      "utterance": "いいえ、中３です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T13:14:37",
+      "utterance": "そうなのですね。申し訳ございません…では、今は高校受験勉強中でしたでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-25T13:15:30",
+      "utterance": "中高一貫なので受験というわけではありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T13:16:36",
+      "utterance": "そうなのですね。お教え頂き、ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T13:19:13",
+      "utterance": "今行っている中高一貫校は、ご自身で行きたいと思われて受験した学校ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-25T13:19:44",
+      "utterance": "そんなところですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T13:22:19",
+      "utterance": "そうなのですね。では実際入学した今、学校の事はどう思われますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-25T13:22:45",
+      "utterance": "何とも思ってないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T13:23:59",
+      "utterance": "そうなのですね。勉強する事は、好きな方だとご自身は思われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-25T13:24:47",
+      "utterance": "そこはよくわかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T13:25:22",
+      "utterance": "そうなのですね。確かに、聞かれても分からないかもしれないですね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T13:26:12",
+      "utterance": "もしよろしければ、やる気が出ないのはなぜかを、一緒に考えていければと思うのですが、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-25T13:27:11",
+      "utterance": "それで解決するのでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T13:30:48",
+      "utterance": "解決していこうという訳ではないのですが、お話することで、やる気が出ないのはなぜかという、心の整理を一緒にしていければ良いなと思っております。"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-25T13:31:54",
+      "utterance": "何だかよくわかりませんね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T13:33:30",
+      "utterance": "伝え方が、分かりにくかったかもしれません…やる気が出ている状態は、どのような感じを想像するかをお教え頂いても大丈夫ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-25T13:33:58",
+      "utterance": "全く覚えてません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T13:35:47",
+      "utterance": "そうなのですね。来年から、高校生になられますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-25T13:36:11",
+      "utterance": "その予定ですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T13:36:52",
+      "utterance": "そうですよね。高校になって、してみたい事やりたい事は何かありますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-25T13:37:20",
+      "utterance": "まだありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T13:40:19",
+      "utterance": "そうなのですね。ではよろしければ、今の中学生活についてお教えください。今のクラスに、仲の良いお友達はいますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-25T13:40:39",
+      "utterance": "いません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T13:41:42",
+      "utterance": "そうなのですね。他のクラスには、お話するようなお友達はいますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-25T13:41:54",
+      "utterance": "いません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T13:44:29",
+      "utterance": "そうなのですね。今毎日学校に通われていて、誰かとはお話ししていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-25T13:44:45",
+      "utterance": "してません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T13:45:25",
+      "utterance": "そうなのですね…今の状況を、ご両親にお話しされた事はありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-25T13:45:36",
+      "utterance": "いいえ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T13:46:42",
+      "utterance": "そうなのですね…今学校へ行こうとする時、どのような感情が湧いてきますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-25T13:47:19",
+      "utterance": "めんどくさいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T13:48:33",
+      "utterance": "めんどくさいと、思われるのですね…そのめんどくさい気持ちを、ご両親へはお伝えする事は出来ますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-25T13:48:53",
+      "utterance": "伝えてどうするのですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T13:50:06",
+      "utterance": "両親でなくても良いので、誰か一番話しやすい方で大丈夫ですので、どなたか周囲にいますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-25T13:50:32",
+      "utterance": "いや、なんで話す必要があるのですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T13:53:31",
+      "utterance": "お話しする事によって、学校へ行くのを面倒と思われる気持ちが、少し良い方向へ向かうかもと思ったのですが、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-25T13:53:50",
+      "utterance": "じゃあここで話す意味は何ですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T13:55:56",
+      "utterance": "こちらで心の悩みをご相談頂くのは是非なのですが、側でお悩みを聞いてくれる人とはまた異なると思うのです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T13:56:34",
+      "utterance": "近くで支えてくれる方がいるのかを、お聞きしたかったのです。"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-25T13:57:07",
+      "utterance": "支えてくれる人がいない私にとっては詰みましたね"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-25T13:57:12",
+      "utterance": "もういいです、失礼します"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T13:59:19",
+      "utterance": "ご相談に来て頂き、ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T14:00:09",
+      "utterance": "（本日は、クライアント役ありがとうございました。）"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-25T14:00:22",
+      "utterance": "ありがとうございました。終了で大丈夫です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T14:00:36",
+      "utterance": "（色々ご指導の程、よろしくお願いいたします"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-25T14:00:59",
+      "utterance": "（それでは、礼いたします。)"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "やる気の低下と焦りの感情"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3030,
+    "評価作成日時": "2022-01-25T15:17:00",
+    "クライアント役ID": 125,
+    "カウンセラー役ID": 238,
+    "点数": 19,
+    "聴いてもらえた、わかってもらえたと感じた": 1,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 1,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 1,
+    "要約": 2,
+    "問題の明確化": 1,
+    "この相談での目標の明確化": 1,
+    "次の行動につながる提案": 1,
+    "勇気づけ・希望の喚起": 1,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": "チェックあり"
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3030,
+    "evaluation_created_at": "2022-01-25T15:17:00",
+    "client_id": 125,
+    "counselor_id": 238,
+    "score": 19,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 2,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 1,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 1,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": "チェックあり"
+  }
+}

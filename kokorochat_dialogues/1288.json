@@ -1,0 +1,614 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-02-04T13:21:45",
+      "utterance": "こんにちは。本日は宜しくお願い致します。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T13:22:14",
+      "utterance": "こんにちは。こちらこそ、よろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T13:22:59",
+      "utterance": "ご準備ができましたらお声がけください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T13:23:26",
+      "utterance": "はい、こちらはいつでも大丈夫です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T13:24:06",
+      "utterance": "ありがとうございます。少し早いですが始めさせていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T13:24:12",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T13:25:03",
+      "utterance": "相談員です。本日はご相談いただきありがとうございます。どのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T13:25:54",
+      "utterance": "付き合っている人が、浮気をしていたことがわかって、、、これからどうしたらいいのでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T13:26:35",
+      "utterance": "それはショックですね。詳しく聴かせていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T13:27:23",
+      "utterance": "携帯を見てしまったんです…昨日はショックで、一睡もできませんでした"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T13:29:23",
+      "utterance": "どうやら、半年以上浮気してたみたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T13:29:25",
+      "utterance": "ほんとに悲しくなりますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T13:30:03",
+      "utterance": "どこからそのことがお分かりになったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T13:31:20",
+      "utterance": "圭太でのやり取りを見てしまったんです。ずっと続いていたみたいで、・・・全然気が付かなかったから、ショックです"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T13:31:42",
+      "utterance": "携帯でのやり取り”です。間違ってすみません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T13:32:45",
+      "utterance": "悲しい気持ちが伝わってきます。お付き合いはいつからされていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T13:33:13",
+      "utterance": "2年前です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T13:33:47",
+      "utterance": "そうなんですね、きっかけなども聴かせていただきますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T13:34:15",
+      "utterance": "大学のサークルで知り合いました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T13:34:57",
+      "utterance": "サークルで、ですね、長くお付き合いされていますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T13:35:18",
+      "utterance": "その間はどのような感じで"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T13:36:01",
+      "utterance": "お付き合いをしてこられたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T13:37:07",
+      "utterance": "楽しく、週末には一緒に出掛けていました"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T13:38:33",
+      "utterance": "それなのに、二股かけられてたなんて…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T13:38:45",
+      "utterance": "そうなんですね、お辛いかもしれませんが"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T13:39:47",
+      "utterance": "そのお付き合いのことを詳しく聴かせていただけますか？食事とか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T13:40:26",
+      "utterance": "映画とか、もし良かったら"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T13:40:44",
+      "utterance": "教えていただけないでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T13:42:22",
+      "utterance": "はじめは図書館で週1一緒に勉強とかしてましたが、最近は、お互い忙しくて月1くらいで食事とか、出かけたりしてました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T13:43:15",
+      "utterance": "思えば、だんだん会う回数は減ってきてたかもしれません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T13:43:25",
+      "utterance": "お辛いのに話していただいてありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T13:43:59",
+      "utterance": "その間で何か気になることがあったとかは"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T13:44:19",
+      "utterance": "ありませんでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T13:44:32",
+      "utterance": "なかなか都合もあわないこともあって、おかしいとは思っていたんですが、まさか、浮気してたなんて、ショックです"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T13:44:57",
+      "utterance": "モヤモヤしてたんで、つい、携帯をのぞいてしまったんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T13:45:25",
+      "utterance": "そうですよね、ショックすぎますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T13:45:54",
+      "utterance": "ラインのやり取りとか見たんですけど、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T13:46:04",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T13:46:38",
+      "utterance": "好きとか、合いたい、とかそういう言葉もたくさんあって、2人で旅行したこともあったみたいで、、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T13:47:18",
+      "utterance": "そんなことを・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T13:47:31",
+      "utterance": "地元の友達と旅行に行ったと言ってたのに、嘘だったなんて、それで発覚しました"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T13:47:54",
+      "utterance": "私がいけなかったんでしょうか…？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T13:48:42",
+      "utterance": "何が足りなかったんでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T13:48:59",
+      "utterance": "どうしたらいいでしょう？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T13:49:12",
+      "utterance": "あなたの気持ちが悲しすぎます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T13:49:37",
+      "utterance": "そのお気持ちが伝わってきます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T13:50:02",
+      "utterance": "やっぱり、携帯覗くなんて、きっと嫌われますよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T13:50:18",
+      "utterance": "ご自分を責めておられるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T13:50:57",
+      "utterance": "まだ知られてはいないけど、きっと嫌われますよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T13:51:30",
+      "utterance": "そんなことはないですよ、"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T13:52:01",
+      "utterance": "そうですか、私なら、きっと、嫌いになります"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T13:52:02",
+      "utterance": "あなたはご自分に原因があると思っておられるのですね、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T13:52:40",
+      "utterance": "逆の立場なら"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T13:52:54",
+      "utterance": "あなたはそう思われるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T13:53:12",
+      "utterance": "わからないけど、覗いたことがわかったら、なんか、こっちが悪いみたいに感じちゃいますよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T13:54:02",
+      "utterance": "そうお感じなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T13:54:59",
+      "utterance": "少し整理させていただいてもよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T13:55:07",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T13:56:45",
+      "utterance": "二年前からお付き合いされている方があり、最近なんだか様子が違うなと思われたあなたは携帯を見てしまわれた。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T13:58:27",
+      "utterance": "昨夜ショックで一睡もされておらず、二股をかけていたというショックと"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T14:00:00",
+      "utterance": "携帯を見てしまってというその罪悪感で自分をよけいに苦しく思ってしまわれている。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T14:00:58",
+      "utterance": "その両方を自分が悪いと感じておられるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T14:02:00",
+      "utterance": "浮気された側にも問題があるってよく聞くので、気づかないうちに彼は不満をためてたのかなって、"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T14:02:13",
+      "utterance": "すごく好きなんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T14:02:39",
+      "utterance": "そうなんですね。そう思われているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T14:03:08",
+      "utterance": "浮気がわかった時も、怒りよりもすごく悲しくて、やっぱり好きなんだなって思ってしまったんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T14:03:44",
+      "utterance": "好きな気持ちが、あなたを悲しくさせてしまっているように"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T14:04:06",
+      "utterance": "とても辛く感じます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T14:04:29",
+      "utterance": "悲しくなった自分にまた悲しくなりました。浮気されてもまだ好きって…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T14:05:23",
+      "utterance": "そう思われているのですね、どのようなところが好きなんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T14:06:06",
+      "utterance": "面白いし、人気者。いつでも笑っていられました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T14:06:33",
+      "utterance": "そうなんですね、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T14:06:59",
+      "utterance": "とてもお気持ちがこもっていますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T14:07:55",
+      "utterance": "今までのお話しを聴いていますと"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T14:08:28",
+      "utterance": "お二人の時間をあなたが大切にされてきたことが良くわかります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T14:09:15",
+      "utterance": "もしあなたが自分に原因があるとしたら"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T14:09:36",
+      "utterance": "どのようなところだと思われるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T14:10:09",
+      "utterance": "彼を疑っていた気持ちかな。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T14:10:35",
+      "utterance": "不安には思っていたけど、覗いてしまうのはやっぱりね…。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T14:11:22",
+      "utterance": "束縛されてると思われてしまうかも彼は人気者で、忙しいし。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T14:11:48",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T14:12:10",
+      "utterance": "やきもち焼いて、覗くなんて、良くないですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T14:12:12",
+      "utterance": "そんなに人気のある方なのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T14:12:45",
+      "utterance": "男女ともにつきあいは多い人ですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T14:12:52",
+      "utterance": "あなたが好きになるのも無理ないかもしれませんね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T14:13:45",
+      "utterance": "どなたからも好かれる人をあなたも好きになられたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T14:14:06",
+      "utterance": "どうしたらいいでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T14:14:07",
+      "utterance": "もっともなことだと感じます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T14:14:39",
+      "utterance": "あなたは今後どのようになれば良いと思われていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T14:16:28",
+      "utterance": "どちらかというと、別れるべきだなって気持ちの方が強いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T14:17:04",
+      "utterance": "そう思われるのですね。なんだか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T14:17:27",
+      "utterance": "悲しい気持ちと"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T14:18:26",
+      "utterance": "あなたが自分がしたことを反省して正しいことをするほうが良いと"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T14:18:55",
+      "utterance": "思われている気持が伝わってきます。でも"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T14:19:30",
+      "utterance": "二年間どなたからも好かれる方とお付き合いされたあなたも"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T14:20:08",
+      "utterance": "引き合うかたなのではないかと感じます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T14:21:36",
+      "utterance": "やっぱり、私のしたことは、間違ってることだから、反省した方がいいんですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T14:22:16",
+      "utterance": "そうかもしれませんし、あなたは、もっとご自分に自信を持たれても良いのではと感じます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T14:23:00",
+      "utterance": "どういうことなら、正しいと言える行動になるのでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T14:23:59",
+      "utterance": "あなたは反省することが何かをわかっておられますし、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T14:25:40",
+      "utterance": "そこを区別してお付き合いされている方とのお話しを進められたらと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T14:26:09",
+      "utterance": "どんなふうに進めたらいいのでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T14:27:25",
+      "utterance": "あなたは悪かったと思われています。そのお気持ちがあれば"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T14:28:18",
+      "utterance": "あなたはそのままで良いと感じます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T14:29:31",
+      "utterance": "お話し足りないと思いますがお時間になってしまいました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T14:30:02",
+      "utterance": "はい、ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T14:31:34",
+      "utterance": "こちらこそありがとうございました。また何かございましたらご相談にお越しくださいませ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-04T14:32:05",
+      "utterance": "(お疲れさまでした。勉強になりました)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-04T14:32:32",
+      "utterance": "こちらこそありがとうございました。失礼いたします。"
+    }
+  ],
+  "topic": {
+    "main_jp": "恋愛問題",
+    "main_en": "Romantic Issues",
+    "sub": "浮気に対するショックとその後の対処法"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1288,
+    "評価作成日時": "2021-02-04T15:26:00",
+    "クライアント役ID": 108,
+    "カウンセラー役ID": 102,
+    "点数": 42,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 2,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 2,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1288,
+    "evaluation_created_at": "2021-02-04T15:26:00",
+    "client_id": 108,
+    "counselor_id": 102,
+    "score": 42,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 2,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 2,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

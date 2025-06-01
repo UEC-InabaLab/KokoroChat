@@ -1,0 +1,544 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2022-04-26T10:56:09",
+      "utterance": "（本日は宜しくお願い致します。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T10:58:08",
+      "utterance": "こちらこそ、本日はよろしくお願い致します。お時間になりましたら始めさせていただきますね。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:00:05",
+      "utterance": "こんにちは、相談員です。最初によろしければ年齢と性別を教えてください。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T11:00:27",
+      "utterance": "20代　男性です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:00:50",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:01:16",
+      "utterance": "本日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T11:03:25",
+      "utterance": "居酒屋で店長をしているんですけど、ストレスが溜まって疲れてしまったので誰かに話したいと思ってきました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:04:11",
+      "utterance": "そうなんですね。仕事でストレスが溜まっていらっしゃるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T11:04:23",
+      "utterance": "そうなんです"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T11:05:10",
+      "utterance": "業務も大変だけどアルバイトの子達に色々教えたりするのも大変で、、"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T11:05:38",
+      "utterance": "全然思うように出来なくて辛いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:05:42",
+      "utterance": "そうなんですね。それは疲れますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:05:50",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:07:06",
+      "utterance": "店長はいつからしているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T11:07:08",
+      "utterance": "あまり従業員にはイライラしないようにしてるんですけど、どうしてもそういう態度になってしまうときがあるんですよね"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T11:07:25",
+      "utterance": "1年半前ぐらいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:07:35",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:07:58",
+      "utterance": "どんなときにイライラしますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T11:09:24",
+      "utterance": "やることがあるのにアルバイトの子達がお喋りしていたり、みんなが色々なことに文句言ったりしてるのがイライラしてきます"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T11:09:42",
+      "utterance": "自分の教育が悪いのかもしれません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:09:57",
+      "utterance": "そうお感じなのですね。業務に加えて精神的にイライラすると余計に疲れますね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T11:10:32",
+      "utterance": "もう嫌になってきます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:11:16",
+      "utterance": "ええ、そのように感じるのは辛いですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T11:12:10",
+      "utterance": "結局は店長の責任だと思うので、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:12:33",
+      "utterance": "そう感じているのですね。アルバイトは何人くらいいるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T11:13:03",
+      "utterance": "全員で10〜15人ぐらいですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:13:24",
+      "utterance": "たくさんいるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T11:13:43",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:13:54",
+      "utterance": "相談者様は社員さんの立場ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T11:14:03",
+      "utterance": "はいそうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:15:28",
+      "utterance": "店長さん一人でアルバイトの教育をされているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T11:16:16",
+      "utterance": "自分ともう1人の社員で基本的にやっています"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:17:01",
+      "utterance": "そうなんですね。大変なお立場ですね…"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T11:17:48",
+      "utterance": "人の上に立つのが辛くなってきました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:17:55",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:18:28",
+      "utterance": "その様に感じるのは憂鬱ですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:18:46",
+      "utterance": "今までのお話をまとめてみてもいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T11:18:56",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:21:19",
+      "utterance": "相談者様は１年半前から居酒屋の店長さんをしていらして、すごくストレスがたまっている。業務に加えてアルバイトの教育をしないといけなくてそれがなかなか上手くいかないと悩んでいる。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:22:54",
+      "utterance": "すごく責任感が強くて一生懸命頑張ってらっしゃるのですね。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:24:09",
+      "utterance": "このご相談で一番お話したいことは何ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T11:26:04",
+      "utterance": "働いていてしんどかったので誰かに聞いてもらおうと思いました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:26:41",
+      "utterance": "そうだったのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T11:27:08",
+      "utterance": "誰も話せる人がそばにいないんで"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:27:31",
+      "utterance": "ええ、ええなんでも聞きますよ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:28:03",
+      "utterance": "話すことで楽になることってありますもんね…"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T11:28:15",
+      "utterance": "リーダーをやってると弱いところ見せれないんですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:29:09",
+      "utterance": "ええ、すごく強い方なのですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T11:30:07",
+      "utterance": "ほんとどうしようって思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:31:23",
+      "utterance": "そう感じているのは苦しいですね。アルバイトと社員、教える方と教えらる方など立場が違うと感じ方は全く違うものですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T11:31:58",
+      "utterance": "そうなんですよねこっち側の考えを分かってくれないんですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:32:30",
+      "utterance": "どうなったら楽になれるのに…とご自分では感じていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T11:33:56",
+      "utterance": "もっと自分に余裕が出来たらゆっくり教えたり出来ると思うんですけど"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:34:09",
+      "utterance": "ええ、"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T11:34:33",
+      "utterance": "自分の力量不足が1番の理由だと思います"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T11:35:08",
+      "utterance": "自分が頑張るしかないですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:36:30",
+      "utterance": "そうお感じなのですね。ご自分をせめてしまうお気持ちがあるのですね…　苦しいですね。すごく責任感が強いことのあらわれのように感じます"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T11:37:34",
+      "utterance": "なんとか頑張りたいとは思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:38:06",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T11:39:02",
+      "utterance": "なに考えてるか分かれば楽なんですけどね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:40:01",
+      "utterance": "立場の違いは変えられない事なので、教えるときにご自身の考え方を少し変えると"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:40:45",
+      "utterance": "気持ち的にすこし楽になるのではないかと思ったのですがお伝えしてしてもいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T11:40:57",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:42:13",
+      "utterance": "その前にいくつか質問をさせていただきますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:43:58",
+      "utterance": "アルバイトに教育をするときにどのような気持ちで話していますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T11:45:04",
+      "utterance": "ちゃんと仕事の出来る人になって欲しいと思って話しています"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:46:11",
+      "utterance": "そうなんですね。伝えるときに遠慮がちにしてしまいますか？それとも、割と強く伝えていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T11:46:52",
+      "utterance": "どっちかというと強く伝えています"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:47:15",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:49:05",
+      "utterance": "気になったら何回も同じことを伝える方ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T11:51:03",
+      "utterance": "細かいところでも気になって何回も言ってるんですけど、中々改善されなくてイライラしたりしてしまいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:51:41",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:53:32",
+      "utterance": "何回も言っているのだからわかってよ！何回も同じことを言わせないで！と思ってしまいすよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T11:53:43",
+      "utterance": "そうなんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:56:35",
+      "utterance": "そのイライラとした思いが強いとすごくストレスになると思います。ですので、伝えたいことを淡々とわかるまで何回も…でもそこに感情をあまり入れずに"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T11:57:28",
+      "utterance": "分かりました感情をコントロールしないとですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:58:14",
+      "utterance": "立場の違う人に何かを伝えるのは難しいことはよくあります"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:58:43",
+      "utterance": "ですので、その違いを前提にお話をすると"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T11:59:17",
+      "utterance": "ご自身の気持ちが少し楽になるのではないかと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T11:59:40",
+      "utterance": "そうかもしれないですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T11:59:45",
+      "utterance": "意識してみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T12:00:04",
+      "utterance": "ぜひやってみてください！"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T12:00:25",
+      "utterance": "分かりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T12:01:28",
+      "utterance": "相談者様は店長の立場でアルバイトをたくさん教育し、責任感をもってガンバっていらっしゃると思います"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T12:02:10",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T12:02:28",
+      "utterance": "少し気を楽に持って今後とも進んでていかれることを応援しています。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T12:02:48",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T12:03:44",
+      "utterance": "頑張りすぎないで、でも疲れてしまったらまたいつでもお話を聞きますので相談にいらしてくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T12:04:05",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T12:04:28",
+      "utterance": "本日はお時間がきてしまいましたので相談を終了させていただきますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T12:04:44",
+      "utterance": "本日はありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T12:05:18",
+      "utterance": "こちらこそありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T12:05:19",
+      "utterance": "（ロールプレイをありがとうございました）"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-26T12:05:48",
+      "utterance": "（カウンセラー役、お疲れ様でした。こちらこそありがとうございました）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-26T12:06:13",
+      "utterance": "（お疲れ様でした、これで終了させていただきます）"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "アルバイトの教育に関するストレス"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3417,
+    "評価作成日時": "2022-04-26T12:25:00",
+    "クライアント役ID": 280,
+    "カウンセラー役ID": 161,
+    "点数": 48,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 2,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3417,
+    "evaluation_created_at": "2022-04-26T12:25:00",
+    "client_id": 280,
+    "counselor_id": 161,
+    "score": 48,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,734 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2020-08-30T16:54:13",
+      "utterance": "宜しくお願い致します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T16:54:55",
+      "utterance": "よろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T16:55:48",
+      "utterance": "少し早いですが、はじめてもよろしいでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T16:56:02",
+      "utterance": "はい、大丈夫です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T16:56:36",
+      "utterance": "こんにちは。本日は、よろしくお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T16:56:49",
+      "utterance": "宜しくお願い致します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T16:56:59",
+      "utterance": "本日は、どうされましたか"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T16:57:34",
+      "utterance": "42才の男です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T16:57:45",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T16:58:17",
+      "utterance": "過労気味の仕事が続いていたある日"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T16:58:29",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T16:58:58",
+      "utterance": "過労、お辛いですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T16:59:23",
+      "utterance": "コピー用紙のはこを持ち上げようとしてこしを痛めてしまいました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:00:10",
+      "utterance": "そうなんですね重いですものねお辛いですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:00:41",
+      "utterance": "そのまま動けなくなってしまい、救急車で病院に運ばれました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:01:06",
+      "utterance": "大丈夫ですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:02:04",
+      "utterance": "どうだったのですかご容態は、いかがですか"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:02:09",
+      "utterance": "ぎっくり腰で、4日間入院し、安静でした。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:02:37",
+      "utterance": "そうなんですねそれは、悔しいですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:03:01",
+      "utterance": "痛みは和らぎ軽い足のしびれを残し退院しました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:03:18",
+      "utterance": "そうだったのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:04:06",
+      "utterance": "足のしびれは。いかがですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:05:28",
+      "utterance": "大丈夫ですか"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:05:43",
+      "utterance": "一週間自宅で、休むことになり、翌々週の月曜日、その日から、職場に復帰というときに再び、腰痛と足のしびれがひどくなりました。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:06:49",
+      "utterance": "このままではと思い、急に体に自信を無くしてしまいました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:07:17",
+      "utterance": "そうなんですね折角、退院したのに、悲しいですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:07:48",
+      "utterance": "何とお呼びすれば、よろしいですか"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:08:48",
+      "utterance": "はい、悔しいです。会社を休み整形外科を再就受信しましたら、しびれがひどくなりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:09:17",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:09:49",
+      "utterance": "不安から、よるねむれなくなり、食欲も、落ちてしまいました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:10:28",
+      "utterance": "そうなんですねそれは、お困りですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:10:49",
+      "utterance": "はい、うつぎみです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:11:55",
+      "utterance": "うつぎみさん、今まで、一生懸命、頑張ってこられて、過労になり、お辛いですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:12:07",
+      "utterance": "それに加え"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:12:48",
+      "utterance": "腰を、痛めてしまい、入院し、とても切なかったと思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:13:32",
+      "utterance": "いつまで、この状態が続くのか会社をやめたほうが、迷惑をかけないので、悩んでいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:14:18",
+      "utterance": "その後、自宅療養し、復帰してからも、お辛いですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:14:27",
+      "utterance": "食欲も、ないので、やせる一方です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:14:45",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:14:52",
+      "utterance": "はい、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:14:58",
+      "utterance": "それは、心配ですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:15:27",
+      "utterance": "はい、頭の中がすっきりしません"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:16:00",
+      "utterance": "そうなんですねお困りですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:16:55",
+      "utterance": "はい、身体もしびれがとれないし、精神科にもかかるようです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:17:23",
+      "utterance": "しびれも、気になりますよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:17:30",
+      "utterance": "はい、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:17:51",
+      "utterance": "心配ですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:18:10",
+      "utterance": "はい、先が見えない状態です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:18:11",
+      "utterance": "食事は、全く、食べれないのですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:18:34",
+      "utterance": "かぶりましたねどうぞ、続けてください"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:19:09",
+      "utterance": "少し食べても、美味しくないし、あまり、食べたくありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:19:42",
+      "utterance": "はい。好きなものは、食べられていますか"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:21:42",
+      "utterance": "一人でいますので、お店に行く気持ちになれませんので、納豆位で繋いでいます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:22:00",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:22:20",
+      "utterance": "はい、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:22:36",
+      "utterance": "買い物が、できないのも、不安になりますよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:22:43",
+      "utterance": "はい、"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:23:05",
+      "utterance": "会社も、気になるし"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:23:42",
+      "utterance": "そうですよね誰か、買い物をしていただける方は、そばには、いらっしゃりませんか"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:24:05",
+      "utterance": "外に出てまた腰を痛めるか、不安で出られません"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:24:44",
+      "utterance": "そうなんですね食べたくても、食べられないということですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:24:51",
+      "utterance": "はい、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:25:18",
+      "utterance": "むなしいですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:26:34",
+      "utterance": "はい、マンションなので、となりのひとと、顔を合わせたことがないので、近くにも、知っている人もいないので、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:27:21",
+      "utterance": "そうなんですね悲しいですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:28:17",
+      "utterance": "病院に通院し続けたら、体の具合が、少し良くなると思われますか"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:30:02",
+      "utterance": "はい、病院に行ってもかわらないので、最近は、あまりいきません。このまま、孤独しを迎えるようですね。後何年こんな辛い思いを続けるのか、不安で、いっぱいです"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:31:04",
+      "utterance": "先が見えないのは、辛いです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:32:06",
+      "utterance": "そうなんですね病院にいっても、良くならなくて、いつまでこんな思いを続けるのか、うふあんで、お辛いですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:32:17",
+      "utterance": "はい、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:33:17",
+      "utterance": "孤独しをするかもしれないと思うほど、お辛いのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:33:37",
+      "utterance": "でも、そんなことは、ないと思いますよ"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:34:05",
+      "utterance": "はい、一人なので、色々なことを考え過ぎてしまいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:34:20",
+      "utterance": "そうですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:35:31",
+      "utterance": "病院は、うつぎみさんが、体の調子が、あまりよくならなくても、"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:36:04",
+      "utterance": "元気なひとを見ると、辛くなるので、家のなかにいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:37:20",
+      "utterance": "そうなんですね。少しづつ、少しづつ、長い目でみていくと、だんだん良くなっていきますよ"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:37:43",
+      "utterance": "すこし、気持ちを、ゆっくり持ってみてください"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:38:30",
+      "utterance": "気持ちの持ちようなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:38:31",
+      "utterance": "いかがでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:38:46",
+      "utterance": "そんなことは、ありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:39:30",
+      "utterance": "少し、気持ちを楽にすると、良いと思う、と感じました"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:39:45",
+      "utterance": "なるほどです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:40:07",
+      "utterance": "少しづつですが。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:40:28",
+      "utterance": "努力してみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:41:03",
+      "utterance": "今、お仕事をしていて、体力的に厳しいですか"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:41:51",
+      "utterance": "身体も心も、しんどいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:42:07",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:42:18",
+      "utterance": "はい、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:42:33",
+      "utterance": "歯がゆいですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:42:40",
+      "utterance": "はい、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:43:21",
+      "utterance": "ここで、お話を整理してみて、よろしいですか"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:43:27",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:45:10",
+      "utterance": "うつぎみさんは、会社で、コピーの紙を、持ち上げようとして、腰を痛めてしまった"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:45:27",
+      "utterance": "はい、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:46:07",
+      "utterance": "しびれがでてきて、入院もすることになってしまった"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:46:16",
+      "utterance": "はい、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:46:59",
+      "utterance": "とても心配になり、食欲も落ち、痩せてしまい、夜も、眠れなくなってしまった。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:47:21",
+      "utterance": "そうなんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:48:26",
+      "utterance": "会社に復帰をしても、まだよくならず、これから、仕事をどうしていこうか、とても心配に思っている"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:48:39",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:48:58",
+      "utterance": "とても悲しいと、これから先、どうしたらよいか、悩んでいる"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:49:08",
+      "utterance": "よろしいでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:49:14",
+      "utterance": "はい、そうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:50:44",
+      "utterance": "これからについては、気分的には、少しゆったりとして見ては、いかがでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:51:01",
+      "utterance": "なにか、落ち着くものは、ありますか"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:51:43",
+      "utterance": "花とか、アロマとか、絵とか、・・"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:52:15",
+      "utterance": "はい、あまり考えたことがありませんでした。しびれが残っているので、前向きになれませんでした"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:52:32",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:52:55",
+      "utterance": "いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:53:19",
+      "utterance": "いまから、心を落ち着かせて、少し考えて見ます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:53:32",
+      "utterance": "そうですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:54:16",
+      "utterance": "今日は、辛い思いを聞いてくださり、少し軽くなった感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:55:38",
+      "utterance": "それは、良かったです。うつぎみさんが、何か、心がみたすものがあれば、すこし、ゆったりしていただければ、幸いだと思っています"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:55:47",
+      "utterance": "それから、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:56:43",
+      "utterance": "病院も、少しずつ通っているうちに、良くなっていくことを、お祈りしています"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:57:11",
+      "utterance": "はい、ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:57:42",
+      "utterance": "それから、これからのことは、少しずつ、毎日、毎日を、生きて行ってくださいね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:58:10",
+      "utterance": "少しぅつ、元気になられることを、心から、願っています"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:58:45",
+      "utterance": "何か、ありましたら、遠慮なく、おっしゃってください"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T17:59:08",
+      "utterance": "はい、少しづつ努力してみます。今日はありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:59:28",
+      "utterance": "こちらこそ、ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T17:59:41",
+      "utterance": "やってみて、いかがでしたか"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T18:00:48",
+      "utterance": "聞いて頂いて、少し楽になった様な感じです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T18:01:01",
+      "utterance": "良かったです"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T18:01:28",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T18:01:35",
+      "utterance": "少しづつ、ゆっくりゆっくり、してくださいね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T18:01:49",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T18:01:54",
+      "utterance": "はい、努力していきます"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T18:02:21",
+      "utterance": "ありがとうございました。合掌"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T18:02:41",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-30T18:03:19",
+      "utterance": "これで、ロールプレイ、終了にいたしますありがとうございます"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-30T18:03:35",
+      "utterance": "ありがとうございました。合掌"
+    }
+  ],
+  "topic": {
+    "main_jp": "身体的健康問題",
+    "main_en": "Physical Health Issues",
+    "sub": "腰痛による身体的不調"
+  },
+  "review_by_client_jp": {
+    "評価ID": 385,
+    "評価作成日時": "2020-08-30T23:09:00",
+    "クライアント役ID": 56,
+    "カウンセラー役ID": 42,
+    "点数": 50,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 2,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 2,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 2,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 385,
+    "evaluation_created_at": "2020-08-30T23:09:00",
+    "client_id": 56,
+    "counselor_id": 42,
+    "score": 50,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 2,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

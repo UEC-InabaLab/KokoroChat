@@ -1,0 +1,814 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-08-27T14:21:40",
+      "utterance": "こんにちは。本日は、どうぞ、よろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:22:31",
+      "utterance": "こんにちは。今日はよろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T14:23:09",
+      "utterance": "少し早いですが、始めさせてもらっても大丈夫でしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:26:46",
+      "utterance": "大丈夫です。よろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T14:27:29",
+      "utterance": "ありがとうございます。では、始めさせていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:27:39",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T14:27:50",
+      "utterance": "こんにちは。相談員です。本日は、どのような、ご相談でしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:28:06",
+      "utterance": "娘のことでちょっとモヤモヤしてるんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T14:28:40",
+      "utterance": "そうなんですね。もう少し、詳しく聞かせていただけますか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:28:55",
+      "utterance": "はい。娘は今高校生なのですが、障害があります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T14:29:05",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:29:14",
+      "utterance": "高校だけど、なかは小学5年くらいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T14:29:58",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:30:00",
+      "utterance": "しかたないのですが、娘は自分の話したいことばかりを話してて、私がイライラしてしまい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T14:30:16",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:30:30",
+      "utterance": "ちょっと娘にあたってしまうというか、冷たくしたりと"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T14:30:50",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:31:29",
+      "utterance": "なんか、距離感というか、最近私の関わり方がよくないなと思ってるんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T14:32:10",
+      "utterance": "なるほど…　それは、お母様として、心苦しいですね…"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:32:40",
+      "utterance": "なんというか、大事には思ってるのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T14:33:00",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:33:07",
+      "utterance": "仕事で疲れていたりするとイライラしてしまい、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T14:33:26",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:33:28",
+      "utterance": "妹弟ともよく喧嘩をしてて、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T14:33:40",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:33:44",
+      "utterance": "それで余計にイライラしてしまい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T14:34:02",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:34:13",
+      "utterance": "優しくしようとはおもってるんですが、なかなか…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T14:34:28",
+      "utterance": "そうなのですね…"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:34:45",
+      "utterance": "はい…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T14:35:06",
+      "utterance": "最近とおっしゃっていましたが、最近何かあったりしましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:35:48",
+      "utterance": "私の仕事が忙しくて疲れてることも多く、"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:35:57",
+      "utterance": "帰りが遅くなる時もあります。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:36:25",
+      "utterance": "それで、ずっと話しかけられたり、喧嘩してるのを見たりしてると"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T14:36:42",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:36:42",
+      "utterance": "ついイラッと…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T14:38:02",
+      "utterance": "そうなのですね…娘さんのことを大切におもっていらっしゃるけど…苦しいお気持ちが伝わってきます…"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:38:16",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:38:46",
+      "utterance": "なんか、うまくやれなくて…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T14:39:41",
+      "utterance": "もどかしいお気持ちですよね…お仕事が、お忙しいとのことですが、帰りが遅くなったり、疲れていたりしている生活は、どれくらい続いていらっしゃるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:40:46",
+      "utterance": "シフト制なので時間が不規則なのは以前からです。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:41:09",
+      "utterance": "接客業なので、疲れは前からあります"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:42:21",
+      "utterance": "コロナでちょっとストレスも溜まってたし、"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:42:38",
+      "utterance": "ちょっと距離を置いた方がとおもって"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T14:42:38",
+      "utterance": "そうなのですね…。時間が不規則な事、接客業というお仕事は、体のリズムがとりずらいし、気も使われて…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T14:43:07",
+      "utterance": "はい。続けてください。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:43:08",
+      "utterance": "障害がある長女だけ、近所の実家の母と暮らしています"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:43:22",
+      "utterance": "あ、すみません"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T14:43:40",
+      "utterance": "こちらこそ、失礼しました。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:44:06",
+      "utterance": "近所なので、よく帰ってきたりはするのですが。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T14:44:25",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T14:45:21",
+      "utterance": "ご近所のご実家にお嬢さんをお任せになったのは、賢明なご判断だったと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:45:56",
+      "utterance": "そうでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:46:05",
+      "utterance": "そうだったらいいのですが。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T14:47:20",
+      "utterance": "はい。最近のコロナで、接客業のお仕事は、とても気を使われ、疲労されていたと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:48:01",
+      "utterance": "はい、元々ストレスがたまる仕事ですが、最近は特にですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T14:49:02",
+      "utterance": "コロナの対応は、本当に大変だと思います。疲れているときは、普段穏やかな方でも、怒りっぽくなったりと、なかなかベストな自分でい続けるのは、難しいことだと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:49:27",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T14:51:21",
+      "utterance": "ご実家にお嬢さんを預かってもらっていて、今も娘さんにイライラしてしまう感じなのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:52:18",
+      "utterance": "妹弟はいるので、イライラすることはありますが、減った気はします"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:52:44",
+      "utterance": "長女が帰ってくると、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T14:52:51",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:53:18",
+      "utterance": "妹弟にもかまってもらったり、ジャケにされたりしてますが"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:53:31",
+      "utterance": "まぁ、落ち着いてはいると思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:53:48",
+      "utterance": "ただ、私はちょっと距離があるかな…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T14:54:02",
+      "utterance": "そうなのですね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T14:55:13",
+      "utterance": "それは、すこし寂しい感じがしますね…どうして、そう感じられるのでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:56:10",
+      "utterance": "私がイライラしてるせいもあるからか、何となくそんな気がします"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:56:49",
+      "utterance": "もちろん普通にご飯食べたりとかもしていますが"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T14:56:56",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:57:34",
+      "utterance": "ひとつひとつにイラッとしてしまったり、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T14:57:45",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:58:06",
+      "utterance": "なんか、障害を受け入れきれてない自分がいる感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T14:58:37",
+      "utterance": "そうなのですね…それは、娘さんを前にすると、おつらい気持ちになりますね…"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T14:59:17",
+      "utterance": "辛いのかな…なんかモヤモヤしてます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T15:00:20",
+      "utterance": "最初のご相談では、娘さんのことで、モヤモヤしている、ということでしたものね"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:00:44",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T15:01:36",
+      "utterance": "娘さんを前にすると、頭をよぎる考えなどありますか"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:02:49",
+      "utterance": "頭をよぎる？…今はとくにこれと言うようなことは思いつかない感じです…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T15:03:58",
+      "utterance": "そうなのですね。イライラすることが多いとおっしゃっていたのですが、"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:04:57",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T15:05:00",
+      "utterance": "イライラしているとき、どんなお気持ちなのでしょうか…"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:05:53",
+      "utterance": "元々自分はせっかちで疲れてる時とかイライラしてる事は今までもよくありました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T15:06:15",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:06:56",
+      "utterance": "だから、仕事から帰って子供達に当たってしまったりとかは今までもあります"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:07:39",
+      "utterance": "どんな気持ちかと言うと、、"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:07:59",
+      "utterance": "やっぱり横で喧嘩とかされるとイライラしてしまいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T15:09:19",
+      "utterance": "そうなのですね…大事に思っているお子さんにイライラしてしまうのは、悲しいですよね…"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:09:46",
+      "utterance": "そうですね、、自分ちっちゃいなって思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T15:11:12",
+      "utterance": "そう思っていらっしゃるのですね…でも、3人お子さんがいらっしゃる中で、ご自分も働いてらして、とても毎日がんばっていらっしゃるのでと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:11:36",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T15:12:15",
+      "utterance": "また、モヤモヤも戻るのですが…"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:12:31",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T15:13:44",
+      "utterance": "高校生のご長女さんのことで、ご家族で何かお話になったりされていますか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:14:40",
+      "utterance": "主人も仕事が遅い事があり、妹弟は障害のこともわかってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T15:14:53",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:14:58",
+      "utterance": "妹弟には、ママイライラしすぎって怒られることもあります"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:15:36",
+      "utterance": "私がちょっと無理だなっておもって、長女は実家に預けたんです"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:15:53",
+      "utterance": "長女も母とは仲が良いので。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T15:16:12",
+      "utterance": "そうなのですね。妹さん、弟さんとお母さんとの関係が良い感じなのが伝わってきます。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:16:36",
+      "utterance": "妹弟は、多分私のことが大好きだと思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:16:45",
+      "utterance": "よく甘えてくるので。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T15:17:46",
+      "utterance": "はい。とても、その感じが伝わってきました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T15:17:57",
+      "utterance": "ご長女さんをお母様に預けていらっしゃることに、モヤモヤされているのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:18:25",
+      "utterance": "うーん…それもあると思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T15:18:42",
+      "utterance": "それも…といいますと…"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:18:50",
+      "utterance": "なんか、このままでいいなかなぁって"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:19:08",
+      "utterance": "いいのかなぁ…てモヤモヤする感じかな"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T15:19:51",
+      "utterance": "このまま、というのは、詳しく教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:20:19",
+      "utterance": "やっぱり、特に長女にイライラしてしまうことが多く、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T15:20:25",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:20:53",
+      "utterance": "結局母に預けて、余計に距離があいた感じでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:21:28",
+      "utterance": "このままは良くないのもわかってるのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T15:21:42",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:21:45",
+      "utterance": "どうすればいいのかなぁ…ってら思うんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T15:22:08",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T15:24:02",
+      "utterance": "母様に預けたことで、今まで障害を受け入れきれていなかったことと、それに加えて距離がよりあいてしまった感じがされる、ということでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:25:34",
+      "utterance": "そうですね…受け入れられない自分と、上手くやっていけない自分に"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T15:25:46",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:26:08",
+      "utterance": "どっかで逃げてる感じですかね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T15:26:42",
+      "utterance": "なるほど…そう感じてしまうのは、苦しいですね…"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:26:49",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T15:27:18",
+      "utterance": "いくつか、ご提案をさせていただきたいのですが、よろしいでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:27:29",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T15:27:51",
+      "utterance": "助けたいなら、まず、自分が丘に上がること、という言葉があります。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:28:05",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T15:28:51",
+      "utterance": "今の、状況は、疲れ切ってしまっていたご自分をまず助けることができた、ということで、素晴らしいご判断だったと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:29:17",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T15:30:19",
+      "utterance": "まず、第一は、ご自分のその決断を認め、ご自分をぎりぎりのところで、毎日よくやっているとねぎらってあげることです。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:30:53",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T15:31:17",
+      "utterance": "コロナの状況下で、今、何かを変えようとしたり、始めたりするのは大変だと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:31:54",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T15:32:51",
+      "utterance": "ご自身が、温かいお風呂に入り、少しでも自分の時間がとれるように、疲れが回復できるようにしていくことが大切なことだと私は思います。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:33:34",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:33:46",
+      "utterance": "結構家ではゆっくりするようにしています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T15:34:12",
+      "utterance": "娘さんは、ご実家のお母さんと楽しく過ごせている。今は、それでいいのではないでしょうか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T15:34:38",
+      "utterance": "（すみません。時間がすぎてしまいましたね)"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:34:51",
+      "utterance": "(いえいえ)"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:35:07",
+      "utterance": "そうですね…"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:35:46",
+      "utterance": "(最後までいきますか？ここで終わりますか？)"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T15:36:10",
+      "utterance": "ご自分の回復をまず、第一にして、娘さんは、楽しくやってくれているのですから、甘えてみてもよいのではないですか"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:36:46",
+      "utterance": "そうですね…もう少し様子をみたいと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T15:37:03",
+      "utterance": "（一応、以上で区切りがついた感じです。）"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:37:16",
+      "utterance": "(ありがとうございます(^^))"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T15:37:27",
+      "utterance": "（すみません。延長していただいてありがとうございました！）"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:37:40",
+      "utterance": "(とんでもないです。こちらこそありがとうありがとうございました)"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T15:37:51",
+      "utterance": "それでは、これで相談を終了させていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2020-08-27T15:37:55",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-08-27T15:38:06",
+      "utterance": "ありがとうございました。"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "長女とのコミュニケーション問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 377,
+    "評価作成日時": "2020-08-27T16:36:00",
+    "クライアント役ID": 59,
+    "カウンセラー役ID": 33,
+    "点数": 92,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 5,
+    "一緒に考えながら取り組めた": 5,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 5,
+    "今回の相談は価値があった": 5,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 4,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 5,
+    "要約": 4,
+    "問題の明確化": 5,
+    "この相談での目標の明確化": 5,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 377,
+    "evaluation_created_at": "2020-08-27T16:36:00",
+    "client_id": 59,
+    "counselor_id": 33,
+    "score": 92,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

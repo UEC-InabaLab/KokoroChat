@@ -1,0 +1,474 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-01-31T09:52:00",
+      "utterance": "（こんにちは。今日はよろしくお願いいたします。もし可能であれば若年層の相談者役をしていただけるとありがたいです。）"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T09:52:56",
+      "utterance": "（こんにちは。こちらこそ、よろしくお願いします。若年層の設定をします。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T09:53:28",
+      "utterance": "（ありがとうございます。）"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T09:54:25",
+      "utterance": "（了解いたしました。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T10:00:12",
+      "utterance": "こんにちは、相談員です。年齢、性別、相談内容を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T10:00:50",
+      "utterance": "22歳男性、進路が決まりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T10:01:13",
+      "utterance": "教えてくれてありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T10:01:55",
+      "utterance": "進路が決まらないという事でお悩みなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T10:02:03",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T10:02:30",
+      "utterance": "今は大学４年生ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T10:02:44",
+      "utterance": "はい、大学4年です"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T10:03:46",
+      "utterance": "そうなのですね。進路というのは就職先で悩まれている感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T10:04:20",
+      "utterance": "いや、、"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T10:04:45",
+      "utterance": "就職先、全て落ちて行き先なくて"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T10:06:22",
+      "utterance": "そうなんですね。それでは焦ってしまいますね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T10:06:30",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T10:07:05",
+      "utterance": "どのようなお仕事がしたいとかあるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T10:07:36",
+      "utterance": "メーカーの営業か、接客かな"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T10:09:24",
+      "utterance": "そうなんですね。今から試験を受けられるところはあるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T10:10:29",
+      "utterance": "いや、今はもうなくて、無理やりどっか応募しようか、でも無理やり応募も嫌だしなとか"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T10:11:14",
+      "utterance": "そうだったんですね。色々お悩みになっているんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T10:11:22",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T10:12:07",
+      "utterance": "ご家族に相談されたりしているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T10:12:36",
+      "utterance": "ぶっちゃけ、してないし、適当にごまかしてる"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T10:13:51",
+      "utterance": "そうなんですね。ご家族にも言えなくて、一人で悩みを抱え込まれているんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T10:14:15",
+      "utterance": "まぁそうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T10:15:52",
+      "utterance": "さきほどメーカーの仕事と言っていましたが、どのような仕事になりますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T10:16:47",
+      "utterance": "名前が知れている会社なら、営業でも事務でもなんでも"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T10:18:31",
+      "utterance": "そうなんですね。4月からは就職をしたいと思っているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T10:18:42",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T10:20:12",
+      "utterance": "そうですよね。今からでもどこか試験を受けれそうなところはあるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T10:20:26",
+      "utterance": "探しましたがなかなかなくて"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T10:21:51",
+      "utterance": "そうですよね、時期が時期なだけに試験先を見つけるのも苦労されていると思います。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T10:22:03",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T10:22:55",
+      "utterance": "周りのお友達とかは、だいたい就職が決まっているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T10:23:30",
+      "utterance": "周りはほぼ決まっていて、私のみ決まってなくて"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T10:24:23",
+      "utterance": "そうなんですね。それでは焦ってお悩みになりますね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T10:24:31",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T10:25:38",
+      "utterance": "中小企業などは、まだ試験を受けられるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T10:26:05",
+      "utterance": "私が探した限り、もうない"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T10:26:39",
+      "utterance": "そうだったんですね。それはとても困りましたね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T10:26:58",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T10:28:57",
+      "utterance": "仮に４月から就職ができないとしたら、何か考えとかはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T10:29:45",
+      "utterance": "今バイトしてるので、フリーターかなとか、無理やり留年して、就職浪人するかなとか"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T10:30:46",
+      "utterance": "そうなんですね。そのようにも考えられているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T10:30:59",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T10:32:31",
+      "utterance": "就職を決めないと親御さんから何か言われそうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T10:32:51",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T10:34:50",
+      "utterance": "今からでは仕事探しはとても難しい感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T10:35:14",
+      "utterance": "頑張ってますが、今年はあきらめようかと"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T10:36:02",
+      "utterance": "そうなのですね。そこまで思っているんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T10:36:23",
+      "utterance": "途方に暮れてしまい、悲しい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T10:37:20",
+      "utterance": "そうですよね。お気持ちが伝わってきます。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T10:37:40",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T10:39:03",
+      "utterance": "今はご家族と一緒に暮らされているんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T10:39:17",
+      "utterance": "1人"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T10:40:35",
+      "utterance": "そうなんですね。お一人暮らしをされているんですね。一人でいるといろんなことを考えてしまいますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T10:40:44",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T10:43:10",
+      "utterance": "今年も頑張るだけやってみて、それでも就職先が見つからなければ、来年新たな気持ちでという思いがあるのですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T10:43:26",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T10:44:50",
+      "utterance": "今年は、あとどんな事ができそうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T10:45:33",
+      "utterance": "仕事をネットで探すとか、、あとはわからないですね、どうしましょう"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T10:47:10",
+      "utterance": "そうですよね。今の時代だとネットで探すといろんな場所が見つかるかもしれませんね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T10:47:18",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T10:49:10",
+      "utterance": "ここまできてやるだけやったら、あとは来年にかけるというのも一つだと思いますがどうでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T10:49:50",
+      "utterance": "はい、現実考えてます。今何ができることないかな"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T10:51:10",
+      "utterance": "そうですよね。今何ができることを考えるのはとても大切なことだと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T10:51:55",
+      "utterance": "本当は、４月に就職したい結局負け犬には、なりたくない"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T10:53:13",
+      "utterance": "そうですよね。そういう思いもとてもわかります。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T10:53:53",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T10:55:29",
+      "utterance": "ただ１年違ってもその先で、頑張れば周りの事を追い抜くこともできると思います。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T10:55:43",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T10:55:53",
+      "utterance": "悔しくて"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T10:57:05",
+      "utterance": "そうですよね。悔しい気持ちもとてもわかります。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T10:57:32",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T10:59:44",
+      "utterance": "人生は長いので１年仕事が遅くなっても負け犬になるとは思いません。今できるだけの事を一生懸命されることが次につながると思います。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T11:00:00",
+      "utterance": "はい、ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T11:01:37",
+      "utterance": "あなたの事を応援しています。いつでも相談に来てくださいね。今日はこれで終わりにさせていただいてよろしいでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T11:01:57",
+      "utterance": "はい、色々聴いていただきありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-31T11:02:58",
+      "utterance": "寒さが続きますので、お身体に気をつけて暖かくして過ごしてくださいね。それでは今日は終わりにさせていただきますね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-31T11:03:08",
+      "utterance": "ありがとうございました"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "就職活動の難しさと焦り"
+  },
+  "review_by_client_jp": {
+    "評価ID": 6361,
+    "評価作成日時": "2024-02-01T23:55:00",
+    "クライアント役ID": 449,
+    "カウンセラー役ID": 224,
+    "点数": 76,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 5,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 6361,
+    "evaluation_created_at": "2024-02-01T23:55:00",
+    "client_id": 449,
+    "counselor_id": 224,
+    "score": 76,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 5,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

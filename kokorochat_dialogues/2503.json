@@ -1,0 +1,819 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:00:08",
+      "utterance": "こんにちは相談員です。よろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:00:50",
+      "utterance": "お願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:01:06",
+      "utterance": "最初に年齢と性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:01:31",
+      "utterance": "16歳　男性"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:01:42",
+      "utterance": "お返事ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:01:55",
+      "utterance": "学年も教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:02:04",
+      "utterance": "高校1年"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:02:13",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:02:28",
+      "utterance": "今日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:02:54",
+      "utterance": "毎日いろいろ楽しくなくて"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:03:12",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:03:30",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:03:33",
+      "utterance": "楽しくないのは、例えばどんなことですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:03:42",
+      "utterance": "うーん全部"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:04:21",
+      "utterance": "そうなんですね。うっとうしい気分が続いているというような感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:04:41",
+      "utterance": "うーん、はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:05:43",
+      "utterance": "そんな気分は、どのくらい前からなのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:05:57",
+      "utterance": "4月くらいからです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:06:18",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:06:41",
+      "utterance": "新学期が始まった頃からのようですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:06:46",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:07:51",
+      "utterance": "新しい学校が始まったことと何か関係がありそうなのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:08:14",
+      "utterance": "うーん、あんまり楽しくないかな…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:09:00",
+      "utterance": "それ以前は、どんな感じの日々だったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:09:16",
+      "utterance": "楽しかったです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:09:33",
+      "utterance": "そうだったのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:09:51",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:10:00",
+      "utterance": "4月を境に日々の雰囲気がガラッと変わってしまったんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:10:12",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:10:55",
+      "utterance": "3月までというと中学の生活ということになるかと思いますが、中学ではどんなことで楽しくやっていたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:11:23",
+      "utterance": "部活も楽しかったし、友達も仲良い人がたくさんいたから"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:11:41",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:12:02",
+      "utterance": "かなり充実した生活だったんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:12:11",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:12:23",
+      "utterance": "ちなみに部活は何をやっていたの？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:12:29",
+      "utterance": "野球"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:12:39",
+      "utterance": "そうなんだ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:13:02",
+      "utterance": "じゃあ、野球が大好きなんだね？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:13:13",
+      "utterance": "うーん、まぁ…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:13:42",
+      "utterance": "高校では、野球部には入ったの？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:14:03",
+      "utterance": "入ってたけど、この間辞めました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:14:22",
+      "utterance": "そうだったんだ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:14:47",
+      "utterance": "何かうまくいかなかったの？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:14:55",
+      "utterance": "楽しくなかったから"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:15:21",
+      "utterance": "そうだったんだ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:15:48",
+      "utterance": "中学の野球部とはだいぶ雰囲気とかが違っていたのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:16:37",
+      "utterance": "そうですね。知ってる人もいなかったし"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:17:34",
+      "utterance": "確かにね。新しい学校の新入部員だものね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:17:40",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:18:00",
+      "utterance": "どんなところが、違っているなと感じたのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:18:32",
+      "utterance": "トレーニングもきつかったし、雰囲気が好きじゃなかった"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:19:38",
+      "utterance": "そうだったんだね。雰囲気のどんなところが好きじゃなかったのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:19:52",
+      "utterance": "うーんあんまりわかんないけど"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:20:31",
+      "utterance": "なんとなく、好きになれなかったという感じかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:20:36",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:21:15",
+      "utterance": "高校でも野球やろうと思ってせっかく入ったのに、残念だったね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:21:27",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:22:40",
+      "utterance": "中学では、野球は学校生活の中で楽しいことの大きな一つだったんでしょう？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:22:55",
+      "utterance": "はい、部活以外の友達も楽しかった"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:23:26",
+      "utterance": "部活以外の親しい友達もいたんだね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:23:31",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:23:48",
+      "utterance": "みんな違う学校に行っちゃったのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:24:03",
+      "utterance": "うん、僕だけ遠い学校"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:24:20",
+      "utterance": "そうなんだ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:24:43",
+      "utterance": "自分だけ一人になってしまったみたいな感じかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:24:48",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:25:04",
+      "utterance": "ちょっと寂しいね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:25:10",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:26:24",
+      "utterance": "最初に楽しいことがなくてと話してくれたけれど、まだ、新しい学校で何か楽しめることがまだ見つかっていない感じかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:26:51",
+      "utterance": "うーんどうかなぁ。楽しめることってなんですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:28:34",
+      "utterance": "例えば、中学では、野球をやっていたでしょう。そんな具合に、何か打ち込めそうなこととかあるのかな？と思って聞いてみたんだけど。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:29:09",
+      "utterance": "今はないです。それがわからないし、そんな気持ちでもないかな"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:29:51",
+      "utterance": "そうなんだ。そんな気持ちでもないって、どういうこと？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:30:18",
+      "utterance": "打ち込めることを探そうって気持ちにならないかな"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:30:55",
+      "utterance": "そうなんだね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:32:47",
+      "utterance": "4月に学校が始まってから、ずうっとそんな気持ちを抱えているのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:33:14",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:34:24",
+      "utterance": "しかも、学校は遠くて通学時間もかかるしね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:34:38",
+      "utterance": "家族と引っ越したので今は近いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:35:02",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:36:20",
+      "utterance": "わざわざ家族が学校の近くに引っ越してくれたの？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:36:58",
+      "utterance": "いえ、両親がわたしのためを思って高校を選んで近くに引っ越しました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:37:47",
+      "utterance": "そうだったんだ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:38:48",
+      "utterance": "今の高校は、あなた自身は気に入っているのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:39:16",
+      "utterance": "気に入ってない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:39:33",
+      "utterance": "そうだったんだ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:39:54",
+      "utterance": "どんな所が気に入らないの？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:40:18",
+      "utterance": "全部です。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:40:29",
+      "utterance": "勉強ってなんのためにしなきゃならないんですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:41:35",
+      "utterance": "今は、勉強すること自体に疑問を感じているんだね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:41:45",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:42:18",
+      "utterance": "そもそも、ご両親はどんな理由から今の高校を選んだのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:42:39",
+      "utterance": "進学校で有名だから"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:42:56",
+      "utterance": "そうだったんだ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:43:30",
+      "utterance": "あなた自身は、本当はそこには行きたくなかったんだ？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:43:58",
+      "utterance": "はい、地元の高校にしんがくしたかったですあ"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:44:09",
+      "utterance": "進学したかったすみません誤字"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:44:29",
+      "utterance": "そうだったんだね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:44:54",
+      "utterance": "じゃあ、気持ちが乗らないのも無理ないと思うよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:45:10",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:45:47",
+      "utterance": "親しい友達とも離れてしまって、土日に一緒に遊ぶことも難しくなっているだろうし・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:46:04",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:46:38",
+      "utterance": "進学校と言っていたけれど、クラスの雰囲気はどう？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:47:03",
+      "utterance": "うーんみんな真面目で目標も持っててすごいなって"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:47:25",
+      "utterance": "そうなんだ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:48:10",
+      "utterance": "クラスの中に休み時間とか話せそうな人は見つかったかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:48:44",
+      "utterance": "なんとなく話す人はいるけど…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:49:14",
+      "utterance": "今の所気の合いそうな人はいない感じ？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:49:26",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:49:49",
+      "utterance": "そうなんだね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:50:54",
+      "utterance": "そうすると、学校に行っても楽しいってことはなかなか見つからないなみたいな感じの日々なのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:51:33",
+      "utterance": "はい、そうですね、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:52:35",
+      "utterance": "さっき、クラスメートは目標持っていたりしてと話してくれたけれど、あなたとしては、この学校で続けて行こうという気持ちは持っているの？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:53:12",
+      "utterance": "それはしょうがないのでそう思ってます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:53:45",
+      "utterance": "そうなんだね。その頑張り応援します。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:53:56",
+      "utterance": "はい、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:54:00",
+      "utterance": "ところで、1つだけ提案してもいいかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:54:22",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:54:47",
+      "utterance": "今の学校で楽しめていないけど、続けて行こうという気持ちはすごいと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:55:23",
+      "utterance": "但し、楽しみがないと、疲れてしまうような気がする。その点が心配です。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:55:24",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:55:32",
+      "utterance": "そこで、提案です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:55:51",
+      "utterance": "何でもいいので、楽しみを1つだけ見つけることをお勧めします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:56:15",
+      "utterance": "学校の中の活動でも、学校の外でもいいと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:56:26",
+      "utterance": "例えばどんなことがありますか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:57:18",
+      "utterance": "例えばという点は考えて欲しいのですが、これをやっていると、気持ちが楽になるなとか、リラックスできるなとかいうものを見つけることをお勧めします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:58:00",
+      "utterance": "それでなにか変わりますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:58:52",
+      "utterance": "単調な生活は気持ちを滅入らせてしまいます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:59:13",
+      "utterance": "単調な生活ですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T14:59:21",
+      "utterance": "小さなことでも、楽しみがあると、気持ちをほぐしてくれます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T14:59:51",
+      "utterance": "それを見つけるのが難しいのですが、例えばどんなことがありますか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T15:00:44",
+      "utterance": "例えば、学校の中では、あまり厳しくない部活に入るとか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T15:01:27",
+      "utterance": "そうすると、すくなくとも、何かを一緒にして、話をする仲間ができるかもです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T15:01:34",
+      "utterance": "でも野球がいいですね。やるとしたら。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T15:01:48",
+      "utterance": "はい、そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T15:02:00",
+      "utterance": "なるほど。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T15:02:20",
+      "utterance": "やっぱり野球がいいんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T15:02:25",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T15:03:22",
+      "utterance": "学校の野球部はトレーニングがきつすぎるという話だったので、地元の野球チームに入るということもあるかもしれませんね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T15:03:41",
+      "utterance": "はい、そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T15:04:05",
+      "utterance": "気の合うチームが見つかるように応援しています。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T15:04:15",
+      "utterance": "はい、ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T15:04:39",
+      "utterance": "今日のご相談はここまででよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T15:04:51",
+      "utterance": "はい、ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T15:04:59",
+      "utterance": "気になることが出てきたらまた相談に来てください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T15:05:06",
+      "utterance": "はい、また来ます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T15:05:38",
+      "utterance": "今日は、ご相談に来てくださりありがとうございます。では失礼いたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T15:05:50",
+      "utterance": "失礼します"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-30T15:06:02",
+      "utterance": "（ロールプレイお疲れさまでした。）"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-30T15:06:17",
+      "utterance": "(こちらこそ、ありがとうございました)"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "新しい学校での適応困難"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2503,
+    "評価作成日時": "2021-09-30T15:19:00",
+    "クライアント役ID": 181,
+    "カウンセラー役ID": 5,
+    "点数": 67,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 4,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2503,
+    "evaluation_created_at": "2021-09-30T15:19:00",
+    "client_id": 181,
+    "counselor_id": 5,
+    "score": 67,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

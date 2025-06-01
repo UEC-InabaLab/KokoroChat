@@ -1,0 +1,604 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:00:08",
+      "utterance": "こんにちは相談員です。よろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:00:26",
+      "utterance": "よろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:00:49",
+      "utterance": "最初に年齢と性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:01:09",
+      "utterance": "25歳　女です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:01:22",
+      "utterance": "お返事ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:01:37",
+      "utterance": "今日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:02:32",
+      "utterance": "誰とも喋らず1日が終わる毎日で、寂しいです..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:02:57",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:03:54",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:04:14",
+      "utterance": "誰とも喋らないでいると一人ぼっちという感じになってしまうのでしょうね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:04:39",
+      "utterance": "そうなんです。孤独です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:05:04",
+      "utterance": "そうですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:05:35",
+      "utterance": "誰とも喋らない日々はどのくらい続いているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:06:07",
+      "utterance": "1年位です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:07:07",
+      "utterance": "とても長い間孤独を抱えてこられたんですね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:07:16",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:08:23",
+      "utterance": "深い寂しさだったのでしょうね"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:08:33",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:08:59",
+      "utterance": "その間お一人で暮らして来られたのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:09:24",
+      "utterance": "はい。今一人暮らししてます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:09:49",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:10:33",
+      "utterance": "1年間もお一人で寂しさを抱えて暮らして来られたのは大変なことだったと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:10:43",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:10:56",
+      "utterance": "日々どのようにして過ごして来られたのでしょう？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:11:40",
+      "utterance": "寂しいなーと思いながら、過ごしてきました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:12:02",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:12:21",
+      "utterance": "お仕事とかはなさっているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:12:33",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:12:52",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:13:17",
+      "utterance": "もしよろしければ、どんなお仕事をなさっているのか教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:13:37",
+      "utterance": "事務職です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:13:54",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:14:40",
+      "utterance": "毎日出勤するのですか？それとも、自宅でのオンラインでの勤務なのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:15:06",
+      "utterance": "私は、毎日出勤してます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:15:28",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:16:02",
+      "utterance": "そうすると、毎日職場の人とのやり取りはありそうですね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:17:02",
+      "utterance": "やり取り？仕事上の、業務連絡的な事はあります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:18:25",
+      "utterance": "やり取りと言ったのは、職場での業務上の会話とか、休憩時間の会話とかがあるのでは？　と思ったのですが・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:19:31",
+      "utterance": "業務上の会話はありますが、お昼は1人で食べています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:19:52",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:20:45",
+      "utterance": "お昼休みは誰とも会話することなくということのようですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:20:55",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:23:13",
+      "utterance": "会社の中にはお話し相手になってくれそうな人はいないのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:23:29",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:24:47",
+      "utterance": "会社でもお仕事以外の事では誰とも話さず、お家でもお一人だと、本当に誰とも話さない日々になってしまうんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:25:04",
+      "utterance": "そうなんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:25:17",
+      "utterance": "それは寂しい限りですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:25:31",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:26:04",
+      "utterance": "1年ぐらい前からというお話しでしたが、それ以前はどのような暮らしだったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:27:54",
+      "utterance": "今の会社に転職して2年目なのですが、前の会社では同年代の子もいて話が出来ました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:28:24",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:29:17",
+      "utterance": "前の会社の時は、同年代の子たちと会話を楽しんでおられたんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:29:30",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:30:27",
+      "utterance": "今の会社では同じ職場の人たちとは年齢が離れすぎていて話ずらいということみたいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:30:56",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:32:22",
+      "utterance": "それですっかり孤立した感じになっているのでしょうね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:32:28",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:33:20",
+      "utterance": "転職して2年とのお話しですが、事務のお仕事自体は順調に進んでいるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:34:03",
+      "utterance": "そうですね。単調ですが。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:34:27",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:36:30",
+      "utterance": "お仕事が単調とのことですが、ご自身的にはお仕事について何か考えるところがおありなのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:36:54",
+      "utterance": "今は無いですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:37:46",
+      "utterance": "お仕事は今のままで構わないということのようですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:38:07",
+      "utterance": "内容は、そうです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:39:37",
+      "utterance": "そうすると、ご自身としては、今の状態がどうなるといいなと思っておいでなのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:40:21",
+      "utterance": "孤独な環境が、無くなれば良いなと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:41:20",
+      "utterance": "それは、職場で？それともご自宅での暮しで？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:41:35",
+      "utterance": "両方です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:43:06",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:44:04",
+      "utterance": "どちらにしても孤独を解消するためには、つながりができる必要があると思うのですが、ご自分ではどう思われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:44:16",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:46:01",
+      "utterance": "あるいは、職場以外でもつながりができると孤独から抜け出て行けそうな気もするのですが、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:46:13",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:47:22",
+      "utterance": "職場で、あるいは職場以外でつながりを作ってみるということについては、どう思われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:48:11",
+      "utterance": "ただ、元々自分から話しかけるのは苦手です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:48:37",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:50:00",
+      "utterance": "前の会社では、同じ年ごろの子がいたので、話ができたということだったのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:50:16",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:51:21",
+      "utterance": "今の会社でこのまま誰とも話をしないでいると、この先どうなっていくのでしょう？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:51:58",
+      "utterance": "孤独になります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:53:27",
+      "utterance": "なんとかそうならないためにはどうしたらいいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:54:20",
+      "utterance": "分からないです..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:54:58",
+      "utterance": "いまのままでは辛すぎるような気がするのですが・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:55:20",
+      "utterance": "はい。それで、相談にきました..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:56:30",
+      "utterance": "よくお聞きするはペットを飼ってみるとおいうこともあるようですよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:57:28",
+      "utterance": "一人暮らしなので、難しいです..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:58:15",
+      "utterance": "なるほど。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T15:59:05",
+      "utterance": "ペット屋さんに行くと、独り暮らしの方でも飼えるペットもいるようですが・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T15:59:31",
+      "utterance": "そうなんですね。一回行ってみます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T16:00:07",
+      "utterance": "一度試しに相談なさってみるのも一つかと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T16:00:15",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T16:00:40",
+      "utterance": "ペットを買った場合にメリットをひとついってもいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T16:00:48",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T16:01:16",
+      "utterance": "ペットを飼うと、どんな種類のペットであっても、話題にできるかと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T16:01:29",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T16:02:39",
+      "utterance": "職場で雑談の時に「うちのペットの○○が～しちゃって、困っちゃったの・・・」という発言は、周りの人から、「そういう時はね・・・」といった会話のきっかけになるかもしれませんよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T16:02:59",
+      "utterance": "そうですね。頑張ってみます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T16:03:13",
+      "utterance": "よろしかったらお試しください。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T16:03:30",
+      "utterance": "今日のご相談はここまででよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T16:03:30",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T16:03:39",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T16:03:57",
+      "utterance": "今日はご相談にいらしてくださりありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T16:04:08",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T16:04:11",
+      "utterance": "では失礼いたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T16:04:27",
+      "utterance": "失礼します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T16:04:48",
+      "utterance": "（ロールプレイありがとうございました。）"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T16:04:59",
+      "utterance": "お疲れ様でした！"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "孤独感とコミュニケーションの不足"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2750,
+    "評価作成日時": "2021-11-21T16:33:00",
+    "クライアント役ID": 238,
+    "カウンセラー役ID": 5,
+    "点数": 65,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 4,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2750,
+    "evaluation_created_at": "2021-11-21T16:33:00",
+    "client_id": 238,
+    "counselor_id": 5,
+    "score": 65,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

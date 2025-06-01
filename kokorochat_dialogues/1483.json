@@ -1,0 +1,704 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-03-22T12:51:16",
+      "utterance": "こんにちは。本日はよろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T12:58:05",
+      "utterance": "よろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:00:43",
+      "utterance": "それでは始めさせていただきますね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:00:48",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:01:15",
+      "utterance": "こんにちは、相談員です。本日はお越しいただきありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:01:30",
+      "utterance": "よろしければ年齢と性別を教えていただいてもよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:03:26",
+      "utterance": "はい、男性、26歳です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:03:37",
+      "utterance": "教えていただきありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:03:56",
+      "utterance": "本日はどのようなことをご相談されますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:04:55",
+      "utterance": "最近うまく眠れなくて困ってます…。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:05:18",
+      "utterance": "ええ、そうでしたか・・・。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:05:36",
+      "utterance": "日々疲れが取れにくく、しんどいですね・・・。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:06:02",
+      "utterance": "いつごろからその状態なのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:06:51",
+      "utterance": "そうですね、数ヶ月前から続いています"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:08:02",
+      "utterance": "そうなんですね・・・。疲れも蓄積してきて、辛いですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:08:28",
+      "utterance": "はい、そうなんです。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:08:51",
+      "utterance": "ええ、そうですよね・・・。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:09:00",
+      "utterance": "そのころ何かそうなるきっかけのようなことはありましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:11:44",
+      "utterance": "そうですね…"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:12:10",
+      "utterance": "なんていうか、フリーランスの仕事が増えてきたタイミングなんですよね"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:12:22",
+      "utterance": "その頃からうまく眠れなくなってきた感じがあります"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:12:45",
+      "utterance": "ええ、そういう状況の変化があったんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:13:45",
+      "utterance": "はい、やっぱそのタイミングが大きいですね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:14:08",
+      "utterance": "なるほどですね・・・。それ以前と今では、具体的にはどのような感じで変化したのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:15:29",
+      "utterance": "そうですね…時間の縛りがなくなったんですよね、自分で全て決める形になったのが一番大きい変化だと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:16:43",
+      "utterance": "ええ、時間の縛りが・・・慣れなかったり、戸惑うこともきっとありますよね・・・。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:17:06",
+      "utterance": "そうですね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:17:31",
+      "utterance": "充実されているとは思いますが、その中でしんどいと感じるようなことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:18:14",
+      "utterance": "はい、やはりスケジュール感を自分で決める感じが、良い面も悪い面もあるな…と思ってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:18:38",
+      "utterance": "そう思われているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:18:51",
+      "utterance": "はい…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:19:05",
+      "utterance": "ちなみに良い面と悪い面というのは、例えばどのようなことなのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:19:56",
+      "utterance": "そうですね、時間を決めて自分本位で仕事できるのはやっぱり性に合ってるな…と思います一方で、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:20:11",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:20:18",
+      "utterance": "時間に縛られないと、なんというか、だらけてしまうので…"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:20:29",
+      "utterance": "そのせいで生活が乱れたりするな…と感じますね、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:20:58",
+      "utterance": "うんうん、なるほどですね・・・。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:21:05",
+      "utterance": "はい、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:21:54",
+      "utterance": "確かに縛りがないと、めどが立たないこともありますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:22:58",
+      "utterance": "それで生活が乱れるのも、嫌になりますよね・・・。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:23:10",
+      "utterance": "目処が立たないというか、監督者がいないので"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:23:17",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:23:21",
+      "utterance": "怒られないしまぁいっか…となったりしますね、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:24:21",
+      "utterance": "なるほど。気が引き締まらない感じなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:24:59",
+      "utterance": "気が引き締まらないというか、上がり下がりが完全に自己都合になる感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:25:55",
+      "utterance": "上がり下がり、というのは例えば・・・？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:26:31",
+      "utterance": "やる気が出る時と、だらける時ですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:27:32",
+      "utterance": "ええ、そういうことなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:27:40",
+      "utterance": "はい、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:28:43",
+      "utterance": "気分次第になってしまうのも、仕事という場面においては困りますね・・・。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:29:07",
+      "utterance": "そうですね…仕事そのものはまぁうまくいくんです"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:29:17",
+      "utterance": "仕事を始めたら自然とやる気は出るので…"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:29:27",
+      "utterance": "ただ終わった後にだらけてしまいますね、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:29:35",
+      "utterance": "ええ、そうでしたか・・・。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:30:04",
+      "utterance": "はい、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:30:14",
+      "utterance": "ちなみにお仕事はどれくらいの時間に終わることが多いのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:30:57",
+      "utterance": "まちまちですね、自分が終わりと決めたタイミングというか"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:31:16",
+      "utterance": "昨日は4時に終わったし、一昨日は夜の8時だったり、とか…。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:32:12",
+      "utterance": "すごい差がありますね・・・。体内時計を整えるのも大変そうですね・・・。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:32:18",
+      "utterance": "そうですねー、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:32:44",
+      "utterance": "休憩の時間などは、どのような感じなのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:33:17",
+      "utterance": "ぶっ通しでやることもありますし、でも疲れたと思ったら休憩はとりますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:34:25",
+      "utterance": "ぶっ通し・・・。後からどっと疲れることもあるのではないのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:34:35",
+      "utterance": "ありますねー…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:35:11",
+      "utterance": "そうですよね・・・。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:35:30",
+      "utterance": "そんな時はどのような感じで休まれているんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:36:01",
+      "utterance": "最初のうちは、本当にそのまま電池切れ、みたいにその場で寝落ちてしましたね、でもだんだん慣れてきて"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:36:12",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:36:30",
+      "utterance": "最近は抜き方というか、疲れない時間の組み方とか休憩を適宜挟むとかできるようになってきた感はあります"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:37:29",
+      "utterance": "ええ、ご自身でも工夫をされてきていたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:37:37",
+      "utterance": "はい、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:37:51",
+      "utterance": "そういう風にしてみてからはいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:38:29",
+      "utterance": "仕事が片付いてから体力が残ってるので、ひたすらゲームしたり映画見たり、趣味に没頭するようになりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:39:31",
+      "utterance": "ええ、自分の楽しみを持つ時間って大切ですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:39:55",
+      "utterance": "そうですよねー！趣味に没頭できるようになったのは良かった点です！"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:40:58",
+      "utterance": "ええ、仕事を充実させるためにも、そういう気分転換は大事だと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:41:23",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:41:46",
+      "utterance": "これまでの話をまとめさせていただくと、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:42:07",
+      "utterance": "スケジュールを決めるのが自己都合でよいが、自由なだけにだらけてしまうこともある。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:42:35",
+      "utterance": "数か月前フリーランスの仕事が増えてきたあたりからうまく眠れない。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:42:40",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:43:05",
+      "utterance": "すいません、上の二つ順番が逆になってしまいました↑"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:43:17",
+      "utterance": "いえいえ"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:43:20",
+      "utterance": "あっています"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:43:33",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:44:06",
+      "utterance": "仕事を始めればスイッチは入るが終わった後だらけることもある。仕事終わりは4時だったり20時だったりとまちまち。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:44:48",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:44:49",
+      "utterance": "ぶっ通しで仕事をしていたが、慣れてきて休憩も入れるようにしている。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:45:24",
+      "utterance": "その時間は映画だったり、ゲームだったりの趣味の時間に使っている。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:45:32",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:45:45",
+      "utterance": "ということで合っているでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:45:51",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:46:08",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:47:41",
+      "utterance": "お話を聞かせていただく中で、あなたはすごくエネルギーが高く仕事も趣味も全力で取り組むことができる人なのだということが、とても伝わってきました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:47:56",
+      "utterance": "ありがとうございます、良かったです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:48:47",
+      "utterance": "フリーランスで働くにはきっとこれくらいのバイタリティーが必要なのだとも感じました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:49:05",
+      "utterance": "確かに……言われてみたらそうですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:50:14",
+      "utterance": "ただあまりに全力すぎて、自分を労わって身体を休めることにこれまで目を向けてこなかったのかなと感じたのですが。いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:50:33",
+      "utterance": "うーんそうですね、確かにそうかもしれません"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:50:53",
+      "utterance": "自分を労るっていうのが、好きなことに時間を使う、ことってイメージが強くて"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:51:07",
+      "utterance": "ええ、なるほどですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:51:15",
+      "utterance": "身体を休めるってすごくなんというか、サボってるというか停滞してるような印象がありました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:51:45",
+      "utterance": "そうでしたか・・・。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:52:21",
+      "utterance": "でもそう言っていただけると"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:52:21",
+      "utterance": "確かに楽しむ時間は心を豊かにしてくれるので、それも必要なんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:52:37",
+      "utterance": "すいません、行違ってしまいましたね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:52:39",
+      "utterance": "はい、そうですよね休むことを疎かにしてたなって思います"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:52:42",
+      "utterance": "いえいえ！"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:53:23",
+      "utterance": "ちょっと、ちゃんと休もうと思います！休み方にも全力で色々取り組んでみようかと…！"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:54:07",
+      "utterance": "全力で休む・・あなたらしくていいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:54:39",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:55:11",
+      "utterance": "エネルギー量が多い人でも、使い続けるとなくなってしまいます。これからも前進していくために、そうやってエネルギー補給もしていってくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:55:39",
+      "utterance": "ありがとうございます。当然のことに気づかされました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:56:37",
+      "utterance": "それほど全力で集中してこられたということですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:56:59",
+      "utterance": "はい！"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:57:11",
+      "utterance": "この後もゆっくりできる時間を作ってみて過ごされてくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:57:46",
+      "utterance": "はい！"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:57:50",
+      "utterance": "それでは本日の相談は終了させていただきますね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:58:08",
+      "utterance": "ありがとうございました、相談してよかったです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:58:29",
+      "utterance": "こちらこそお話聴かせていただきありがとうございました。また何かあればお越しくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:58:33",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:58:47",
+      "utterance": "それでは失礼いたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:58:54",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:59:14",
+      "utterance": "（ロープレの方も終了で大丈夫でしょうか？）"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:59:18",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-22T13:59:50",
+      "utterance": "次があるので閉じていただけると幸いです！"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-22T13:59:54",
+      "utterance": "（それではありがとうございました。お疲れ様でした。失礼します）"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "自己の労わり不足"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1483,
+    "評価作成日時": "2021-03-22T17:16:00",
+    "クライアント役ID": 119,
+    "カウンセラー役ID": 115,
+    "点数": 77,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 5,
+    "居心地のよいやりとりだった": 5,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 2,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 4,
+    "要約": 4,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1483,
+    "evaluation_created_at": "2021-03-22T17:16:00",
+    "client_id": 119,
+    "counselor_id": 115,
+    "score": 77,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

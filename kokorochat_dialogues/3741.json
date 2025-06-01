@@ -1,0 +1,444 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-07-30T12:52:00",
+      "utterance": "(こんにちは本日はどうぞよろしくお願いいたします)"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T12:53:59",
+      "utterance": "（こんにちはよろしくお願いいたします）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-30T12:54:40",
+      "utterance": "（時間になりましたら始めさせていただきます）"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T12:55:16",
+      "utterance": "（はい、待機しております）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-30T13:00:08",
+      "utterance": "こんにちは。相談員です。ご相談ありがとうございます。はじめに年齢、性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T13:00:28",
+      "utterance": "34歳　女性です"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T13:00:35",
+      "utterance": "よろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-30T13:01:26",
+      "utterance": "こちらこそよろしくお願いします。今日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T13:01:42",
+      "utterance": "最近、眠れないんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-30T13:02:46",
+      "utterance": "そうですか。よく眠れないと、つらいですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T13:03:20",
+      "utterance": "はい、心療内科で睡眠導入剤をもらって、それで寝つくことはできるんですけど、朝も早く目が覚めてしまいます"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T13:04:23",
+      "utterance": "薬を飲むのはあまり良くないと思って、休みの日は飲まないようにしているんですけど、そうすると深夜まで眠れなくて"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-30T13:06:25",
+      "utterance": "そうなのですね。そのようなしんどい状況でもご相談に来ていただき、ありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T13:06:54",
+      "utterance": "だから相談にきました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-30T13:08:12",
+      "utterance": "ありがとうございます。あなたの状況を知りたいのでいくつか質問をさせていただてもいいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T13:08:32",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-30T13:09:49",
+      "utterance": "眠れないことで、何が一番しんどいと感じておられますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T13:10:34",
+      "utterance": "体がつらいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-30T13:13:03",
+      "utterance": "なるほど・・・体がつらいというところで、具体的にどのようにつらいか教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T13:13:58",
+      "utterance": "すぐに疲れるし日中眠くなったりもするし…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-30T13:15:38",
+      "utterance": "ありがとうございます。すぐ疲れるとしんどくなりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T13:16:19",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-30T13:17:43",
+      "utterance": "今の状況がどのようになればいいなと思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T13:17:58",
+      "utterance": "眠れるようになりたいです"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T13:18:04",
+      "utterance": "薬なしで"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-30T13:20:09",
+      "utterance": "ありがとうございます。いつ頃から眠れなくなった教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T13:20:44",
+      "utterance": "3ヶ月くらい前からです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-30T13:22:19",
+      "utterance": "なるほど・・・その時の状況を詳しく教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T13:25:01",
+      "utterance": "状況、、、忙しい時期ではありました。年度変わりで、やらなきゃいけないことがいっぱいあって"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-30T13:27:20",
+      "utterance": "なるほど・・・お忙しかったのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T13:27:35",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T13:28:11",
+      "utterance": "今は少し落ち着いたんですけどそれでも眠れないんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-30T13:29:36",
+      "utterance": "そうなのですね・・・仕事が落ち着いても眠れないのは不安になりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T13:30:03",
+      "utterance": "そうですねなんか焦ります"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-30T13:31:57",
+      "utterance": "真剣に自分と向き合っている相談者様はとてもすごいなと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T13:33:32",
+      "utterance": "向き合ってますかね、、、ただ眠れないのが辛いと思っているだけですどうしたら眠れるようになるでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-30T13:37:04",
+      "utterance": "相談者様が眠れるようになるためにもう少しお話を聞かせていただいてもよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T13:37:15",
+      "utterance": "はいお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-30T13:37:24",
+      "utterance": "いつぐらいから睡眠導入剤を飲むようになったのか教えて頂けますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T13:37:56",
+      "utterance": "2ヶ月前です忙しいのに眠れないので困って"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-30T13:39:32",
+      "utterance": "ありがとうございます。睡眠導入剤を入れてから何か変わったことなどありましたら教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T13:42:08",
+      "utterance": "睡眠導入剤を入れる？使うようになってからということでしょうか？変わったことは特にないですさっきも言いましたが、寝つけるようにはなりましたが、薬が切れると目が覚めるのか、早く起きます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-30T13:43:11",
+      "utterance": "なるほどありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-30T13:45:16",
+      "utterance": "睡眠導入剤を使う以外で寝れるようになるために何か意識していることはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T13:46:06",
+      "utterance": "色々しているんですなるべく残業しないようにとか疲れててもお風呂に入るようにしたりとか"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T13:46:50",
+      "utterance": "友達が良く眠れるアロマスプレーをくれたので使ってみたり"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-30T13:48:24",
+      "utterance": "寝れるようにたくさん努力をなさっているんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T13:48:29",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-30T13:48:35",
+      "utterance": "それでもよく眠れないのはとても心配になりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T13:48:49",
+      "utterance": "そうなんです焦ります"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-30T13:49:29",
+      "utterance": "寝る前に何かやっていることはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T13:50:10",
+      "utterance": "少しですけどストレッチしたり"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T13:50:44",
+      "utterance": "スマホも切って画面見ないようにしたり"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-30T13:52:32",
+      "utterance": "教えて頂きありがとうございます。寝る際に何か考えることはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T13:53:05",
+      "utterance": "今日は眠れるといいなとか"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T13:53:25",
+      "utterance": "あと、明日の仕事の段取りとか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-30T13:54:47",
+      "utterance": "次の日の仕事のことや寝れたらいいなと考えることがあるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T13:55:00",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-30T13:57:23",
+      "utterance": "今までお話をお聞きしていて、相談者様は心地よく眠るためにやっていることや意識していることはとても適切なことをしていると思います。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T13:58:09",
+      "utterance": "はい、色々調べてできることはしています"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-30T13:59:34",
+      "utterance": "そのうえで眠る際に息を長く吐くことを意識して深呼吸をしてみるのがいいのではないかと思いました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T13:59:58",
+      "utterance": "呼吸法ですねそれもやってます…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-30T14:01:18",
+      "utterance": "ご存じだったのですね。失礼しました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T14:01:51",
+      "utterance": "ネットで調べて、ほとんどのことはやっているんですけど眠れないんですよね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-30T14:04:33",
+      "utterance": "この相談をきっかけにもう一度眠る方法を意識してやってみるのもいいかもしれません。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T14:05:43",
+      "utterance": "良い睡眠のための本を読んだりもしたけど、大体みんな同じことが書いてあって、これ以上の情報はないんですよね…やっぱり、これくらいなんですかね、できることは"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T14:05:51",
+      "utterance": "わかりました。ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-30T14:06:01",
+      "utterance": "今回はお時間になってしまったので終了とさせていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T14:06:10",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T14:06:48",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-30T14:07:30",
+      "utterance": "また明日以降も相談者様が少しでも心地よく眠れるように考えていけたらと思いますので、いつでも相談しに来てください。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T14:07:46",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-30T14:08:16",
+      "utterance": "時間になりましたので終了のメッセージを送らせていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-30T14:08:32",
+      "utterance": "（はい、お疲れ様でした！）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-30T14:09:20",
+      "utterance": "（ありがとうございました。後ほど評価の方お願いいたします。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "睡眠に対する不安と焦り"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3741,
+    "評価作成日時": "2022-07-30T14:42:00",
+    "クライアント役ID": 283,
+    "カウンセラー役ID": 276,
+    "点数": 45,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 1,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 2,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 2,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3741,
+    "evaluation_created_at": "2022-07-30T14:42:00",
+    "client_id": 283,
+    "counselor_id": 276,
+    "score": 45,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

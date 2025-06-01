@@ -1,0 +1,729 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-02-05T12:52:03",
+      "utterance": "本日はよろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T12:53:56",
+      "utterance": "よろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T12:54:24",
+      "utterance": "時間になりましたら始めさせていただきますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:00:12",
+      "utterance": "こんにちは、相談員です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:00:55",
+      "utterance": "相談を始める前に、差し支えなければ、性別、年代、本日どのようにお呼びしたらいいか教えていただけますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:03:19",
+      "utterance": "（いらっしゃいませんか？）"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:04:55",
+      "utterance": "女性 30代 コンと呼んで下さい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:05:11",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:05:26",
+      "utterance": "コンさん、本日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:06:51",
+      "utterance": "家庭を持っているのですが、自分のことに夢中になってしまい家庭のことがないがしろになってしまいます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:07:52",
+      "utterance": "そうなんですね・・困ってしまいますよね・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:08:11",
+      "utterance": "自分のことに夢中とありますが、どのようなことに夢中になられているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:09:32",
+      "utterance": "仕事と学びと趣味です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:10:06",
+      "utterance": "３つのことに集中されていて、多忙なんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:10:26",
+      "utterance": "家庭のことがないがしろとありますが、どのようなときにそう感じてしまうのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:12:43",
+      "utterance": "結婚してから家のことと子育てに専念していたのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:12:52",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:13:23",
+      "utterance": "反動が来てしまったのか自分のことを優先してしまって"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:13:44",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:13:53",
+      "utterance": "家族の時間を持てずにいます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:14:29",
+      "utterance": "そうだったのですね・・・今まで、家のこと、育児をとても頑張ってこられたのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:15:04",
+      "utterance": "コンさんは、今は家族の時間をもちたいとお考えなのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:16:48",
+      "utterance": "家族は大切に思っているのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:16:57",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:18:15",
+      "utterance": "自分が決めたことを一心にやりたくなってしまうことは結婚前からなのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:18:27",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:19:09",
+      "utterance": "押さえつけたり妥協して家族を優先にしてきたことに"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:19:25",
+      "utterance": "葛藤がありました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:19:25",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:19:57",
+      "utterance": "そうなんですね・・・今までは自分のお気持ちを抑えてこられとても我慢されていたのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:20:16",
+      "utterance": "それもあって、今はご自分のやりたいことをされているということなんですね・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:20:34",
+      "utterance": "どのくらいの期間ずっと我慢されてこられたのでしょう？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:21:28",
+      "utterance": "15年程です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:21:58",
+      "utterance": "そんなに長い期間、自分のことを我慢されていたのですね。苦しかったですね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:22:11",
+      "utterance": "はい..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:22:23",
+      "utterance": "今はご自分のこと優先にしてしまうということでしたが、どのようなお気持ちでいらっしゃいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:23:29",
+      "utterance": "私自身、結婚願望という思いを抱いてなかったのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:23:37",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:24:14",
+      "utterance": "湖に😅な"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:24:34",
+      "utterance": "打ち間違えました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:24:42",
+      "utterance": "だいじょうですよ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:25:03",
+      "utterance": "聞いていますので、書いてくださいね"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:25:19",
+      "utterance": "両親に対して、真面目にしっかりしなければならないと"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:25:30",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:26:35",
+      "utterance": "結婚し家庭を持ち、子育てをすることで自分勝手な生き方をしなくて済むと思ってしまいました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:27:26",
+      "utterance": "そのような思いを抱えていらっしゃったのですね。それで、ずっとご自分を抑えて頑張ってこられた姿、目に浮かびます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:28:12",
+      "utterance": "コンさんは、今はどうしたいと思いますか？家族を優先？ご自分を優先？それとも、両方ともうまくやりたい？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:29:03",
+      "utterance": "良かれと思って決断したことに後悔の思いで潰されそうになったこともありました"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:29:27",
+      "utterance": "両方、大切にしたいです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:29:48",
+      "utterance": "家族にはとっても感謝しています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:30:07",
+      "utterance": "そうだったのですね。後悔するほど、家族を大切に思い、迷われtいたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:30:19",
+      "utterance": "けれど、自分のことも一生懸命やりたい思いがあります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:30:45",
+      "utterance": "なるほど。やりたい思いも強いのですね。。。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:30:50",
+      "utterance": "後悔の思いは結婚し"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:30:57",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:31:10",
+      "utterance": "親になったことです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:31:40",
+      "utterance": "妻としても母としてもダメダメだったなと..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:32:02",
+      "utterance": "ご自分を責めてしまうのですね・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:32:13",
+      "utterance": "何がダメだとおもうのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:32:20",
+      "utterance": "そうですね..."
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:33:23",
+      "utterance": "良く言うと意志が強いと言われるのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:33:36",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:33:57",
+      "utterance": "悪く言うと自我が強いのだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:35:10",
+      "utterance": "なるほど・・・ご自分のことをそのように感じていらっしゃるのですね。それで、ずっと我慢されてきたことにしびれを切らし、やりたい気持ちが強くなってしまったのですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:35:22",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:35:41",
+      "utterance": "話を少しまとめますね"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:35:56",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:36:11",
+      "utterance": "コンさんは、ご自分のやりたいことが長年の間我慢されて過ごしてこられました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:37:03",
+      "utterance": "結婚し、家事や育児をすることでその気持ちをずっと抑えてこられましたが、自分のやりたいと思う強い意志もあり、今夢中になることをやるようになりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:37:19",
+      "utterance": "それにより、家族を優先することがいることでとても悩んでいらっしゃいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:37:27",
+      "utterance": "このようなことでよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:40:46",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:41:02",
+      "utterance": "コンさんの家族思いのところ、とても素敵なことと感じます。しかし、ご自分のやりたいこと、我慢されるのはとてもつらいですよね・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:41:36",
+      "utterance": "コンさんがやりたいことは、ご家族のみなさんは理解してくれていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:43:06",
+      "utterance": "とても理解してくれています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:43:39",
+      "utterance": "そうだったのですね。ご家族がご理解していただけているというのは、とてもいいことですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:44:11",
+      "utterance": "コンさんは、やりたいことをする上で、今、何が一番お困りでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:44:39",
+      "utterance": "とても感謝です。だからこそ複雑な思いがあります..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:46:15",
+      "utterance": "そうなんですね・・複雑な気持ちを抱えていると、中途半端な気持ちになってしまいますよね"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:47:19",
+      "utterance": "そうなんです...みんなにとって幸せな形を考えています"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:47:31",
+      "utterance": "趣味や学びは"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:47:38",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:48:06",
+      "utterance": "上手く調整出来るのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:48:20",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:48:27",
+      "utterance": "仕事はそうはいかなくて..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:49:47",
+      "utterance": "そうなんですね・・・コンさん的には、趣味、学びに関しては大丈夫だけど、仕事の調整などで家族に迷惑をかけてしまっているという感じなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:50:04",
+      "utterance": "それで負担などを考え、悪いなという気持ちなんですね。。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:51:07",
+      "utterance": "どうしたらうまくいくか一緒に考えていけたらと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:51:32",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:51:58",
+      "utterance": "仕事で負担というより"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:52:04",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:53:10",
+      "utterance": "家族は私が仕事をすることを喜んで応援してくれます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:53:10",
+      "utterance": "ただ、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:53:18",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:53:48",
+      "utterance": "子供たちが小さい頃から"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:53:59",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:54:38",
+      "utterance": "話をたくさんしたり聞いたりしていたので"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:54:50",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:55:39",
+      "utterance": "私と居る時間が心地良かったり楽しかったり大切に思ってくれているみたいなので"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:55:52",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:56:19",
+      "utterance": "その気持ちのことを考えると複雑なんです..."
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:57:14",
+      "utterance": "そうだったのですね・・・お子さんをとても大切に育ててこられたのですね。お子さんのお気持ちを大切にされいてるコンさんのお気持ちがとても伝わってきます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:57:31",
+      "utterance": "お子さんはお仕事することどうおもっているのでしょう？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:58:34",
+      "utterance": "私がやりがいを持って仕事をすることは嬉しいみたいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:59:06",
+      "utterance": "そうなんですね。それはとても嬉しいことですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:59:26",
+      "utterance": "しばらくお話を聞かせていただき、私の思うことを少し伝えてもよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T13:59:49",
+      "utterance": "お願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T13:59:58",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T14:00:24",
+      "utterance": "コンさんはとてもご家族のことを愛していらっしゃり、とても思いやりのある方だと感じます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T14:01:08",
+      "utterance": "そのお気持ちの中で、ご自分が我慢すればいいと今までため込んでいた気持ちが少し残っているのかもしれませんが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T14:01:40",
+      "utterance": "お子さん含めご家族がみなさんお仕事などをすることに理解をしているということですので"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T14:02:08",
+      "utterance": "ご自分のやりたいという気持ちを受け入れてみてほしいと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T14:03:02",
+      "utterance": "お子さんがコンさんと話すことが好きなように、家族で一緒にいる時間を、大事に過ごすことで、今以上にご家族の愛が深まるのではないかと感じました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T14:03:39",
+      "utterance": "少ない時間をたくさん家族のために、つくしてみるというのはどうでしょう？すこし豪華なご飯をつくるとか・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T14:04:23",
+      "utterance": "もしかしたら、されているかもしれませんが、今以上に家族との時間を実感しながら過ごすというのもいいのかな、と思いました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T14:04:42",
+      "utterance": "いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T14:04:53",
+      "utterance": "少し豪華な料理を作るということはやっていました(o^－^o)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T14:05:18",
+      "utterance": "すてきなことですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T14:05:27",
+      "utterance": "一緒に過ごせる時間が少なくても"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T14:05:35",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T14:06:34",
+      "utterance": "その時間を感謝の気持ちと愛情を持って大切にしたいと思えました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T14:07:08",
+      "utterance": "そのように思っていただけて、よかったです。本日、お話されてみていかがでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T14:08:14",
+      "utterance": "気が楽になれました。自分だけで考えていると責めてしまうのでカウンセラーさんの言葉に"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T14:08:25",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T14:08:33",
+      "utterance": "背中を押してもらえた感じです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T14:10:16",
+      "utterance": "ありがとうございます。とても家族思いで素敵なコンさん。私はとてもすばらしいと思います。今後もご家族とすてきな日々をお過ごしくださいね"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T14:10:34",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T14:10:44",
+      "utterance": "それでは、本日のご相談終了させていただきますね。お話聴かせていただきありがとうございました"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T14:10:59",
+      "utterance": "こちらこそありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T14:11:20",
+      "utterance": "（これで、ロールプレイ終了させていただきます。時間が長引いてしまい申し訳ありませんでした。）"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-05T14:11:37",
+      "utterance": "大丈夫です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-05T14:11:49",
+      "utterance": "（ありがとうございました。それでは、失礼いたします）"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "家庭の優先順位に関する葛藤"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1296,
+    "評価作成日時": "2021-02-06T10:18:00",
+    "クライアント役ID": 133,
+    "カウンセラー役ID": 18,
+    "点数": 89,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 5,
+    "一緒に考えながら取り組めた": 5,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 5,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 4,
+    "要約": 4,
+    "問題の明確化": 5,
+    "この相談での目標の明確化": 5,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 5,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1296,
+    "evaluation_created_at": "2021-02-06T10:18:00",
+    "client_id": 133,
+    "counselor_id": 18,
+    "score": 89,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

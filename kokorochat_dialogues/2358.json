@@ -1,0 +1,809 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-08-20T09:52:06",
+      "utterance": "こんにちは、本日は宜しくお願い致します。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T09:58:08",
+      "utterance": "こちらこそよろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T09:59:45",
+      "utterance": "それでは始めさせていただきます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:00:34",
+      "utterance": "こんにちは、相談員です。本日はお越しいただきありがとうございます。はじめに、年齢と性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:01:28",
+      "utterance": "27歳　女"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:01:54",
+      "utterance": "ありがとうございます。本日は、どのようなご相談でしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:02:18",
+      "utterance": "なんだかこのところ楽しくないなと感じています"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:03:21",
+      "utterance": "そうなんですね。少し教えていただきたいのですが、毎日、どのように過ごされていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:04:33",
+      "utterance": "毎日仕事に行っています。夫のまつ自宅に帰り日々過ごしています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:06:12",
+      "utterance": "そうなんですね。仕事と家事の両立、大変ですね。お話を伺うにあたって、何とお呼びしたらよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:06:34",
+      "utterance": "なんでもいいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:08:10",
+      "utterance": "ありがとうございます。毎日、両立をされていて、あなたはどんなことを感じながら頑張っていらっしゃるのでしょう？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:08:41",
+      "utterance": "家事は自宅にいる時間の長い夫がやっています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:08:49",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:09:06",
+      "utterance": "別に頑張っていることはないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:09:29",
+      "utterance": "そうなんですね、家事はほとんどご主人様がされているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:09:48",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:10:10",
+      "utterance": "では、お仕事に集中されている感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:10:34",
+      "utterance": "集中する・・・ということはないです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:11:40",
+      "utterance": "家事は女性がやるものでしょうか・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:11:59",
+      "utterance": "そのように感じているのですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:12:14",
+      "utterance": "どう思われますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:12:59",
+      "utterance": "そのことについては、ご家庭によっていろいろな形で良いのかなと、思いますが"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:13:19",
+      "utterance": "あなたは、どのように感じていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:13:22",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:14:19",
+      "utterance": "何か思うことが、おありなのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:14:32",
+      "utterance": "いえ別に"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:15:57",
+      "utterance": "ひけめがあるとか、そういうことではないのですね。でしたら、"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:16:22",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:17:32",
+      "utterance": "毎日楽しめないのは、もっと楽しい毎日にしたいっていうお気持ちですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:17:53",
+      "utterance": "そうなんですか・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:18:51",
+      "utterance": "なにか、引っかかっていることが、おありなのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:19:08",
+      "utterance": "・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:19:29",
+      "utterance": "お仕事でも、プライベートでも、何でもお話してくださって"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:19:43",
+      "utterance": "大丈夫ですよ"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:19:51",
+      "utterance": "・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:20:08",
+      "utterance": "わｔｈ"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:20:54",
+      "utterance": "私と夫は大学時代からお付き合いをしていて、夫が家事が好きなので"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:21:05",
+      "utterance": "ええ、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:22:18",
+      "utterance": "夫に感謝しています。けど女が家事をするという固定観念を持つ年配者がまだいるな…とは思っています。いい旦那さんね・・・なんて言われますけど・・・。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:22:40",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:23:02",
+      "utterance": "女性が家事をしているのは当たり前で、いい奥さんねなんていわれること少ないですよね"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:23:18",
+      "utterance": "夫は優しいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:23:25",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:24:26",
+      "utterance": "私の夫のことをご主人様と呼ばれるのはなぜですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:25:31",
+      "utterance": "そのように感じているのですね。私がご主人様とお呼びしたのは、特に理由はありませんが、"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:25:38",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:26:33",
+      "utterance": "確かに、男の人が家事をされると、特別な感じに思う人はいるのかもしれませんし、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:27:02",
+      "utterance": "それを聞いて、女性の方は微妙に感じますよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:27:41",
+      "utterance": "同じ人間なのに、どちらがやっても、いいのでは？と感じます"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:27:48",
+      "utterance": "ご主人様という言葉自体にも男女の格差を感じますよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:28:04",
+      "utterance": "確かにそうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:28:30",
+      "utterance": "旦那様の方が。差別なく感じますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:29:10",
+      "utterance": "旦那様の方が、でした"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:29:16",
+      "utterance": "私は宝石店で働いていますが、結婚式のエンゲージリングを購入するカップルがよく訪れます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:29:25",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:29:34",
+      "utterance": "旦那様も使いません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:30:02",
+      "utterance": "そうなんですね、では何とお呼びしたらよいのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:30:27",
+      "utterance": "相手が使ったら使う時もあるけれど、基本パートナーとか言ってます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:31:12",
+      "utterance": "それはよいですね！私もこれから、そうしますね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:31:23",
+      "utterance": "ぜひ・・・。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:31:36",
+      "utterance": "ありがとうがざいます！"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:31:46",
+      "utterance": "今の生活に"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:31:57",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:32:02",
+      "utterance": "幸せを感じています。けど何か物足りない・・・。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:32:11",
+      "utterance": "なんでしょう？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:32:15",
+      "utterance": "そうなんですね、、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:32:26",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:32:45",
+      "utterance": "それは、何だかもやもやしますね、、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:33:05",
+      "utterance": "そうなんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:33:23",
+      "utterance": "これと言って、嫌だなあと思うことは思いつきませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:33:40",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:34:48",
+      "utterance": "夫とは休みを合わせるようにしていて、家のDIYにチャレンジしたり、家庭菜園をつくったりしています。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:35:33",
+      "utterance": "けどぽっかり穴が開いてる気がするんですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:35:44",
+      "utterance": "そうなんですね、何だか楽しそうに感じます。その他にこうなったらいいなあとか、思うことはありませんか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:36:17",
+      "utterance": "生活に変化があったら、、、？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:36:19",
+      "utterance": "楽しい・・・うーん・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:36:46",
+      "utterance": "ベランダの朝顔が咲いてきれいだなって思ったり・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:36:54",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:37:22",
+      "utterance": "ニコニコ笑った後で、ふと真顔になる自分がいるんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:38:22",
+      "utterance": "そうなんですね、、、それは、心から楽しめていない感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:38:44",
+      "utterance": "ベランダの花の水やりはもちろん夫です（笑）"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:38:57",
+      "utterance": "ええ、良いと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:40:03",
+      "utterance": "お仕事よりも、ご家庭にいろいろ思うことがあるように感じますが、いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:40:08",
+      "utterance": "自分でもよくわからないのですが、楽しいけど、楽しくない、、、鬱々した感じです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:40:23",
+      "utterance": "家庭？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:40:31",
+      "utterance": "それは、悶々としますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:40:46",
+      "utterance": "プライベートですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:41:23",
+      "utterance": "夫はくまさんみたいです。おっとりしてて、一緒にいて幸せです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:42:07",
+      "utterance": "そうなんですね、優しい方なのかなと想像します。家庭という言葉に、違和感がおありですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:42:56",
+      "utterance": "家庭にいろいろ思うことがあるとおっしゃられたので・・・家庭に何か問題があるか考えてみたのです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:43:41",
+      "utterance": "そうなんですね、ごめんなさいね。問題というほどではないように感じますが、"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:43:57",
+      "utterance": "朝顔が咲いたとき、母にもラインで写真を送りました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:44:08",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:44:16",
+      "utterance": "このところ、コロナの影響もあって母に会ってないな・・・。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:44:56",
+      "utterance": "そうなんですね、、、会えなくて、寂しく感じますね"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:45:18",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:45:25",
+      "utterance": "朝顔の写真の反応は、どうでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:45:37",
+      "utterance": "母は喜んでいましたよ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:45:56",
+      "utterance": "きっときれいだったのでしょうね"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:46:09",
+      "utterance": "コロナ禍になって、夫と私の実家が少し疎遠になっている気がします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:46:30",
+      "utterance": "そうなんですね、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:46:55",
+      "utterance": "お互いのお宅の距離は、近いのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:47:02",
+      "utterance": "私は気兼ねなく実家に帰るけど、夫を連れていくとなると、緊急事態宣言だし等考慮が働いてしまいます"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:47:20",
+      "utterance": "近いといえば近いが"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:47:27",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:47:49",
+      "utterance": "私の職場を起点とすると反対側になるから、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:48:01",
+      "utterance": "はい、、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:48:15",
+      "utterance": "まあ自宅から実家まで2時間かからないのですけどね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:48:37",
+      "utterance": "でも、結構な時間がかかりますね"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:48:47",
+      "utterance": "夫を連れていくと、みんなマスクで過ごすことになるのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:49:10",
+      "utterance": "私が夫の実家に行くと逆に同様のことが起きますから"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:49:30",
+      "utterance": "夫は家族だけど、嫁はお客さんかな"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:49:35",
+      "utterance": "パートナーさんを、ご実家に連れていきたいと感じていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:49:51",
+      "utterance": "はい。母は喜びますから"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:50:25",
+      "utterance": "そうなんですね、それは連れて行ってあげたいですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:50:49",
+      "utterance": "ここで、今までのお話をまとめさせてくださいね"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:50:55",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:55:16",
+      "utterance": "あなたは、最近の生活に少し楽しみを見いだせずにいます。この今の現状で、思うように動けず、したいこともできない状態で（お母さんにパートナーさんを会わせてあげたいなど）モヤモヤして、何とかそこから抜け出したいと感じています。こんな風に感じましたが、いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:56:06",
+      "utterance": "うーん・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:56:28",
+      "utterance": "少し違っていたなら、教えてくださいね"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:57:10",
+      "utterance": "なんだか最近モヤッとしてたけど、ここでやり取りをしていたら、母親に会いたくなりました"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:57:38",
+      "utterance": "まずは、私だけ実家に顔出してこようと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:57:47",
+      "utterance": "そうですか、お母さんに会えていなかったことが"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:58:19",
+      "utterance": "母親に夫を会わせたいのではなく、夫のことを大切に思ってくれる母が好きです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:58:43",
+      "utterance": "寂しかったのかもしれませんね。会いにいってみても、良いと思いますよ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:59:16",
+      "utterance": "あなたのお母さんは、とても素敵なかたのように感じます"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:59:30",
+      "utterance": "母とはいろいろあったけど・・・けどやっぱり母親は私の心のオアシスなんだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:59:44",
+      "utterance": "パートナーさんのことも大切に思ってくださっていて"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T10:59:50",
+      "utterance": "夫のことも好きですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T10:59:56",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T11:00:07",
+      "utterance": "母はまた別の私にとって大事な存在です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T11:00:44",
+      "utterance": "そうなんですね、とてもよい親子関係なんだと"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T11:00:53",
+      "utterance": "感じます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T11:01:14",
+      "utterance": "早速、会いに行ってみますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T11:01:42",
+      "utterance": "今日はありがとうございました。近々母と会ってきます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T11:02:03",
+      "utterance": "心のぽっかり空いたところになにか光がさしてきた気がします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T11:02:27",
+      "utterance": "それは良かったですお気をつけて、行ってきてくださいね。また何かありましたら、ご連絡ください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T11:02:40",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T11:02:50",
+      "utterance": "今日のご相談は、他には良かったですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T11:03:18",
+      "utterance": "母のこととかいろいろありますが、また別の機会にお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T11:04:11",
+      "utterance": "ええ、またご連絡くださいね。私も、パートナーさんの呼び方を教えていただき、ありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T11:05:17",
+      "utterance": "（カウンセラー役さんお疲れさまでした"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T11:05:26",
+      "utterance": "それでは、きょうは以上になります。本日はお越しいただきありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T11:05:44",
+      "utterance": "（こちらこそ、ありがとうございました）"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T11:06:27",
+      "utterance": "（また振り返りで、アドバイス宜しくお願い致します。失礼いたします。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-20T11:06:44",
+      "utterance": "（お疲れさまでした）"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-20T11:06:48",
+      "utterance": "お疲れさまでした！！"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "母との距離感とコミュニケーションの問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2358,
+    "評価作成日時": "2021-08-20T11:34:00",
+    "クライアント役ID": 2,
+    "カウンセラー役ID": 159,
+    "点数": 70,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 3,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 4,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2358,
+    "evaluation_created_at": "2021-08-20T11:34:00",
+    "client_id": 2,
+    "counselor_id": 159,
+    "score": 70,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

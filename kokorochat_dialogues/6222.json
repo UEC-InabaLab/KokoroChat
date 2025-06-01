@@ -1,0 +1,649 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2024-01-06T09:50:32",
+      "utterance": "(こんにちは。よろしくお願い致します)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T09:56:54",
+      "utterance": "（こんにちは。よろしくお願いいたします。本日の目標は、一言一言を大切にしながら、素早く、受容、共感、労いの言葉などを伝えるです）"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T09:58:00",
+      "utterance": "（お時間になりましたら始めさせていただきますね。よろしくお願いいたします。）"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T09:58:09",
+      "utterance": "(クライエント役にご希望はございますか？)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T09:59:25",
+      "utterance": "（できれば、若年層の方や、ひきこもりの方などをお願いしたいです）"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T09:59:34",
+      "utterance": "(かしこまりました)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:00:03",
+      "utterance": "（有難うございます。それでは、そろそろお時間ですので、始めさせていただきます）"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:00:39",
+      "utterance": "こんにちは。今日は、ご相談に来てくださりありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:01:09",
+      "utterance": "はじめに、年齢、性別、今日お話ししたいことを教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:02:28",
+      "utterance": "16、女"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:02:42",
+      "utterance": "教えてくださりありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:02:56",
+      "utterance": "自分が嫌いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:03:30",
+      "utterance": "そう感じているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:03:53",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:04:25",
+      "utterance": "ご自分のことをそう感じるのは、どんなことからなのか、良かったら聞かせていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:05:41",
+      "utterance": "なんか全然かわいくないし、太ってるから"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:06:23",
+      "utterance": "そう思われているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:07:06",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:07:58",
+      "utterance": "いろいろと、見た目が気になる感じでしょうか、、、"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:08:17",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:09:15",
+      "utterance": "ええ。そうですね。ちなみに、いつ頃からそう感じるようになってきたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:10:05",
+      "utterance": "小6ぐらいから？はっきりと覚えてません"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:11:13",
+      "utterance": "そうなんですね。可愛いとかって、人によって違うので一概には言えないと思うのですが、どんなことからそう感じているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:12:25",
+      "utterance": "どんなことから？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:13:30",
+      "utterance": "ええ。例えば、誰かと自分を比べたりとか、友達と話していてとか、誰かに言われたりして"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:13:52",
+      "utterance": "気になりだしたとか、いろいろあるのかなと思いますが、いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:15:26",
+      "utterance": "インスタとか見てて思いました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:15:49",
+      "utterance": "そうだったのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:16:42",
+      "utterance": "確かに、インスタには素敵な人達がいっぱい出てますね。ちなみに、どんなインスタを見たりしているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:18:04",
+      "utterance": "友達のとか、おしゃれな人とか、メイクとかです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:18:45",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:20:05",
+      "utterance": "おしゃれな人たちや、メイクをみて色々と研究したりしているのでしょうか。。。見ていて、どんな気持になりますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:21:41",
+      "utterance": "可愛い友達は、いいねもいっぱいついてるし、いっぱい褒めてもらってて、いいなって思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:22:45",
+      "utterance": "「いいね」がいっぱい。うらやましい気持ちになりますね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:23:01",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:23:56",
+      "utterance": "ええ。「いいね」って見たよって印にもなるのかなと思いますが、それでも、いっぱいあると「いいなぁ」という気持ちになるのは自然なことだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:24:21",
+      "utterance": "ちなみに、あなたもインスタに投稿したりしているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:24:45",
+      "utterance": "あんまりしてないです"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:24:50",
+      "utterance": "顔とか出さないし"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:25:52",
+      "utterance": "そうなんですね。私としては顔を出さないのは安全でいいなと思います。ちなみに、どんなことを投稿しているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:26:49",
+      "utterance": "カフェのケーキとか、友達と遊びに行った時の景色とかです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:27:38",
+      "utterance": "あなたが、楽しいな、きれいだなと思ったことを投稿している感じでしょうか。。。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:27:51",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:28:32",
+      "utterance": "楽しい気持ちのアルバムのような感じなのかもしれませんね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:29:24",
+      "utterance": "そうかも"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:30:21",
+      "utterance": "ええ。これ、インスタ上げてみようって"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:31:07",
+      "utterance": "そういうお気持ちになる時"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:31:21",
+      "utterance": "あなたにとって、どんな時ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:32:52",
+      "utterance": "鍵アカなので、アピールするとかより、友達と話す材料みたいな感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:33:35",
+      "utterance": "友達と楽しむためのツールなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:33:49",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:34:31",
+      "utterance": "だから、可愛い子たちがインスタにあげた写真で学校でもみんなから話しかけられたりしてて、"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:34:32",
+      "utterance": "安全でいい使い方だなと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:34:43",
+      "utterance": "行き違い失礼しました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:35:17",
+      "utterance": "続き、聞かせてくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:35:53",
+      "utterance": "あの時の服とかメイク可愛いね、とか、何着ても似合うよね、とか言われてると、"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:36:18",
+      "utterance": "私とは全然違うな、って思うし、"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:36:31",
+      "utterance": "私は地味だしつまんないな、って思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:36:46",
+      "utterance": "そう感じるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:37:18",
+      "utterance": "どうやったら可愛くて人気になれますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:38:25",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:39:33",
+      "utterance": "皆に声をかけられたりして、いいな、楽しそうだな、自分もあんなふうになりたいなと感じるのは自然なことだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:39:53",
+      "utterance": "どんなふうに、なっていきたいのか一緒に考えていきませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:40:12",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:40:26",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:41:40",
+      "utterance": "一緒に考えていくにあたり、少し教えていただきたいのですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:42:52",
+      "utterance": "あなたの思う可愛いって、どんなイメージですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:43:55",
+      "utterance": "ルセラのさくらちゃんみたいな感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:44:25",
+      "utterance": "いいですね。イメージがしっかりあるのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:44:44",
+      "utterance": "どんなところが、可愛いと感じるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:46:03",
+      "utterance": "目が大きくて、スタイルが良いところがいいなと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:47:07",
+      "utterance": "ええ。素敵ですね。目力というか意思をしっかり持っているように感じますね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:47:41",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:48:04",
+      "utterance": "でも私、一重で、目が小さいし"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:48:36",
+      "utterance": "あんなふうになれない"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:48:56",
+      "utterance": "そう感じるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:49:55",
+      "utterance": "学校で可愛い子たちも、みんな目が大きくてカラコンとかしてるし、スタイルも良いんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:50:20",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:50:54",
+      "utterance": "その子たちも、カラコンとかで、少しでも可愛く見せようと頑張っているのかもしれませんね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:51:27",
+      "utterance": "でも元々可愛いから"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:52:24",
+      "utterance": "そういったこともあると思います。それでも、まだまだ可愛くなるために、少しづつ試したりしているのかもしれませんね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:52:54",
+      "utterance": "ちなみに、あなたが試してみたいことは何かありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:53:59",
+      "utterance": "メイクしたりとか頑張ってみても、全然あんなふうになれなくて、"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:54:23",
+      "utterance": "やっぱり元の顔が違うから無理なんだな、って思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:55:29",
+      "utterance": "少しでもと頑張っているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:55:48",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:55:57",
+      "utterance": "でも無理な気がします"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:56:44",
+      "utterance": "頑張って、思い通りにならない時って、そう感じるのも無理もないことだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T10:57:59",
+      "utterance": "お化粧とかって、一度に全部変えるとイメージがちぐはぐになってしまうこともあるのかなと思いますが、いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:59:16",
+      "utterance": "うまくできないから、ママと一緒にデパート行ってメイクのやり方教えて貰って、"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:59:33",
+      "utterance": "似合うって教わったようにやってみてるんですけど、"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T10:59:48",
+      "utterance": "あんまり可愛く思えません"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T11:00:22",
+      "utterance": "そうだったのですね。あなたの思っているイメージと、ちょっとで違ってたのかもしれませんね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T11:01:31",
+      "utterance": "お母さんも応援してくれているのですね。お化粧って、いろいろなやり方があると思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T11:01:36",
+      "utterance": "（お時間ですが大丈夫ですか？）"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T11:02:34",
+      "utterance": "(一応ロープレ1時間なので、そろそろ終わりにしていただけると良いのかなと思います)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T11:03:07",
+      "utterance": "（承知しました。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T11:04:25",
+      "utterance": "インスタとかで、お顔のパーツごとに研究したり、練習したりして、ご自分尾イメージに近づくのも一つかなと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T11:05:02",
+      "utterance": "誤字失礼しました。尾ではなく、ご自分のです。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T11:05:32",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T11:06:23",
+      "utterance": "お化粧も、始めたばかりですので、諦めず研究してみるのも一つかなと思いますが、いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T11:07:21",
+      "utterance": "メイクは中1からやってるんですけど…"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T11:07:31",
+      "utterance": "もうちょっと研究してみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T11:08:25",
+      "utterance": "そうだったのですね。とっても研究してきているのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T11:10:03",
+      "utterance": "研究してみて、よかったら、こんなふうに試してみたなど、またお話しにきてくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T11:10:19",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T11:11:58",
+      "utterance": "本日は、ご相談にきてくださり有難うございました。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T11:12:07",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T11:12:15",
+      "utterance": "あなたのこれからを応援していますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T11:12:33",
+      "utterance": "それでは、終了させていただきますね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T11:12:40",
+      "utterance": "はい、ありがとうございます"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T11:12:44",
+      "utterance": "(お疲れさまでした。ありがとうございました)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T11:12:54",
+      "utterance": "（こちらこそ、ありがとうございました）"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T11:13:19",
+      "utterance": "（１３分もオーバーし申し訳ございませんでした。）"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-06T11:13:46",
+      "utterance": "(大丈夫です)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-06T11:14:01",
+      "utterance": "（ありがとうございます。それでは、ロールプレイを終了いたします）"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "自己肯定感の低さ"
+  },
+  "review_by_client_jp": {
+    "評価ID": 6222,
+    "評価作成日時": "2024-01-07T18:50:00",
+    "クライアント役ID": 420,
+    "カウンセラー役ID": 128,
+    "点数": 58,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 1,
+    "受容・共感": 4,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 3,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 6222,
+    "evaluation_created_at": "2024-01-07T18:50:00",
+    "client_id": 420,
+    "counselor_id": 128,
+    "score": 58,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 5,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 1,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

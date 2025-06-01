@@ -1,0 +1,659 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-10-16T15:51:50",
+      "utterance": "こんにちは。カウンセラー役のねこと申します。本日は宜しくお願い致します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T15:54:59",
+      "utterance": "準備が整いましたらお声掛けくださいね。始めさせていただきますので。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T15:56:52",
+      "utterance": "よろしくお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T15:57:04",
+      "utterance": "私の方はいつでも大丈夫です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T15:57:23",
+      "utterance": "ありがとうございます。始めさせていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T15:57:46",
+      "utterance": "お願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T15:58:53",
+      "utterance": "こんにちは。カウンセラーのねこと申します。ご相談いただきありがとうございます。本日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T15:59:24",
+      "utterance": "こんにちは。実は妻と別れたいと思っているのですが、踏ん切りがつかず悩んでます。。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T16:01:49",
+      "utterance": "そうなんですね。なやんでおられるのですね。現在の状況をお話しくださいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:03:09",
+      "utterance": "今妻と2人で暮らしてるのですが、身体の関係も久しくなく"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:03:24",
+      "utterance": "趣味も違うから休みが合っても遊びに行くこともなく"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:03:47",
+      "utterance": "一緒にいる意味を感じられないんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T16:04:38",
+      "utterance": "そうなんですね。いつごろからそのように思われていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:05:34",
+      "utterance": "1年程前です"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:05:41",
+      "utterance": "妻と共働きになってからですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T16:06:47",
+      "utterance": "ありがとうございます。そうなんですね。ちなみにご結婚何年目ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:07:08",
+      "utterance": "今3年目です"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:07:20",
+      "utterance": "この前の結婚記念日は忘れられてました。。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T16:07:55",
+      "utterance": "ありがとうございます。それは悲しいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:08:00",
+      "utterance": "はい。。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:08:08",
+      "utterance": "悲しかったです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T16:09:11",
+      "utterance": "そうですね。共働きをするようになってからとおっしゃいましたが"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:09:16",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T16:09:53",
+      "utterance": "それまでの生活ときっかけを教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:10:50",
+      "utterance": "結婚した当初は妻がパートで働き、家事をしてました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T16:10:59",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:11:33",
+      "utterance": "でも妻は家事が嫌いらしく、自分で稼ぎたいと言って不動産の資格取って"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:11:40",
+      "utterance": "それで働くようになりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T16:12:43",
+      "utterance": "ありがとうございます。そうなんですね。資格を取られたのですね。それにはあなたも賛成されたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:13:27",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:13:39",
+      "utterance": "共働きになればお金の余裕も生まれると思ったので"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:14:17",
+      "utterance": "でもお金増えても、気持ちの余裕が無くなりましたね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T16:15:47",
+      "utterance": "ありがとうございます。そうなんですね。気持ちの余裕ですか？どんなふうに余裕がなくなりましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:17:11",
+      "utterance": "お互い疲れて、帰ってきて家の事やるので精一杯で"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:17:20",
+      "utterance": "お互いのことを見れないというか"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:17:23",
+      "utterance": "そんな感じです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T16:18:23",
+      "utterance": "そうですか。それは残念ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:18:52",
+      "utterance": "はい。。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T16:19:14",
+      "utterance": "せっかく奥さんも希望されて仕事に行かれたのにね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:19:28",
+      "utterance": "そうなんです。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:20:16",
+      "utterance": "身体の関係がないのでなおのことさみしいですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T16:21:20",
+      "utterance": "ほんとですね。寂しいですね。奥さんはお勤めされてから、変わられたことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:22:14",
+      "utterance": "もともと性欲がない人だったのですが、働いてからは皆無になりましたね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:22:30",
+      "utterance": "それと自分で稼ぐようになったからか、態度が大きくなりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T16:23:59",
+      "utterance": "そうなんですね。体の関係や奥さんの態度など、あなたから見て残念に思われることが多いのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:24:13",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:24:32",
+      "utterance": "家事もお互いに押し付け合うかのような感じになってしまい。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:24:50",
+      "utterance": "一緒にいる意味を感じられなくなってしまいました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T16:25:22",
+      "utterance": "そうですね。そう感じてしまいますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T16:26:06",
+      "utterance": "家事も分担されてるし、あなたも頑張っておられますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T16:26:56",
+      "utterance": "少し奥さんのことを聞かせていただいてもいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:27:00",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:27:02",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T16:28:39",
+      "utterance": "奥さんは以前より仕事がきっかけで生き生きされているとか、性格も明るくなられたとかは、ありますか＞"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:28:59",
+      "utterance": "仕事しだして生き生きとはしてます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T16:29:36",
+      "utterance": "あなたはそんな奥さんをどのように思われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:30:08",
+      "utterance": "もともと人付き合いが上手な人じゃないので、結婚生活続けるより仕事に没頭した方がいいんじゃないかと感じました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T16:31:06",
+      "utterance": "そうなんですね。あなたはそう思われるのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T16:32:37",
+      "utterance": "それは奥さんが仕事がよくできる方なのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:33:23",
+      "utterance": "仕事してる姿は見たことないですが、帰ってきて仕事の話をする妻は生き生きはしてます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T16:34:22",
+      "utterance": "そうなんですね。奥さんとお話しもされているし、奥さんの表情を見ておられるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:34:36",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:34:47",
+      "utterance": "なので決して仲悪くはないと思ってます"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:34:54",
+      "utterance": "ただお互い合わないというか"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T16:35:47",
+      "utterance": "ありがとうございます。少しまとめさせていただきますね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:37:10",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T16:38:19",
+      "utterance": "ご結婚３年目、奥さんが働きに出られてから気持ちが合わないように感じる。仲はお悪くないけど合わないと思われている。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T16:39:32",
+      "utterance": "忙ししことで結婚記念日も忘れられ、体の関係も離れて行っている。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:40:11",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T16:40:26",
+      "utterance": "一緒にいる意味がないように感じはじめ、離婚を考えるようになった"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:40:46",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T16:42:28",
+      "utterance": "お互いの趣味も別々で、いらっしゃるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:44:21",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T16:44:53",
+      "utterance": "奥さんと話し合いの場をもたれたことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:45:34",
+      "utterance": "何度があります"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T16:46:05",
+      "utterance": "そうなんですね。奥さんはどのようにおっしゃっていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:46:17",
+      "utterance": "身体の関係については曜日決めてやろうと。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:46:41",
+      "utterance": "でもそういうのって無理にやるものじゃないと私は断りました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T16:48:14",
+      "utterance": "そうなんですね、あなたは体の関係以外に奥さんにどのようになってほしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:48:29",
+      "utterance": "妻も結婚生活続けようと頑張ってはくれてるのですが"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:48:41",
+      "utterance": "夫婦生活を続けるために頑張るっておかしい気がして"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:49:02",
+      "utterance": "今は妻に何も期待していないと言う気持ちが強く、どうなって欲しいかが自分でも分かりません。。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T16:49:23",
+      "utterance": "あなたはそう思われるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:50:02",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T16:50:16",
+      "utterance": "今更ですがお二人でお住まいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:51:14",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:51:18",
+      "utterance": "2人暮らしです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T16:52:19",
+      "utterance": "相談できるご両親やご兄弟はが近くにいらっしゃっいませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:54:25",
+      "utterance": "近くには居ないですね。。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:54:43",
+      "utterance": "2人とも実家は遠くなので"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T16:55:49",
+      "utterance": "そうなんですね。あなたは結婚生活がどんなであることが理想ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T16:58:28",
+      "utterance": "お互いに仲良く一緒にでかけたり、身体の関係も適度にあるイメージです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T17:01:57",
+      "utterance": "ありがとうございます。奥さんはあなたがそう思っていることをどう思われていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T17:03:00",
+      "utterance": "お互いが行きたい所はお互いが行きたくない所だし、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T17:03:15",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T17:03:28",
+      "utterance": "妻は性欲がない人なので、体の関係は難しいと"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T17:05:44",
+      "utterance": "そうなんですね、別なことで奥さんの希望をきき一度奥さんに付き合ってみるというのはどうでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T17:06:58",
+      "utterance": "別なことでですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T17:07:27",
+      "utterance": "はい、食事にいくとか"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T17:08:12",
+      "utterance": "食事行ってどうすれば良いでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T17:08:18",
+      "utterance": "散歩でもいいですし奥さんの希望に一度付き合ってみるのはだめですか"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T17:09:24",
+      "utterance": "構わないですが、なにか変わりますかね？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T17:10:52",
+      "utterance": "奥さんの気持ちを受け入れつつ、自分の気持ちも言う、場所を変えてみるというのはいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T17:11:30",
+      "utterance": "なるほど"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T17:11:53",
+      "utterance": "気分転換というか、外で話し合うということでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T17:12:26",
+      "utterance": "そういう方法もあるというご提案です。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T17:12:32",
+      "utterance": "わかりました。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T17:12:38",
+      "utterance": "そういうことでしたらやってみます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T17:13:09",
+      "utterance": "ありがとうございます。奥さんの気持ちも十分聞き、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T17:14:02",
+      "utterance": "お互いを受け入れてこそ話し合いができるのではないかと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T17:14:38",
+      "utterance": "わかりました。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T17:15:25",
+      "utterance": "妻と話してみます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T17:16:18",
+      "utterance": "ありがとうございます。本日はこれで失礼します。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T17:16:36",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T17:16:40",
+      "utterance": "ご相談いただきありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T17:17:10",
+      "utterance": "終了させていただいてもよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T17:18:31",
+      "utterance": "はい。大丈夫です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T17:18:49",
+      "utterance": "ありがとうございました。"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦）",
+    "main_en": "Family Issues (Spouse)",
+    "sub": "夫婦のコミュニケーション不足"
+  },
+  "review_by_client_jp": {
+    "評価ID": 587,
+    "評価作成日時": "2020-10-17T18:27:00",
+    "クライアント役ID": 47,
+    "カウンセラー役ID": 102,
+    "点数": 95,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 5,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 5,
+    "居心地のよいやりとりだった": 5,
+    "全体として適切でよかった": 5,
+    "今回の相談は価値があった": 5,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 5,
+    "要約": 5,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 5,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 587,
+    "evaluation_created_at": "2020-10-17T18:27:00",
+    "client_id": 47,
+    "counselor_id": 102,
+    "score": 95,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,509 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:55:19",
+      "utterance": "こんにちは。本日はよろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:56:27",
+      "utterance": "こちらこそ、よろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:56:40",
+      "utterance": "もしご準備ができていましたら、少し早いですが今から始めたいと思っています。いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:57:42",
+      "utterance": "開始していただいて大丈夫です！"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:58:04",
+      "utterance": "ありがとうございます。それでは、始めさせていただきますね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:58:19",
+      "utterance": "よろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:58:26",
+      "utterance": "こんにちは。相談員です。今日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:58:44",
+      "utterance": "彼とのトラブルで悩んでいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T11:00:24",
+      "utterance": "彼とのトラブルですね、それは困ってしまいますねもしよろしければ、最初にあなたと彼の年齢を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T11:01:07",
+      "utterance": "16歳女子です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T11:02:28",
+      "utterance": "ありがとうございます。高校1年生でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T11:02:41",
+      "utterance": "そうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T11:02:55",
+      "utterance": "そうなんですね彼も同い年ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T11:03:40",
+      "utterance": "彼は大学生です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T11:04:23",
+      "utterance": "大学生なんですね彼とどんなトラブルがあったのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T11:06:27",
+      "utterance": "束縛が激しくて…嫌だって言ったら、うるさい！って言われて…"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T11:06:33",
+      "utterance": "こわいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T11:07:04",
+      "utterance": "ええ、そんなことを言われたのですね・・・怒鳴られたら怖いですよね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T11:07:21",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T11:08:12",
+      "utterance": "怖い思いをしたのはいつ頃のことですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T11:08:40",
+      "utterance": "1ヶ月くらい前でしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T11:09:05",
+      "utterance": "それからずっとこんな感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T11:09:29",
+      "utterance": "1カ月も前から悩まれているんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T11:09:50",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T11:10:06",
+      "utterance": "びくびくしてしまいますよね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T11:10:40",
+      "utterance": "そうですねてん"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T11:10:44",
+      "utterance": "…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T11:11:04",
+      "utterance": "束縛が強いとのことですが、どんな感じなのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T11:11:45",
+      "utterance": "携帯を見てきたり、毎日連絡しないと怒られてり、ですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T11:13:03",
+      "utterance": "そうなんですね携帯を見られるのは嫌ですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T11:13:29",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T11:14:06",
+      "utterance": "ちなみに、お付き合いはいつからされているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T11:14:36",
+      "utterance": "3ヶ月くらい前からです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T11:16:25",
+      "utterance": "そうなんですね1カ月前から怒鳴られたりするようになったとのことですが、1カ月前に何かあったのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T11:16:54",
+      "utterance": "うーん、嫌だって言ったからでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T11:17:38",
+      "utterance": "なるほど、束縛が嫌だといったのが1カ月前だったんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T11:18:05",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T11:19:44",
+      "utterance": "自分の気持ちを伝えただけなのに、伝わらなかったのは悲しいですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T11:20:23",
+      "utterance": "そうですね…困惑します"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T11:22:19",
+      "utterance": "そうですよね・・・うるさい！と言われる以外にも、何か辛い言葉を言われたり、されたりすることはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T11:23:10",
+      "utterance": "うーん、それがあってから、なんか言葉が荒くて、怖いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T11:25:06",
+      "utterance": "なるほど、1カ月前からあなたにひどい言葉を言うようになったのですねとても怖いし、一緒にいるのが辛くなってしまいますね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T11:25:41",
+      "utterance": "そうですね、悩んでいます…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T11:27:57",
+      "utterance": "そうですよね、彼との関係をどうしていくのかも考えてしまいますよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T11:28:41",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T11:29:34",
+      "utterance": "ちなみに、あなたは今後の彼との関係をどんな感じで考えているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T11:30:18",
+      "utterance": "荒っぽいのはやめてほしいです。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T11:30:28",
+      "utterance": "こわいので…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T11:31:38",
+      "utterance": "うんうん、そうですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T11:34:33",
+      "utterance": "少し、ここまでのお話を整理させていただきますね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T11:34:48",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T11:37:33",
+      "utterance": "3か月前から付き合っている大学生の彼はあなたの携帯を見たり、毎日連絡をしないと怒ったりと束縛強く、あなたはそれを嫌だなと思っていましたね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T11:38:08",
+      "utterance": "そこで1カ月前に嫌だという気持ちを伝えたところ、うるさい！と言われてしまい、そこから今日まで、荒っぽい言動が続いている・・・"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T11:39:23",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T11:41:43",
+      "utterance": "年上の男性からの束縛は、嫌だという気持ちを伝えるのもとても勇気がいりましたよね・・・年上の男性に怒られたり、荒い言葉を使われたりして、本当に怖い思いをされてきたと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T11:42:12",
+      "utterance": "1カ月もの間、怖い中よく耐えてこられましたね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T11:42:31",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T11:42:41",
+      "utterance": "正直しんどいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T11:44:28",
+      "utterance": "そうですよね、心が痛くなってしまいますよね・・・先ほど言ってくださった「彼の荒っぽいところをやめてほしい」の言葉から、まだ彼と一緒にいたい気持ちもあるのかなと思ったのですが、彼とのお付き合いを続けることに関してはどんな風に考えていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T11:45:39",
+      "utterance": "このままの状態が続くのなら、一緒にはいられないかもしれないと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T11:46:32",
+      "utterance": "うんうん、そう思っていらっしゃるんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T11:48:05",
+      "utterance": "もし彼の荒っぽいのがなくなったら、一緒にいたい感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T11:48:18",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T11:50:35",
+      "utterance": "そうなんですねきっと彼は一緒にいて楽しい方なのですねだからこそ、荒っぽいのがなくなれば・・・と思われるのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T11:51:16",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T11:51:46",
+      "utterance": "あなたが怖い思いをしているのが心配です。私から、あなたにお伝えしたいことがあるのですが、よろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T11:52:10",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T11:52:50",
+      "utterance": "お話しを聞いていて、怖い思いをして今後の関係を悩みながらも、それでもまだ、あなたの中に彼へのお気持ちがあることも伝わってきました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T11:52:57",
+      "utterance": "なので、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T11:55:55",
+      "utterance": "もう1度、彼にあなたの気持ちをしっかりと伝えてみるのが良いかと思いました。今度は、嫌という気持ちだけでなく、あなたが怖い思いをしていることもお伝えしてみてください。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T11:56:50",
+      "utterance": "わかりました"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T11:57:09",
+      "utterance": "こわいですが、そうしてみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T12:02:00",
+      "utterance": "あなたは何も悪いことはしていませんし、怒られる理由も何もありません。心配なので、公園やファミレス等、できるだけ人がたくさんいるところでお話をしてくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T12:02:16",
+      "utterance": "ありがとうございます、そうします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T12:02:52",
+      "utterance": "もう一度あなたの気持ちを伝えたうえでもし彼が変わらなければ、またここでどうしていくかを一緒に考えていけたらなと思っています"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T12:03:31",
+      "utterance": "はい、ありがとうございます助かります"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T12:03:43",
+      "utterance": "話してどうだったかをまた聞かせてくださいね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T12:04:05",
+      "utterance": "分かりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T12:05:16",
+      "utterance": "勇気がいるかと思いますが、あなたが少しでも今の状況から楽になれるよう、応援していますね。そしてあなたの気持ちが彼に伝わることを願っています"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T12:05:45",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T12:06:35",
+      "utterance": "今日はお話しに来てくださりありがとうございました。とても冷え込んでいるので、暖かくしてお過ごしくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T12:07:00",
+      "utterance": "こちらこそ、ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T12:08:06",
+      "utterance": "(お時間過ぎてしまいすみませんでした。本日はありがとうございました)"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T12:08:23",
+      "utterance": "(ありがとうございました！)"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T12:08:45",
+      "utterance": "(また機会がありましたらよろしくお願いいたします)"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T12:10:59",
+      "utterance": "(こちらこそです！)"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T12:11:14",
+      "utterance": "(それでは、ロールプレイを終了いたしますね。ありがとうございました！)"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T12:12:00",
+      "utterance": "(ありがとうございました！)"
+    }
+  ],
+  "topic": {
+    "main_jp": "恋愛問題",
+    "main_en": "Romantic Issues",
+    "sub": "彼の束縛と暴言によるストレス"
+  },
+  "review_by_client_jp": {
+    "評価ID": 943,
+    "評価作成日時": "2020-12-16T15:25:00",
+    "クライアント役ID": 21,
+    "カウンセラー役ID": 45,
+    "点数": 65,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 3,
+    "要約": 4,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 943,
+    "evaluation_created_at": "2020-12-16T15:25:00",
+    "client_id": 21,
+    "counselor_id": 45,
+    "score": 65,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

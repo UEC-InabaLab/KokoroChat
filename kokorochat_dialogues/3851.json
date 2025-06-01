@@ -1,0 +1,414 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-08-24T12:22:35",
+      "utterance": "(お疲れ様です。よろしくお願いします。)"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-24T12:22:59",
+      "utterance": "(おつかれさまです。こちらこそよろしくお願いします。)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-24T12:24:09",
+      "utterance": "（予定時刻12時30分に開始させてもらいます。よろしくお願いします。）"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-24T12:24:39",
+      "utterance": "(はい。よろしくお願いします。)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-24T12:30:20",
+      "utterance": "こんにちは、相談員です。ご相談にお越しいただきありがとうございます。はじめにご年齢と性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-24T12:31:20",
+      "utterance": "中学３年生女子です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-24T12:31:46",
+      "utterance": "ありがとうございます。本日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-24T12:32:08",
+      "utterance": "はい。もうすぐ夏休みが終わります。嫌だな……"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-24T12:32:57",
+      "utterance": "確かに夏休み終わると学校が始まりますもんね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-24T12:33:12",
+      "utterance": "そうなんです…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-24T12:33:40",
+      "utterance": "学校が楽しくないんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-24T12:34:09",
+      "utterance": "楽しい事は楽しいんですけど、休み明けからテストもあるし。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-24T12:35:08",
+      "utterance": "テストがあるなら勉強しないといけないからめんどくさいですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-24T12:35:41",
+      "utterance": "そうなんです…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-24T12:38:19",
+      "utterance": "休み明けのテストがあるから学校にあまり行きたくないとお考えなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-24T12:38:47",
+      "utterance": "はい。テストが続きます…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-24T12:39:14",
+      "utterance": "どれぐらい続くのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-24T12:39:44",
+      "utterance": "夏休み明けテストから始まり、来月だけで3回あります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-24T12:40:45",
+      "utterance": "3回もあると集中して勉強しないといけないので疲れますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-24T12:41:08",
+      "utterance": "集中してなかなか出来ないですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-24T12:42:23",
+      "utterance": "集中して勉強するのは難しいですもんね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-24T12:42:37",
+      "utterance": "はい…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-24T12:43:38",
+      "utterance": "夏休み期間はどのように過ごしていたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-24T12:44:17",
+      "utterance": "とりあえず塾の夏期講習とか課題とかして過ごしてました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-24T12:45:55",
+      "utterance": "夏休み期間中も勉強していたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-24T12:46:21",
+      "utterance": "とりあえずやらないと……"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-24T12:48:25",
+      "utterance": "勉強していてもテストになると不安になりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-24T12:49:01",
+      "utterance": "そうですね。成績とか出るし。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-24T12:50:46",
+      "utterance": "成績がでても学力が伸びてないと落ち込みますもんね"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-24T12:51:39",
+      "utterance": "夏休み明けのテストはとても不安なんです。みんな頑張ってただろうし…"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-24T12:51:52",
+      "utterance": "テストも続くし"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-24T12:53:09",
+      "utterance": "テストも続くし不安ですよね。あなたは夏休み期間中どれぐらい勉強していましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-24T12:54:49",
+      "utterance": "塾は毎日３時間授業があったし、他に8時間くらいかな？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-24T12:58:59",
+      "utterance": "毎日11時間も勉強していたのですね。そんなに毎日頑張って勉強できる人はいないと思いますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-24T12:59:35",
+      "utterance": "そうですかね？みんなしてると思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-24T13:00:25",
+      "utterance": "友達にどれぐらい勉強しているか聞いたことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-24T13:01:30",
+      "utterance": "塾の友達は同じくらい勉強してる様子でした……なんか時間はしてるけど、集中出来てなかった気もするし…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-24T13:02:56",
+      "utterance": "友人は集中できていないと感じたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-24T13:03:30",
+      "utterance": "集中出来てなかったのは私なんです。みんなすごく出来てるような気がするんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-24T13:05:28",
+      "utterance": "あなたが集中できていないのですね。模擬テストなどで成績がでると思いますが周りと比べてどうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-24T13:06:54",
+      "utterance": "勉強はしたつもりなので成績が上がっても、周りもみんな夏休みは勉強してただろうし、みんなも成績が上がると思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-24T13:08:03",
+      "utterance": "周りの人も勉強しているので比べにくいですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-24T13:08:39",
+      "utterance": "そうですよね、不安になりますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-24T13:09:20",
+      "utterance": "最初に塾に入ったときと今を比べて成績はどのぐらい変わりましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-24T13:10:23",
+      "utterance": "塾は小学校から入ってます。なので成績は変わったのか分かりません。少しずつ成績は上がってきてました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-24T13:11:50",
+      "utterance": "小学生から頑張っていたら比較しにくいですね。毎日積み重ね頑張っていたのですね。努力家ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-24T13:12:29",
+      "utterance": "そうですかね。なんかやらないと不安で。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-24T13:13:14",
+      "utterance": "勉強しないと学力落ちるから不安になりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-24T13:13:39",
+      "utterance": "そうなんです。不安です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-24T13:14:24",
+      "utterance": "勉強についての不安を相談できる人はいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-24T13:14:59",
+      "utterance": "んー今はいないかなぁ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-24T13:15:26",
+      "utterance": "前は相談できる人がいたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-24T13:17:01",
+      "utterance": "そうですね、中2までは友達と勉強の不安な話とかはしてました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-24T13:18:08",
+      "utterance": "そうなんですね。友達に相談したときはどのような感情になりましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-24T13:18:52",
+      "utterance": "その時は今ほど勉強について不安もなかったんです。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-24T13:19:06",
+      "utterance": "嫌だよね〜って感じで話せてました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-24T13:21:00",
+      "utterance": "相談したら不安はなかったのですね。それなら友達に相談したら不安がなくなるかもしれませんね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-24T13:23:32",
+      "utterance": "みんな忙しいし、必死なんですよね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-24T13:24:42",
+      "utterance": "それなら他に相談できそうな人はいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-24T13:25:19",
+      "utterance": "成績みて先生ですかね？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-24T13:26:37",
+      "utterance": "塾の先生にも話せるかも。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-24T13:26:51",
+      "utterance": "確かに先生なら相談しやすそうでね。今の勉強の不安を話すだけでも少し楽になると思いますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-24T13:27:11",
+      "utterance": "はい。ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-24T13:27:58",
+      "utterance": "勉強で不安なことがあると思いますが頑張ってください。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-24T13:28:13",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-24T13:28:20",
+      "utterance": "他に質問したいことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-24T13:28:31",
+      "utterance": "大丈夫です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-24T13:28:47",
+      "utterance": "それでは、本日のご相談はここで終了とさせていただきます。お時間を作ってお話をお聞かせいただき、どうもありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-24T13:29:04",
+      "utterance": "ありがとうございました。"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "テストに対する不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3851,
+    "評価作成日時": "2022-08-24T13:37:00",
+    "クライアント役ID": 318,
+    "カウンセラー役ID": 311,
+    "点数": 74,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 5,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 3,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 3,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3851,
+    "evaluation_created_at": "2022-08-24T13:37:00",
+    "client_id": 318,
+    "counselor_id": 311,
+    "score": 74,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,884 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:00:07",
+      "utterance": "こんにちは、相談員です。本日はお越し頂きありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:00:26",
+      "utterance": "よろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:00:39",
+      "utterance": "はじめに年齢と性別をお聞かせいただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:00:48",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:00:59",
+      "utterance": "45才、女性です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:01:06",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:01:20",
+      "utterance": "本日はどのようなお悩みで相談にこられましたか？どのような事でもお話し下さいね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:01:29",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:02:03",
+      "utterance": "先週お友達の犬が17才で亡くなりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:02:24",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:02:50",
+      "utterance": "私の犬は1年前に亡くなってるのですが、その友達と犬と私と私の犬ととても仲良くしておりました"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:03:10",
+      "utterance": "いつも一緒に散歩へ行ってました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:03:13",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:03:33",
+      "utterance": "で、時々「ん？」と思うことがありました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:03:49",
+      "utterance": "どうなさったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:04:49",
+      "utterance": "友達の犬が亡くなった時、市の職員に遺体を引き取ってもらって処分したと聞きました。それで「え」と。"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:05:30",
+      "utterance": "詳しく言うと"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:05:30",
+      "utterance": "そのようなことが、おありだったんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:05:35",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:05:36",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:05:51",
+      "utterance": "お話ください"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:06:35",
+      "utterance": "市に処分を頼むと遺骨は戻ってこないし、共同塚のようなものもなくお参りにも行けないんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:06:51",
+      "utterance": "なるほど"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:06:55",
+      "utterance": "私は"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:07:20",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:07:31",
+      "utterance": "自分の犬が亡くなった時は動物霊園で火葬をし、遺骨を持って帰って来ました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:07:42",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:08:20",
+      "utterance": "友達はすごく犬を可愛がっていたのに最後があれでは犬が不憫でモヤモヤしてしまいました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:09:06",
+      "utterance": "そのように感じられたんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:09:13",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:09:36",
+      "utterance": "その人考えなので私が口出すことではないのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:10:24",
+      "utterance": "モヤモヤしてしまうとのことですが、ご自身はどのような風に思われましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:11:21",
+      "utterance": "私なら遺骨が戻ってこないことが耐えられないんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:12:10",
+      "utterance": "そうなんですね。大切にしている気持ちが伝わってきます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:12:29",
+      "utterance": "ありがとうございます。また涙が出てきました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:13:35",
+      "utterance": "泣いても大丈夫ですよ。ゆっくりお話伺いますね"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:13:46",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:13:54",
+      "utterance": "友達が"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:14:00",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:15:06",
+      "utterance": "犬が亡くなったと自分の母親に話したら「あんまり悲しむと成仏出来ないよ」と言ったので、「それもそうだな」と言ってました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:15:08",
+      "utterance": "で"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:15:28",
+      "utterance": "私は「悲しい時は悲しんでいいねんよ」と言いました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:15:38",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:16:29",
+      "utterance": "なんで悲しんでる人に「成仏出来ない」なんて呪縛を説くんだろうと思いました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:16:57",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:17:22",
+      "utterance": "でも友達も"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:18:23",
+      "utterance": "亡くなったその日に市の職員に遺体を引き渡し(夫さんは死に目にも遺体にも会えず)、翌日には遺品のl整理を始めようとしてました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:18:45",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:19:07",
+      "utterance": "それについては、どう思われましたか？？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:19:18",
+      "utterance": "はい。なんか私と温度差を感じてしまいモヤモヤしました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:20:01",
+      "utterance": "お友達との温度差を感じたんですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:20:08",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:20:23",
+      "utterance": "私は一年経っても遺品のl整理が出来ません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:20:48",
+      "utterance": "なるほどですね。お友達とはお付き合いは長いにですか？？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:21:02",
+      "utterance": "長いのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:21:08",
+      "utterance": "はい。もう10年以上です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:22:03",
+      "utterance": "今までに、今回のように、モヤモヤや温度差を感じたことは、あったのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:22:38",
+      "utterance": "今ずーっと思い返してたんですが、めちゃめっちゃありました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:23:33",
+      "utterance": "そうなんですね。思い返すと、思い当たることが多いんですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:23:41",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:23:44",
+      "utterance": "元々"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:24:07",
+      "utterance": "通販オペレーターのパートの同期で知り合ったのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:24:23",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:25:06",
+      "utterance": "そこはカスタマーセクハラ(カスハラ)がひどくてパートさんは病んで皆短期で辞めていくんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:25:18",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:25:26",
+      "utterance": "セクハラじゃない、ハラスメントです"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:25:48",
+      "utterance": "で、私は1年で病む寸前で辞めました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:26:04",
+      "utterance": "なるほど"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:26:08",
+      "utterance": "友達は10数年働き続けてました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:26:19",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:26:57",
+      "utterance": "お客からの罵声より上司から叱られる方が嫌と言ってましたね友達は。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:27:09",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:27:14",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:27:25",
+      "utterance": "神経が図太いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:28:04",
+      "utterance": "なるほど"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:28:13",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:28:20",
+      "utterance": "お友達の事は、"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:28:27",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:28:52",
+      "utterance": "神経が図太い、意外に、どう思われますか？？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:29:40",
+      "utterance": "おおらかで細かいことに悩まず私には無い部分をたくさん持ってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:29:52",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:30:17",
+      "utterance": "それが羨ましい時もあります"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:30:24",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:30:44",
+      "utterance": "だけど…"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:31:12",
+      "utterance": "犬が寝たきりで床ずれが酷いと聞いたので"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:31:55",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:32:06",
+      "utterance": "エアーマットがいいよと紹介したんだけど、高価なので買わないと言われました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:32:44",
+      "utterance": "大切に"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:33:17",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:33:33",
+      "utterance": "している気持ちがあるからの、紹介だったのにそんな風に言われてしまったんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:34:04",
+      "utterance": "今までのお話を聞いていても、"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:34:10",
+      "utterance": "はい。少しでも犬の苦痛が取れればいいなと"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:34:13",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:34:31",
+      "utterance": "モヤモヤしてしまうのも無理ないと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:34:51",
+      "utterance": "そうですか？私が過干渉なのかな？と悩んでました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:35:12",
+      "utterance": "そんなことないですよ。"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:35:31",
+      "utterance": "良かった…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:35:46",
+      "utterance": "ご自身の優しさからきている、お悩みだと感じます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:36:01",
+      "utterance": "ちなみに、"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:36:05",
+      "utterance": "そう言っていただいて救われる気持ちです"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:36:07",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:36:17",
+      "utterance": "お友達との"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:36:22",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:37:00",
+      "utterance": "関係性は、どうしていきたいとお思いですか？？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:37:12",
+      "utterance": "そうですね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:37:24",
+      "utterance": "どうしたら良いと思われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:37:54",
+      "utterance": "つかず離れずのいい距離を取って行こうと思ってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:38:55",
+      "utterance": "なるほどですね。お友達との価値観のギャップでお悩みになられてるように、感じます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:39:20",
+      "utterance": "そうですね。それで今までもモヤモヤしたことが多かったので"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:39:37",
+      "utterance": "振り回されてる感じがするんですよ。近づくと"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:39:56",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:40:11",
+      "utterance": "友達はマイペースだし"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:40:19",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:40:26",
+      "utterance": "私が疲れます"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:41:02",
+      "utterance": "犬関係でのモヤモヤが1番多かったです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:41:03",
+      "utterance": "そのように感じているのですね。お話を伺っていると"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:41:10",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:41:39",
+      "utterance": "とてもそのお気持ち伝わってきますし、"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:41:46",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:42:10",
+      "utterance": "そう感じてしまうのも、無理ないと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:42:52",
+      "utterance": "そう言っていただいて、スーッと落ちました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:43:48",
+      "utterance": "よかったです。お友達とは少し距離を置いて、いけそうですか？？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:43:56",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:44:11",
+      "utterance": "犬もお互い亡くなったし"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:44:20",
+      "utterance": "接点が減りましたね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:44:49",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:44:57",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:45:25",
+      "utterance": "そうそう、聞いてください"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:45:32",
+      "utterance": "一つ思い出しました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:45:32",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:46:10",
+      "utterance": "私が犬をなくしてまだ数日の頃、その友達と電話で話しをしたんですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:46:38",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:46:47",
+      "utterance": "友達はハムスターを飼ったら？とか小動物を飼えば？と勧めてくるんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:46:56",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:47:08",
+      "utterance": "私、興味ないと断ったんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:47:25",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:47:33",
+      "utterance": "友達なりにアドバイスしてたと言ってました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:47:53",
+      "utterance": "私はアドバイスより悲しさをただ聞いて欲しかっただけなんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:48:03",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:48:15",
+      "utterance": "そう言う出来事がありました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:48:47",
+      "utterance": "色々と、価値観の不一致があって、今まで、"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:48:59",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:49:56",
+      "utterance": "我慢されてきたことも多いと感じます。少し、適度な距離感を作っていくのが良いと感じました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:50:24",
+      "utterance": "本日は、お話してみていかがでしたか？？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:50:26",
+      "utterance": "そうですよね。私もそう思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:50:36",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:51:00",
+      "utterance": "はい、モヤモヤを吐き出せて、そして共感してもらったので救われた気持ちです"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:51:26",
+      "utterance": "私がおかしいのかな？と悩んでましたので"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:51:45",
+      "utterance": "遺骨にこだわるとか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:52:17",
+      "utterance": "そんなこと、ないですよ。また、何かお悩みでしたらご相談しに来てくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:52:29",
+      "utterance": "はい。ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:52:57",
+      "utterance": "今日は、これで終了させていただきますがよろしいですか？？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:53:11",
+      "utterance": "はい。大丈夫です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:54:39",
+      "utterance": "お話お聞かせいただきありがとうございます。心の優しさがお話を伺っていて伝わりました。ありがとうございました。失礼します。"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:55:02",
+      "utterance": "はい。ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:56:03",
+      "utterance": "にっちさんありがとうございました。レスポンス遅くてすみません。"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:56:42",
+      "utterance": "いえいえ、とんでもないです！温かなお言葉をありがとうございました"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:56:54",
+      "utterance": "全然遅くなかったですよ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:57:36",
+      "utterance": "そう言っていただけると嬉しいです。"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:57:59",
+      "utterance": "カウンセラー役を頑張って下さいね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-24T14:58:46",
+      "utterance": "はい！！！頑張ります。ありがとうございますでは、失礼します"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:58:51",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-24T14:58:58",
+      "utterance": "今日はありがとうございました"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "友達との価値観の不一致によるモヤモヤ感"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3022,
+    "評価作成日時": "2022-01-24T15:19:00",
+    "クライアント役ID": 259,
+    "カウンセラー役ID": 262,
+    "点数": 96,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 5,
+    "取り組みたかったことを扱えた": 5,
+    "一緒に考えながら取り組めた": 5,
+    "やりとりのリズムがあっていた": 5,
+    "居心地のよいやりとりだった": 5,
+    "全体として適切でよかった": 5,
+    "今回の相談は価値があった": 5,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 5,
+    "要約": 4,
+    "問題の明確化": 5,
+    "この相談での目標の明確化": 5,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3022,
+    "evaluation_created_at": "2022-01-24T15:19:00",
+    "client_id": 259,
+    "counselor_id": 262,
+    "score": 96,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

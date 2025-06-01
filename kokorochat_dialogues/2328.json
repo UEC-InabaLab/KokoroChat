@@ -1,0 +1,724 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:00:08",
+      "utterance": "こんばんは相談員です。よろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:00:27",
+      "utterance": "よろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:00:41",
+      "utterance": "最初に年齢と性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:01:27",
+      "utterance": "17歳、男性です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:01:43",
+      "utterance": "お返事ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:01:58",
+      "utterance": "学年も教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:02:18",
+      "utterance": "高3です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:02:31",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:02:45",
+      "utterance": "今日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:04:24",
+      "utterance": "受験生なのですが、やる気が起きないのです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:04:57",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:05:29",
+      "utterance": "状況をもう少し教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:08:15",
+      "utterance": "朝から塾に行って夜までずっといるのですが、全然成績も上がらないし、勉強も進みません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:09:16",
+      "utterance": "一日中頑張っているんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:10:00",
+      "utterance": "全然頑張れていません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:10:40",
+      "utterance": "ご自身ではそう感じているんですね‥"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:11:17",
+      "utterance": "はい。周りはもっと頑張っていますし。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:11:32",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:11:40",
+      "utterance": "何か気になっていることでもあるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:12:09",
+      "utterance": "体重がどんどん増えているのです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:12:35",
+      "utterance": "それはまた、どうしてでしょう？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:13:02",
+      "utterance": "運動してないからだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:13:20",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:13:43",
+      "utterance": "受験体制に入る前は、何か運動部とかやっていたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:14:12",
+      "utterance": "はい、バスケをやっていました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:14:29",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:14:57",
+      "utterance": "練習は毎日とか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:15:17",
+      "utterance": "はい、毎日ありました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:15:36",
+      "utterance": "週末は試合があったり？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:16:16",
+      "utterance": "そうですね。試合もありました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:16:32",
+      "utterance": "すっかりバスケ三昧だったのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:16:43",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:17:04",
+      "utterance": "いつで、バスケ部活は終わりにしたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:17:40",
+      "utterance": "7月の始めくらいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:18:20",
+      "utterance": "7月の初めまではバスケをやっていたのですね。頑張りましたね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:18:31",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:19:19",
+      "utterance": "その後は、バスケを止めて、身体を動かさなくなったということですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:19:42",
+      "utterance": "はい、時間がないんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:20:07",
+      "utterance": "そうですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:20:36",
+      "utterance": "どうしたらいいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:20:39",
+      "utterance": "でもつい習慣で食べてしまう・・・という感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:21:56",
+      "utterance": "習慣というか出てきたものは食べます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:22:10",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:22:26",
+      "utterance": "いままでのところを少しだけ整理してもいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:22:36",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:22:45",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:24:21",
+      "utterance": "今受験勉強に入ったが、1日中勉強し、夜は塾にも行っているのに、成績があがらない。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:24:37",
+      "utterance": "やる気が出ないので困っている。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:24:48",
+      "utterance": "気になっているのは太ってきたこと。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:25:24",
+      "utterance": "実はずうっとバスケ部をこの7月までやってきた。その後はバスケを止めて体を動かす機会もない。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:25:41",
+      "utterance": "こんな理解でよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:25:51",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:26:01",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:26:52",
+      "utterance": "そこで、体重のことと、勉強のやる気のことをこれからご一緒に考えて行ったらよいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:27:11",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:27:19",
+      "utterance": "了解です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:28:06",
+      "utterance": "バスケ部だった他の子は、体重のことと勉強のことについて、何か言ってますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:28:41",
+      "utterance": "最近話してないので、わかりません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:28:53",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:29:37",
+      "utterance": "じゃあ、先ず体重について考えてみましょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:29:47",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:29:58",
+      "utterance": "ご自分としては、体重についてはどうしていきたいと思っていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:31:05",
+      "utterance": "顔が丸くなるのが嫌なんです。それがどうにかなればと。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:31:29",
+      "utterance": "なるほど。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:32:37",
+      "utterance": "けっこうどう見えるかを大臣するんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:33:14",
+      "utterance": "↑「大事にする」です。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:34:30",
+      "utterance": "どう見えるかを大事にするかどうかはわかりませんが、嫌じゃないですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:35:10",
+      "utterance": "たしかに。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:35:52",
+      "utterance": "そうすると、体重を増やさない工夫をするということが必要みたいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:36:39",
+      "utterance": "でも、そんな時間、ないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:37:22",
+      "utterance": "特別な時間を使わなくても可能だと思うのですが。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:37:42",
+      "utterance": "そうなんですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:37:49",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:38:20",
+      "utterance": "今まで、運動をしてた＝エネルギーを沢山使っていた。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:39:20",
+      "utterance": "突然、運動を止めた➡出ていくエネルギーが少なくなった➡栄養が消費されないので体に溜まる"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:39:39",
+      "utterance": "ということが起こっていると思うのですが・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:40:42",
+      "utterance": "でも、そんなに食べてないですよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:41:14",
+      "utterance": "さきほど、出されたものを食べていると言っていましたが・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:42:11",
+      "utterance": "残した方がいいということですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:42:45",
+      "utterance": "取り入れる栄養　＝　使うエネルギー　とバランスをとると、身体に栄養がたまらなくなるかと思うので、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:43:22",
+      "utterance": "お母さんに、食事の量を調整してもらってはいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:44:26",
+      "utterance": "今でもお腹すくの我慢しているのに減らさなきゃいけないのですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:45:51",
+      "utterance": "お腹いっぱいになるけど、栄養価はあまり高くない食物もありますよ。その辺をざっくばらんにお母さんに相談なさるとよろしいかと思いますが・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:47:09",
+      "utterance": "そうですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:47:24",
+      "utterance": "もう一つ提案してもいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:47:41",
+      "utterance": "もういいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:48:10",
+      "utterance": "わかりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:48:38",
+      "utterance": "それでは、勉強のことについて考えて行ってはと思いますが、よろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:49:07",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:50:16",
+      "utterance": "勉強にやる気が出ないとのお話しでしたが、念のためお聞きすると、進路についてはあなたが望んでいる進路に進むことになっているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:50:35",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:50:50",
+      "utterance": "了解です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:51:39",
+      "utterance": "では、ポイントはどうやって勉強に集中できるようになるかということになるかとおもいますが、いいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:52:18",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:52:53",
+      "utterance": "ご自分なりには、どんな時に勉強に集中できたと感じますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:54:20",
+      "utterance": "部活やってた頃の方が集中できてました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:54:37",
+      "utterance": "なるほど。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:55:06",
+      "utterance": "部活やっていた時と、今とでは何が一番違うと思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:55:27",
+      "utterance": "わかりません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:56:21",
+      "utterance": "今は運動がすっかりなくなってしまっていることではないでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:57:23",
+      "utterance": "それは関係ないと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:58:07",
+      "utterance": "そう思うんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T21:58:18",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T21:59:10",
+      "utterance": "では、部活やっていたときには集中できていて、今はできていないのは、何が原因だと思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T22:00:07",
+      "utterance": "自分が弱いからですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T22:01:38",
+      "utterance": "弱いか強いかではないような気がするのですが・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T22:02:24",
+      "utterance": "集中を創るこつを、つかんでいないだけのような気がするのですが・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T22:03:37",
+      "utterance": "結局自分は頑張っても無駄なんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T22:04:22",
+      "utterance": "上手に頑張ると結果もついてくるかもしれないと思いますが・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T22:07:27",
+      "utterance": "わかりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T22:08:06",
+      "utterance": "よければ、大先輩から教えてもらった方法をお伝えしてもいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T22:08:23",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T22:08:46",
+      "utterance": "人は長い時間は集中できないそうです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T22:09:26",
+      "utterance": "そこで、ある時間何かをしたら、短い休憩を意図的にいれる。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T22:09:58",
+      "utterance": "そうすると、全体でも結果が出てくるそうです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T22:10:28",
+      "utterance": "よろしければ、試してみてください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T22:10:41",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T22:10:49",
+      "utterance": "あなたのこと、応援しています。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T22:11:08",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T22:11:10",
+      "utterance": "また気になることが出てきたらいらしてください。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T22:11:23",
+      "utterance": "ご一緒に考えさせていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T22:11:23",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T22:11:53",
+      "utterance": "では今日はこの辺でよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T22:11:59",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T22:12:18",
+      "utterance": "今日はご相談にいらしてくださりありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T22:12:32",
+      "utterance": "では失礼いたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T22:12:45",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T22:13:17",
+      "utterance": "（お疲れさまでした）"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T22:13:42",
+      "utterance": "(お疲れ様でした)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-11T22:13:48",
+      "utterance": "（ありがとうございました。）"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-11T22:14:13",
+      "utterance": "(ありがとうございました)"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "受験生のやる気の低下"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2328,
+    "評価作成日時": "2021-08-11T22:30:00",
+    "クライアント役ID": 204,
+    "カウンセラー役ID": 5,
+    "点数": 30,
+    "聴いてもらえた、わかってもらえたと感じた": 1,
+    "尊重されたと感じた": 1,
+    "新しい気づきや体験があった": 1,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 1,
+    "一緒に考えながら取り組めた": 1,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 1,
+    "全体として適切でよかった": 1,
+    "今回の相談は価値があった": 1,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 1,
+    "肯定・承認": 1,
+    "的確な質問による会話の促進": 2,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 1,
+    "勇気づけ・希望の喚起": 1,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2328,
+    "evaluation_created_at": "2021-08-11T22:30:00",
+    "client_id": 204,
+    "counselor_id": 5,
+    "score": 30,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 1,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 1,
+    "felt_appropriate_and_satisfying": 1,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 1,
+    "provided_acknowledgment_and_affirmation": 1,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 1,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

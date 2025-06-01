@@ -1,0 +1,659 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-11-15T20:51:25",
+      "utterance": "今日はよろしくお願いいたします。ご準備出来ましたらお知らせください。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T20:52:00",
+      "utterance": "もう少しお待ち下さいね"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T20:57:41",
+      "utterance": "大丈夫です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T20:57:56",
+      "utterance": "では始めさせていただきますね"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T20:58:02",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T20:58:40",
+      "utterance": "こんにちは相談員です差し支えなければ、年齢と性別を教えていただけますでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T20:59:27",
+      "utterance": "30代です。女性です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T20:59:48",
+      "utterance": "教えて頂きありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:00:03",
+      "utterance": "今日はどのような相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:00:48",
+      "utterance": "コロナの関係でもうすぐ、会社を辞めなければいけなくなりそうです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:01:18",
+      "utterance": "そうなんですか・・それは心配ですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:01:24",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:02:08",
+      "utterance": "具体的にどんな状況で辞めなくてはいけないでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:03:17",
+      "utterance": "会社の業績が悪くて…はっきりいつまでと言われた訳ではないんですが、このままいても、しょうがないかな、と"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:03:59",
+      "utterance": "そうなんですね・・不安な気持ちになってしまいますよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:04:21",
+      "utterance": "ですね。どうしようかな…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:04:26",
+      "utterance": "どのようなお仕事をされているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:05:02",
+      "utterance": "婦人服の販売です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:05:35",
+      "utterance": "教えて頂きありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:06:23",
+      "utterance": "お仕事されてから何年目くらいでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:06:46",
+      "utterance": "もう10年です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:07:39",
+      "utterance": "そんなに長く・・されているのに、辞めようと思っているなんてお辛いですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:08:23",
+      "utterance": "業績が、悪くて…ちょうど区切りかなと"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:08:36",
+      "utterance": "そうなんですね・・"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:08:47",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:09:29",
+      "utterance": "業績が悪いとお給料にも関係してきたりするのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:10:29",
+      "utterance": "時短とかで2割位減りましたね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:10:54",
+      "utterance": "そうだったんですね・・それはショックですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:11:08",
+      "utterance": "ですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:11:33",
+      "utterance": "辞めようかな・・と悩まれている理由はそのほかにもありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:13:00",
+      "utterance": "そうですね…後は、年齢的に、辞めて次の仕事を探すのにはぎりぎりかなと思っているので"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:14:29",
+      "utterance": "年齢が気になるのですねちなみにご家族と一緒に住んでらっしゃるんでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:14:42",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:15:16",
+      "utterance": "ご結婚はされてますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:15:37",
+      "utterance": "いえ、独身です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:16:04",
+      "utterance": "お給料が減ったと伺って心配になりました"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:16:20",
+      "utterance": "ショックです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:17:28",
+      "utterance": "ほんとうに予想していなかった、まさかの事態ですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:18:26",
+      "utterance": "友人の勤めていた居酒屋さん、潰れました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:19:57",
+      "utterance": "そうなんですか？？ますます、この先のことを考えると心配になりなすね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:20:19",
+      "utterance": "↑なりますね"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:21:22",
+      "utterance": "多分、ウチのお店もいずれ潰れると思います。だから、その前に、辞めようかと"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:21:50",
+      "utterance": "なるほど・・そうだったんですねコロナのことがなかったら、今のお仕事をずっと続けていくおつもりだったのでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:22:54",
+      "utterance": "長く続けられていたというのは、きっと居心地もよかったんでしょうね"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:23:41",
+      "utterance": "うーんどうでしょう。でも、ずっと立ち仕事は無理だったかも、です。こんな言い方はどうかと思いますが、コロナが良いきっかけだったかもです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:23:55",
+      "utterance": "そうだったんですね・・"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:24:49",
+      "utterance": "と、考える様にします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:24:51",
+      "utterance": "もともと、ずっと続けられていくのか悩まれていたところもあったのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:25:03",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:25:47",
+      "utterance": "コロナがなかったら、あと2、3年、ズルズルと続けていたと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:26:43",
+      "utterance": "そうだったんですね・・もうそろそろ転職しようかなと考えていたんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:27:14",
+      "utterance": "はい。でも、いざ、となると不安で"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:28:02",
+      "utterance": "そうですよねお仕事探しも大変ですよねちなみにほかにやってみたいお仕事とかは決まってるんでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:28:16",
+      "utterance": "まだ、なにも"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:28:18",
+      "utterance": "心配になってしまいますよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:28:43",
+      "utterance": "したいお仕事とかはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:29:53",
+      "utterance": "今は、また、これと言ってないんです。販売しかやった事ないし、こんな時期だし、仕事あるのかな、と"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:31:06",
+      "utterance": "そうだったんですね・・この時期のお仕事探しを考えると、不安な気持ちになるのは当然だと思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:31:54",
+      "utterance": "転職先があってもまた、潰れるかもしれないし"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:33:20",
+      "utterance": "そんなふうに考えると、ますます心配になってしまいますねでも、もともと、販売のお仕事はお好きでやりがいを感じていらしたんですよね？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:34:24",
+      "utterance": "はい。今まではそれで良かったんですが、一生販売はきついなとも思っていました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:35:17",
+      "utterance": "そうだったんですね・・一生のお仕事にするにはどうかな、と思ってらしたんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:35:24",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:36:40",
+      "utterance": "なるほどですねコロナがきっかっけで、この先の自分の生き方をどうしようか・・と"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:36:49",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:37:04",
+      "utterance": "悩んでしまいますよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:37:22",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:38:28",
+      "utterance": "販売以外に興味のあるお仕事とかって思いつきそうでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:39:04",
+      "utterance": "長く働ける、安定した仕事がいいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:39:31",
+      "utterance": "そう思われるのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:39:39",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:40:20",
+      "utterance": "確かに潰れてしまいそうな不安定な会社は不安ですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:41:04",
+      "utterance": "今回も潰れそうですしね。もう、こりごりです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:42:02",
+      "utterance": "そうですよね特に業種とかにこだわらずに、安定したお仕事を探したいと思う気持ちなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:42:34",
+      "utterance": "そうなんですけど、難しいですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:43:36",
+      "utterance": "これから資格とか取りたいとか、そのような考えはありますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:44:34",
+      "utterance": "そうですね…必要なら、がんばりたいです。何がいいかは全然分からないんですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:45:16",
+      "utterance": "そうなんですね・・チャレンジしたいお気持ちがあるのですね！"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:46:08",
+      "utterance": "ここまでのお話を伺って感じたことをお伝えしてもよろしいでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:46:24",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:49:36",
+      "utterance": "あなたはコロナがきっかけで長く続けてきたお仕事を辞めようか、と悩んで相談にこられ、今のお気持ちは年齢的にもぎりぎりかも？でも新しい仕事が果たしてすぐに見つかるのかとても不安な気持ちが強いのだと思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:49:50",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:50:50",
+      "utterance": "これからどうやって生きていこうか、とご自分と向き合っておられます"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:51:02",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:52:34",
+      "utterance": "きっとコロナがなかったらそこまで強い気持ちがな考えれかったのかも？と、とても前向きに考える方だと思いました"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:52:47",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:52:56",
+      "utterance": "文章が変でした"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:53:04",
+      "utterance": "大丈夫です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:53:22",
+      "utterance": "あなたは自分に素直で前向きな方だと思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:53:40",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:53:55",
+      "utterance": "そして自分のことをとても良くわかっていらっしゃる"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:54:47",
+      "utterance": "そうでしょうか…自分が何に向いているのか、全然わからないんですが…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:55:21",
+      "utterance": "ヒントになればと思いお伝えしたいことがあるのですが、よろしいでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:55:30",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:57:12",
+      "utterance": "あなたは長くお仕事をされてきたので、失業給付を受けながらハローワークで職業訓練の為の資格取得講座なども受けることができるのでは？と思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:57:46",
+      "utterance": "そうなんですか？それはありがたいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:58:33",
+      "utterance": "講座はパソコンや美容師など多岐にわたる資格取得講座があります"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:59:06",
+      "utterance": "一度ハローワークに行かれて参考までにお話を聞いてみたらいかがでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T21:59:22",
+      "utterance": "そうします。ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:59:43",
+      "utterance": "一生のお仕事になるような資格が見つかるかもしれません"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T21:59:59",
+      "utterance": "いかがでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T22:00:30",
+      "utterance": "勉強してまたいと思います。資格が取れたら、嬉しいです。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T22:00:40",
+      "utterance": "勉強したいと"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T22:00:54",
+      "utterance": "まずは行動に移すことが大切かと思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T22:01:29",
+      "utterance": "ですね。ハローワークの事、調べてみます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T22:02:41",
+      "utterance": "あなたは大変な立ち仕事にもめげずに１０年も長くお仕事を続けてこられた、我慢強く少々のことではめげない方だと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T22:03:33",
+      "utterance": "前向きで頑張り屋のあなたなら、きっと興味のあるあなたにあった資格が見つかると思いますよ"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T22:03:58",
+      "utterance": "ありがとうございます。元気、出ました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T22:04:09",
+      "utterance": "良かったです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T22:04:32",
+      "utterance": "あなたのこれからの頑張りを応援していますね"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T22:04:57",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T22:05:17",
+      "utterance": "あなたらしい生き方が見つかりますように祈っています！"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T22:05:36",
+      "utterance": "今日のご相談は大丈夫そうでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T22:05:54",
+      "utterance": "はい。これで失礼します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T22:06:11",
+      "utterance": "今日は相談にきて来て頂いてありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T22:06:25",
+      "utterance": "ではこれで終了にさせていただきますね"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-15T22:06:30",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-15T22:07:17",
+      "utterance": "（終了ボタン押させていただきますね今日はありがとうございました。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "転職先の選択と不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 721,
+    "評価作成日時": "2020-11-17T00:14:00",
+    "クライアント役ID": 85,
+    "カウンセラー役ID": 93,
+    "点数": 48,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 1,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 2,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 721,
+    "evaluation_created_at": "2020-11-17T00:14:00",
+    "client_id": 85,
+    "counselor_id": 93,
+    "score": 48,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 1,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

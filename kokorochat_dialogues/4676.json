@@ -1,0 +1,624 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-02-25T10:23:41",
+      "utterance": "(時間になったら始めますね。よろしくお願いします）"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T10:26:04",
+      "utterance": "（本日はよろしくお願いします。承知しました。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T10:30:08",
+      "utterance": "こんにちは。相談員です。よろしかったら初めに、性別と年齢を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T10:31:06",
+      "utterance": "こんにちは。よろしくお願いします。28歳女性です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T10:31:32",
+      "utterance": "こちらこそよろしくお願いします。本日はどんなご相談ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T10:32:04",
+      "utterance": "ペットが亡くなり、寂しい気持ちです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T10:33:00",
+      "utterance": "そうなんですね。それはお寂しいですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T10:33:20",
+      "utterance": "お話に来てくれてありがとうございます"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T10:33:41",
+      "utterance": "いいえ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T10:34:30",
+      "utterance": "亡くなったのはいつごろでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T10:35:15",
+      "utterance": "1ヶ月ほど前です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T10:35:32",
+      "utterance": "そうでしたか..おつらかったですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T10:36:46",
+      "utterance": "ペットは何を飼育していたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T10:37:04",
+      "utterance": "雑種の犬です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T10:37:15",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T10:37:27",
+      "utterance": "何歳だったんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T10:38:28",
+      "utterance": "7歳です。少し早い命でした、、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T10:38:38",
+      "utterance": "そうでしたか.."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T10:39:04",
+      "utterance": "ご病気か何か、でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T10:40:21",
+      "utterance": "いきなり弱っていきましたが、全ての身体の機能が弱まっていたようです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T10:41:36",
+      "utterance": "そうなんですね...7歳でいきなり、ということでしたら尚更、あきらめもつかないですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T10:42:12",
+      "utterance": "お名前は何というんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T10:43:12",
+      "utterance": "名前はミルクです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T10:43:37",
+      "utterance": "そうなんですね。かわいいですね！"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T10:44:02",
+      "utterance": "ミルクちゃん、とお呼びしてもいいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T10:44:59",
+      "utterance": "はい、ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T10:45:12",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T10:45:56",
+      "utterance": "ミルクちゃんは、どんなきっかけで一緒に暮らすことになったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T10:47:44",
+      "utterance": "私が母親に犬を飼いたいと言って一緒にペットショップに観にいきました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T10:48:00",
+      "utterance": "そうだったんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T10:48:16",
+      "utterance": "その時は赤ちゃんだったんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T10:48:38",
+      "utterance": "はい。生まれて数ヶ月でした。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T10:48:45",
+      "utterance": "とても弱々しく可愛かったです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T10:49:44",
+      "utterance": "そうでしたか。可愛さが想像できます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T10:50:12",
+      "utterance": "キュンっとなってしまいますよね"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T10:50:32",
+      "utterance": "はい。うちに合うと思ったので、連れて帰りました！"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T10:50:44",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T10:51:19",
+      "utterance": "うちに合うというのはどんなところでそう感じたんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T10:52:52",
+      "utterance": "少し臆病そうで、人見知りなところです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T10:53:07",
+      "utterance": "なるほど！"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T10:53:32",
+      "utterance": "それは愛しくて守ってあげたくなりますよね"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T10:54:23",
+      "utterance": "そうなんです。最初は細くて弱々しかったので、守ってあげたくなりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T10:54:38",
+      "utterance": "そうでしたか.."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T10:55:04",
+      "utterance": "その後のミルクちゃんの成長はいかがでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T10:56:43",
+      "utterance": "身体は来た時と比べると細かったですが、健康体にはなりました。雷と地震にはすごく怖がっていまきたが、家の中はよく走り回って元気でした。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T10:58:06",
+      "utterance": "そうなんですね！弱弱しかった子が健康に元気になってくれて...うれしい限りですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T10:59:02",
+      "utterance": "雷と地震...かわいいですね"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T10:59:21",
+      "utterance": "はい。外に行くと大きい犬に対して少し臆病になっていましたが、そんな中でも負けじと吠えてカッコよかったです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T10:59:43",
+      "utterance": "そうなんですね！たのもしいですね"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T11:00:33",
+      "utterance": "小さい身体ながら頑張っていました！"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:01:15",
+      "utterance": "そうなんですね。きっとあなたの愛情をたっぷり受けているからこそ、すくすくとたくましく育っていったんですね"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T11:02:21",
+      "utterance": "愛情はかなり注いだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:02:56",
+      "utterance": "そうなんですね。すばらしいですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:03:16",
+      "utterance": "ミルクちゃん、幸せ者ですよね"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T11:04:05",
+      "utterance": "少しでも一緒にいた時間が幸せだと思ってくれてたらいいですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:04:26",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:05:07",
+      "utterance": "お話を伺っていると、とっても幸せだったように感じます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:05:44",
+      "utterance": "大きい犬に吠えるのも、あなたを守る、みたいな感じに聞こえたりしますが..."
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T11:05:51",
+      "utterance": "はい。幸せでした。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T11:06:04",
+      "utterance": "そうですね。守ってくれていたような気もします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:06:10",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T11:06:33",
+      "utterance": "私が帰ってきてから、喜んでお迎えに来てくれるのもすごい嬉しかったです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:06:51",
+      "utterance": "そうでしたか..。うれしいですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:07:12",
+      "utterance": "他のご家族とはいかがでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T11:08:38",
+      "utterance": "父親のことをよくペロペロ舐めてました。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T11:08:54",
+      "utterance": "母親とはよく散歩に行っていました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:08:54",
+      "utterance": "そうなんですね！"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:09:17",
+      "utterance": "みんなに愛されていたんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:10:27",
+      "utterance": "なかなかないこと...ですよね"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T11:10:39",
+      "utterance": "みんなが愛していました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:11:09",
+      "utterance": "そうなんですね。それだけ愛しい存在だったんですね"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T11:11:25",
+      "utterance": "そうですね。すごく可愛かったです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:11:59",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:13:16",
+      "utterance": "１か月前にミルクちゃんが亡くなって、寂しい　中お話に来てくれたということでしたけれど"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:14:12",
+      "utterance": "今、毎日どんなふうにお過ごしですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T11:14:49",
+      "utterance": "写真を見るたび悲しくなります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:15:00",
+      "utterance": "そうでしたか.."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:15:38",
+      "utterance": "それはそうなるのももっともですよね..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:15:56",
+      "utterance": "まだ１か月...ですもんね"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T11:16:09",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:16:33",
+      "utterance": "そうでしたか..お仕事などはどうしていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T11:16:50",
+      "utterance": "通常通り仕事はできています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:17:01",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:17:14",
+      "utterance": "お食事や睡眠はいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T11:17:55",
+      "utterance": "それも通常通りです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:18:13",
+      "utterance": "そうなんですね。少し安心しました"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T11:18:23",
+      "utterance": "写真を見ると悲しくなったり、散歩中の犬を見ると思い出します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:18:39",
+      "utterance": "そうですよね..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:19:22",
+      "utterance": "７年間一緒に過ごした大切な大切な存在で.."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:20:23",
+      "utterance": "きっと、体の一部がなくなったような苦しさや寂しさがあるのではないかと思いますが..."
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:20:35",
+      "utterance": "いかがでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T11:21:12",
+      "utterance": "そうですね。家に帰るたび、迎えに来てくれていたのにそれが今はないので、、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:21:41",
+      "utterance": "そうですね...それはつらいですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:22:09",
+      "utterance": "お話うかがっていて感じたことをお話してもいいでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T11:22:45",
+      "utterance": "はい。お願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:22:55",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:25:15",
+      "utterance": "大切なミルクちゃんがいなくなって、残された家族の喪失感は果てしないだろうなと思う一方、ミルクちゃんはこんなに想ってもらって、本当にしあわせな一生だったんだろうなと思いました。きっと今頃、笑ってありがとう、といっているような、そしてあなたを心配しているような気がいたします"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:25:46",
+      "utterance": "いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T11:26:20",
+      "utterance": "そうですね。幸せな一生だったと思ってくれてると私も嬉しいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:26:54",
+      "utterance": "そうなんですね。そう思われるんですね"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T11:27:19",
+      "utterance": "いつまでもクヨクヨしてるのもミルクが悲しむと思うので、明るく過ごしていきたいと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:27:43",
+      "utterance": "そう思われるんですね。すてきですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:28:33",
+      "utterance": "それもこれも、ミルクちゃんとあなたが、以心伝心で愛し合っているから...のように聞こえます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:29:26",
+      "utterance": "少しずつ、楽しい思い出を思い出せる時間が増えてくるような気がしていますが"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:29:48",
+      "utterance": "もし寂しくなったら、またお話に来てくれたらうれしいです"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T11:29:56",
+      "utterance": "はい。これからもミルクのことを忘れずに過ごしていきます！"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T11:30:00",
+      "utterance": "ありがとうございました！"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:30:48",
+      "utterance": "こちらこそありがとうございました。ミルクちゃんのご冥福とあなたの幸せを心よりお祈りしていますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:31:40",
+      "utterance": "（ありがとうございましたロープレ終了してもいいでしょうか？）"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-25T11:32:00",
+      "utterance": "（はい。お疲れ様でした。ありがとうございました。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-25T11:32:25",
+      "utterance": "（勉強になりました。　また機会がありましたらよろしくおねがいします。ありがとうございました）"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "ペットの死による喪失感と寂しさ"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4676,
+    "評価作成日時": "2023-02-25T12:10:00",
+    "クライアント役ID": 335,
+    "カウンセラー役ID": 232,
+    "点数": 74,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 3,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4676,
+    "evaluation_created_at": "2023-02-25T12:10:00",
+    "client_id": 335,
+    "counselor_id": 232,
+    "score": 74,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

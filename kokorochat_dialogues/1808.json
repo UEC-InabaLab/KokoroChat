@@ -1,0 +1,599 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-05-07T19:21:54",
+      "utterance": "本日はロールプレイよろしくお願いします。準備が出来ましたら、始めさせていただきますので、お教えください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T19:23:11",
+      "utterance": "よろしくお願いいたします。定刻でお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T19:23:44",
+      "utterance": "返信いただきありがとうございます。承知いたしました。よろしくお願いします！"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T19:30:38",
+      "utterance": "定刻になりましたので、始めさせていただいてもよろしいでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T19:30:49",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T19:31:05",
+      "utterance": "ありがとうございます。よろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T19:31:37",
+      "utterance": "月お願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T19:31:57",
+      "utterance": "月→消して下さい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T19:32:24",
+      "utterance": "承知しました。こんばんは。相談員です。はじめに年齢、性別、今日お話ししたいことを教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T19:33:27",
+      "utterance": "中２  女子先生、ちょっとキモい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T19:34:17",
+      "utterance": "ありがとうございます。先生がちょっとキモいんですね。お名前はなんとお呼びすればよいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T19:34:37",
+      "utterance": "だれの？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T19:35:42",
+      "utterance": "ごめんなさい。わかりにくかったですよね。今日お話しをお聞きするに当たって、あなたのお名前は何とお呼びすればよいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T19:36:19",
+      "utterance": "え、名前を言うんですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T19:37:08",
+      "utterance": "言いたくなければ言わなくても大丈夫ですよ。ニックネームとかでもかまいません。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T19:37:34",
+      "utterance": "ああ、なら、ニャンで。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T19:37:56",
+      "utterance": "ありがとうございます。ニャンさんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T19:38:36",
+      "utterance": "先ほど先生がちょっとキモいと言っていましたが、もう少し詳しくお話していただけますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T19:39:13",
+      "utterance": "どんな風にキモいとか、ここが嫌だとか…"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T19:39:46",
+      "utterance": "新しい担任、なんか、時々、距離、近い感じがする。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T19:40:33",
+      "utterance": "なるほど…新しい担任の先生が、時々距離が近いと感じるときがあるんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T19:40:45",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T19:41:03",
+      "utterance": "それは嫌な気持ちになりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T19:41:14",
+      "utterance": "いや"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T19:41:27",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T19:42:32",
+      "utterance": "ニャンさんは先生が距離が近いことに関して嫌なお気持ちをお持ちなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T19:42:53",
+      "utterance": "そう"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T19:43:25",
+      "utterance": "そうですよね…他に何か感じるお気持ちはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T19:43:51",
+      "utterance": "ウザい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T19:44:43",
+      "utterance": "ウザいとお思いなのですね。ウザいとニャンさんが思うのはどんなときですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T19:45:21",
+      "utterance": "距離、近いとき"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T19:46:32",
+      "utterance": "距離が近いのは気になりますよね…あんまり近づかないでよって思いますよね。お気持ちよくわかります。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T19:46:56",
+      "utterance": "ですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T19:48:34",
+      "utterance": "わかりますよ。あまり仲が良い訳ではない人が近い距離にいたら、いい気分ではないですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T19:49:14",
+      "utterance": "うーん"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T19:50:31",
+      "utterance": "ニャンさんは先生がどうなってくれたらいいなと思いますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T19:50:51",
+      "utterance": "距離が近くなかったら大丈夫そうでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T19:52:40",
+      "utterance": "ま、それでいい、けど、なんとなくいやだ、けど、がまんする。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T19:53:32",
+      "utterance": "そっかあ。なんとなく嫌だなとお思いなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T19:54:03",
+      "utterance": "そう"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T19:54:27",
+      "utterance": "そうなのですね。でも嫌だなと思うことは我慢しなくてよいと思いますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T19:55:02",
+      "utterance": "じゃ、どうするの？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T19:55:23",
+      "utterance": "そうですね。例えば、距離が近くていやだと思ったら、先生に言ってみてもよいと思うんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T19:55:52",
+      "utterance": "先生ちょっと近いです…って"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T19:56:55",
+      "utterance": "え、なんとなく、言えない。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T19:57:27",
+      "utterance": "そっかそっか。なんとなく言えなさそうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T19:57:48",
+      "utterance": "気まずい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T19:58:25",
+      "utterance": "確かにニャンさんお一人で言うのは気まずいかもしれませんね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T19:59:11",
+      "utterance": "ではこのことを誰か他の人に相談したりしていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T20:00:00",
+      "utterance": "してない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T20:01:05",
+      "utterance": "そうなのですね。お話してくれてありがとうございます。お友達はその先生が距離が近いとか言っていないですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T20:01:38",
+      "utterance": "言ってない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T20:02:28",
+      "utterance": "そうなんですね。それは今までお辛かったですね。ではニャンさんだけに先生は距離が近い感じなのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T20:02:53",
+      "utterance": "そう"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T20:03:53",
+      "utterance": "そうなのですね。それは他の人にはお話しにくいですよね。お話できなくて、苦しかったですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T20:04:39",
+      "utterance": "距離が近いこと以外は嫌なことを何か言われたりされたりしていないでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T20:05:33",
+      "utterance": "言わない、けど、近い"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T20:06:59",
+      "utterance": "そうなのですね。でも近いことも嫌ですよね…"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T20:07:32",
+      "utterance": "それがいや"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T20:08:02",
+      "utterance": "そうですよね。嫌ですよね。みんなと同じような距離で接してほしいですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T20:12:09",
+      "utterance": "他にこうなったらいいなってニャンさんが思うことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T20:13:07",
+      "utterance": "なにが？先生のこと？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T20:14:22",
+      "utterance": "はい。先生のことについてです。でも他のことでも大丈夫ですよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T20:15:50",
+      "utterance": "近くないこと"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T20:17:11",
+      "utterance": "やっぱり近くないのがいいですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T20:17:40",
+      "utterance": "不快な思いをされていますものね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T20:19:06",
+      "utterance": "ニャンさんは他の先生で仲の良い先生はいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T20:20:30",
+      "utterance": "うーん、特にいない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T20:21:58",
+      "utterance": "そうなのですね。学校にスクールカウンセラーさんとかはいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T20:22:44",
+      "utterance": "知らないけど"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T20:24:37",
+      "utterance": "そうなんですね。一度調べてみるのもよいかもしれませんね。そこでカウンセラーさんがいればそこでお話をして、カウンセラーさんを通して先生に距離についてお話していただくという方法もあります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T20:25:21",
+      "utterance": "もしいなければ、保健室の先生に言ってみるのもありだと思いますが、いかがでしょうか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T20:26:47",
+      "utterance": "難しそうかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T20:26:51",
+      "utterance": "保健室の先生、おばさんで、なんとなく、言いにくい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T20:27:42",
+      "utterance": "そっかあ。おばさんは言いにくいですね。年が近くて言いやすそうな先生はいそうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T20:28:51",
+      "utterance": "先生、みんな、言いにくい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T20:29:59",
+      "utterance": "そっかあ。みんな先生は言いにくいか…それではご家族はどうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T20:30:34",
+      "utterance": "なんとなく、ハブられてるし。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T20:31:05",
+      "utterance": "そうなのですね。ご家族にハブられているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T20:31:17",
+      "utterance": "そう"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T20:31:41",
+      "utterance": "そうだったのですね。それは悲しいですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T20:32:27",
+      "utterance": "それではご家族には言えなさそうですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T20:33:10",
+      "utterance": "言っても、聞いてない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T20:34:01",
+      "utterance": "そうなのですね。聞いてくれていなかったら、もういいやって言わなくなってしますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T20:34:56",
+      "utterance": "聞いてもらえないのは寂しいですし…そのことを聞いてくれそうなお友達はいますでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T20:35:31",
+      "utterance": "いないよ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T20:36:42",
+      "utterance": "そうだったのですね。ではここでいっぱい言いたいこと、お話したいこと話しましようね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T20:37:23",
+      "utterance": "お話が途中ですが、そろそろ終了のお時間となってしまいました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T20:39:57",
+      "utterance": "先生との距離が近いとのことでしたが、ご自身で先生に言えたらそれはすごいことですし、それが無理そうだったら身近で言いやすそうな大人を探してみるのが良いと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T20:40:54",
+      "utterance": "それも無理そうなら、またここにお話に来てください。一緒にどうしていけば良いか考えていきましょう。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T20:41:17",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T20:41:54",
+      "utterance": "また何か変化がありましたらそれも教えてくださいね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T20:42:33",
+      "utterance": "ニャンさんお悩みが少しでも良い方向にいくことを応援しています。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T20:42:57",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T20:43:51",
+      "utterance": "それでは本日はこちらで終了とさせていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T20:44:09",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T20:44:15",
+      "utterance": "本日はお話してくださってありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T20:44:29",
+      "utterance": "またいつでもお話に来てください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T20:44:57",
+      "utterance": "わかりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T20:46:22",
+      "utterance": "ありがとうございました。それでは失礼いたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T20:46:48",
+      "utterance": "さようなら"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T20:47:21",
+      "utterance": "本日はロールプレイしていただきありがとうございました。時間がのびてしまい申し訳ございませんでした。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T20:47:41",
+      "utterance": "(やりにくかったことと思います。ありがとうございました。)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T20:48:18",
+      "utterance": "とんでもないです！とても勉強になりました。評価のほどよろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-07T20:48:34",
+      "utterance": "はい。失礼致します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-07T20:48:42",
+      "utterance": "こちらでロールプレイを終了させていただきます。本日はありがとうございました。"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "新しい担任の先生との距離感に対する不快感"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1808,
+    "評価作成日時": "2021-05-08T01:00:00",
+    "クライアント役ID": 180,
+    "カウンセラー役ID": 94,
+    "点数": 54,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 2,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 2,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1808,
+    "evaluation_created_at": "2021-05-08T01:00:00",
+    "client_id": 180,
+    "counselor_id": 94,
+    "score": 54,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

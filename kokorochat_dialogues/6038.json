@@ -1,0 +1,514 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-11-29T16:20:35",
+      "utterance": "(本日はよろしくお願いいたします)"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T16:22:18",
+      "utterance": "(よろしくお願いします)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T16:22:24",
+      "utterance": "(16:30になりましたら、こちらから始めさせていただきます)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T16:30:33",
+      "utterance": "こんにちは　相談員です。　最初に、年齢・性別・今日の相談内容を教えてください。"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T16:31:07",
+      "utterance": "16 男　何にもやる気が起きません、どうしたらいいですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T16:31:48",
+      "utterance": "そうなんですね。やる気が起きないのですね。なにかきっかけがありましたか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T16:32:03",
+      "utterance": "わかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T16:32:55",
+      "utterance": "うんうん　わからないのはもやもやしますねいつ頃からやる気がでないのですか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T16:33:05",
+      "utterance": "覚えてません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T16:33:51",
+      "utterance": "そうなんですね　今は高校生なのですか"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T16:33:59",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T16:34:33",
+      "utterance": "うんうん　学校ではどんな風にすごしていますか"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T16:34:46",
+      "utterance": "普通です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T16:35:15",
+      "utterance": "はい　友達と話したり、お昼を食べたりするのですか"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T16:35:38",
+      "utterance": "一応"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T16:35:59",
+      "utterance": "そうなんですね。勉強はどうですか。なにか困っていますか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T16:36:16",
+      "utterance": "特には"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T16:36:56",
+      "utterance": "うんうん　勉強での気がかりはないのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T16:40:09",
+      "utterance": "今、何か話しづらいですか話せるところからで大丈夫ですよ"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T16:40:28",
+      "utterance": "特には"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T16:40:50",
+      "utterance": "はい　友達とどんな話をするのですか押しとかゲームの話とか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T16:41:03",
+      "utterance": "色々"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T16:41:33",
+      "utterance": "うんうん　色々ですね話しているときはどんな気分ですか"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T16:41:43",
+      "utterance": "普通"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T16:42:35",
+      "utterance": "そうなんですね　普通の気分というのは、楽しくもないし、嫌でもないということでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T16:42:49",
+      "utterance": "普通は普通です"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T16:43:14",
+      "utterance": "うんうん　学校の友達の事はどう感じていますか"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T16:43:24",
+      "utterance": "わかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T16:44:09",
+      "utterance": "なるほど　学校以外とか家ではどう過ごしていますか"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T16:44:27",
+      "utterance": "普通に過ごしてます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T16:45:36",
+      "utterance": "そうなんですね。家族とはどんな雰囲気ですか。さしつかえなければ、家族構成も教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T16:45:51",
+      "utterance": "普通です"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T16:46:41",
+      "utterance": "うんうん　普通なんですねおはようとか挨拶はする感じですか話はしますか"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T16:47:23",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T16:48:24",
+      "utterance": "家に居づらいとか、家族との中で困っている事があるとかはないですか"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T16:48:40",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T16:49:20",
+      "utterance": "うんうん　ちなみに最近で一番たくさん話したのはどんな事ですか"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T16:49:30",
+      "utterance": "わかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T16:50:50",
+      "utterance": "そうなんですね　今も少しだるいなとか感じながら話してくれてるのですか"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T16:51:07",
+      "utterance": "わかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T16:52:32",
+      "utterance": "なるほど　でもあなたがやる気がでないのに、こうして話に来てくれて、とてもうれしいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T16:53:04",
+      "utterance": "今やる気が出ない中でも、少しでも楽しく感じるのはどんな時ですか"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T16:53:13",
+      "utterance": "ありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T16:53:56",
+      "utterance": "そうなんですね　ちなみに体調はどうですか"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T16:54:11",
+      "utterance": "普通"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T16:54:49",
+      "utterance": "うんうん　やる気が出ないことを誰かに相談しましたか　友達とか"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T16:54:59",
+      "utterance": "いいえ"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T16:55:41",
+      "utterance": "そうなんですね　話してみようとは思わないのはなぜですか"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T16:56:00",
+      "utterance": "なんとなく"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T16:56:56",
+      "utterance": "はい　なんとなくとはどんな気持ちからですか　言ってもわかってくれないとか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T16:58:41",
+      "utterance": "なんでも良くないですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T16:59:56",
+      "utterance": "はい　なんでも良くないとは、どんな意味なのでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T17:00:56",
+      "utterance": "例えば、関係ないし、みたいな感じですか"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T17:01:12",
+      "utterance": "そんなに知りたい理由はなんですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T17:02:54",
+      "utterance": "はい　ご自身がやる気がでなくて、どうしたらいいか頑張って考えているから、一緒に考えたくて教えてほしいのです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T17:03:27",
+      "utterance": "ちなみにやる気が出たらなにをやりたいですか"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T17:03:35",
+      "utterance": "知りません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T17:04:50",
+      "utterance": "うんうん　よくわからないのはとても苦しいですね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T17:05:16",
+      "utterance": "知らないことがなんで苦しいの"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T17:05:29",
+      "utterance": "理解ができません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T17:07:31",
+      "utterance": "はい　本当はなにか答えがほしいと思われているかもしれませんが、自分でよくわからない、と感じる事は苦しいのではないかと思ったのですか、そうではないのですか"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T17:08:57",
+      "utterance": "だからなんで、わからないことが苦しいのですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T17:12:03",
+      "utterance": "はい　人間はもやもやとしている状況にいることがつらく感じるものだし、そこから抜け出すために考えるものですが、なにもわからないのは抜け出す手掛かりがつかめないという事だから、わからない事は苦しいと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T17:12:58",
+      "utterance": "やる気が出るように、なにか手掛かりがほしいと感じませんか"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T17:13:01",
+      "utterance": "意味がよくわかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T17:14:24",
+      "utterance": "うんうん　そうなんですね　文章の意味が分からないという事ですか。それとも見当違いだということですか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T17:14:39",
+      "utterance": "どっちも"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T17:15:08",
+      "utterance": "そうでしたか、ごめんなさい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T17:17:19",
+      "utterance": "ちなみにやる気が出ない以外にもなにか気になっている事がありますか"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T17:17:30",
+      "utterance": "いいえ"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T17:18:08",
+      "utterance": "うんうん　やる気が出ない時どんな気分ですか　心細いとか　悲しいとか"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T17:18:20",
+      "utterance": "わかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T17:19:03",
+      "utterance": "そうなんですね　ちなみに家族はあなたの態度になにか感じていそうですか"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T17:19:12",
+      "utterance": "知りません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T17:19:55",
+      "utterance": "うんうん　何か言われないですか　どうしたのとか気にかけてくれますか"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T17:20:23",
+      "utterance": "いいえ"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T17:21:15",
+      "utterance": "家族から何も言われないことはどう感じますか　本当はどうしてほしいとかありますか"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T17:21:50",
+      "utterance": "特に何も"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T17:23:06",
+      "utterance": "なるほど　そうなんですね　ちなみにやる気の出ない今の自分をどう感じていますか"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T17:23:17",
+      "utterance": "わかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T17:25:35",
+      "utterance": "そうなんですね・・・あなたの気持ちをちゃんと聴いてあげられなくて、ごめんなさい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T17:27:11",
+      "utterance": "今まで一人で悩んでおられて本当は辛かったと思います。でも今日相談にも来てくださって、あなたは自分の人生を良くすることをちゃんと考えておられると思います。ご自分ではわからないかもしれないけど、ちゃんと努力していると感じます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T17:27:50",
+      "utterance": "お話が途中で申し訳ないのですが、今日はそろそろ時間になります。また改めて相談にきていただけますか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T17:28:16",
+      "utterance": "さようなら"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T17:28:27",
+      "utterance": "今日はこのあたりにしたいと思いますが、いかがでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-29T17:29:16",
+      "utterance": "(お疲れ様でした。この後終了の方向で完了をお願いします。)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T17:29:27",
+      "utterance": "ではこれで終了させていただきます。また来てくださいね。今日はありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T17:29:37",
+      "utterance": "(ありがとうございました)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-29T17:30:32",
+      "utterance": "（終了します）"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "やる気の欠如とその原因の不明点"
+  },
+  "review_by_client_jp": {
+    "評価ID": 6038,
+    "評価作成日時": "2023-11-29T17:40:00",
+    "クライアント役ID": 125,
+    "カウンセラー役ID": 446,
+    "点数": 21,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 1,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 1,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 1,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 1,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": "チェックあり"
+  },
+  "review_by_client_en": {
+    "evaluation_id": 6038,
+    "evaluation_created_at": "2023-11-29T17:40:00",
+    "client_id": 125,
+    "counselor_id": 446,
+    "score": 21,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 1,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 1,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 1,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": "チェックあり"
+  }
+}

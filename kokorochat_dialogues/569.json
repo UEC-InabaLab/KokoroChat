@@ -1,0 +1,539 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-10-14T20:25:09",
+      "utterance": "カウンセラー役のねこと申します。宜しくお願します。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T20:25:58",
+      "utterance": "よろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T20:30:15",
+      "utterance": "こんばんは。本日はご相談ありがとうございます。どのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T20:31:43",
+      "utterance": "職場の人間関係で悩んでいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T20:34:07",
+      "utterance": "そうなんですね。最初にアエノエールさんの性別とお仕事の内容をお聞かせいただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T20:35:08",
+      "utterance": "女、介護の仕事です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T20:37:10",
+      "utterance": "お答えいただきありがとうございます。人間関係の悩みは辛いですよね、いつごろからどのような内容か教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T20:38:52",
+      "utterance": "もう５年以上、仲の良かった先輩から避けられていると感じていて"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T20:39:50",
+      "utterance": "何かの気のせいと、思うようにしているけど、明らかにおかしいんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T20:41:07",
+      "utterance": "仲の良い方がいらっしゃったのですね。でも何となく避けられていると感じるのですね。それはどのようなときに感じますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T20:42:43",
+      "utterance": "毎日、同じ空間に居るのに、まるで居ないかのような態度や、視線をそらしたり、他の人との会話に比べてそっけない。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T20:44:19",
+      "utterance": "仕事が正直やりずらいと感じています"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T20:44:48",
+      "utterance": "そうなんですね。それは悲しいですね。一緒にお仕事をしているのに視線をよそよそしくされると辛うですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T20:44:57",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T20:45:45",
+      "utterance": "無関心って態度をわざとされているのかな？と思うくらい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T20:46:40",
+      "utterance": "そうなんですね。お仕事にも身が入りませんし毎日が悲しいですね。何か原因とか思い当たることがありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T20:48:12",
+      "utterance": "原因は分からないのですが、様子がおかしいと感じたのは、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T20:48:22",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T20:48:47",
+      "utterance": "共通のスポーツを楽しくやっていたのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T20:48:57",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T20:50:02",
+      "utterance": "最初お互い違うチームだったのが合体して同じチームで遊ぶようになったのに、"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T20:51:14",
+      "utterance": "私のチームが一体感がありすぎて気に入らないと言われた事が・・何故か急にやめると言って、何を聴いても"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T20:51:22",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T20:51:42",
+      "utterance": "答えてくれなくなりました"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T20:52:11",
+      "utterance": "それから少しづつギクシャクがあって"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T20:52:38",
+      "utterance": "でも大人同士だし、そんなことで？って・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T20:52:48",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T20:53:15",
+      "utterance": "正直分からないのです。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T20:54:14",
+      "utterance": "あと、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T20:54:31",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T20:55:14",
+      "utterance": "以前もあったのですが最近先輩がまた利用者とトラブルがあって"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T20:55:42",
+      "utterance": "ええ、"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T20:55:47",
+      "utterance": "その人と間をとりもったり"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T20:56:19",
+      "utterance": "私はトラブルが一切なく、それなりに"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T20:56:36",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T20:56:44",
+      "utterance": "やってるのって、気に入らないとかあるものなんでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T20:58:18",
+      "utterance": "そうなんですね、とても複雑でお辛いことが続けておありですね。少しまとめさせていただくと"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T20:58:24",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T21:01:58",
+      "utterance": "共通のスポーツで仲良くしていた友達がある日、ゲームの中で気持ちがすれ違ってしまわれた。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T21:03:45",
+      "utterance": "またそのあとも利用者さんとのトラブルで余計に気持ちが離れてしまわれたということでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T21:04:49",
+      "utterance": "仲良くされていたことを思うと悲しくなりますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T21:07:07",
+      "utterance": "アイノエールさんとお友達は仲良くされていたころはどのように過ごされていたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T21:07:10",
+      "utterance": "はい、先輩ですが、チーム同士ですれ違いですね。利用者との事も、はい、そうです"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T21:08:10",
+      "utterance": "職場以外で食事に行ったり、ドライブしたり、とにかく仲良しでした"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T21:08:57",
+      "utterance": "同じ志をもっていたと感じる程に"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T21:09:11",
+      "utterance": "今も私は尊敬しているのですが"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T21:11:05",
+      "utterance": "後輩の私が先輩と同じ正職員になって休みが合わず遊べなくなりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T21:11:18",
+      "utterance": "そうなんですね、志や尊敬ですか。とても良いご関係ですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T21:12:09",
+      "utterance": "でもお休みが合わなくなられたり、なんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T21:12:20",
+      "utterance": "そうなんです。今では避けられてるのが辛いけど、気づかぬふりをしています"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T21:13:46",
+      "utterance": "気づかないふりですか。なかなかお辛いし、よく我慢されていますね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T21:14:01",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T21:14:30",
+      "utterance": "何かが気に入らないのだろうと感じています"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T21:15:45",
+      "utterance": "以前のように気持ちが通う友達に戻りたいとおもわれていますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T21:16:00",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T21:17:23",
+      "utterance": "アイノエールさんは長い間我慢し、努力されています。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T21:17:35",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T21:19:07",
+      "utterance": "少し勇気を出して理由や気持ちを訊いてみるというのはいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T21:20:32",
+      "utterance": "あの時、スポーツの時、勇気出して聞いて、無視して怒った姿は、もうこれ以上関わらないで"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T21:20:58",
+      "utterance": "って感じで悲しかったので"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T21:20:58",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T21:21:27",
+      "utterance": "もうまたこじれるのは怖いですね・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T21:22:06",
+      "utterance": "そうなんですね。その時もとても勇気を出して聞かれたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T21:22:31",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T21:22:49",
+      "utterance": "ライバル視されてるんでしょうか・・"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T21:23:14",
+      "utterance": "私はずっと先輩と思ってるけど、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T21:23:44",
+      "utterance": "ライバル視、あなたはそう思うのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T21:24:01",
+      "utterance": "もしかしたら、そうなのかな？って"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T21:24:29",
+      "utterance": "仕事では同等って思ってますから"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T21:25:14",
+      "utterance": "あなたは先輩を尊敬されている。そのことや"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T21:25:41",
+      "utterance": "先輩と思ってるのは、仕事で尊敬もしてるし、でも自分の意見も時には言うので"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T21:26:05",
+      "utterance": "言いあう関係でありたいなって"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T21:26:35",
+      "utterance": "ええ、そう思われるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T21:26:46",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T21:27:24",
+      "utterance": "そのお気持ちを勇気を出して伝えるのも一つの方法かと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T21:28:03",
+      "utterance": "ありがとうございます。でも、別にって冷たく返されるのが怖いですね・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T21:28:25",
+      "utterance": "ほんとに怖いですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T21:28:29",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T21:29:03",
+      "utterance": "急に無視される感じがあるので"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T21:29:18",
+      "utterance": "でも長い間我慢されています。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T21:29:24",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T21:30:05",
+      "utterance": "そのお気持ちなどを正直に伝えることで気持ちが通い合うこともあるかもしれません"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T21:30:27",
+      "utterance": "正面からぶつかるってことですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T21:31:08",
+      "utterance": "そうですね。それも方法かと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T21:34:23",
+      "utterance": "ちょっと"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T21:34:36",
+      "utterance": "勇気がいりますが"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T21:34:51",
+      "utterance": "ほんとですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T21:35:12",
+      "utterance": "少しづつジャグをしてみようかな"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T21:35:43",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T21:35:50",
+      "utterance": "とても勇気が要ることかもしれませんね、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T21:36:24",
+      "utterance": "こちらこそ本日はありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T21:36:49",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T21:36:59",
+      "utterance": "終了させていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T21:37:11",
+      "utterance": "はい。お願いします。"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "職場での人間関係のギクシャク"
+  },
+  "review_by_client_jp": {
+    "評価ID": 569,
+    "評価作成日時": "2020-10-14T22:29:00",
+    "クライアント役ID": 25,
+    "カウンセラー役ID": 102,
+    "点数": 65,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 569,
+    "evaluation_created_at": "2020-10-14T22:29:00",
+    "client_id": 25,
+    "counselor_id": 102,
+    "score": 65,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

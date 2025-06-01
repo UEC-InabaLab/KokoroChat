@@ -1,0 +1,919 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2020-11-13T12:33:57",
+      "utterance": "はい、ありがとうございました。（こちらこそ、ありがとうございました）"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T12:55:59",
+      "utterance": "こんにちは。本日はよろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T12:56:34",
+      "utterance": "13：00から開始でよろしいでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T12:56:44",
+      "utterance": "こんにちは、どうぞよろしくお願い致します。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T12:57:42",
+      "utterance": "はい、準備できましたので、いつからでも結構です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T12:58:39",
+      "utterance": "では少し早いですが始めます。よろしくお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T12:58:49",
+      "utterance": "よろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T12:59:11",
+      "utterance": "こんにちは。相談員です。本日はどのようなご相談でしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:00:04",
+      "utterance": "夫に対して、笑顔を出せなくて、悩んでいたので、相談したいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:00:19",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:00:33",
+      "utterance": "笑顔を出せないというのは、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:00:52",
+      "utterance": "何か理由があるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:01:10",
+      "utterance": "それがわからなくて、悩んでいました。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:01:18",
+      "utterance": "簡単なことのはずなのに、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:01:31",
+      "utterance": "そうなのですね。それはおつらいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:01:42",
+      "utterance": "何故か夫に話しかけるときは無表情というか、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:01:48",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:02:17",
+      "utterance": "はい、できれば仲良く過ごしていきたいのに。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:02:49",
+      "utterance": "とても笑顔にはなれなくて、悩んでいました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:03:00",
+      "utterance": "今は仲良くないと感じているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:03:56",
+      "utterance": "そんなこともないです。会話もしています。冗談も言ったりもするし。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:04:08",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:04:23",
+      "utterance": "しかし笑顔がでないと、、、"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:04:25",
+      "utterance": "でも、笑顔で話せたらいいのになって。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:04:33",
+      "utterance": "そうなんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:05:14",
+      "utterance": "ご主人にそのことは指摘されたりなどありましたか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:05:25",
+      "utterance": "笑顔がないというような。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:06:05",
+      "utterance": "人間じゃないねとか、ロボットみたいとか、生きてるの？とか、冗談ぽく言われます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:06:33",
+      "utterance": "なるほどです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:06:40",
+      "utterance": "そういわれて、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:06:54",
+      "utterance": "ご相談者様はどう感じましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:07:24",
+      "utterance": "ああ、そうだなって。納得しています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:07:54",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:08:15",
+      "utterance": "笑顔がないとのことでしたが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:08:31",
+      "utterance": "それはご主人にだけでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:09:02",
+      "utterance": "ほかの人と接するときは笑顔があると感じますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:09:02",
+      "utterance": "そうなんです。夫にだけで。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:09:13",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:09:22",
+      "utterance": "他の人とは笑顔で話せます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:09:40",
+      "utterance": "例えばどのような方とでしょう？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:09:53",
+      "utterance": "会社の人とか、、、"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:10:20",
+      "utterance": "ええ、会社の人も、友達も、誰でも大丈夫なんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:10:30",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:10:35",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:10:52",
+      "utterance": "でもご主人にだけ笑顔がないと感じると。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:10:57",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:11:13",
+      "utterance": "それは確かに不思議ですし、悩みますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:11:38",
+      "utterance": "はい、なぜできないのか…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:11:49",
+      "utterance": "ちなみにですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:12:10",
+      "utterance": "いつ頃から笑顔がないと感じ始めましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:13:01",
+      "utterance": "いつかな…子どもが生まれてからかもしれないです。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:13:22",
+      "utterance": "それまでは笑顔で暮らしていた記憶が。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:13:34",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:13:49",
+      "utterance": "お子さんは今おいくつですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:14:13",
+      "utterance": "小学6と小4です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:14:41",
+      "utterance": "もうだいぶ大きいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:14:48",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:15:07",
+      "utterance": "元気でかわいいでしょうが、手もかかる年頃ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:15:18",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:15:44",
+      "utterance": "ということは12年前からでしょうか、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:16:04",
+      "utterance": "笑顔がなくなってきたと感じたのは。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:16:05",
+      "utterance": "そうなりますね、長くてびっくりしました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:16:27",
+      "utterance": "数字にするとびっくりですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:16:36",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:17:06",
+      "utterance": "ご主人にロボットみたいと言われるようになったのは、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:17:27",
+      "utterance": "12年前からですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:17:38",
+      "utterance": "それとも最近でしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:18:08",
+      "utterance": "ずーっと言われている自覚があるので、12年前からかもしれないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:18:18",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:18:39",
+      "utterance": "ある意味言われなれてしまっているのかもしれませんね。。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:18:51",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:19:18",
+      "utterance": "少しだけ踏み入った質問をしてもよろしいでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:19:23",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:20:07",
+      "utterance": "子育てはどのような分担でやっていたのでしょうか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:20:42",
+      "utterance": "お互いに協力していたのか、どちらかに任せっきりだったのかなど。。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:22:14",
+      "utterance": "主に私がしています。ですが、子どもともよく遊んでいるし、任せっきりにされた訳ではないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:22:34",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:22:44",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:23:07",
+      "utterance": "子供たちにとっては優しいパパなのでしょうかね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:23:33",
+      "utterance": "そうですね、楽しい父親なんだと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:24:09",
+      "utterance": "ご相談者様はそんなご主人に対して、何か感じることはありますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:24:18",
+      "utterance": "不満だったり、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:24:30",
+      "utterance": "いい人だななど、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:24:47",
+      "utterance": "なんでもいいのですが。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:25:09",
+      "utterance": "いい人だと思います。不満も人並みにありますが。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:25:37",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:25:42",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:25:48",
+      "utterance": "ちなみにですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:26:10",
+      "utterance": "ご主人に笑顔ができないとのことでしたが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:26:31",
+      "utterance": "お子さんたちには笑顔で接していますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:26:52",
+      "utterance": "はい、子どもたちには笑顔で過ごせています"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:27:45",
+      "utterance": "では子供たちからは優しいママとパパに見えていそうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:28:03",
+      "utterance": "少し安心しました。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:28:11",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:28:48",
+      "utterance": "ではなおさらご主人にだけ笑顔ができないことが不思議ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:29:32",
+      "utterance": "そうなんです。なんでこんなことが出来ないのか。やろうとしても、フリーズしてしまうんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:30:24",
+      "utterance": "色々話していただきありがとうございました。その問題(悩み)について一緒に考えていけたらなと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:31:03",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:31:10",
+      "utterance": "お子さんが生まれてからとのことでしたが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:31:55",
+      "utterance": "それ以前は自然と笑顔があった関係だったと伺いましたが、お間違いないですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:32:05",
+      "utterance": "はい、そうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:32:53",
+      "utterance": "ですがご相談者様は今は「笑顔を作らなきゃ」と考えているように私は感じました。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:33:23",
+      "utterance": "はい、その方が、幸せに生きられそうで。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:33:38",
+      "utterance": "笑顔ができないのもちょっと苦しいんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:34:10",
+      "utterance": "できないと苦しいですよね。。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:34:45",
+      "utterance": "でも話すときって、笑顔でなければいけないのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:34:48",
+      "utterance": "ええ、何か不自然というか。無理してるみたいで。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:35:26",
+      "utterance": "いつもは笑わないけれど、楽しいときは笑顔を出したいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:35:58",
+      "utterance": "楽しいときは笑顔が出ますよね＾＾"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:36:25",
+      "utterance": "出ますよね…"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:36:42",
+      "utterance": "でも、出なくて…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:36:53",
+      "utterance": "でも出ないこともあるのではないでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:37:39",
+      "utterance": "12年間出ないこともあるのかな…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:38:24",
+      "utterance": "なんとなく私が思った可能性の話をさせていただくと、"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:38:33",
+      "utterance": "はい、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:39:15",
+      "utterance": "「笑顔を作らなきゃ」と考えて変に力が入っている可能性と、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:40:02",
+      "utterance": "何かご主人に対し、心の底から楽しいなどと感じられない引っかかるものがある。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:40:17",
+      "utterance": "そういった可能性を感じたのですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:40:36",
+      "utterance": "何か心当たりや、感じることがありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:41:27",
+      "utterance": "そうですね…"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:42:30",
+      "utterance": "作らなきゃと思っている訳では"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:42:35",
+      "utterance": "ないような気がします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:42:48",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:43:27",
+      "utterance": "楽しいと感じられない引っかかりはあるのかな。多少の不満はあるけれど、それで何年も笑えないなんてあるんでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:44:28",
+      "utterance": "あり得ますとも言えないですし、あり得ませんとも断言はできませんが、、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:45:07",
+      "utterance": "私は10年間「泣けない」ということはありました。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:45:30",
+      "utterance": "それはどうしてだったんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:45:58",
+      "utterance": "聞いてよかったでしょうか、すみません"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:46:25",
+      "utterance": "簡単に言うと、大切な人が亡くなってしまい、悲しいという感情が死んだような感じでした。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:46:35",
+      "utterance": "いえいえ大丈夫です。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:47:03",
+      "utterance": "そうだったんですね、お辛かったですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:47:15",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:47:21",
+      "utterance": "なので、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:47:59",
+      "utterance": "ご相談者様の「笑えない」はあり得ないことではないと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:48:40",
+      "utterance": "似たような経験をしている方はきっとご相談者様だけではないと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:49:05",
+      "utterance": "なるほど。でも、私にはそんなに辛いことが記憶もなく…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:49:15",
+      "utterance": "なのであまり思いつめずに頂けたらいいなと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:49:23",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:49:41",
+      "utterance": "でも、笑えるなら笑いたい。泣けるようになったのはきっかけはあったんですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:50:14",
+      "utterance": "アニメを見たら泣きました(笑"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:50:44",
+      "utterance": "そうなんですね、そんなきっかけが！"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:50:57",
+      "utterance": "大切な人を失うアニメだったのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:51:35",
+      "utterance": "何かこう、通ずるものがあったのかもしれませんね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:52:12",
+      "utterance": "そうですね、重なって、現れてくることもあるのかもしれないですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:52:31",
+      "utterance": "変なアドバイスですが、そういったアニメや本を読むと何か目覚めるかもしれませんね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:53:05",
+      "utterance": "あとは私からの提案があるのですが、聞いていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:53:11",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:54:29",
+      "utterance": "ご相談者様のお話を聞いている限り「これ！」という問題が私では考えられません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:55:06",
+      "utterance": "心の奥底に何か隠れているメッセージがあるような気がするのです。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:56:15",
+      "utterance": "そうなんですね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:56:37",
+      "utterance": "「箱庭療法」などといった自分の心を映し出すセラピーが存在します、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:57:45",
+      "utterance": "何かそういったセラピーを受けることによって、話すだけでは見えない何かが現れるかもしれません。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T13:58:48",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:59:01",
+      "utterance": "今この場ですぐに悩みを解決できなく申し訳なく思いますが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T13:59:52",
+      "utterance": "そういったセラピーを受けてみてはいかがでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T14:00:34",
+      "utterance": "そうですね、考えてみますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:00:39",
+      "utterance": "動物と触れ合う「アニマルセラピー」などいろんなものが存在します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:01:12",
+      "utterance": "悩み解決に至らずとも、気持ちは楽になったりしますよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:01:43",
+      "utterance": "もちろん悩みがスッと解決することもあります。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T14:02:00",
+      "utterance": "そうですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:02:33",
+      "utterance": "そろそろお時間になりますがいかがでしょう。悩みの解決に至らずもうしわけないですが・・・"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T14:02:56",
+      "utterance": "いいえ、お話聞いていただいてありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:03:12",
+      "utterance": "少しでも参考になっていれば幸いです。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T14:03:34",
+      "utterance": "はい、ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:04:20",
+      "utterance": "12年越しの悩み、すぐにパッと答えは出ないかもしれませんが、ご相談者様の生活が明るくなることを祈っています。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T14:05:10",
+      "utterance": "はい、ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:05:21",
+      "utterance": "それでは今回の相談を終了させていただきます。また何かありましたらご相談ください。ありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T14:05:42",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-13T14:06:02",
+      "utterance": "(ロールプレイありがとうございました。終了させていただきます。)"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-13T14:06:28",
+      "utterance": "（お疲れ様でした、ありがとうございました！）"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦）",
+    "main_en": "Family Issues (Spouse)",
+    "sub": "夫に対する笑顔の出せない理由"
+  },
+  "review_by_client_jp": {
+    "評価ID": 706,
+    "評価作成日時": "2020-11-14T20:36:00",
+    "クライアント役ID": 111,
+    "カウンセラー役ID": 47,
+    "点数": 86,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 5,
+    "居心地のよいやりとりだった": 5,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 5,
+    "要約": 5,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 706,
+    "evaluation_created_at": "2020-11-14T20:36:00",
+    "client_id": 111,
+    "counselor_id": 47,
+    "score": 86,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

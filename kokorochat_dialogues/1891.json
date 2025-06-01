@@ -1,0 +1,719 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-05-20T20:00:29",
+      "utterance": "相談員です。本日はご相談にお越しいただきありがとうございます。はじめにご年齢と性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T20:00:55",
+      "utterance": "13才　女性"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T20:01:30",
+      "utterance": "ありがとうございます。本日はどのようなご相談でしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T20:01:51",
+      "utterance": "家にいたくない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T20:02:53",
+      "utterance": "そうなんだね。教えてくれてありがとうね。なにか訳でもあるのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T20:03:26",
+      "utterance": "嫌だから"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T20:04:16",
+      "utterance": "そっか。。何か嫌なことがあったんだね。よかったら話してくれるかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T20:04:35",
+      "utterance": "殴られたことある"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T20:05:21",
+      "utterance": "え！そうだったんだね。誰にされたのか話せるかな？？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T20:05:48",
+      "utterance": "お父さん"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T20:06:48",
+      "utterance": "そうだったんだね。お父さんだとかなり力が入っていて、相当痛かったよね。。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T20:07:15",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T20:07:56",
+      "utterance": "うんうん。その時、ケガはなかったの？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T20:08:20",
+      "utterance": "最近は大丈夫"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T20:09:33",
+      "utterance": "そうなんだね。最近は、、というと、前からこういうことはあったのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T20:10:00",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T20:11:13",
+      "utterance": "そうだったんだね。そうすると家にお父さんがいると、いつもとてもコワい思いをしてきたんだね。。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T20:11:27",
+      "utterance": "そうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T20:13:07",
+      "utterance": "うんうん。そうだよね。。ちなみに、ニックネームでもかまわないから、なんてお呼んだらよいかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T20:13:19",
+      "utterance": "ゆい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T20:14:35",
+      "utterance": "ゆいさん、ありがとう。ところで、どのくらい前からお父さんのこういうことは始まったのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T20:15:18",
+      "utterance": "小学校の5年くらいから"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T20:16:44",
+      "utterance": "そんなに前からだったんだね。。こわい思いの中、よくしんぼうしてきたんだね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T20:16:54",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T20:18:49",
+      "utterance": "うんうん。お父さんは、どういった時にゆいさんに暴力をふるうのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T20:19:22",
+      "utterance": "お酒飲んだとき"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T20:21:28",
+      "utterance": "そうなんだね。酔っぱらって暴力をふるうんだね。。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T20:21:41",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T20:23:17",
+      "utterance": "うんうん。そんな時は家にいたくないよね。。ちなみにお父さんはお酒は週に何日ぐらい飲んでいるのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T20:24:08",
+      "utterance": "3回くらい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T20:25:47",
+      "utterance": "そうなんだね。。じゃあ、1週間に3日はお父さんはゆいさんを殴っているの？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T20:26:30",
+      "utterance": "毎回は殴らない"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T20:26:47",
+      "utterance": "機嫌の悪い時だけ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T20:30:13",
+      "utterance": "そうだったんだね。。小５から始まったってあったけど、ゆいさんのお父さんに対する気持ちって、昔と今とどう変わったか、教えてくれるかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T20:30:48",
+      "utterance": "よく分かんない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T20:31:42",
+      "utterance": "そっか。。そうだよね。昔のお父さんは、ゆいさんにとってはどんなお父さんでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T20:32:20",
+      "utterance": "3年くらい前に家にきた"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T20:33:43",
+      "utterance": "そうだったんだね。じゃあ、今のお父さんは、ゆいさんの本当のお父さんではないってことかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T20:33:52",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T20:35:57",
+      "utterance": "そうだったんだね。じゃあ、3年くらい前に来た時から、お父さんはゆいさんにとっては今とそんなに変わらない感じなのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T20:36:20",
+      "utterance": "そうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T20:38:24",
+      "utterance": "そうだったんだね。。その時からゆいさんはお父さんのいる家には帰りたくなかったってことなのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T20:38:58",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T20:39:37",
+      "utterance": "もう消えてしまいたい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T20:39:46",
+      "utterance": "うんうん。そうだよね。ゆいさんにとっては知らない大人の男の人が家にいるんだもんね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T20:40:56",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T20:41:54",
+      "utterance": "そうだよね。。そういう気持ちになるよね。。ちなみに、ゆいさんのお母さんは、ゆいさんが殴られている時は、どうしているの？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T20:42:49",
+      "utterance": "家にいないことがほとんど"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T20:43:56",
+      "utterance": "そうなのね。お母さんはそういう時は何をされているんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T20:44:12",
+      "utterance": "お仕事"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T20:45:03",
+      "utterance": "そうだったんだね。じゃあ、お母さんはゆいさんがお父さんから何をされているか、知らないっってことかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T20:45:41",
+      "utterance": "あまり知らないと思う"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T20:46:07",
+      "utterance": "お母さんが家にいる時"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T20:46:27",
+      "utterance": "うんうん。聴いていますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T20:46:28",
+      "utterance": "お母さんを叩いてる"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T20:47:38",
+      "utterance": "そういうことだったんだね。2人ともが、お父さんから暴力を受けているんだね。。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T20:47:46",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T20:48:40",
+      "utterance": "もう消えたい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T20:50:33",
+      "utterance": "そうだったんだね。。2人で怖い思いをしているんだね。ゆいさんはお母さんには、お父さんからされていることを話したりしないの？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T20:50:54",
+      "utterance": "話したことない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T20:51:32",
+      "utterance": "お母さんと同じ状況なのに？話さないのはどうしてかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T20:51:53",
+      "utterance": "言うなって言われてる"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T20:53:08",
+      "utterance": "うんうん。そうだよね。言ったらもっと怖い思いをするかも、、って思っちゃうよね。。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T20:53:23",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T20:55:49",
+      "utterance": "ここまでのゆいさんのお話をお聴きして、私はこれは「児童虐待」になると思っています。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T20:56:14",
+      "utterance": "そうなんですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T20:57:14",
+      "utterance": "そうなんです。18歳以下の児童の場合はこれに当たります。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T20:59:27",
+      "utterance": "どうなりますか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T21:01:51",
+      "utterance": "児童相談所虐待対応ダイヤル「１８９」がフリーダイヤルであるんですが、ゆいさんがご自身で電話するとなると、とても勇気がいると思いますが、ゆいさん自身はどう思うかな？https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/kodomo_kosodate/dial_189.html"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T21:02:58",
+      "utterance": "見つかったら殴られるんじゃないか怖い"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T21:03:41",
+      "utterance": "もうすぐお父さん帰ってくる"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T21:03:49",
+      "utterance": "うんうん。そうだよね。そんな怖い思いはしなくて良いからね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T21:04:25",
+      "utterance": "そっか。。ではこちらからフリーダイヤルで連絡は入れても良いかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T21:04:38",
+      "utterance": "どうなりますか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T21:05:03",
+      "utterance": "ゆいさんのお近くの児童相談所へ連絡が行きます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T21:05:11",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T21:05:26",
+      "utterance": "そして、専門家の人が対応されます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T21:05:47",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T21:06:05",
+      "utterance": "ゆいさんとお母さんを守るための第1歩です。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T21:06:37",
+      "utterance": "助けてくれるんですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T21:07:47",
+      "utterance": "ゆいさんとお母さんを助けるためです！このダイヤルはそのためのものです！"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T21:08:01",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T21:08:27",
+      "utterance": "少なくとも、児童虐待については、こちらも通報の義務があります。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T21:08:40",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T21:09:03",
+      "utterance": "殴られないですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T21:10:43",
+      "utterance": "ゆいさんの安全を第一に対応してもらいます。そういう可能性があるということをきちんと伝えます。最善の注意を払ってもらいます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T21:11:05",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T21:12:48",
+      "utterance": "今、ゆいさんにできることを提案したいのですが、まだお父さん帰ってこないかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T21:12:59",
+      "utterance": "まだです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T21:14:53",
+      "utterance": "急ぎますね。お父さんがお酒を飲んで、機嫌が悪そうな時は、できるだけ家にいないようにするとか、お母さんが帰ってくるまで、家以外のお友達の家か、ご親戚の家に行くとか避難していてほしいでのすが、出来そうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T21:15:47",
+      "utterance": "んーコンビニに行くくらいかな"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T21:16:20",
+      "utterance": "夜たまに行く"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T21:16:44",
+      "utterance": "うーん。そっか。。思いつく逃げ場ってあるかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T21:16:57",
+      "utterance": "ない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T21:17:34",
+      "utterance": "そうだよね。。ゆいさんの部屋に鍵は付いている？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T21:17:46",
+      "utterance": "ついてない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T21:18:37",
+      "utterance": "ほかに、鍵のついている部屋ってないかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T21:18:57",
+      "utterance": "ない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T21:19:20",
+      "utterance": "じゃあ、トイレかお風呂場かな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T21:19:39",
+      "utterance": "トイレはついてる"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T21:20:24",
+      "utterance": "そうなんだね。そういう時はトイレに閉じこもっていられそう？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T21:21:20",
+      "utterance": "隠れたら余計殴られそう"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T21:23:11",
+      "utterance": "それもそうだよね。。ゆいさんが思う、「軽傷で済む方法」ってあるのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T21:23:25",
+      "utterance": "分かんない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T21:24:38",
+      "utterance": "そうだよね。。分からないよね。。専門家の人に緊急で対応していただくように伝えます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T21:24:52",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T21:25:55",
+      "utterance": "そろそろお父さんが帰ってきてしまうと思うので、今日は一旦ここまでにしても大丈夫ですか？早急に通報もしたいので。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T21:26:09",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T21:26:46",
+      "utterance": "大丈夫です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T21:26:49",
+      "utterance": "今日は、本当に怖い思いをしている中、よくぞ勇気を出して相談にきてくれて、ありがとうね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T21:27:16",
+      "utterance": "話聞いてくれてありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T21:27:27",
+      "utterance": "とんでもないです！一刻も早く、ゆいさんを助けたいと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T21:27:41",
+      "utterance": "お願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T21:27:46",
+      "utterance": "だから、もう少し待っていてね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T21:27:51",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T21:29:04",
+      "utterance": "では、今日の相談は以上で一旦終わりますが、また何かお話したくなったら、すぐに相談にくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T21:29:14",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T21:29:22",
+      "utterance": "またきます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T21:29:37",
+      "utterance": "うんうん。待ってますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T21:30:17",
+      "utterance": "それでは、ここで終了いたしますね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T21:30:24",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T21:30:30",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T21:31:16",
+      "utterance": "こちらこそありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T21:31:29",
+      "utterance": "(お疲れ様でした！)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T21:32:12",
+      "utterance": "（お疲れ様でした。こんなにお時間がかかって、本当にごめんなさい！でもとっても良い勉強をさせていただきました）"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T21:32:26",
+      "utterance": "（ありがとうございました！）"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T21:32:35",
+      "utterance": "(こちらこらとても勉強になりました。有難うございました！)"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T21:32:49",
+      "utterance": "(それでは失礼いたします)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-20T21:33:36",
+      "utterance": "（ありがとうございました。また機会がありましたらよろしくお願いいたします。では失礼いたします）"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-20T21:34:08",
+      "utterance": "(こちらこそ宜しくお願い致します)"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "父親による暴力問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1891,
+    "評価作成日時": "2021-05-20T22:25:00",
+    "クライアント役ID": 39,
+    "カウンセラー役ID": 130,
+    "点数": 80,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 5,
+    "今回の相談は価値があった": 5,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 5,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1891,
+    "evaluation_created_at": "2021-05-20T22:25:00",
+    "client_id": 39,
+    "counselor_id": 130,
+    "score": 80,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

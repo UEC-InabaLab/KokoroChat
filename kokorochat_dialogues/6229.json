@@ -1,0 +1,539 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2024-01-07T12:23:01",
+      "utterance": "本日12時半から相談者役をさせて頂きます。よろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T12:23:33",
+      "utterance": "（こちらこそよろしくお願いします。）"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T12:24:07",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T12:30:06",
+      "utterance": "相談員です。来て頂きありがとうございます。年齢、性別、ご相談内容を教えてください。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T12:30:33",
+      "utterance": "30歳　女性夫とうまくいかない"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T12:30:57",
+      "utterance": "教えて頂き、ありがとうございます。そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T12:31:26",
+      "utterance": "具体的に、どのような場面でうまくいかないとお考えですか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T12:31:47",
+      "utterance": "うーん"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T12:31:56",
+      "utterance": "何か"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T12:32:08",
+      "utterance": "愛されている感じがしない"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T12:32:43",
+      "utterance": "そうでしたか。お辛いお気持ちですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T12:33:05",
+      "utterance": "どうしたらいいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T12:33:51",
+      "utterance": "普段の生活の中で、そのように感じられる場面等、ありましたら教えて頂けますか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T12:34:28",
+      "utterance": "なんか心配で"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T12:34:45",
+      "utterance": "夫が浮気してるんじゃないか"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T12:34:57",
+      "utterance": "不安です"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T12:35:32",
+      "utterance": "そのように感じていらっしゃるのですね。ご心配ですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T12:36:28",
+      "utterance": "お相手の方が、浮気をしているかも、と思われる理由等、ありましたら教えて頂けますか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T12:37:33",
+      "utterance": "忙しいと会話がなかったり"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T12:37:50",
+      "utterance": "何考えているか分からないし"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T12:38:13",
+      "utterance": "そうでしたか。寂しいお気持ちになりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T12:38:35",
+      "utterance": "寂しいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T12:39:03",
+      "utterance": "忙しい、というのはお相手の方のお仕事が、ですか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T12:39:08",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T12:39:18",
+      "utterance": "私はパートだから"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T12:40:36",
+      "utterance": "そうなんですね。悲しくなりますよね。お相手の方に話しかけるとどのような反応なのでしょう?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T12:41:02",
+      "utterance": "返事はあるけど"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T12:41:11",
+      "utterance": "そっけない"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T12:41:51",
+      "utterance": "そうなんですね。何か冷たい態度にとらえてしまいますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T12:42:32",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T12:43:37",
+      "utterance": "お相手の方ともっと色々な話をしたいのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T12:44:15",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T12:44:25",
+      "utterance": "お相手の方がそっけない態度の時って、どのようなお気持ちでしょう?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T12:45:07",
+      "utterance": "がっかりする"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T12:46:39",
+      "utterance": "そうなのですね。お相手の方に期待して話しかけても、予想した答えが返ってこないとそのようなお気持ちになりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T12:47:44",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T12:47:51",
+      "utterance": "お相手の方がどのような態度だと、安心されますか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T12:48:19",
+      "utterance": "うーん"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T12:48:49",
+      "utterance": "いつも気にかけてくれること"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T12:49:45",
+      "utterance": "そうでしたか。教えて頂きありがとうございます。いつも自分の事を思ってくれていたら嬉しいですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T12:49:56",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T12:51:28",
+      "utterance": "お相手の方に、何か、気にかけていられないご事情がおありなのでしょうか。例えば今任されているお仕事で頭がいっぱいとか。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T12:52:20",
+      "utterance": "家族になるとあたりまえ的な感じなのかな"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T12:52:27",
+      "utterance": "私の存在が"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T12:53:10",
+      "utterance": "家族だからこそ、いつも気にかけて貰いたいですよね。お相手の方のお仕事を教えて頂いてもよろしいですか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T12:53:29",
+      "utterance": "工場で働いています"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T12:53:34",
+      "utterance": "交代制で"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T12:54:04",
+      "utterance": "そうでしたか。不規則なお仕事で、夜勤等もおありなのでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T12:54:11",
+      "utterance": "あります"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T12:54:44",
+      "utterance": "それは大変なお仕事を、ご家族のために頑張っていらっしゃるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T12:55:01",
+      "utterance": "まあ、はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T12:55:48",
+      "utterance": "でも、時にはゆっくりとお話しをしたいですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T12:55:58",
+      "utterance": "はい、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T12:56:36",
+      "utterance": "そのお気持ちを、お相手の方にお伝えしてはどうでしょう?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T12:57:51",
+      "utterance": "伝えたけど"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T12:58:16",
+      "utterance": "わかってくれない感じ"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T12:59:06",
+      "utterance": "そうでしたか。それではがっかりもされますよね。お相手の方は、お休みの日は何をされていらっしゃいますか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T12:59:28",
+      "utterance": "パチンコに行ったりしてる"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T13:00:44",
+      "utterance": "そうでしたか。寂しくなりますよね。たまには一緒に映画でもと、お誘いしてみてはどうでしょう?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T13:01:40",
+      "utterance": "パチンコで稼いでくると言われると言えない"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T13:02:11",
+      "utterance": "お金を稼いでいるのは夫だから"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T13:02:35",
+      "utterance": "そうなんですね。普段のお仕事だけでなく、パチンコでも稼いでいらっしゃるのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T13:03:25",
+      "utterance": "でも、あなたもパートで頑張って働いていらっしゃるのですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T13:04:46",
+      "utterance": "まあ、パートですけど"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T13:05:09",
+      "utterance": "税金がかからない範囲で"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T13:05:45",
+      "utterance": "パートでも立派なお仕事だと思います。税金のことを考えると制約が出てきますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T13:06:31",
+      "utterance": "はい、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T13:07:05",
+      "utterance": "あなたはお休みの日は何をされていらっしゃいますか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T13:07:22",
+      "utterance": "家事とか買い物とか"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T13:07:56",
+      "utterance": "そうだったんですね。家事や買い物、大変な労力ですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T13:09:03",
+      "utterance": "先が見えないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T13:10:10",
+      "utterance": "そうなんですね。不安ですよね。お相手の方の事でそのようにお考えでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T13:12:56",
+      "utterance": "これからのこと不安です"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T13:14:05",
+      "utterance": "これからのこと、とはお相手の方と仲良くやっていけるかどうか、ということですか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T13:17:35",
+      "utterance": "考えたけど"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T13:17:40",
+      "utterance": "よく分からない"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T13:18:40",
+      "utterance": "そのようにお考えなのですね。今の状況ではそれも無理もないと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T13:19:31",
+      "utterance": "どうしたらいいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T13:20:59",
+      "utterance": "お相手の方のことご心配ですよね。ちなみに、ご趣味等、おありですか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T13:21:24",
+      "utterance": "それは私のことですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T13:22:07",
+      "utterance": "はい、いつもお相手の方のことを考えていると、気が滅入るのでは、と思います。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T13:22:35",
+      "utterance": "趣味は特にないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T13:23:20",
+      "utterance": "そうなのですね。得意なことや、好きなこと等、おありですか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T13:23:41",
+      "utterance": "それ聞いてなんか変わるんですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T13:25:26",
+      "utterance": "お相手の方がパチンコに出かけるように、何か好きなこと等にご興味を持たれると、心が楽になるのでは、と思いました。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T13:26:17",
+      "utterance": "そうするとうまくいくんですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T13:27:40",
+      "utterance": "いつも抱えていらっしゃる寂しいお気持ちを、何かに打ち込むことで少しでも発散できるのでは、と思います。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T13:28:09",
+      "utterance": "うーん"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T13:29:51",
+      "utterance": "長い夫婦生活には山あり谷ありだと思われます。お相手への思いも大切ですが、ご自身がもっと楽しまれる時間があれば、と思います。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T13:30:34",
+      "utterance": "もういいです。ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T13:33:35",
+      "utterance": "お力になれず申し訳ありません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T13:34:17",
+      "utterance": "お時間になりましたので、これで終了させて頂いてよろしいですか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-07T13:34:31",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-07T13:34:50",
+      "utterance": "（ありがとうございました。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦）",
+    "main_en": "Family Issues (Spouse)",
+    "sub": "夫のそっけない態度によるコミュニケーション不全"
+  },
+  "review_by_client_jp": {
+    "評価ID": 6229,
+    "評価作成日時": "2024-01-08T23:34:00",
+    "クライアント役ID": 211,
+    "カウンセラー役ID": 261,
+    "点数": 42,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 3,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 2,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 6229,
+    "evaluation_created_at": "2024-01-08T23:34:00",
+    "client_id": 211,
+    "counselor_id": 261,
+    "score": 42,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 2,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

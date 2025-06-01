@@ -1,0 +1,929 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:21:28",
+      "utterance": "本日はよろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:22:18",
+      "utterance": "こちらこそよろしくおねがいします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:22:35",
+      "utterance": "何かしてみたいテーマはありますか?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:23:18",
+      "utterance": "ありがとうございます実は統合のところがテーマで、最後まで相談をもっていくところです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:24:05",
+      "utterance": "1時間で統合を作れるように頑張りたいと思います"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:24:19",
+      "utterance": "了解しました。場合によっては1時間以上になる可能性もあると思っていた方がいいですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:25:14",
+      "utterance": "少しオーバーするかもしれませんが、、何とか1時間でといううつもりで頑張ります"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:25:21",
+      "utterance": "わかりました。よろしくおねがいします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:25:52",
+      "utterance": "はい、有難うございますお時間になりましたら、声掛けさせていただきます"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:26:16",
+      "utterance": "了解しました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:30:10",
+      "utterance": "本日はご相談に来ていただきありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:30:30",
+      "utterance": "まずはじめに、年齢と性別を教えていただけますか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:30:30",
+      "utterance": "こんばんは"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:30:48",
+      "utterance": "こんばんは"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:31:22",
+      "utterance": "本日はどのようなご相談でしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:31:32",
+      "utterance": "17歳　女性です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:31:51",
+      "utterance": "教えていただき、ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:32:16",
+      "utterance": "最初から行き違いばかりですみません"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:32:54",
+      "utterance": "私はSNSとかやらないんだけど、友達に「なぜやらないの?」と言われてしまって、落ち込んでいます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:33:13",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:33:54",
+      "utterance": "皆Tik Tokとかインスタとかしているけど、写真を取るのが苦手で。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:34:35",
+      "utterance": "写真とかとるのが苦手だと、SNSもやりたくなくなりますよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:34:41",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:35:20",
+      "utterance": "知らない人に見られると思うと、何か気持ち悪いというか苦手で。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:35:56",
+      "utterance": "確かに、人に見られるのは嫌ですよね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:36:16",
+      "utterance": "友達がSNSをしているのを見て、ご自身はどう思いますか"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:36:32",
+      "utterance": "うーん"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:37:07",
+      "utterance": "すごいなとも思ったり、平気なんだと思ったりします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:37:22",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:37:28",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:38:14",
+      "utterance": "何だか周りの友達に置いていかれている感じでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:38:27",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:38:39",
+      "utterance": "話が合わない時があります"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:38:58",
+      "utterance": "そうでしたか、それは寂しいですよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:39:08",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:39:48",
+      "utterance": "ご自身はSNSには興味はある感じでなのでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:40:10",
+      "utterance": "友達だけならいいんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:40:17",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:40:29",
+      "utterance": "知らない人から見られるのが嫌で。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:40:43",
+      "utterance": "そうですよね、不特定多数が相手だと怖いですよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:40:59",
+      "utterance": "そうなんです"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:41:25",
+      "utterance": "コメントとかどう返せばいいかとか、気を使います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:41:49",
+      "utterance": "そうですよね、色々考えてしいますよね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:42:13",
+      "utterance": "少し教えて欲しいのですが、よろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:42:19",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:43:12",
+      "utterance": "そのSNSは、友達とか限られた人だけとかとのやり取りに設定することは難しいものなのでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:43:36",
+      "utterance": "よく知らなくてごめんなさい"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:44:30",
+      "utterance": "シェア記事にすると、友達以外の人にも見られてしまうから…。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:44:43",
+      "utterance": "そうでしたか、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:44:58",
+      "utterance": "限定にしたとしても。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:45:34",
+      "utterance": "なるほど、教えていただき有難うございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:46:04",
+      "utterance": "やっぱり他人に見られるのは不安になりますよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:46:31",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:46:33",
+      "utterance": "ラインだと個別だからまだいいんだけど、グループチャットになると、知らない人も入るから、苦手です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:47:14",
+      "utterance": "うんうん、そうですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:47:33",
+      "utterance": "どんな反応が来るか分かりませんものね"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:48:15",
+      "utterance": "友達からは「した方が楽しいよ」って言われるけど、何か出来なくて。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:48:59",
+      "utterance": "そうですよね、知らない人がいると不安だとなかなか思い切ってやれないですよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:49:05",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:49:34",
+      "utterance": "ちなみに、ご自身はSNS以外では初対面の人と会ったりしたときはどんな感じなのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:50:08",
+      "utterance": "慣れる迄は緊張します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:50:20",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:50:47",
+      "utterance": "どう思われるかなと気になるし。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:51:39",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:51:45",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:51:46",
+      "utterance": "慣れるまでは、少しずつ距離を近づけていく感じでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:52:17",
+      "utterance": "様子を見ながらって感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:52:43",
+      "utterance": "そうでしたか"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:52:52",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:53:05",
+      "utterance": "ゆっくりと人間関係を育んでいく感じなのですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:53:12",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:53:41",
+      "utterance": "そんな目立つ方じゃないし"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:53:50",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:54:39",
+      "utterance": "あまり自己主張とかは苦手という感じでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:55:03",
+      "utterance": "はい。大人しい方なので。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:56:58",
+      "utterance": "あなたは、とても人を思いやることが出来る方なのかなと私は感じましたが、ご自身ではいかがですか"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:57:38",
+      "utterance": "どうでしょう?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:57:45",
+      "utterance": "わかりません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:57:55",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:58:48",
+      "utterance": "どういう所から、相談員さんはそう思いますか?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T20:59:19",
+      "utterance": "目立つ方ではないけどと仰っていましたが、"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T20:59:59",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:00:02",
+      "utterance": "SNS以外の人間関係では、少しずつ慣れていって、距離を縮めて仲良くなる"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:00:12",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:00:26",
+      "utterance": "一人は寂しいから"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:00:48",
+      "utterance": "確かにそうですよね"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:01:06",
+      "utterance": "本当は1人でいる方が楽なんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:01:21",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:01:26",
+      "utterance": "でもぼっちになるのは嫌だし。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:01:35",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:01:59",
+      "utterance": "SNSも面倒くさいと思う時があります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:02:14",
+      "utterance": "確かに大変そうですよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:03:11",
+      "utterance": "インスタの映えは見るのは楽しいけど、自分がするのは…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:03:55",
+      "utterance": "自分がするのは、何がか勇気がいる感じでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:04:03",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:04:38",
+      "utterance": "1つお聞きしてもよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:04:44",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:05:20",
+      "utterance": "もし、このままSNSをやらなかったら、ご自身としてはどうなると思われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:05:52",
+      "utterance": "友達が誰もいなくなります"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:06:12",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:06:20",
+      "utterance": "それはとても寂しいですよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:06:32",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:07:12",
+      "utterance": "でも、ＳＮＳをやるとなると、知らない人が入ってきたらどうしていいか分からなくなる、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:08:00",
+      "utterance": "疲れたり気を使ったりします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:08:32",
+      "utterance": "本当にそうですよね"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:08:41",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:09:00",
+      "utterance": "少し私の感じたことをお伝えしてもよろしいでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:09:16",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:10:50",
+      "utterance": "あなたは、控えめな方でリアルの人間関係でも少しずつ距離を縮めて関係を作っていく方で、それは逆言うと相手との距離もしっかりと考えられる優しい方だと感じました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:11:10",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:11:42",
+      "utterance": "一方で、そんな控えめなあなたはSNSでは、どんな人が入ってくるかわからないので、一歩踏み出せずにいます"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:12:24",
+      "utterance": "踏み出せないというか苦手なんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:12:55",
+      "utterance": "失礼しました、苦手なのですよね"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:13:10",
+      "utterance": "無理してでもやった方がいいんでしょうか?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:13:32",
+      "utterance": "大切なことなので、そこを一緒に考えていきましょう"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:13:46",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:14:05",
+      "utterance": "どうしたらいいですか?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:14:21",
+      "utterance": "SNSは基本自分の思っていることや感じていることを発信していくという部分も強いのかなとも思うのですが、"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:14:41",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:14:49",
+      "utterance": "控えめなあなたは、そうした部分に苦手を感じているのかと思います"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:15:39",
+      "utterance": "知らない人が入ってきたり、みられたりするのが嫌なんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:16:14",
+      "utterance": "そうですよね、そこは不安ですよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:16:24",
+      "utterance": "友達同士のみならいいんだけど。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:16:42",
+      "utterance": "そうですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:17:41",
+      "utterance": "1つは、みんながみんな自分の思うところを発信しているので、相手の反応はあえて気にしないことにするというのもあると思うのですが、いかがですか"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:17:55",
+      "utterance": "でも気になります"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:18:22",
+      "utterance": "うんうん、そうですよね、気になりますよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:19:09",
+      "utterance": "皆色々評価するし。いいねの数とかフォロアー数とか競うし。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:19:38",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:19:57",
+      "utterance": "それもとても気になってしまいますよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:20:11",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:21:30",
+      "utterance": "リアルでの人間関係と同様のイメージで、SNSの世界でもあなたなりの発信の仕方や相手との距離の縮め方をやっていけばいいのかなと私は感じました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:21:43",
+      "utterance": "例えば、"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:21:58",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:22:39",
+      "utterance": "親しい友達の発信しているところに、いいね！してみるとか、ひとこと返信してみるとか、そんなところから入ってみてもいいのではないでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:23:34",
+      "utterance": "返信はしてます。コメントもしてます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:23:50",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:24:18",
+      "utterance": "友達同士ならいいけど、知らない人に読まれるのが嫌なんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:24:44",
+      "utterance": "うんうん、そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:25:16",
+      "utterance": "どんなところが、読まれると嫌だと感じますか"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:26:00",
+      "utterance": "読まれると思うと、緊張します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:26:27",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:26:32",
+      "utterance": "どんなことが頭に浮かびますか"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:26:52",
+      "utterance": "浮かぶ…"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:28:14",
+      "utterance": "変に思われたらどうしようとか、コメント返ってきたら、どうしようとか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:29:06",
+      "utterance": "とても不安になってしまいますよね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:30:25",
+      "utterance": "私は、あなたがとてもご自身のことを、しっかりと言葉にする力があると感じました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:31:45",
+      "utterance": "もし、ご自身の感じたことを少しずつでもコメントしたりしていってもそんなにご心配しているような感じにはならないように思いましたが、ご自身ではいかがですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:35:27",
+      "utterance": "答えにくいことで、ごめんなさい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:36:40",
+      "utterance": "最終的には、SNSをやってもやらなくても人を思いやれるあなたの価値は何も変わらないと私は思います"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:37:06",
+      "utterance": "そうなんですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:37:21",
+      "utterance": "はい、私はそう感じました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:38:15",
+      "utterance": "どちらの選択をしても、あなたはあなたらしくしていくことで、お友達がいなくなるなんてことはないと私は感じました"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:38:32",
+      "utterance": "私の価値ですか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:39:30",
+      "utterance": "友達と話が合わなくても、一人にならないですか?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:41:11",
+      "utterance": "人とのつながりを、しっかりできているあなたは、SNSに関係なくきっと1人にはならないと私は感じました"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:41:31",
+      "utterance": "しっかり出来てますか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:41:56",
+      "utterance": "どうしてそう思うんですか?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:43:18",
+      "utterance": "実際に、リアルではゆっくりとですが着実に人間関係を築けていますので、そんなあなたはSNSに関係なく、きっと友達関係が続いていくと、私は思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:43:44",
+      "utterance": "そうなんですか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:44:02",
+      "utterance": "そうだと思います"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:44:08",
+      "utterance": "続けられますか?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:44:24",
+      "utterance": "（いえすみません）"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:44:57",
+      "utterance": "お時間となりましたので、これで本日のご相談終了とさせていただきます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:45:12",
+      "utterance": "本日はご相談に来ていただき、有難うございました"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:45:22",
+      "utterance": "わかりました。すいませんでした。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:46:13",
+      "utterance": "いえ、本当に大切なお話聞かせていただき有難うございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:46:42",
+      "utterance": "また、困ったことがありましたら是非ご相談にお越しください"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:47:29",
+      "utterance": "（有難うございました。それでは失礼いたします）"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-06T21:48:30",
+      "utterance": "(ロールプレイを終了という事でしょうか?)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:49:06",
+      "utterance": "（はい、かなり時間オーバーしてしまいすみませんでした。。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-06T21:50:41",
+      "utterance": "（それでは本日は終了とさせていただきます）"
+    }
+  ],
+  "topic": {
+    "main_jp": "人間関係",
+    "main_en": "Interpersonal Issues",
+    "sub": "SNSにおける友達関係の悩み"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2147,
+    "評価作成日時": "2021-07-07T11:52:00",
+    "クライアント役ID": 112,
+    "カウンセラー役ID": 39,
+    "点数": 15,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 1,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 1,
+    "一緒に考えながら取り組めた": 1,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 1,
+    "全体として適切でよかった": 1,
+    "今回の相談は価値があった": 1,
+    "相談開始の円滑さ": 2,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 0,
+    "受容・共感": 2,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 3,
+    "要約": 1,
+    "問題の明確化": 1,
+    "この相談での目標の明確化": 1,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": "チェックあり"
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2147,
+    "evaluation_created_at": "2021-07-07T11:52:00",
+    "client_id": 112,
+    "counselor_id": 39,
+    "score": 15,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 1,
+    "felt_appropriate_and_satisfying": 1,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 2,
+    "conversation_ended_well": 0,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 1,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": "チェックあり"
+  }
+}

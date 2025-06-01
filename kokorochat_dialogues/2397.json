@@ -1,0 +1,524 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:00:40",
+      "utterance": "時間になりましたので、ロールプレイを始めさせていただきます。よろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:00:49",
+      "utterance": "よろしくお願いいたします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:01:05",
+      "utterance": "こんにちは、相談員です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:01:53",
+      "utterance": "本日のご相談内容と、差し支えなければ、年齢と性別をお聞かせください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:02:14",
+      "utterance": "休み明けに学校に行きたくありません"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:02:19",
+      "utterance": "16 男"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:02:46",
+      "utterance": "夏休み明けで、学校に行きたくないのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:03:30",
+      "utterance": "学校に行きたくない理由は思い当たりますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:04:16",
+      "utterance": "授業が面倒くさいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:04:56",
+      "utterance": "そうなんですね。授業のどんなところが面倒くさいのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:05:12",
+      "utterance": "面白くありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:05:53",
+      "utterance": "学校の授業が面白くないんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:06:31",
+      "utterance": "学校の授業、全部が面白くないのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:06:38",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:07:31",
+      "utterance": "例えば、特に面白くないものはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:08:14",
+      "utterance": "多すぎて答えられません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:10:01",
+      "utterance": "体育とかはどうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:10:28",
+      "utterance": "なぜ体育なのですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:11:17",
+      "utterance": "体を動かすのは好きな人もいるので、聞いてみたんです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:11:34",
+      "utterance": "私は好きではないのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:13:13",
+      "utterance": "そうでしたか。授業が面白くないのは、なぜでしょう。例えば、先生がきらいとか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:13:53",
+      "utterance": "なぜと言われても、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:15:51",
+      "utterance": "答えにくい質問でしたね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:16:41",
+      "utterance": "じゃあ、学校に行きたくないのが、授業が面白くないからと言われてましたね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:17:26",
+      "utterance": "学校を面白いと感じたことはないですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:17:38",
+      "utterance": "あんまりないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:18:03",
+      "utterance": "今、16歳でしたね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:18:15",
+      "utterance": "高校1年生？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:18:18",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:18:56",
+      "utterance": "学校に行きたくないと思ったのは、今が初めてですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:19:08",
+      "utterance": "いいえ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:19:18",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:19:42",
+      "utterance": "いつ頃に思ったのか聞かせてもらえますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:19:52",
+      "utterance": "小学生くらいからです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:20:08",
+      "utterance": "そんなころからなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:20:28",
+      "utterance": "その時は、なにか気になることがあったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:20:45",
+      "utterance": "はっきりとは覚えていません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:21:33",
+      "utterance": "小学生の時には、学校に行くことはできていたんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:21:47",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:22:29",
+      "utterance": "なんか、もやもやして行きたくなかったけど、なんとか行っていた感じなのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:22:50",
+      "utterance": "そんなところです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:23:16",
+      "utterance": "中学生のころも、同じようなかんじですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:23:20",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:23:51",
+      "utterance": "やっぱり、授業が面白くなかったから？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:24:15",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:25:09",
+      "utterance": "授業が嫌い、面白くないと思ったきっかけは、何か思い当たることがあるのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:25:50",
+      "utterance": "きっかけも何もそのまま感じたことですよ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:28:08",
+      "utterance": "面白い授業って、今まで経験したことがなかったということかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:28:18",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:31:24",
+      "utterance": "学校では、授業の他にもいろんな行事があると思うけれど"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:32:10",
+      "utterance": "そういうのは、どうでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:32:22",
+      "utterance": "それも同じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:32:39",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:34:11",
+      "utterance": "学校に行きたくない理由は、授業が面白くないだけでなく、学校そのものが面白くないということなのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:34:33",
+      "utterance": "それもあるかもしれませんね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:35:11",
+      "utterance": "いま、何をしている時が楽しいのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:35:34",
+      "utterance": "家でゲームしてる時です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:37:33",
+      "utterance": "夏休み中は、ほとんどゲームしてすごしてたの？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:37:59",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:38:05",
+      "utterance": "どんなゲームが好きなのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:38:11",
+      "utterance": "課題もやってましたが"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:38:51",
+      "utterance": "rpgです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:38:55",
+      "utterance": "夏休みの課題は、しっかりやってたんですね？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:39:06",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:39:53",
+      "utterance": "ちなみに、課題は全部できたの？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:39:58",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:41:02",
+      "utterance": "すごいね、勉強は、得意なのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:41:19",
+      "utterance": "それはわかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:41:40",
+      "utterance": "塾とかは、行ってるの？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:41:47",
+      "utterance": "行ってません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:47:42",
+      "utterance": "学校に行きたくないということ、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:48:02",
+      "utterance": "だったんですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:49:27",
+      "utterance": "高校にいこうと思ったのは、何か目標とかあったのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:49:35",
+      "utterance": "いいえ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:50:07",
+      "utterance": "将来、こんなことがしたいとかは？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:50:14",
+      "utterance": "わかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:52:00",
+      "utterance": "好きなものは、ゲームのほかにもありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:52:06",
+      "utterance": "ありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:53:34",
+      "utterance": "ゲームがすきなんですね？そういう方面は興味あるのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:54:09",
+      "utterance": "その方面は興味ありません"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:54:23",
+      "utterance": "というかこれ何の話してるんです？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:57:08",
+      "utterance": "学校に行きたくないということは、逆に行かないと何か困ることがありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:57:57",
+      "utterance": "行かない理由がないからです"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T14:58:54",
+      "utterance": "用事があるので失礼します"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T14:59:28",
+      "utterance": "分かりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T15:01:19",
+      "utterance": "今日は、お時間もないようですので、これで終了いたします。また、お時間のある時に、お話を聞かせてください。ご相談ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T15:02:52",
+      "utterance": "クライアント役、ありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T15:02:58",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T15:03:35",
+      "utterance": "いろいろと勉強になりました。これから、もっと精進していきます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-27T15:04:44",
+      "utterance": "これで終了いたします"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-27T15:04:49",
+      "utterance": "はい"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "授業が面白くない問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2397,
+    "評価作成日時": "2021-08-28T08:15:00",
+    "クライアント役ID": 125,
+    "カウンセラー役ID": 214,
+    "点数": 42,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 2,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 1,
+    "肯定・承認": 1,
+    "的確な質問による会話の促進": 2,
+    "要約": 2,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2397,
+    "evaluation_created_at": "2021-08-28T08:15:00",
+    "client_id": 125,
+    "counselor_id": 214,
+    "score": 42,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 2,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 1,
+    "provided_acknowledgment_and_affirmation": 1,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,429 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-11-24T13:00:12",
+      "utterance": "こんにちは相談員です。よろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-24T13:00:22",
+      "utterance": "よろしくおねがいします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T13:00:50",
+      "utterance": "最初に年齢と性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-24T13:01:10",
+      "utterance": "24歳.女です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T13:01:21",
+      "utterance": "お返事ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T13:01:32",
+      "utterance": "今日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-24T13:01:48",
+      "utterance": "離婚を考えてます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T13:02:26",
+      "utterance": "そうなんですね。ご事情をお話しいただけますか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-24T13:03:37",
+      "utterance": "夫婦の仲とか、色々ですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T13:05:32",
+      "utterance": "お互いそれぞれなので、なかなか難しいですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T13:05:53",
+      "utterance": "特に気になっているのはどんなことですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-24T13:06:52",
+      "utterance": "そうです。で、離婚を考えてるんだけど、子供もいますし、踏ん切りがつかなくて…。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-24T13:07:13",
+      "utterance": "特に、気になるとは?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T13:07:38",
+      "utterance": "お子さんのことを考えると、迷ってしまいますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-24T13:08:07",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T13:08:57",
+      "utterance": "先ほど夫婦の仲というお話がありましたので、そのことに関連して気になっていることがおありではないかなと思ってお尋ねしましたが、いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-24T13:11:10",
+      "utterance": "夫婦は旦那の亭主関白ぶりがすごいのとか、商売屋に嫁にきたので、そこでも色々と。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T13:13:54",
+      "utterance": "夫さんがあなたの意見や立場を大事にしてくれないのでしょうね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-24T13:14:39",
+      "utterance": "そうですね。わんまんすぎて毎日泣いてます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T13:15:09",
+      "utterance": "それは、つらいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-24T13:15:29",
+      "utterance": "それで離婚を考えてるんだけど子供のことを思ったら躊躇しちゃうんですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T13:16:42",
+      "utterance": "お子さんにとっては、本当は両親がそろった家族の中で育ててあげたいという思いなのでしょうね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-24T13:17:00",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T13:17:15",
+      "utterance": "ちなみにお子さんはおいくつですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-24T13:18:05",
+      "utterance": "1才半です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T13:18:29",
+      "utterance": "まだお小さいですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T13:18:43",
+      "utterance": "男の子？それとも女の子？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-24T13:18:53",
+      "utterance": "男の子です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T13:19:17",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T13:19:59",
+      "utterance": "子どものことを考えると迷ってしまうとのお話しでしたが、どんなことを考えて迷っておられるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-24T13:21:38",
+      "utterance": "母子家庭になったらとかこの先私１人で育てて行けるかなとかかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-24T13:22:27",
+      "utterance": "もう旦那の亭主関白はDVにちかいので、たいれないし"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-24T13:22:47",
+      "utterance": "耐えられないですし"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-24T13:26:09",
+      "utterance": "毎日、母親の泣く姿を見せて夫婦を続けていくよりも、離婚した方がと思っているんですが踏ん切りがつかないんですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T13:27:05",
+      "utterance": "亭主関白もDVに近いと、耐えられないというお気持ちになっていらっしゃるのが伝わってきます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T13:29:31",
+      "utterance": "辛い日々が続いているんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-24T13:29:37",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T13:30:18",
+      "utterance": "夫さんの亭主関白がDVに近くなってどのくらい経ちますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-24T13:30:19",
+      "utterance": "辛いから、離婚を考えてるんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T13:32:43",
+      "utterance": "この夫さんとはもう一緒にやっていけないというお気持ちはもう固まっていらっしゃるようですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-24T13:33:02",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T13:35:34",
+      "utterance": "毎日母親が泣く姿を見せても夫婦を続けていくのはとのお話がありましたけれど、今後成長していく中でお子さんがどのように受け止めてくれるかということがひとつ気になっていらっしゃるようですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-24T13:35:52",
+      "utterance": "最近だと、小姑までが、旦那と一緒になって嫌味みたいな?けっこう沢山、問題はあるんです"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-24T13:36:10",
+      "utterance": "そうです"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-24T13:37:01",
+      "utterance": "まだ小さいから、受け止めるというより、どうやって育てるかを思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T13:38:50",
+      "utterance": "夫さんの妹さんでしょうか、小姑さんの嫌味もきついですね。夫さんのご実家に大家族的に同居ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-24T13:40:39",
+      "utterance": "旦那姉です。半同居です。商売をしてるので、お店の中で半日以上は顔をあわせてるので"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T13:42:27",
+      "utterance": "夫さんのお姉さんだと、よけいに気になりますよね。そんな人と半日以上一緒にいだけで嫌味を言われなくても、ストレスもが溜まってしまいますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-24T13:42:42",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T13:44:18",
+      "utterance": "ところで、先ほどお子さんをどうやって育てるかとお話ししてくださいましたが、今までお仕事なさった経験はどのくらいおありですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-24T13:46:09",
+      "utterance": "18から仕事経験ありますで3年前に結婚して嫁ぎ先が商売してますから６年くらいかな？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T13:47:00",
+      "utterance": "それだけお仕事経験がおありだということですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-24T13:47:08",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T13:47:53",
+      "utterance": "とすると、もし仮に離婚したら、ご自分で生計を立てていくことはできそうという見通しでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-24T13:48:51",
+      "utterance": "多分　わかりませんしそこが離婚の躊躇になってるんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T13:49:31",
+      "utterance": "たしかに、そうでしたね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T13:52:02",
+      "utterance": "もう一つの観点として、毎日母親が泣きながらも夫婦をやっているのを子供に見せるのはどうかなというお話がありましたが、もしかしたら、あなたがご自分らしく生き生きと日々を過ごしている姿をお子さんに見せるのがお子さんの安心感を育てることにとってはとっても大切なことになりそうな気がするのですが、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-24T13:52:33",
+      "utterance": "そう思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T13:53:37",
+      "utterance": "今考えられる、あなたらしく生きることは、どんなことになりそうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-24T13:54:34",
+      "utterance": "わかりません。今は離婚の事で頭いっぱいなので"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T13:54:53",
+      "utterance": "たしかに。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-24T13:55:35",
+      "utterance": "自分らしくできるときは、多分離婚ご気持ちに余裕が、でないとわからないと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T13:56:10",
+      "utterance": "そうかもしれませんね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T13:57:57",
+      "utterance": "あるいは、仮に離婚した場合の、ご自分らしく生きているイメージが作れないので、離婚についても迷っていられるという気もするのですが、いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-24T13:58:33",
+      "utterance": "そうです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-24T13:59:52",
+      "utterance": "また、自分で考えてみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T13:59:58",
+      "utterance": "あなたは18歳からお仕事3年間続け、結婚先の家業のご商売も関わって来られたとのお話しから、お仕事をやっていく力はおありになるという気がしています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T14:00:45",
+      "utterance": "そんなことも含めて、仮に離婚した場合のご自分らしく生きているイメージを描いてみるのも一つかもしれないと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T14:02:59",
+      "utterance": "あなたらしい生き方を作って行かれるように応援しています。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-24T14:04:11",
+      "utterance": "失礼します"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T14:05:08",
+      "utterance": "今日はご相談に来てくださりありがとうございます。気になることが出てきたらまたご相談にいらしてください。では失礼いたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-24T14:05:29",
+      "utterance": "（ロールプレイありがとうございました。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦）",
+    "main_en": "Family Issues (Spouse)",
+    "sub": "亭主関白とDVに近い夫との関係問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2759,
+    "評価作成日時": "2021-11-24T14:19:00",
+    "クライアント役ID": 241,
+    "カウンセラー役ID": 5,
+    "点数": 57,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 2,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2759,
+    "evaluation_created_at": "2021-11-24T14:19:00",
+    "client_id": 241,
+    "counselor_id": 5,
+    "score": 57,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 2,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,869 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:00:05",
+      "utterance": "こんにちは相談員です。よろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:00:15",
+      "utterance": "よろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:00:28",
+      "utterance": "最初に年齢と性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:00:54",
+      "utterance": "40才、女性"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:01:08",
+      "utterance": "お返事ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:01:20",
+      "utterance": "今日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:01:51",
+      "utterance": "何やってもうまくいかないのです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:02:08",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:02:35",
+      "utterance": "それはお困りですね。例えば、どんなことでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:03:03",
+      "utterance": "事務職なのですが、ミスが多くて"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:03:23",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:03:29",
+      "utterance": "なんでこんなにもできないのかと"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:03:46",
+      "utterance": "気になっていらっしゃるんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:04:00",
+      "utterance": "はい、気になります"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:04:12",
+      "utterance": "それで上司に怒られるし、"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:04:26",
+      "utterance": "お客様に迷惑かけるし"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:04:45",
+      "utterance": "それは、困りましたね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:04:53",
+      "utterance": "なんて自分はできないのかと思ってしまってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:05:17",
+      "utterance": "そこまで思っていらっしゃるんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:05:23",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:05:37",
+      "utterance": "お気持ちも、ふさいでしまいますよね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:05:49",
+      "utterance": "ええ、"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:06:13",
+      "utterance": "ボーッとしてて、車にひかれそうになりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:06:32",
+      "utterance": "危ないですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:06:47",
+      "utterance": "そうなのです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:07:15",
+      "utterance": "最近集中が途切れることが多いという感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:07:36",
+      "utterance": "そうなのかもしれないですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:07:46",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:07:54",
+      "utterance": "自分でもよくわからないのです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:08:05",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:08:22",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:09:01",
+      "utterance": "ボートっとして、車に惹かれそうになるということは、もしかしたら、ご自分でも気づかない変化が起こっているのかもしれませんね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:09:02",
+      "utterance": "こんな私、だめだと思うのです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:09:44",
+      "utterance": "それはあるかもしれません。時々、いなくなってもいいかな、と思うこともあります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:10:05",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:10:40",
+      "utterance": "いなくなってもいいかなというのは、何か気になることとか、嫌なこととかおありなのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:11:19",
+      "utterance": "あまりにも出来が悪い自分が嫌で、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:11:52",
+      "utterance": "ミスのこととかですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:11:58",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:12:21",
+      "utterance": "今のお仕事はどのくらい続けていらっしゃるんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:12:46",
+      "utterance": "事務は5年ぐらいです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:13:01",
+      "utterance": "その前は販売、接客してました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:13:18",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:13:44",
+      "utterance": "同じ会社の中での異動だったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:14:03",
+      "utterance": "異動、そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:14:25",
+      "utterance": "前の販売のお仕事はどのくらいなさっていたのでしょう？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:15:00",
+      "utterance": "15年ぐらいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:15:18",
+      "utterance": "長いご経験ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:15:35",
+      "utterance": "そうなのです。長いのが取り柄です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:16:32",
+      "utterance": "長く販売をなさって来たので、いろいろなご経験も積まれたのでしょうね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:17:30",
+      "utterance": "はい。販売実績が高かったときもありました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:17:47",
+      "utterance": "ステキですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:17:57",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:18:08",
+      "utterance": "ちなみにどんな商品を販売していたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:19:24",
+      "utterance": "簡単にいうと地元のお土産屋さんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:19:42",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:20:02",
+      "utterance": "地域の特産品などを販売されていたんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:20:16",
+      "utterance": "そうなのです!"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:20:32",
+      "utterance": "地域密着のステキな販売という感じがしますね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:20:46",
+      "utterance": "ホントですか?!"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:20:59",
+      "utterance": "嬉しい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:21:06",
+      "utterance": "はい　そう思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:21:37",
+      "utterance": "地域のお土産を制作している職人さんたちには、頼りにされていたのでは？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:22:44",
+      "utterance": "そうですね。おかげさまで、職人さんとの人間関係には恵まれてました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:23:25",
+      "utterance": "きっと、好かれたのにはあなたの人柄もあったのでしょうね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:24:02",
+      "utterance": "そうなのかな〜"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:24:21",
+      "utterance": "きっとそうだと思いますよ・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:24:21",
+      "utterance": "でも今は、ミスばかりで信頼されてないですよ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:24:56",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:26:01",
+      "utterance": "以前の販売の時には実績が高かった時があったとのお話しですが、その時にはご自分なりに工夫や努力をなさっていたかと思いますが、いかがでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:26:27",
+      "utterance": "たしかにありましたね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:27:04",
+      "utterance": "どんな工夫や努力をしていたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:27:25",
+      "utterance": "いつも笑顔"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:27:31",
+      "utterance": "いつも感謝"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:27:37",
+      "utterance": "ステキ"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:27:54",
+      "utterance": "いつも自分の足で地元に出向いて勉強"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:28:02",
+      "utterance": "こんな感じでした"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:28:08",
+      "utterance": "なるほど。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:28:39",
+      "utterance": "地元を知ろうとなさっていたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:29:01",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:29:14",
+      "utterance": "その工夫と努力が結果に結びついていたのでしょうね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:29:39",
+      "utterance": "言われてみるとそうかもしれません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:30:06",
+      "utterance": "そんなあなたを支えていたものは何だったのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:31:19",
+      "utterance": "周りのみなさま、かな?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:31:58",
+      "utterance": "周りの皆さまとの関りなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:32:37",
+      "utterance": "一人では仕事できなかったと思ってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:33:31",
+      "utterance": "周りの人たちに支えられていたからこそ、お仕事が続けられたという思いなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:34:04",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:34:32",
+      "utterance": "同時に、あなたも周りの人たちを販売というお仕事を通して支えていたとい面もきっと大きかったのでしょうね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:35:09",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:35:48",
+      "utterance": "ステキな関係ですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:36:30",
+      "utterance": "ところで、5年前に販売から事務のお仕事に異動されたとのことですが、どんなお考えで移られたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:38:00",
+      "utterance": "年齢的なところが大きいです。立ち仕事もつらくて。あとお店の顔になる人は若くてきれいなほうがいいのかな"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:38:29",
+      "utterance": "と思ったのと、お客様からのクレームに耐えられなくて。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:39:26",
+      "utterance": "いろいろなご事情もあり、思いもかけない出来事もあったのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:39:41",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:40:22",
+      "utterance": "特にクレームは対応にご苦労されたのでしょうね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:40:33",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:42:03",
+      "utterance": "販売から、事務のお仕事に変わったのは、会社の異動命令ですか、それともご自分から進んで選ばれたのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:42:42",
+      "utterance": "異動命令です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:42:53",
+      "utterance": "そうだったのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:43:28",
+      "utterance": "事務に異動になった時、ご自身ではどんなお気持ちでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:43:59",
+      "utterance": "なんで異動しなきゃならないの?"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:44:16",
+      "utterance": "悔しかったかしら"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:44:53",
+      "utterance": "もっと販売を続けたかったというお気持ちだったのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:45:17",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:45:30",
+      "utterance": "販売でも"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:45:39",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:45:43",
+      "utterance": "時々、商品開発するんです"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:45:57",
+      "utterance": "どうしたら、もっと売り上げられるか?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:46:07",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:46:31",
+      "utterance": "商品開発も楽しかったんです"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:46:46",
+      "utterance": "でも、事務職ではできません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:46:58",
+      "utterance": "商品開発は販売の方にとってわくわくする取り組みだったんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:47:26",
+      "utterance": "そうなのです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:47:46",
+      "utterance": "お客様からクレームもらうからこそ、もっといいものを"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:48:05",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:48:12",
+      "utterance": "産み出したいわけです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:48:18",
+      "utterance": "なるほど。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:48:41",
+      "utterance": "クレームが新商品開発のエネルギーになるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:49:00",
+      "utterance": "そうですね。といっても、作った商品が売れるわけでもないんですがね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:49:39",
+      "utterance": "そういう面もあるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:49:48",
+      "utterance": "ハハハ"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:50:20",
+      "utterance": "でもたくさんの商品があったほうが、お客様の選択肢も広がるんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:50:51",
+      "utterance": "そうですよね。そして、新商品が開発できたということ自体も大きかったですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:50:51",
+      "utterance": "だから販売しながら、商品開発。そして改良の繰り返し"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:51:03",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:51:13",
+      "utterance": "なるほど"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:51:33",
+      "utterance": "販売職に燃えていらしたんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:51:42",
+      "utterance": "たしかに"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:52:26",
+      "utterance": "そんなエネルギーの爆発が事務職ではないということが、落胆になっていらっしゃるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:53:00",
+      "utterance": "それはあるかもしれません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:53:40",
+      "utterance": "ここまでお話しを聴いてきて、あなたはエネルギーを豊富に持っていらっしゃる方と思いました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:53:57",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:54:33",
+      "utterance": "それを使い切っていないので、ご自身の中で燃焼不足になっているという気がするのですが・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:55:10",
+      "utterance": "なるほどです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:56:15",
+      "utterance": "今の状況の中で、ご自身をエネルギーを燃焼させることができることを見つけられるといいのではと思うのですが・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:56:26",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:56:37",
+      "utterance": "何かありそうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:57:00",
+      "utterance": "ストレス発散でしょうか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:57:11",
+      "utterance": "それもあるかもしれません。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:57:12",
+      "utterance": "身体を動かすことなど"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:57:20",
+      "utterance": "なるほど"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:57:47",
+      "utterance": "或いは、お仕事で、特例として、事務職だけれど、開発のメンバーに入れてもらうとか・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:58:26",
+      "utterance": "そっかあ、上司に言ってみたいと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:59:03",
+      "utterance": "あなたには、それだけのエナルギ―があると思いましたよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:59:12",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T13:59:39",
+      "utterance": "販売の時に、地域の人たちから支えられたことが力になったとお話ししてくださいましたね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T13:59:55",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T14:00:35",
+      "utterance": "事務のお仕事でも、今までの既成の事務の枠組みを超えて、新しい働き方を創ってみるのも一つかもしれませんよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T14:01:14",
+      "utterance": "やってみたいと思います!"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T14:01:23",
+      "utterance": "応援しています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T14:01:42",
+      "utterance": "気になることが出てきたら、またいらしてください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T14:01:45",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T14:01:50",
+      "utterance": "はい、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T14:01:56",
+      "utterance": "ご一緒に考えさせていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T14:02:12",
+      "utterance": "その時はお願いいたします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T14:02:32",
+      "utterance": "こちらこそよろしくお願いいたします。では今日はこの辺で失礼させていただきますね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-26T14:02:46",
+      "utterance": "どうもありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-26T14:02:58",
+      "utterance": "こちらこそありがとうございました。"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "事務職でのミスが多いことによるストレスと不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2392,
+    "評価作成日時": "2021-08-26T18:45:00",
+    "クライアント役ID": 145,
+    "カウンセラー役ID": 5,
+    "点数": 77,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 3,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 5,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2392,
+    "evaluation_created_at": "2021-08-26T18:45:00",
+    "client_id": 145,
+    "counselor_id": 5,
+    "score": 77,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

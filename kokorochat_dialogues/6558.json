@@ -1,0 +1,419 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-03-07T21:00:34",
+      "utterance": "こんばんわ、相談員です。本日はよろしくお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-07T21:01:46",
+      "utterance": "お願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-07T21:02:03",
+      "utterance": "はじめに、年齢と性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-07T21:02:36",
+      "utterance": "30代、女性"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-07T21:04:17",
+      "utterance": "ありがとうございます。どのようなお悩みでおこしいただきましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-07T21:04:45",
+      "utterance": "職場の上司と合わなくて"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-07T21:06:10",
+      "utterance": "職場の上司と合わないという事ですね。では、もう少し詳しく教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-07T21:11:53",
+      "utterance": "手柄だけとっていくような上司で"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-07T21:12:50",
+      "utterance": "手柄とは例えばどういったことでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-07T21:12:56",
+      "utterance": "相談しても聞くなオーラを出すし、そのくせミーティングではいい顔をします"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-07T21:16:18",
+      "utterance": "相談しても聞くなというオーラで、手柄をとっていい顔をする上司なんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-07T21:16:19",
+      "utterance": "上司の上司にはいい顔をして、チームの手柄はさも自分だけのおかげって態度です。それまでは全然相談に乗らなかったし、決裁も遅かったのに。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-07T21:16:29",
+      "utterance": "そうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-07T21:18:18",
+      "utterance": "目上の方にはいい顔をするんですね。それはムカッとしますね、、"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-07T21:18:45",
+      "utterance": "いやですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-07T21:19:37",
+      "utterance": "ちなみにその上司はあなたの直属の上司なのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-07T21:20:14",
+      "utterance": "そうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-07T21:21:33",
+      "utterance": "それは嫌にもなりますよね。分からないことがあって上司に相談しているのに聞くなオーラ出されたら、誰に相談したらいいのかってなりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-07T21:21:55",
+      "utterance": "そうなんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-07T21:23:16",
+      "utterance": "その上司は役職についてるかたでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-07T21:24:39",
+      "utterance": "リーダーです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-07T21:25:18",
+      "utterance": "リーダーがその方なんですね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-07T21:25:45",
+      "utterance": "他には相談できる上司はいたりしますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-07T21:26:18",
+      "utterance": "上司はいません"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-07T21:28:44",
+      "utterance": "そうなんですね、、部署にはお二人だけですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-07T21:28:59",
+      "utterance": "チームのメンバーがいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-07T21:29:52",
+      "utterance": "チームは何人でどんな方がいらっしゃるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-07T21:30:47",
+      "utterance": "全部で5人です"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-07T21:31:36",
+      "utterance": "いやなリーダーと、あと4人は階級は違いますが同僚です"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-07T21:32:29",
+      "utterance": "リーダーの方は他の同僚の方にも同じような態度をとっているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-07T21:32:56",
+      "utterance": "同じです"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-07T21:33:13",
+      "utterance": "チームみんなで困ってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-07T21:35:06",
+      "utterance": "そうなんですね。同僚の方ともリーダーのことでお話はよくされるんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-07T21:35:57",
+      "utterance": "よく話しますリーダーへの文句がたくさん出ます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-07T21:36:48",
+      "utterance": "他にどんな文句が出たりしますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-07T21:37:35",
+      "utterance": "他にというと？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-07T21:38:52",
+      "utterance": "相談しても聞くなオーラ出されたり、手柄だけ取ったりの他にも出たりしますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-07T21:40:15",
+      "utterance": "エピソード、ということですか？相談に乗ってもらえないのはしょっちゅうだから、毎日のようにその話が出ます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-07T21:41:30",
+      "utterance": "そうだったんですね、、ちなみにこのリーダーに困っていることは話したことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-07T21:43:27",
+      "utterance": "お互いに困ってるから、よく話します。リーダーは全然相談に乗らないくせに、プロジェクトが押してくると、さもわたしがいなくちゃダメだな、ことを言って介入してくるから、ほんとに腹が立ちます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-07T21:46:06",
+      "utterance": "それは腹立ちますね。別のチームの上司には相談できる方はいたりしますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-07T21:47:05",
+      "utterance": "前のプロジェクトリーダーだった人がいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-07T21:47:41",
+      "utterance": "その方にはこの件は話したことはありましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-07T21:48:21",
+      "utterance": "あります親身に聞いてくれました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-07T21:48:52",
+      "utterance": "それは心強いですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-07T21:49:24",
+      "utterance": "話した時どんな気持ちになりましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-07T21:49:41",
+      "utterance": "ですね。誰もいないよりうんといいです。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-07T21:51:12",
+      "utterance": "状況が変わるといいなと期待しました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-07T21:51:41",
+      "utterance": "状況は変化ありましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-07T21:52:02",
+      "utterance": "特にありませんでした"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-07T21:52:47",
+      "utterance": "ちなみにその相談した時にはあなた一人で相談されたんでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-07T21:53:08",
+      "utterance": "そうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-07T21:54:57",
+      "utterance": "そうだったんですね。ではもう一度今度はチーム皆でご相談してみるというのはいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-07T21:55:29",
+      "utterance": "そうですね。ありかもしれません。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-07T21:56:39",
+      "utterance": "でも別のチームリーダーは、うちのチームリーダーより押しが弱いので、前回同様むつかしいのかなと思ってしまいます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-07T21:57:24",
+      "utterance": "あなた一人だけじゃなくみんなが嫌な気持ちで困っていることなので、"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-07T22:00:25",
+      "utterance": "そうなんですね。ではこの嫌なリーダーとチームで話をするという事はかのうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-07T22:01:40",
+      "utterance": "わかりません。かなり自分本意の人で、こちらの意見はいつも聞き流すかシャットアウトですから。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-07T22:03:06",
+      "utterance": "ではその話し合いの場を先ほどの上司に作ってもらうように頼んでみるのはいかがでしょう？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-07T22:04:06",
+      "utterance": "別のチームなので、むつかしいと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-07T22:05:33",
+      "utterance": "そうですか、、一度チーム全体で話し合う機会がほしいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-07T22:06:21",
+      "utterance": "話し合って、どうにかなりそうなんでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-07T22:08:38",
+      "utterance": "一人で話すと矛先が向かないか心配で、、チーム皆が困っているというお話ができたらと思いましたが、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-07T22:09:34",
+      "utterance": "そうですね、同僚に相談してみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-07T22:11:35",
+      "utterance": "少しでも良い方向に変化するように願ってます。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-07T22:11:43",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-07T22:12:22",
+      "utterance": "すみません、そろそろ終了のお時間になりますがいかがでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-07T22:12:44",
+      "utterance": "はい、ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-03-07T22:13:39",
+      "utterance": "またいつでも相談に来てください。本日はありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2024-03-07T22:14:00",
+      "utterance": "はい。お世話さまでした。"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "上司とのコミュニケーション問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 6558,
+    "評価作成日時": "2024-03-08T18:04:00",
+    "クライアント役ID": 478,
+    "カウンセラー役ID": 443,
+    "点数": 61,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 6558,
+    "evaluation_created_at": "2024-03-08T18:04:00",
+    "client_id": 478,
+    "counselor_id": 443,
+    "score": 61,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

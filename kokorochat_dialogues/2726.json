@@ -1,0 +1,554 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-11-17T12:50:51",
+      "utterance": "本日はよろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T12:51:26",
+      "utterance": "こちらこそ、よろしくお願い致します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T12:52:02",
+      "utterance": "お時間になりましたら始めさせて頂きます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T12:52:30",
+      "utterance": "はい、お願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:00:14",
+      "utterance": "こんにちは相談員です。本日はお越し頂きありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:00:25",
+      "utterance": "こんにちはよろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:00:45",
+      "utterance": "よろしくお願いいたします。はじめにあなたの年齢と性別をお聞かせいただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:00:58",
+      "utterance": "32歳　女性です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:01:08",
+      "utterance": "ありがとうございます。本日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:01:23",
+      "utterance": "はい、子育てで悩んでいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:02:04",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:02:50",
+      "utterance": "子育てに関しまして、どのような事でお悩みでしたでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:03:31",
+      "utterance": "はい、子供をひどく叱ってしまって後で自己嫌悪になります"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:04:03",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:05:10",
+      "utterance": "子供さんに、何かして欲しい事があり言ってしまうのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:06:10",
+      "utterance": "お片付けを嫌がるとかお風呂は嫌とか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:06:32",
+      "utterance": "親御さんが、子供さんの為を思って少し口調が厳しくなる事は当然ありますよね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:06:50",
+      "utterance": "子供さんは、今何歳でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:07:02",
+      "utterance": "4歳です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:07:36",
+      "utterance": "そうなんですね。ちょうどイヤイヤ期真っ盛りそうですね…"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:07:47",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:08:08",
+      "utterance": "男の子でしょうか？女の子でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:08:18",
+      "utterance": "男の子です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:08:30",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:09:02",
+      "utterance": "嫌がるのは、お片付けとお風呂だけでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:09:24",
+      "utterance": "一日中です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:09:56",
+      "utterance": "それは、お辛いですね…"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:10:14",
+      "utterance": "子育てってしんどいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:11:05",
+      "utterance": "本当に大変ですよね…"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:11:12",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:11:28",
+      "utterance": "幼稚園へは、行かれてますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:11:43",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:12:15",
+      "utterance": "幼稚園のお友達とは、仲良くされていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:12:53",
+      "utterance": "幼稚園ではおとなしくて1人で遊ぶ事が多いみたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:13:20",
+      "utterance": "そうなんですね。穏やかなお子さんなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:13:59",
+      "utterance": "それでは、イヤイヤはお母様だけに向けられてそうですね…"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:14:23",
+      "utterance": "そうですね。多分そうだと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:15:30",
+      "utterance": "お母様は、口答えをされた時どのように思われる事が多いでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:16:04",
+      "utterance": "瞬間にイラっとして💦大声だしてしまいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:17:03",
+      "utterance": "それは、思わずそうなってしまいますよね…"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:17:10",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:17:51",
+      "utterance": "お母様も、それが続いてくるとしんどくなってきますね…"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:18:39",
+      "utterance": "そうなんです。でも後から可愛そうだったなあと思って泣きたくなります"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:18:55",
+      "utterance": "お母様自身、イライラして腹が立った時、どのように発散されてますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:19:26",
+      "utterance": "発散ですか？怒鳴り散らすのが発散かも"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:19:55",
+      "utterance": "そうですね…お優しいお母様ですね…可愛いお子さんを出来れば、怒鳴りたくないですよね…"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:20:14",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:20:43",
+      "utterance": "怒鳴り散らすのも、発散の一つなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:21:19",
+      "utterance": "おしりを、思いっきり叩いてしまう事もあってこれ以上酷いことをしてしまわないか自分がこわいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:22:16",
+      "utterance": "そうなんですね。お母様は、お子様に対して、もしかしたら何かしてしまわれる事を心配されているのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:23:24",
+      "utterance": "お母様は、今働かれていますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:23:47",
+      "utterance": "いえ、仕事はしていません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:24:14",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:26:08",
+      "utterance": "お母様のストレスを、何か違う事で発散出来たらと思われるのですが、"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:26:22",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:26:35",
+      "utterance": "何かお好きな事、得意な事はございますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:27:13",
+      "utterance": "手芸が好きですけど時間がありません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:27:44",
+      "utterance": "そうなのですね。確かに、育児と家事で毎日大変ですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:28:07",
+      "utterance": "幼稚園は帰ってくるのが早いので"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:28:37",
+      "utterance": "そうですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:29:04",
+      "utterance": "本当に、家にいると何かとする事は多いですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:29:50",
+      "utterance": "帰ってくるまでに掃除洗濯夕飯の用意までしなくちゃいけないので"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:31:51",
+      "utterance": "本当に大変です…夜子供さんが寝てからは、少しでもお母様の自由時間取れていますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:33:21",
+      "utterance": "取れないです。夜8時に一緒に寝て夜泣きもするので。朝は私は6時に起きますけど"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:34:27",
+      "utterance": "毎日一生懸命家族の事を考え、家族の身の回りの事をする日々だとお聞きし、素晴らしいお母様だと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:35:04",
+      "utterance": "ありがとうございます。でも普通だと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:35:57",
+      "utterance": "確かに、小さい子供さんがいるお家はそんな日常ですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:36:06",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:38:34",
+      "utterance": "男の子は女の子に比べて、遊び方も少しやんちゃだと思うので付き合うお母様も少し疲れる時もありますよね…"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:38:58",
+      "utterance": "はい　疲れます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:39:37",
+      "utterance": "子供が小さいうちは、体も心も疲れますね…"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:39:46",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:41:08",
+      "utterance": "お母様の心と体の気分転換を、時間を取らない事で何か一緒に考えたいと思うのですがいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:41:52",
+      "utterance": "気分転換をすれば、カッとしなくなりますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:45:07",
+      "utterance": "お母様は、カッとくる事に対してどのようにすればしなくなると思われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:46:12",
+      "utterance": "瞬間的なので良く分かりません後で冷静になると後悔します"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:48:43",
+      "utterance": "イヤイヤ期にカッとくるのは、当然だとは思います…"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:49:00",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:49:11",
+      "utterance": "カッと来ないお母さんなんて、いないのではないかと思う位です。でも皆さん何らかで、気分転換をして心をリラックスさせているような気がいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:49:39",
+      "utterance": "なるほど。そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:51:00",
+      "utterance": "お風呂にちょっと高い入浴剤入れたり、推しの男の人の韓国ドラマを見たりとか…"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:51:37",
+      "utterance": "なるほど"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:52:01",
+      "utterance": "本当に細やかな事でも良いので、お母様の心がワクワクしたりする事を日常に取り入れて、"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:52:11",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:53:57",
+      "utterance": "可愛いお子さんのイヤイヤ期を、乗り越えて頂きたいと思っております。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:54:11",
+      "utterance": "わかりましたありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:55:52",
+      "utterance": "そろそろお時間なのでここまでとさせて頂きますが、大丈夫でしたでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:56:13",
+      "utterance": "はい、ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:57:23",
+      "utterance": "こちらこそありがとうございました。お子さんのイヤイヤ期大変だと思われますが、お母様の心のケアも大事にしてくださいね。またお悩みが出てきましたら、いつでも相談にいらっしゃって下さい。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:58:01",
+      "utterance": "はい。何かリラックスできるものを探してみます。ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:58:46",
+      "utterance": "是非そうしてください！寒さも厳しくなってくる頃ですので、お子さん共に体調崩さないようご自愛ください。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:59:06",
+      "utterance": "それでは、これで失礼いたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T13:59:10",
+      "utterance": "はい今日はありがとございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T13:59:45",
+      "utterance": "（本日は、クライアント役ありがとうございました。色々ご指導頂けますよう、よろしくお願いいたします。）"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T14:00:22",
+      "utterance": "（こちらこそありがとうございました。勉強になりました。今後ともよろしくお願い致します）"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-17T14:01:07",
+      "utterance": "（終了していただいて大丈夫です(^^)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-17T14:01:22",
+      "utterance": "（こちらこそ、今度共よろしくお願いいたします。それでは、失礼いたします。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "子育てに関するストレスとイライラの解消方法"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2726,
+    "評価作成日時": "2021-11-17T14:36:00",
+    "クライアント役ID": 208,
+    "カウンセラー役ID": 238,
+    "点数": 49,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 2,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2726,
+    "evaluation_created_at": "2021-11-17T14:36:00",
+    "client_id": 208,
+    "counselor_id": 238,
+    "score": 49,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

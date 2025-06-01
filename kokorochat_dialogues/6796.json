@@ -1,0 +1,524 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:00:13",
+      "utterance": "おはようございます。相談員です、宜しくお願いします。初めに、年齢と性別、相談内容を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:01:34",
+      "utterance": "14歳女、学校行きたくない"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:03:08",
+      "utterance": "ありがとうございます。学校に行きたくないとのことですね。ではもう少し詳しくお話しできますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:04:24",
+      "utterance": "最近気が重くて、嫌だって感じます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:05:24",
+      "utterance": "そうでしたか、学校に行くことに気が重くて嫌だと感じているのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:05:44",
+      "utterance": "最近とはいつ頃からでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:06:11",
+      "utterance": "1カ月前"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:07:15",
+      "utterance": "学校に行きたくないと感じて１カ月間は学校には行っていないのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:07:45",
+      "utterance": "一応無理矢理行ってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:09:37",
+      "utterance": "そうでしたか、1ヶ月も嫌だと思っている学校に無理やり行って闘い続けて来られたんですね。すごく苦しかったですね、、"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:10:09",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:10:43",
+      "utterance": "ちなみに今は学年は何年生ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:11:05",
+      "utterance": "中3です"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:12:08",
+      "utterance": "1か月前から嫌だと感じているとのことでしたが"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:12:23",
+      "utterance": "何かきっかけはありましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:12:32",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:12:53",
+      "utterance": "お聞きしてもよろしいでしか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:13:17",
+      "utterance": "クラス替えがありました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:14:08",
+      "utterance": "新しい学年になってクラス替えがあったんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:14:28",
+      "utterance": "それでどうされましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:14:46",
+      "utterance": "メンバーが変わり戸惑ってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:16:15",
+      "utterance": "そうでしたか、、今まで仲良しのお友達は離れてしまったのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:16:33",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:17:44",
+      "utterance": "それは戸惑ってしまいますね、、今までも学年が上がるたびにクラス替えはあったと思いますがその時はどうだったんでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:18:04",
+      "utterance": "大丈夫でした"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:19:11",
+      "utterance": "では今回のクラス替えと今までのクラス替えの違いはどんなところですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:20:01",
+      "utterance": "嫌な人と一緒になりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:20:59",
+      "utterance": "それは戸惑うのも自然の事ですね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:21:44",
+      "utterance": "嫌な人はお一人ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:21:51",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:22:32",
+      "utterance": "嫌になった出来事はどんなことがありましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:23:19",
+      "utterance": "昔好きで告白して、振られました。その人が隣の席になり、気まずいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:24:21",
+      "utterance": "そうだったのですね。それも隣の席、、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:24:45",
+      "utterance": "その後はお話はされていないのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:24:51",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:26:30",
+      "utterance": "では、その方からも話しかけたりはしてこないですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:26:58",
+      "utterance": "久しぶりくらいの軽い話はしましたが、あとはしてない"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:28:09",
+      "utterance": "そうですか、あなたから見て今その方はどんな風に見えてますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:28:26",
+      "utterance": "気まずい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:29:10",
+      "utterance": "その方も気まずそうにされているのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:29:30",
+      "utterance": "それはどんなことからそう思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:30:36",
+      "utterance": "あまり、話せないし、自然じゃないから"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:31:19",
+      "utterance": "そうでしたか、、お互いそんなお気持ちになっているんですね"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:31:41",
+      "utterance": "向こうはわかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:33:23",
+      "utterance": "そうですね、、お互い同じ気持ちかもしれないし、その方は昔のことは気にしていないかもしれませんし、わかりませんよね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:33:44",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:33:54",
+      "utterance": "ではあなたはその方のことは今はどう思われていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:34:28",
+      "utterance": "まだ好きですが、振られたので恥ずかしい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:35:46",
+      "utterance": "好きだからこそ今の戸惑いが出てくるんですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:36:12",
+      "utterance": "ではあなたはこれからどうなっていきたいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:36:29",
+      "utterance": "わかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:38:12",
+      "utterance": "では、質問変えますね。今の戸惑いと恥ずかしさはどうなったら小さくなりそうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:40:33",
+      "utterance": "この一年、その子と離れていてあまり考えなかったので、その子が、いなくなれば楽になるかと思いました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:42:55",
+      "utterance": "そうでしたか忘れようとしているけど、忘れられずに好きという想いがあるように見えましたが、いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:43:25",
+      "utterance": "はい、そうかもしれないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:44:32",
+      "utterance": "無理に忘れようとすると忘れられないってありますよね"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:44:49",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:44:57",
+      "utterance": "無理に忘れなくてもいいとおもいます"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:45:22",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:45:54",
+      "utterance": "人を時間がたっても好きというのは素敵なことです！"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:46:16",
+      "utterance": "一途で素敵です"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:46:24",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:47:10",
+      "utterance": "とても魅力のある方なんですね"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:47:23",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:47:42",
+      "utterance": "どんなところが魅力に感じましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:47:54",
+      "utterance": "イケメン"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:48:10",
+      "utterance": "他にもありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:48:22",
+      "utterance": "性格"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:49:41",
+      "utterance": "性格も魅力に感じたのは以前は良くお話しされていたんですね！"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:49:54",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:50:06",
+      "utterance": "ではこれからもお話ししたいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:50:16",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:50:36",
+      "utterance": "そっか、お話ししたいけど恥ずかしいですね"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:50:52",
+      "utterance": "気まずい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:51:11",
+      "utterance": "でも好きな人と隣の席になるチャンスはもう来ないかもしれないし。すごい確率だとおもいましたが、いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:51:55",
+      "utterance": "そういう考え方もありますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:52:50",
+      "utterance": "もし、これからお話しできる隣の席にもうならないとしたら、あなたは今どうしたいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:53:48",
+      "utterance": "もう話せない"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:53:57",
+      "utterance": "だからあきらめる"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:54:42",
+      "utterance": "なんで今更隣に来て運命のイタズラで、最悪"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:55:02",
+      "utterance": "死にたくなりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:56:37",
+      "utterance": "そっかそっか。運命のいたずらがあったのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:57:24",
+      "utterance": "お友達はお話しされていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T10:57:45",
+      "utterance": "話せなくて悩んでここに来ました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T10:59:38",
+      "utterance": "そろそろ時間になりますが、ここまで話してどうでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T11:00:20",
+      "utterance": "はい、素直に話ができる人がいなかったので、少し話ができて楽になりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T11:02:24",
+      "utterance": "すみません、今回ではここまでしかお話しできませんでしたが、また後日もう少し一緒に考えていきたいのですが、また相談に来てください。"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T11:02:46",
+      "utterance": "はい、もう時間なんですね。ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T11:04:06",
+      "utterance": "素直で素敵なあなたの力になれるようにお待ちしています！"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-29T11:04:17",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-29T11:04:34",
+      "utterance": "ありがとうございました。では、失礼します"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "クラス替えによる人間関係の戸惑い"
+  },
+  "review_by_client_jp": {
+    "評価ID": 6796,
+    "評価作成日時": "2024-04-29T11:34:00",
+    "クライアント役ID": 449,
+    "カウンセラー役ID": 443,
+    "点数": 50,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 2,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 2,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 6796,
+    "evaluation_created_at": "2024-04-29T11:34:00",
+    "client_id": 449,
+    "counselor_id": 443,
+    "score": 50,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

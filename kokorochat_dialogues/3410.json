@@ -1,0 +1,539 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-04-24T09:50:30",
+      "utterance": "おはようございます。時間になりましたら、始めさせていただきます。どうぞよろしくお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T09:52:41",
+      "utterance": "おはようございますこちらこそ、宜しくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:00:03",
+      "utterance": "おはようございます。相談員です。最初に、年齢と性別を教えていただけますか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T10:00:37",
+      "utterance": "おはようございます40代女性です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:01:01",
+      "utterance": "教えてくださってありがとうございます。今日は、どのようなご相談でしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T10:01:43",
+      "utterance": "甘いものや間食が止められません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:02:37",
+      "utterance": "そうなのですね。甘いものがお好きなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T10:02:52",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:03:28",
+      "utterance": "ええ。止めたいなと思うのは、どうしてですか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T10:04:15",
+      "utterance": "太るので止めたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:04:38",
+      "utterance": "そのように思っていらっしゃるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T10:04:54",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:05:07",
+      "utterance": "それで、やめられないと、気になりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T10:05:30",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:06:23",
+      "utterance": "ええ。どんなときに甘いものを食べたくなるのですか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T10:07:53",
+      "utterance": "いつでもですが、特に疲れた後や食後とか、映画とか見てる間とかですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:10:01",
+      "utterance": "そうなのですね。食べたくなりますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:10:14",
+      "utterance": "食べたあと、どんな気持ちになりますか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T10:11:05",
+      "utterance": "満足したり、幸せな気持ちになりますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:12:27",
+      "utterance": "ええ。そうですよね。間食は、どんな感じでとっているのですか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T10:13:39",
+      "utterance": "夕食前、ちょっと小腹が空いたなという時とかですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:14:08",
+      "utterance": "食べたくなりますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:14:20",
+      "utterance": "間食は、どれくらいの量を食べる感じですか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T10:15:10",
+      "utterance": "夕食前なのでそんなに多くはないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:15:21",
+      "utterance": "考えて食べていらっしゃるのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:15:47",
+      "utterance": "先程、お話していた甘いものの量はどんな感じですか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T10:17:44",
+      "utterance": "例えば、コンビニのスイーツコーナーとかで売っているスイーツ１個くらいの感じですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:18:10",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:19:01",
+      "utterance": "お話を伺っていると、甘いものも、間食も、量をたくさん摂っている感じではないようですが、どういったところが気になりますか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T10:20:13",
+      "utterance": "一日の量は多くなくても、毎日続くのはダメなのではないかと思うんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:20:46",
+      "utterance": "そういうことなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:21:39",
+      "utterance": "気になりますよね。太ることを気にされているようでしたが、実際、今はどんな感じなのですか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T10:24:02",
+      "utterance": "昨年ダイエットプログラムに参加して、それなりにはうまくいって、なんとか維持はしているのですが、このままだとまた増えてしまいそうで嫌なのです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:24:39",
+      "utterance": "努力をされたのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:24:59",
+      "utterance": "せっかくがんばったのだから、キープしたいですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T10:25:12",
+      "utterance": "そうなんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:25:32",
+      "utterance": "その、ダイエットプログラムはどのような内容だったのですか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T10:25:33",
+      "utterance": "頭では分かっているのですが…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:25:50",
+      "utterance": "かぶって、失礼しました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T10:26:50",
+      "utterance": "ジムでのトレーニング、エステ、栄養士さんの食事管理です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:27:08",
+      "utterance": "しっかりした内容だったのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:27:15",
+      "utterance": "どれくらいの期間、取り組まれたのですか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T10:27:40",
+      "utterance": "２ヶ月のプログラムでした"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:28:04",
+      "utterance": "2か月の間、徹底して努力された感じですか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T10:28:19",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:28:48",
+      "utterance": "がんばって過ごされたのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:29:04",
+      "utterance": "どんなことが大変でしたか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T10:29:06",
+      "utterance": "頑張りました甘いものも間食も一切しませんでした"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:29:15",
+      "utterance": "一切、なんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T10:30:13",
+      "utterance": "トレーニングがきつかったです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:30:45",
+      "utterance": "そうなんですね。どんなトレーニングでしたか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T10:32:14",
+      "utterance": "色々やりましたが、パーソナルトレーナーさんがつきっきりなので、なかなか辛かったです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:32:58",
+      "utterance": "負荷のかかることを、しっかりこなされていたのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:33:16",
+      "utterance": "そういったことをしたあと、甘いものも間食も一切なし、というのは過酷ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T10:34:18",
+      "utterance": "やると決めたからには、頑張りたかったんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:34:46",
+      "utterance": "決意されていたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T10:35:04",
+      "utterance": "不思議とあまり甘いものを食べたいという気持ちもなかったです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:35:37",
+      "utterance": "そうなのですね。本当に、一生懸命だったのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T10:35:55",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:36:16",
+      "utterance": "最初から2か月と決めていたのですか。それとも、目標の体重などが達成できたから終了した感じですか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T10:36:56",
+      "utterance": "２ヶ月限定のプログラムでした"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:38:01",
+      "utterance": "そうだったのですね。2か月もの間、本当にがんばってこられましたね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:38:19",
+      "utterance": "プログラムが終了したとき、何かアドバイスなどありましたか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T10:39:07",
+      "utterance": "ありがとうございます継続して下さいねと言われました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:39:37",
+      "utterance": "ええ。それを聞いて、どのように思われましたか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T10:41:16",
+      "utterance": "しばらくは継続出来てましたでも、クリスマスやお正月など色々とイベントがあった頃あたりから、段々とゆるんできてしまいました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:42:36",
+      "utterance": "そうだったのですね。イベントのときは、気が緩むのも無理がないことだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:43:51",
+      "utterance": "2か月のプログラムを終えて、いま、どれくらい経っているのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T10:44:34",
+      "utterance": "約８ヶ月です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:45:21",
+      "utterance": "8か月も経っているのに、もうやめた！とはならずに、ずっと意識を保ちながら過ごすことができているのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:45:42",
+      "utterance": "意識の高さを感じます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T10:46:08",
+      "utterance": "そうですかね…ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:46:43",
+      "utterance": "ええ。いま、トレーニングや栄養はどんな感じですか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T10:48:31",
+      "utterance": "ヨガを続けているのと、食事自体は栄養士さんに言われたことは極力守るように自炊しています"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:48:52",
+      "utterance": "素晴らしいですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:49:00",
+      "utterance": "そのようなご自身のことをどう思われますか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T10:51:11",
+      "utterance": "自分では甘いものや間食が増えたことがダメだなと思うのですが、周りの人達からは、頑張ってるね！と驚かれますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:52:09",
+      "utterance": "そうなのですね。私から見ても、本当にがんばっていらっしゃると思います。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T10:52:23",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:53:44",
+      "utterance": "ええ。甘いものや間食が増えたといっても、プログラム中の「一切なし」というのが特別なのであって、今現在も、しっかり考えながら摂っていらっしゃるように思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:54:11",
+      "utterance": "今の体調や、体型などは、どのように感じていらっしゃいますか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T10:54:46",
+      "utterance": "今は悪くないと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:54:55",
+      "utterance": "よかったです。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T10:56:07",
+      "utterance": "でも、スイーツを目の前にすると、いつも凄い葛藤です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:57:30",
+      "utterance": "そうなのですね。あれほど、がんばってプログラムをこなされましたものね。葛藤を感じて当然だと思います。でも、その葛藤があるからこそ、量をセーブすることができていると思います。甘いものを食べたときに感じる、満足感や幸せな気持ちって、大切だと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T10:58:37",
+      "utterance": "努力し、がんばっておられる相談者さんだからこそ、そんな幸せな時間も味わってもらいたいな、と思うのですが、いかがでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T11:00:08",
+      "utterance": "そうですねただ、毎日食べるのは止めたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T11:00:28",
+      "utterance": "ええ。そういう思いがおありなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T11:01:06",
+      "utterance": "たとえば、1週間に1日だけ、食べない日をつくってみるというのは、どうでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T11:01:47",
+      "utterance": "そうですねやってみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T11:02:33",
+      "utterance": "最初は、つらく感じるかもしれませんが、相談者さんならできると思います。残念ながら、時間がきてしまいました。もし、また、お困りの状況になることがありましたら、いつでもお越しください。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T11:02:54",
+      "utterance": "はいありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-24T11:03:26",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-24T11:03:38",
+      "utterance": "(カウンセラー役、お疲れ様でした)"
+    }
+  ],
+  "topic": {
+    "main_jp": "身体的健康問題",
+    "main_en": "Physical Health Issues",
+    "sub": "ダイエットと間食の管理問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3410,
+    "評価作成日時": "2022-04-24T14:24:00",
+    "クライアント役ID": 277,
+    "カウンセラー役ID": 266,
+    "点数": 63,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 2,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3410,
+    "evaluation_created_at": "2022-04-24T14:24:00",
+    "client_id": 277,
+    "counselor_id": 266,
+    "score": 63,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 5,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 2,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

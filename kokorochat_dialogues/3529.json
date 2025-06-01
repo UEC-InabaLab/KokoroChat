@@ -1,0 +1,484 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-05-23T09:51:13",
+      "utterance": "（おはようございます。本日はよろしくお願いいたします。）"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T09:51:28",
+      "utterance": "おはようございます。よろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T09:52:06",
+      "utterance": "（時間になりましたら始めさせていただきます。）"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T09:53:18",
+      "utterance": "はい。わかりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:00:16",
+      "utterance": "おはようございます。相談員です。本日はお越しいただきありがとうございます。はじめに年齢、性別を教えていただいてもよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T10:00:42",
+      "utterance": "おはようございます。30代　女性です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:01:12",
+      "utterance": "教えていただきありがとうございます。本日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T10:01:53",
+      "utterance": "上の子に、つい厳しくしてしまう自分が嫌だなと思って。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:03:13",
+      "utterance": "なるほどですね上の子、というのはご自身のお子様でよろしかったでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T10:03:19",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:04:10",
+      "utterance": "ご家族についてのご相談ですねそれはお悩みになりますよね"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T10:04:19",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:05:07",
+      "utterance": "厳しくしてしまったと感じるのはどういった場面でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T10:05:30",
+      "utterance": "自分のことは自分でやって、と言ったときとか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:06:03",
+      "utterance": "ええそうなのですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T10:06:09",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:07:15",
+      "utterance": "そういったことを言ったあとに、厳しかったかなと、ご自分で思ってしまうのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T10:07:47",
+      "utterance": "あとになってそう思う感じです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:08:29",
+      "utterance": "そのようなことがあったのですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T10:08:36",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:09:01",
+      "utterance": "そのように思うようになったのはいつ頃からでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T10:09:31",
+      "utterance": "上の子が小学生なってから特に。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:10:32",
+      "utterance": "そうでしたかいま上のお子様は小学生なのですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T10:10:45",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:12:27",
+      "utterance": "上の子以外のお子様に対してはどのように感じていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T10:12:42",
+      "utterance": "かわいいと感じます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:13:19",
+      "utterance": "ええそのように思っておられるのですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T10:13:25",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:14:37",
+      "utterance": "厳しいことを言ってしまうと感じるのは上の子だけに、ということでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T10:14:45",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:16:16",
+      "utterance": "なるほどですね上の子に厳しくしてしまうのはどうしてだとご自身で思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T10:16:57",
+      "utterance": "言えば聞くから、ですかね。。。よくわからないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:18:56",
+      "utterance": "そうなのですねお子様はそういったときに、どのように反応されますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T10:19:15",
+      "utterance": "しぶしぶやっている感じです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:19:56",
+      "utterance": "ええそうだったのですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T10:20:05",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:21:37",
+      "utterance": "お子様と接するときに、どのように接していきたいと思われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T10:22:44",
+      "utterance": "子どもの気持ちに寄り添うことができたらと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:23:29",
+      "utterance": "お子様の気持ちを理解したいというお気持ちですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:24:02",
+      "utterance": "お子様のことをとても大事に思われているのですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T10:25:05",
+      "utterance": "理解はするけど、でもやるべきことはやってほしいし、という感じです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:25:43",
+      "utterance": "ええそのように思われているのですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T10:26:02",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T10:28:23",
+      "utterance": "寄り添うって言いましたけど、よくわからないです。厳しくしくするのもよくないでしょうし、好きなことを好きなようにやらせているのも、どうなんでしょう？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:29:08",
+      "utterance": "そのようにお考えなのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:30:17",
+      "utterance": "大切なお子様に寄り添っていきたいお気持ちと、小学生になったので自立心を持って欲しいというお気持ち、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:31:08",
+      "utterance": "そんな思いをどのようにしてお子様に向けていけばいいか悩まれている、という感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T10:32:32",
+      "utterance": "そんな感じかもしれません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:33:12",
+      "utterance": "ええそう思われるのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:33:44",
+      "utterance": "大切に思っておられるからこそのお悩みですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T10:33:54",
+      "utterance": "期待しすぎなのかもしれません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:34:25",
+      "utterance": "そう感じるのですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T10:34:51",
+      "utterance": "はい。そのようにも感じます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:35:46",
+      "utterance": "ええこういったお話はご主人や他の方にはされたりしますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T10:36:57",
+      "utterance": "お母さん仲間だと時々でる話です。上の子には厳しく、下の子には甘くなりがち、と。そんなもんかと思いながら、でも、このままでは、上の子がかわいそうな感じがして。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T10:38:28",
+      "utterance": "お母さん仲間と話して、気は楽になる感じはしますが、モヤモヤは解決はしないので、こちらに伺いました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:39:30",
+      "utterance": "そうだったのですね少しでもお役に立てればと思います"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T10:39:40",
+      "utterance": "お願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:41:45",
+      "utterance": "ご自身ではどのように育てていきたい、という思いはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T10:42:42",
+      "utterance": "育てていきたいというより、育ってほしい、というところで自立した人間になってほしいと思っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:43:18",
+      "utterance": "なるほどですねそのような思いなのですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T10:43:27",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:44:33",
+      "utterance": "自立させるのには時には厳しさも必要かなと私は感じるのですが、いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T10:45:23",
+      "utterance": "はい。そう思って厳しく言う場面があります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:48:00",
+      "utterance": "ええ厳しく接するのは苦しい部分もあるかと思いますが、お子様の為になっているのかなと感じております"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T10:48:14",
+      "utterance": "そうなのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T10:48:44",
+      "utterance": "でも、そんな自分が嫌だなと思うのです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:49:16",
+      "utterance": "そのように思っておられるのですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T10:49:48",
+      "utterance": "はい。最初に申し上げたとおりです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:52:56",
+      "utterance": "今日お話を聞かせていただいて、お子様に対して愛情を持っておられると感じました、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:54:39",
+      "utterance": "お子様もその愛情が伝わっている部分があるのでは？と思いましたがいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T10:55:33",
+      "utterance": "まっすぐ伝わっていればいいのですが、そうでないかもしれない不安もあります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:56:37",
+      "utterance": "ええお子様のお気持ち、簡単には分からないですよね"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T10:56:47",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T10:59:33",
+      "utterance": "ええ本日はそろそろお時間になりますが、少しでもお役に立てましたでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T10:59:57",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T11:02:59",
+      "utterance": "こちらこそ大切なお話ありがとうございました。またいつでもご相談にお越しくださいね"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T11:03:12",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T11:03:31",
+      "utterance": "失礼いたします"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T11:03:36",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T11:04:30",
+      "utterance": "（相談者役お疲れさまでした。上手く締めれずすみません、、時間あるときに評価とコメントいただければと思います）"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-23T11:04:59",
+      "utterance": "いえいえ。おつかれさまでした。のちほど、コメント送らせていただきます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-23T11:05:31",
+      "utterance": "（ありがとうございました。失礼いたします）"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "上の子に対する育て方の不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3529,
+    "評価作成日時": "2022-05-23T13:33:00",
+    "クライアント役ID": 266,
+    "カウンセラー役ID": 280,
+    "点数": 53,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 2,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3529,
+    "evaluation_created_at": "2022-05-23T13:33:00",
+    "client_id": 266,
+    "counselor_id": 280,
+    "score": 53,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,944 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-05-28T18:54:18",
+      "utterance": "こんにちは。本日はよろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T18:54:46",
+      "utterance": "こちらこそ宜しくお願い致します"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T18:54:48",
+      "utterance": "時間になりましたら、はじめさせていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T18:55:03",
+      "utterance": "はい、お願い致します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:00:44",
+      "utterance": "こんにちは。相談員です。本日はご相談にお越しいただきありがとうございます。 差し支えなければ、はじめにご年齢と性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:01:14",
+      "utterance": "13才、女"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:01:42",
+      "utterance": "ありがとうございます。今日はどのようなご相談ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:02:10",
+      "utterance": "同じ部活の先輩を好きになってます"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:02:45",
+      "utterance": "LINEでやり取りしてますが"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:02:45",
+      "utterance": "ええ、そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:03:01",
+      "utterance": "ええ(聞いていますね)"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:03:18",
+      "utterance": "この間は彼女いますかって聞いたら"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:03:33",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:03:48",
+      "utterance": "仲良くなった人にしか教えないんだって言われました"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:04:16",
+      "utterance": "これってどういう意味なんだろうなと思いまして"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:04:43",
+      "utterance": "ええ…教えてもらえなかったんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:04:51",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:05:29",
+      "utterance": "私のこと本当はどう思っているんだろう？考えちゃいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:05:57",
+      "utterance": "ええ。何で教えてくれなかったのかな、と疑問に思いますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:06:13",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:06:56",
+      "utterance": "その言葉を聞いたときは、どんな思いが頭に浮かんできましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:07:45",
+      "utterance": "えっ仲良くなった人にしか教えないって何なんだろう？って思いました"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:08:08",
+      "utterance": "私はまだ仲良くないっていうこと？かなって"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:08:39",
+      "utterance": "うんうん。そう思うのも無理はないと思いますよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:08:59",
+      "utterance": "モヤモヤを感じますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:09:00",
+      "utterance": "本当は彼女いるんでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:09:14",
+      "utterance": "モヤモヤします"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:09:42",
+      "utterance": "どう思いますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:09:58",
+      "utterance": "私は彼女がいるかはまだ判断できかねると思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:10:15",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:11:13",
+      "utterance": "では、あなたの力になりたいので、お話を聞かせてくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:11:31",
+      "utterance": "はい、お願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:11:53",
+      "utterance": "はい。かしこまりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:13:16",
+      "utterance": "その先輩は彼女さんがいる、というお話は聞いたことはありましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:13:47",
+      "utterance": "女子の先輩にきいてみたのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:14:04",
+      "utterance": "はい(聞いています)"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:14:40",
+      "utterance": "いないと思うよと言ってました。好きって言ってる人聞いたこと無いって言ってました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:15:17",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:15:46",
+      "utterance": "その言葉を聞いて、どう思いましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:16:04",
+      "utterance": "えっそうなんだ、"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:16:20",
+      "utterance": "あんなにかっこいいのに"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:16:39",
+      "utterance": "いないはずがないって思いました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:17:01",
+      "utterance": "そうなのですね。いないはずがない、と感じたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:17:09",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:18:06",
+      "utterance": "ちなみに、その先輩は「仲良くなった人にしか教えないんだ」と言ってましたが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:18:27",
+      "utterance": "その後は先輩とどうお話しましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:19:35",
+      "utterance": "そうなんですかって思って、それ以上聞けなくなって他の話になりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:21:06",
+      "utterance": "なるほど、そうだったんですね。でも、質問しづらかったですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:21:27",
+      "utterance": "はい、聞けなかったです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:22:58",
+      "utterance": "そうですよね。「彼女いますか？」と聞いたとき、先輩の様子はどうでしたか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:23:23",
+      "utterance": "何か様子に変化はなかったですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:24:05",
+      "utterance": "それは…みたいな感じで"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:24:22",
+      "utterance": "仲良くなった人にしか教えないって"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:24:31",
+      "utterance": "かえってきて"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:25:07",
+      "utterance": "うんうん、"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:25:23",
+      "utterance": "いつも私の方から話かけてないと話してくれないので"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:25:46",
+      "utterance": "はい(聞いていますね)"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:26:01",
+      "utterance": "本当は私のことどう思ってるんだろうって"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:26:26",
+      "utterance": "遊びではぐらかしてるだけなのでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:27:18",
+      "utterance": "ただ教えたくないのか、何か気持ちを隠しているのか、色々考えられそうですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:27:44",
+      "utterance": "そうなんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:28:31",
+      "utterance": "話の途中ですが、あなたのことを何とお呼びしたらいいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:28:40",
+      "utterance": "ニックネームでも構いません。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:28:46",
+      "utterance": "さおり　です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:29:08",
+      "utterance": "さおりさんですね、ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:29:38",
+      "utterance": "さおりさんは、今回一番相談したい点はどんなことになりますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:30:28",
+      "utterance": "LINEでやり取りして話はするけど"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:30:39",
+      "utterance": "うんうん、"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:30:51",
+      "utterance": "そうやって彼女のこととか聞くと"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:31:11",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:31:13",
+      "utterance": "教えてくれない感じなので"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:31:52",
+      "utterance": "本当はどう思ってるんだろう？って思っちゃいます"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:32:16",
+      "utterance": "相談員さんはどう思いますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:32:57",
+      "utterance": "そうですよね、先輩の気持ちが分かりにくいですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:33:05",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:33:52",
+      "utterance": "私はいないのに何回もはぐらかすかな？と思いました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:34:14",
+      "utterance": "はい、そうなんですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:34:16",
+      "utterance": "何回も隠すのが不自然に感じます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:35:02",
+      "utterance": "ということは、いるっていうことでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:35:13",
+      "utterance": "ただ、先輩の気持ちの本当のところがまだ分からないので、一緒に考えていきましょうね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:35:43",
+      "utterance": "はい、やっぱりいるのかな…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:36:02",
+      "utterance": "どうでしょう？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:36:27",
+      "utterance": "証拠がないので、まだ分からないです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:36:45",
+      "utterance": "たしかにそうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:37:15",
+      "utterance": "でもいずれにせよ、「先輩の気持ちが知りたい」ですよね。気持ちさえ分かれば、スッキリしますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:37:24",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:38:10",
+      "utterance": "ちなみに、LINEのやりとりは、どのくらい続いていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:38:29",
+      "utterance": "1ヶ月くらいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:39:11",
+      "utterance": "そうだったんですね。先輩の様子はどうですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:39:56",
+      "utterance": "様子というより、LINEのやりとりの雰囲気です。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:40:20",
+      "utterance": "様子はあまり変わらないですが、いつも私の方から連絡しないとむこうから連絡はくれません"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:40:46",
+      "utterance": "雰囲気ですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:41:05",
+      "utterance": "うんうん(聞いていますね)"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:41:33",
+      "utterance": "最初よりは少しずつ色々話すようなにはなっかなって"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:41:56",
+      "utterance": "部活も一緒ですし、塾の話とか"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:42:14",
+      "utterance": "私から色々聞いたりしますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:42:32",
+      "utterance": "うんうん、少しずつ距離が近づいている証拠のように感じますね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:42:46",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:43:24",
+      "utterance": "でも、先輩から話かけてくれないのは、少し不安に感じませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:43:37",
+      "utterance": "はい、そうなんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:44:35",
+      "utterance": "そうですよね。「聞いてくれないのは興味ないのかな」と不安を感じるのも無理はないと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:45:10",
+      "utterance": "ただ、全員がそういうわけではないと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:45:43",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:46:17",
+      "utterance": "中には「ただ、何を話したらいいか」と考えすぎちゃう人もいますからね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:46:39",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:47:30",
+      "utterance": "でもLINEのやりとりは距離が縮まっていく可能性も感じます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:47:53",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:49:23",
+      "utterance": "さおりさんは、ご自身の解決のために、何かできそうなことはありますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:49:28",
+      "utterance": "例えば、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:50:26",
+      "utterance": "帰り道に先輩と一緒に帰ったりなどです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:51:36",
+      "utterance": "今度あいさつに行きますねって送って、それっきり実はあいさつに行けていません"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:51:58",
+      "utterance": "どう声掛けたらいいか迷ってしまって"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:52:31",
+      "utterance": "うんうん、、何て声かけるか、悩みますよね"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:52:57",
+      "utterance": "声出したらいいのか、会釈だけでいいのか…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:53:52",
+      "utterance": "うんうん。会釈に合わせて、声をかけてくれたら、嬉しいと思いますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:54:02",
+      "utterance": "本当は先輩はどう思っているんでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:54:29",
+      "utterance": "相談員さんの考えでいいので聞かせてもらえますか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:54:57",
+      "utterance": "はい、私のご提案でもよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:55:10",
+      "utterance": "はい、お願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:55:23",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:56:29",
+      "utterance": "まずは、その先輩と仲良い先輩に(再度)聞いて、情報を得る"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:56:49",
+      "utterance": "という方法が一つあると思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:56:54",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:58:03",
+      "utterance": "あとは、先輩ともっと仲良くなること。先輩は奥手で、あまり心を開かない人なのかもしれないです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:58:25",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T19:59:19",
+      "utterance": "そのために、もっとお話して、何か先輩の変化はないか、みてくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T19:59:44",
+      "utterance": "変化ですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T20:00:00",
+      "utterance": "はい。例えば、"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T20:00:10",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T20:00:32",
+      "utterance": "先輩から話かけてくれるようになった、とか、"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T20:00:57",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T20:01:06",
+      "utterance": "先輩の返信が前より早くなった、とかです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T20:01:19",
+      "utterance": "なるほど"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T20:02:15",
+      "utterance": "最後は「直接本人に聞いてみる」という方法もありますが、まずは距離を縮めていく方がさおりさんにとって、いいのかなと思いました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T20:02:43",
+      "utterance": "はい、そうかもしれません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T20:03:42",
+      "utterance": "はいそうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T20:04:16",
+      "utterance": "人の心は、本当に分かりにくいものです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T20:04:56",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T20:05:28",
+      "utterance": "でも話を重ねることで少しずつ見えてくるものがありますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T20:05:52",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T20:05:52",
+      "utterance": "さおりさんは、お話聞いてみて、いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T20:06:29",
+      "utterance": "今のLINEでのやり取りを続けてみて"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T20:06:43",
+      "utterance": "うんうん(聞いていますね)"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T20:06:52",
+      "utterance": "変化をみるということですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T20:07:40",
+      "utterance": "はい、そう思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T20:07:48",
+      "utterance": "変化無かったら諦めた方がいいのでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T20:08:36",
+      "utterance": "変化が気づきにくい場合も少なくはないと思うので、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T20:09:26",
+      "utterance": "その際は、直接先輩と話す機会を作っていただけたらと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T20:09:42",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T20:10:02",
+      "utterance": "直接は勇気いります"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T20:10:26",
+      "utterance": "緊張しますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T20:10:35",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T20:11:39",
+      "utterance": "例えば、家で「次は何を質問しようかな」とか、友人に「どう話すか？」と質問してみるのも手だと思いますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T20:12:04",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T20:12:21",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T20:12:36",
+      "utterance": "やってみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T20:13:34",
+      "utterance": "ええ。「受験が大事」と言う人もいますが、この中学時代って、大人になってからやり直すことはできないので、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T20:14:06",
+      "utterance": "恋愛は大事にしてくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T20:14:20",
+      "utterance": "はい、分かりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T20:14:56",
+      "utterance": "何かご質問等なければ、これで終了しますが、何かありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T20:15:06",
+      "utterance": "大丈夫です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T20:15:25",
+      "utterance": "かしこまりました。それでは終了させていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T20:15:40",
+      "utterance": "はい、ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T20:15:51",
+      "utterance": "私の提案は強制ではないので、その点はご安心くださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T20:16:09",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T20:16:16",
+      "utterance": "分かりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T20:16:26",
+      "utterance": "本日はありがとうございました。さおりさんのこと、応援しています！！"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T20:16:55",
+      "utterance": "それでは失礼いたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T20:17:02",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T20:17:07",
+      "utterance": "失礼します"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T20:17:49",
+      "utterance": "(ありがとうございました。お時間ある際に評価していただけると幸いです。)"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T20:17:54",
+      "utterance": "(お疲れ様でした！)"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T20:18:14",
+      "utterance": "(とても勉強になりました)"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-28T20:18:42",
+      "utterance": "(評価の方了解いたしました。それでは失礼いたします)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-28T20:18:47",
+      "utterance": "(ありがとうございました。お時間長引き失礼しました。それでは終了させていただきます。)"
+    }
+  ],
+  "topic": {
+    "main_jp": "恋愛問題",
+    "main_en": "Romantic Issues",
+    "sub": "先輩とのコミュニケーションの取り方"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1940,
+    "評価作成日時": "2021-05-28T21:08:00",
+    "クライアント役ID": 39,
+    "カウンセラー役ID": 136,
+    "点数": 80,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 5,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 5,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 5,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 4,
+    "要約": 3,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1940,
+    "evaluation_created_at": "2021-05-28T21:08:00",
+    "client_id": 39,
+    "counselor_id": 136,
+    "score": 80,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

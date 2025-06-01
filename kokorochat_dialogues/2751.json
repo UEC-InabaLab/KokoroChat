@@ -1,0 +1,624 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-11-21T12:51:18",
+      "utterance": "本日は、よろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T12:54:18",
+      "utterance": "こちらこそよろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T12:54:43",
+      "utterance": "お時間になりましたら、始めさせて頂きます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T12:55:04",
+      "utterance": "承知しました。設定等でご希望ありますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T12:57:11",
+      "utterance": "特には無いです。ありがとうございます！"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:00:14",
+      "utterance": "こんにちは相談員です。本日はお越し頂きありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:00:40",
+      "utterance": "はじめにあなたの年齢と性別をお聞かせいただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:00:52",
+      "utterance": "34歳女性です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:01:03",
+      "utterance": "ありがとうございます。本日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:01:25",
+      "utterance": "何だかいろんなことが嫌になってしまって、どうしたらいいかわかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:01:43",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:02:18",
+      "utterance": "主にどのような事で、嫌になることが多いでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:02:48",
+      "utterance": "プライベートも仕事もうまく行かなくて、つらいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:03:16",
+      "utterance": "そうなんですね。それは、お辛いですね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:03:44",
+      "utterance": "お仕事は、勤められてどのくらいになりますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:04:05",
+      "utterance": "仕事は転職して、1年になります"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:04:18",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:04:52",
+      "utterance": "お仕事で嫌な事は、人間関係についてでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:05:51",
+      "utterance": "転職したくてしたわけではないんですが、職場に居辛くなってやめて、今の仕事は特にモチベーションはなく生活のために働いているだけで、正直つらいだけです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:06:26",
+      "utterance": "そうなんですね…モチベーションが持てないのは、お辛いですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:06:32",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:07:17",
+      "utterance": "前のお仕事は、やりたい仕事をやられていたのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:08:40",
+      "utterance": "前の職場は、住宅関係の仕事で、結構仕事を任されるようになってたので、やりがいはありました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:08:59",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:09:18",
+      "utterance": "今のお仕事は、全く異なる業種ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:09:27",
+      "utterance": "はい、そうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:09:38",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:10:27",
+      "utterance": "一から新しいお仕事を覚えるのも、大変ですよね…今のお仕事の業種は、どのような業種でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:12:01",
+      "utterance": "大型施設の中の洋服の販売員です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:12:47",
+      "utterance": "そうなんですね。それは、全く違う仕事内容になりますね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:12:52",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:13:59",
+      "utterance": "その洋服店を選んだ動機は、どのような事だったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:14:53",
+      "utterance": "とりあえず、収入が必要だったのと、交通費がかからないからです。自転車で行けるところなので。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:15:34",
+      "utterance": "そうなのですね。生活するのに、お金は重要ですもんね…"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:15:40",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:16:36",
+      "utterance": "その洋服店で、今後のご自分が働き続ける将来性は感じられますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:16:44",
+      "utterance": "いいえ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:17:59",
+      "utterance": "そうなのですね。新しく別の働き先を見つける行動とかは、されているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:18:21",
+      "utterance": "してません。そんな気力もなくて、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:18:53",
+      "utterance": "そうなのですね…お仕事、残業とか大変なのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:19:16",
+      "utterance": "残業はほとんどありません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:19:43",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:20:13",
+      "utterance": "今は、仕事を含めやりたい事が見つからない状況でしたでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:21:53",
+      "utterance": "まあ、それもありますが、やりたいことを見つけるっていうより、生きてるのがしんどいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:22:46",
+      "utterance": "そうなのですね。生きているのがしんどいと感じるのは、お辛いですね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:23:19",
+      "utterance": "いつ頃から、しんどいと感じるようになられましたでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:25:07",
+      "utterance": "2年前に、彼と別れてからですね。3年同棲していた彼と別れて、同じ職場の同僚だったので、職場にもいづらくなってやめました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:25:51",
+      "utterance": "そうなのですね…それは、お辛いです…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:26:35",
+      "utterance": "職場恋愛は、別れた時難しいですね…"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:26:55",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:27:16",
+      "utterance": "今も、付き合っていた彼の事をよく思い出されますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:28:02",
+      "utterance": "そうですね。忘れられないのもあるし、傷つけられたので、恨むような気持ちもあります"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:28:30",
+      "utterance": "そうなんですね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:29:09",
+      "utterance": "恨む気持ちになる時、どのような思いが湧き上がってきますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:30:02",
+      "utterance": "まあ、私にそれほど価値がなかったって思うんですけどね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:30:57",
+      "utterance": "そんな事はないです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:31:09",
+      "utterance": "その後マッチングアプリで出会った男にも、もてあそばれました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:31:20",
+      "utterance": "私が悪いんですけどね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:31:37",
+      "utterance": "それはお辛いです…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:32:19",
+      "utterance": "マッチングアプリは、相手の性格がよく分からないですもんね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:32:54",
+      "utterance": "男の人に対する不信感から、生きるのがしんどい気分になられているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:33:44",
+      "utterance": "何もかもうまく行かないので、生きてる意味を感じられません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:34:01",
+      "utterance": "そうなのですね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:34:37",
+      "utterance": "人間って、生きているとそうゆう時期ありますよね…"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:34:48",
+      "utterance": "そうなんですかね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:35:08",
+      "utterance": "みんな幸せそうに見えますけどね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:35:16",
+      "utterance": "周りでお友達とか、気持ちを打ち明けるような場所はありますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:35:48",
+      "utterance": "幸せそうに見えるだけだと思います笑"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:36:06",
+      "utterance": "友達はみんな結婚して子供もいて、幸せに暮らしてるので、話すのが辛いです"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:36:18",
+      "utterance": "余計に惨めになります"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:36:35",
+      "utterance": "そうなのですね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:37:16",
+      "utterance": "確かに子供もいられる方だと、少しお話しずらくなりますね…"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:37:53",
+      "utterance": "人を羨んでばかりいる自分が情けないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:38:27",
+      "utterance": "誰しもが持ってる感情なので、情けないと思わなくて大丈夫です！"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:39:12",
+      "utterance": "そうですかね、、私には何もありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:39:26",
+      "utterance": "何らか、自分自身の気分が上がる事を取り入れてあげると良いと思われるのですが、何かありますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:40:19",
+      "utterance": "ちょっとおもいつきません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:40:39",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:41:21",
+      "utterance": "人を羨んでしまわれるのは、どのような時が多いでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:43:51",
+      "utterance": "いろいろです。幸せそうなファミリーや、生き生きしてる若いお母さんたち見てるときとかでしょうか？仲良さそうな老夫婦を見たり、バリバリ働いてる人や、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:44:18",
+      "utterance": "自分にはないものなので。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:44:34",
+      "utterance": "まだ３４歳であれば、色々な新しい事に挑戦できると思います！"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:45:40",
+      "utterance": "人はそう言いますけどね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:45:40",
+      "utterance": "今から自分がやりたいお仕事の方向性を考えたり、それこそ新しい彼を見つける事も出来ると思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:47:12",
+      "utterance": "自分の今の感情と付き合いながらで大丈夫ですが、自分が好きな事、やっていると楽しい事を見つける事から始めていって欲しいのですが、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:48:06",
+      "utterance": "そうですね、、正直それさえもわからなくなっています"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:48:21",
+      "utterance": "そうなのですね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:49:10",
+      "utterance": "自分の今の感情は大事にして頂きたいと思うので、それこそ１歩ずつですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:49:48",
+      "utterance": "そうですね、、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:50:10",
+      "utterance": "今お仕事に将来性を感じられないという事でしたので、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:51:46",
+      "utterance": "少しずつでも良いので、今後他の仕事をするとして、何をしていきたいのかを考える時間を取られていけたらと思うのですがいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:52:27",
+      "utterance": "そうですね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:53:07",
+      "utterance": "お金は大事なので、それこそ働きながら考えないといけないと思うので大変ですが…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:54:08",
+      "utterance": "夜は、きちんと睡眠時間確保されていますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:54:50",
+      "utterance": "うーん、なかなか寝付けない時が多いです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:55:03",
+      "utterance": "そうなのですね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:55:46",
+      "utterance": "悩みながら寝てしまうと、なかなか寝付けないですもんね…"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:56:10",
+      "utterance": "ええ、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T13:57:10",
+      "utterance": "では、今は自分の心を癒してあげる事を常に考えて最優先にしてあげてください。甘やかしてあげてください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T13:57:36",
+      "utterance": "甘やかすですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T14:00:13",
+      "utterance": "心が弱っている時は、自分の心を癒すためにお金と時間を使っていただければと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T14:00:51",
+      "utterance": "そろそろお時間なのでここまでとさせて頂きますが、大丈夫でしたでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T14:01:01",
+      "utterance": "はい、おねがいします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T14:02:16",
+      "utterance": "心が元気に向かう事を、心から祈っています。また、いつでも相談にいらっしゃってください。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T14:02:33",
+      "utterance": "それでは、これで失礼いたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T14:02:54",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T14:03:11",
+      "utterance": "こちらこそ、ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T14:03:26",
+      "utterance": "（時間越してしまい、すみません…）"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T14:03:55",
+      "utterance": "（本日は、クライアント役ありがとうございました。色々ご指導頂けますよう、よろしくお願いいたします。）"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-21T14:03:56",
+      "utterance": "（こちらこそありがとうございました）"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-21T14:04:18",
+      "utterance": "ありがとうございました！失礼いたします。"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "新しい仕事の方向性への不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2751,
+    "評価作成日時": "2021-11-21T18:09:00",
+    "クライアント役ID": 41,
+    "カウンセラー役ID": 238,
+    "点数": 59,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 1,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2751,
+    "evaluation_created_at": "2021-11-21T18:09:00",
+    "client_id": 41,
+    "counselor_id": 238,
+    "score": 59,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 1,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,614 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2023-10-04T20:52:50",
+      "utterance": "(こんばんは。よろしくお願いします)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T20:53:25",
+      "utterance": "(こんばんは、本日はよろしくお願い致します。)"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T20:54:22",
+      "utterance": "（こちらこそです）"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T20:54:53",
+      "utterance": "(時間になりましたら、始めさせていただきます)"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T20:55:24",
+      "utterance": "（承知しました）"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T21:00:05",
+      "utterance": "こんばんは、相談員です。 本日はご相談ありがとうございます。 最初に年齢、性別、相談内容を教えて下さい。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:03:20",
+      "utterance": "50代男生きていくのがつらい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T21:05:03",
+      "utterance": "返信ありがとうございます生きるのが辛いほど、苦しんでるんですねその様な考えになったのは何かきっかけがあったのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:06:42",
+      "utterance": "職場でパワハラにあい、鬱になった"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T21:08:40",
+      "utterance": "それは悲しくなりますね生きて行くのが辛く思われたのは、どう言ったところがありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:09:01",
+      "utterance": "薬飲みながら、仕事をしているが、しんどくなるばかりで・・・"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:10:08",
+      "utterance": "苦しくてしんどい"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:10:38",
+      "utterance": "最近は死ぬことばかり考える"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T21:10:49",
+      "utterance": "その様な状況が続いてるんですね、それは苦しくてしんどいですね"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:11:04",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T21:11:23",
+      "utterance": "鬱になってからは、どれくらいの期間が経ちますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:11:45",
+      "utterance": "約半年です"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:12:15",
+      "utterance": "つらい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T21:12:57",
+      "utterance": "長い間苦しまれてるんですねお薬を飲みながら仕事をされても同じくらいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:13:13",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T21:13:55",
+      "utterance": "それはお辛いですね死ぬことを考えるのどう言った時がありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:14:15",
+      "utterance": "このままでは限界だと気付き、心療内科に行きました"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:14:54",
+      "utterance": "どういう意味なのでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T21:15:59",
+      "utterance": "すみません、誤字でした死ぬことを考える時はどう言った状況の時ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:17:19",
+      "utterance": "職場で無視される時や家族に心無い言葉を言われるときに死にたくなります"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:17:51",
+      "utterance": "最近は疲れてしまいました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T21:18:14",
+      "utterance": "その様な状況があるんですね、疲れてしまいますね"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:18:24",
+      "utterance": "お金もないので経済的にも苦しいです"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:19:05",
+      "utterance": "生きてても苦しいだけです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T21:19:43",
+      "utterance": "苦しいですよね、心療中の先生は何かおっしゃってましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:20:06",
+      "utterance": "薬を飲むように言われました"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:20:36",
+      "utterance": "そして休みように言われました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T21:21:21",
+      "utterance": "そうなんですね薬飲まれて変化はありましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:22:01",
+      "utterance": "少し良くなるのですが、"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:22:11",
+      "utterance": "治りません"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:23:11",
+      "utterance": "実は、お金がなくて、最近受診できていません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T21:23:54",
+      "utterance": "そうなんですね、治らないと不安も出てきますね鬱がなかなか治らない事をどう思われていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:24:19",
+      "utterance": "しんどいです"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:24:34",
+      "utterance": "もう限界だと感じています"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T21:25:44",
+      "utterance": "そうですね現状として、改善してほしいと思うことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:26:01",
+      "utterance": "改善・・・楽になりたい"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:27:24",
+      "utterance": "誰も分かってもらえない"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:27:36",
+      "utterance": "ただ"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:27:44",
+      "utterance": "辛いだけ"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T21:28:11",
+      "utterance": "ご家族の方は鬱についてはどのような反応なんでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:28:37",
+      "utterance": "冷たいです"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:29:09",
+      "utterance": "働かないと生活できないので"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T21:29:10",
+      "utterance": "それは悲しいですね具体的にどのように冷たのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:29:31",
+      "utterance": "仕事にいくように言われます"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:30:02",
+      "utterance": "しんどいことを理解してもらえない"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T21:30:29",
+      "utterance": "わかってもらえない状況でお辛いですねお仕事の方は上司の方以外もパワハラをする方はいらっしゃいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:30:39",
+      "utterance": "子どものためにやらないといけない"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:31:10",
+      "utterance": "病気のこともあって、今は村八分状態です"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:31:59",
+      "utterance": "孤独です"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T21:32:21",
+      "utterance": "お子さんの反応も冷たいのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:32:33",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T21:32:55",
+      "utterance": "頼るところがないと、しんどくなりますね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:33:16",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:33:34",
+      "utterance": "どうしたらいいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T21:33:49",
+      "utterance": "今のお仕事は続けたいと思われていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:34:19",
+      "utterance": "続けるしかありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T21:34:44",
+      "utterance": "お子さんの為を思われてるんですね"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:34:50",
+      "utterance": "でも無理かもしれない"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:35:26",
+      "utterance": "もう死んだ方が楽になれる"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T21:36:14",
+      "utterance": "死ぬと楽になると思いますがお子さんどうなりますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:37:10",
+      "utterance": "生命保険があるので何とかなると思います"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:38:03",
+      "utterance": "お話していると、子どものためにも事故死が無難と思えてきました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T21:39:49",
+      "utterance": "なるほど今のお仕事以外は考えたことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:40:40",
+      "utterance": "・・・どのような意味でしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T21:41:46",
+      "utterance": "わかりづらく、申し訳ありませんお仕事を変えようとは思わないんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:42:26",
+      "utterance": "妻にはやめると生活できなくなるからやめずに頑張るよう言われています"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:42:58",
+      "utterance": "生活がかかっていると・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T21:43:13",
+      "utterance": "そうなんですねパートナーさんとの関係性はどう感じていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:44:14",
+      "utterance": "仕事頑張っているのでもう少し理解してほしいです"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:45:04",
+      "utterance": "妻からは冷たい言葉しか出てきません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T21:45:32",
+      "utterance": "確かに、わかってもらいたいですね。パートナーさんとそう言う関係になってどのくらい経ちますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:46:08",
+      "utterance": "・・・そうですね"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:46:48",
+      "utterance": "少しずつですが、子どもが生まれてからのような気がします"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T21:47:51",
+      "utterance": "そうなんですね、今までお子さんを第一に考えてこられたんですかね"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:48:22",
+      "utterance": "どうでしょうか・・・わかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T21:49:15",
+      "utterance": "パートナーさんには、どうやったら辛さがわかってもらえると思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:49:57",
+      "utterance": "・・・わかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T21:51:07",
+      "utterance": "難しいですよねパートナーさんと話される機会はよくありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:51:29",
+      "utterance": "あまりありません"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:51:57",
+      "utterance": "話したくないようです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T21:52:11",
+      "utterance": "それは昔からなのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:52:44",
+      "utterance": "いいえ"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:53:36",
+      "utterance": "鬱になってからのような気がします"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T21:53:37",
+      "utterance": "いつ頃からと思われますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T21:53:54",
+      "utterance": "質問被ってしまい申し訳ありません"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:54:33",
+      "utterance": "誰にも分かってもらえません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T21:54:45",
+      "utterance": "鬱になったことに対してパートナーさんはどう思われてるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:55:06",
+      "utterance": "ただただつらいだけです"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:55:49",
+      "utterance": "夫として家庭を守れない人"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T21:56:06",
+      "utterance": "解決しないことは、つらいですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T21:56:26",
+      "utterance": "その言葉はパートナーさんから言われたものですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:56:39",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T21:57:22",
+      "utterance": "それはおつらいですね言われてどう感じましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T21:57:59",
+      "utterance": "申し訳ない気持ちでいっぱいになりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T21:58:51",
+      "utterance": "悲しいですね本日はそろそろお時間になるのですが、お話してみていかかでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T22:00:00",
+      "utterance": "生きててはいけないと感じました"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T22:00:42",
+      "utterance": "妻のためにも子どものためにも"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T22:01:05",
+      "utterance": "何度でもお話し聞きますので、またいつでもお越しください。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T22:01:51",
+      "utterance": "聞いていただき、ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T22:02:33",
+      "utterance": "聞くことしかできませんが、いつでもお伺いします本日は大切なお話しありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T22:03:35",
+      "utterance": "こちらこそありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-04T22:03:44",
+      "utterance": "（重いテーマで大変だったと思います。ロールプレイありがとうございました。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T22:03:48",
+      "utterance": "(お疲れ様でした、ありがとうございます。難しい話でした・・・)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-04T22:04:16",
+      "utterance": "(これにて失礼しますありがとうございました)"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦）",
+    "main_en": "Family Issues (Spouse)",
+    "sub": "夫とのコミュニケーション問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 5812,
+    "評価作成日時": "2023-10-12T00:19:00",
+    "クライアント役ID": 156,
+    "カウンセラー役ID": 417,
+    "点数": 47,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 4,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 2,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 5812,
+    "evaluation_created_at": "2023-10-12T00:19:00",
+    "client_id": 156,
+    "counselor_id": 417,
+    "score": 47,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

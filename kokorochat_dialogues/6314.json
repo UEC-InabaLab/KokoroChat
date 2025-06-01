@@ -1,0 +1,604 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-01-23T19:23:09",
+      "utterance": "（今日はよろしくお願いいたします。）"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T19:23:35",
+      "utterance": "(よろしくお願いいたします)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T19:30:31",
+      "utterance": "相談員です。来ていただき、ありがとうございます。最初に、年齢・性別・ご相談内容を教えていただけますか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T19:31:58",
+      "utterance": "26歳、男性、仕事がなかなか見つかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T19:33:33",
+      "utterance": "教えて頂き、ありがとうございます。お仕事が見つからないと焦りますよね。2、3お聞きしてもよろしいですか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T19:33:52",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T19:34:08",
+      "utterance": "以前は何のお仕事をされていたのでしょう?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T19:34:32",
+      "utterance": "事務職です"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T19:35:15",
+      "utterance": "そうだったのですね。そのお仕事を辞められた理由をお伺いしてもよろしいですか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T19:36:26",
+      "utterance": "すみません、まだ辞めてなくて、現在転職を考えてます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T19:37:17",
+      "utterance": "失礼いたしました。早とちりですみません。転職を考えていらっしゃる理由は何ですか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T19:37:56",
+      "utterance": "人間関係ですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T19:38:38",
+      "utterance": "そうでしたか。大変ですよね。もう少し詳しく教えて頂いてよろしいですか?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T19:40:44",
+      "utterance": "ここでは何でもお話しして頂いて大丈夫ですよ。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T19:40:49",
+      "utterance": "上司とソリが合わなくて"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T19:41:43",
+      "utterance": "辞めようかと思っています"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T19:42:24",
+      "utterance": "そうだったんですね。辞めるまで追い詰められていらっしゃるのですね。上司と合わない…とのことですが、具体的に、どのような場面で合わないと思われるのか、教えていただけますか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T19:43:40",
+      "utterance": "価値観の違いだと思うので、具体的に伝えづらいんですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T19:43:55",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T19:44:09",
+      "utterance": "意見してもこちらの言っていることはなかなか聞き入れてもらえないんですよね"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T19:44:22",
+      "utterance": "頭ごなしに否定されますし"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T19:45:13",
+      "utterance": "そういうことがあり、正当な評価もして、認めてもらっている感覚もないですし"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T19:45:25",
+      "utterance": "そうなのですね。頭ごなしに…。悲しくなりますよね。そのような時はどのようなお気持ちでしょう?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T19:45:36",
+      "utterance": "クソ！と思いますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T19:46:07",
+      "utterance": "そうなのですね。起こっている感情でしょうか?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T19:46:26",
+      "utterance": "すみません、怒っている、でした。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T19:46:30",
+      "utterance": "腹立たしい感情ですねなんで、辞めて転職しようと思っています"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T19:49:05",
+      "utterance": "そうだったんですね。本当に腹立たしいですよね。ご相談者は、上司の方に提案される時、どのように話されるのでしょう?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T19:50:22",
+      "utterance": "結構、感情に左右される人なんで機嫌の良さそうな時に話をしてます"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T19:50:55",
+      "utterance": "前回こう言っていたかと思うのですが実際はこのようなことだと思いますが、、"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T19:51:12",
+      "utterance": "と上司が前回言っていたことを確認しつつ"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T19:51:38",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T19:51:47",
+      "utterance": "上司が間違った解釈をしていることを伝えます"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T19:52:11",
+      "utterance": "大抵は上司の思い違いか、ただ忘れているだけなので"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T19:52:20",
+      "utterance": "そうだったんですね。上司に気を遣いながら。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T19:52:33",
+      "utterance": "私は全く非がないのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T19:52:46",
+      "utterance": "それはストレスが溜まって大変ですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T19:53:04",
+      "utterance": "自分が間違っているのを指摘されて頭ごなしに叱るのかと思います"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T19:53:15",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T19:53:25",
+      "utterance": "なので転職しようと思います"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T19:53:33",
+      "utterance": "でも見つからなくて"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T19:54:10",
+      "utterance": "そうなんですね。上司の方は、感情的で、間違いを指摘されてすぐに怒り出すのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T19:55:16",
+      "utterance": "たぶん、そうだと思いますが、、、"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T19:55:46",
+      "utterance": "部下に間違っているのを指摘されたから感情的になると"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T19:55:53",
+      "utterance": "私は思っています"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T19:55:55",
+      "utterance": "相談者は間違っていないんですものね。ご苦労も多いかと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T19:56:37",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T19:57:29",
+      "utterance": "難しい上司のようですが、他の方に対しても、同様の態度なのですか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T19:58:03",
+      "utterance": "そうですね、基本的そんな感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T19:59:32",
+      "utterance": "他の方もご苦労されていらっしゃるのですね。相談者は上司の間違いが見えてしまって仕方ないのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T20:00:10",
+      "utterance": "どういうことですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T20:00:38",
+      "utterance": "仕事熱心で、誠実な人柄だと思われます。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T20:01:35",
+      "utterance": "そうではなくて、上司が未熟なのだと感じてます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T20:03:03",
+      "utterance": "そうなんですね。上司の仕事ぶりが未熟、ということでしょうか?それとも、人間性が、とのことでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T20:03:59",
+      "utterance": "人間性ですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T20:05:32",
+      "utterance": "そのように思われるのですね。上司が相談者を受け入れて認めてくれたなら、どのようなお気持ちでしょう?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T20:06:25",
+      "utterance": "何も思いません"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T20:06:40",
+      "utterance": "もう辞めるので"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T20:07:22",
+      "utterance": "そうなのですね。上司は間違いを指摘されて激怒する、とのことですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T20:08:28",
+      "utterance": "例えば、間違いを指摘するところを外して、提案だけをするのはいかがでしょう?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T20:10:01",
+      "utterance": "仕事が出来る相談者様だからこそ、上司の色々な面が見えて仕方ないのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T20:10:08",
+      "utterance": "いや、もう3月で辞めるので上司に何かを求めることはありません"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T20:10:42",
+      "utterance": "転職先が見つからず悩んでいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T20:10:54",
+      "utterance": "そのように気持ちを固めていらっしゃるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T20:11:03",
+      "utterance": "そうです"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T20:11:10",
+      "utterance": "最初に話したと思いますが"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T20:11:17",
+      "utterance": "どのようなお仕事を探されているのでしょう?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T20:11:30",
+      "utterance": "同じ事務ですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T20:12:41",
+      "utterance": "そうなのですね。慣れている事務のお仕事を探されているのですね。ハローワークとか、人材センターとかは当たって見ました?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T20:13:15",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T20:15:18",
+      "utterance": "新しい仕事が見つかったと仮定して、同じタイプの方が職場にいらっしゃったら、どうですか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T20:16:12",
+      "utterance": "まず、仕事を見つけるためにはどうしたらいいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T20:17:15",
+      "utterance": "そうですよね。見つからない、とは求人が全く無い、とのことでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T20:17:39",
+      "utterance": "違いますね"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T20:18:02",
+      "utterance": "事務といってもいろいろあるので"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T20:18:14",
+      "utterance": "そうなんですね。どのような状況でしょう?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T20:18:15",
+      "utterance": "求人はあります"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T20:18:48",
+      "utterance": "エントリーしてますが、最終まで残らず落ちてます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T20:19:36",
+      "utterance": "そうだったのですね。ご相談覇者は面接を受けていらっしゃったのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T20:19:50",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T20:20:21",
+      "utterance": "最後まで残らない原因は何だとお考えですか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T20:21:46",
+      "utterance": "自己アピールがうまくいかないか"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T20:22:10",
+      "utterance": "経歴かと自己分析はしてます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T20:23:08",
+      "utterance": "そのようにお考えなのですね。自己アピールと経歴に何か原因があるのでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T20:23:50",
+      "utterance": "面接であがってしまうのと"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T20:23:58",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T20:24:17",
+      "utterance": "一時期心を病んで2年ほど休職してたので"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T20:24:23",
+      "utterance": "そこを指摘されますね"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T20:24:45",
+      "utterance": "なのでなかなか見つからないのかと思ってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T20:25:27",
+      "utterance": "そうだったのですね。人前であがるのは無理もありません。心を病まれて…。お辛い状況が続いたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T20:26:20",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T20:26:23",
+      "utterance": "でもそれを克服されて、その後もお仕事をされたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T20:26:51",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T20:27:49",
+      "utterance": "休職したことで相談者様の心がどのように変化されたのか、相談者様にしか分からないことだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T20:28:31",
+      "utterance": "そのことを面接官にお伝えしてはどうでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T20:29:31",
+      "utterance": "まぁ、それだけが原因で落ちてるのかはわかりません。　そういう人も今は多いですしね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T20:30:14",
+      "utterance": "そうですよね。ご苦労をされたから、今現在も相談者様はお仕事を頑張ろうとされているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T20:30:57",
+      "utterance": "仕事ではなく、現在は転職活動を頑張っている。ですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T20:33:04",
+      "utterance": "そうでした。例えば、ご自身で、面接の練習を重ねるのはいかがでしょう。休職されたことを強みに貴重な体験をされたことを自己アピールに入れてみては。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T20:33:28",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T20:33:56",
+      "utterance": "とりあえず自分でいろいろやってみます"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T20:34:08",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T20:34:15",
+      "utterance": "そのように思われるのですね。残念ながら、お時間が来てしまいました。またご相談にいらしてみて下さい。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T20:34:32",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T20:34:46",
+      "utterance": "微力で申し訳ありません。これで終了させて頂いてよろしいですか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-23T20:35:19",
+      "utterance": "はい、ありがとうございました。率直な感想を書かせていただきます。ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-23T20:35:38",
+      "utterance": "（ありがとうございました。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "転職活動における自己アピールの困難さ"
+  },
+  "review_by_client_jp": {
+    "評価ID": 6314,
+    "評価作成日時": "2024-01-23T23:38:00",
+    "クライアント役ID": 453,
+    "カウンセラー役ID": 261,
+    "点数": 26,
+    "聴いてもらえた、わかってもらえたと感じた": 1,
+    "尊重されたと感じた": 1,
+    "新しい気づきや体験があった": 1,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 1,
+    "一緒に考えながら取り組めた": 1,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 1,
+    "今回の相談は価値があった": 1,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 1,
+    "受容・共感": 3,
+    "肯定・承認": 1,
+    "的確な質問による会話の促進": 0,
+    "要約": 1,
+    "問題の明確化": 1,
+    "この相談での目標の明確化": 0,
+    "次の行動につながる提案": 1,
+    "勇気づけ・希望の喚起": 1,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 6314,
+    "evaluation_created_at": "2024-01-23T23:38:00",
+    "client_id": 453,
+    "counselor_id": 261,
+    "score": 26,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 1,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 1,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 1,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 1,
+    "asked_effective_questions": 0,
+    "summarized_key_points_effectively": 1,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 0,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 1,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,509 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-03-28T20:55:47",
+      "utterance": "（こんばんは。21時からよろしくお願いします。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T20:56:38",
+      "utterance": "(こんばんは。こちらこそ、よろしくおねがいします。)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:00:41",
+      "utterance": "こんばんは。本日は相談に来ていただきありがとうございます。はじめに年齢、性別を教えてください。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T21:01:24",
+      "utterance": "こんばんは。40歳、女性です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:01:48",
+      "utterance": "本日は、どういった相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T21:02:32",
+      "utterance": "子どもが集団行動が苦手で心配です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:03:42",
+      "utterance": "そうなんですね。一緒に行動ができないと見ていて不安になりますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:05:47",
+      "utterance": "お子さんの、どういった時に集団行動ができないと思われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T21:05:56",
+      "utterance": "えーとですね、お恥ずかしいのですが、中学2年生の長男でして、時間にルーズで、部活に遅刻したり"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T21:06:21",
+      "utterance": "休み時間も1人で過ごしていたり、、、"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T21:07:15",
+      "utterance": "そういう意味で、周りのみんなに歩調を合わせられない部分が心配です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:07:43",
+      "utterance": "休み時間などのことは、不安になりますね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T21:07:54",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:08:38",
+      "utterance": "相談者さんと子どもさんは、よくお話られるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T21:09:15",
+      "utterance": "普通に話はしていると思いますよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:09:49",
+      "utterance": "そうなんですね。休み時間1人で過ごすとしってらっしゃるので、いろいろな話ができているのではないかと感じました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:11:14",
+      "utterance": "時間に間に合わず、部活に遅れたりなどは、いつごろからですか？？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T21:11:49",
+      "utterance": "1年ほど前からですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:13:33",
+      "utterance": "1年前ということは、中学に上がってからなんですね。何か、その時あったのですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:14:17",
+      "utterance": "例えば、今まで起こしていたが、自分で起きるようになったなど。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T21:14:52",
+      "utterance": "小学生の頃は、登校班があり、保護者の監視にありましたが、中学生になると、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:15:14",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T21:15:39",
+      "utterance": "1人で行くようになり、ある程度子ども自身の判断が入ったり"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:15:53",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T21:16:11",
+      "utterance": "ゲームなどで夜寝る時間も影響し始めたのかも"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T21:16:24",
+      "utterance": "しれないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:16:34",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:17:34",
+      "utterance": "相談者さん（保護者）の監視下にいるときは大丈夫だったけど、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:17:59",
+      "utterance": "それがなくなると、遅れてしまう。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:18:55",
+      "utterance": "確かに夜のゲームは、興奮して眠れなくなりますね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T21:19:25",
+      "utterance": "毎日ではなかったので、夜遅く寝ることからの生活リズムの乱れが"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:19:39",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T21:20:06",
+      "utterance": "いろいろ影響出てたのかな、と思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:20:37",
+      "utterance": "生活の乱れは、心配になりますね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T21:20:50",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:21:44",
+      "utterance": "あと１つ、休み時間に1人でいることも心配をされていたと思います。これは、お子様から聞いたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T21:21:59",
+      "utterance": "そうです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:22:48",
+      "utterance": "どんな感じで話をされたのでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:23:06",
+      "utterance": "例えば、つらい感じとか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T21:23:59",
+      "utterance": "辛い表情ではなかったですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:24:21",
+      "utterance": "どんな表情や雰囲気でしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T21:25:07",
+      "utterance": "淡々と話していましたね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T21:25:24",
+      "utterance": "表情に出してくれるといいんですけど、"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T21:25:59",
+      "utterance": "気持ちをなかなか言葉にしないところがあります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:27:17",
+      "utterance": "そうなんですね。言葉にできなくても、表情に出れば気持ちを少しはくみ取れますが、出ないとなると心配になりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T21:27:46",
+      "utterance": "はい、そうなんですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:28:59",
+      "utterance": "今、2つ相談者さんが心配されていることがわかりました。時間のことと1人で過ごしていること。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:29:24",
+      "utterance": "本日は、どちらか1つ一緒に考えていければと思うのですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:29:43",
+      "utterance": "相談者さんはどちらがよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T21:30:39",
+      "utterance": "選ばないといけないんでしょうか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:31:38",
+      "utterance": "凄くお子様のことを思っているのもわかります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:32:08",
+      "utterance": "1つ1つをじっくり考えたほうが良いと思いまして、提案させていただきました。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T21:33:47",
+      "utterance": "そうなんですか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:35:17",
+      "utterance": "時間のことと、感情（気持ちを言葉にしない）のことなので、分けて考えてみるのもいいと思いますがいかかでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T21:36:33",
+      "utterance": "そういう前向きな気持ちに自分が追いついていないにですが、"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T21:37:26",
+      "utterance": "1人でいる事について"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:37:44",
+      "utterance": "すみません。私が先走ってしまいました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:38:13",
+      "utterance": "もう少し相談者さんの気持ちを聞かせていただいてもいいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:39:11",
+      "utterance": "１人でいることを聞いた時の相談者さんのお気持ちは、いかがでいたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T21:42:15",
+      "utterance": "選択しないと話が進まない雰囲気があって選択したものの、、、ただただ心配だし、"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T21:42:29",
+      "utterance": "この先大丈夫かな？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T21:42:46",
+      "utterance": "って不安なんですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:44:52",
+      "utterance": "表情、言葉に言葉に出さないのも不安ですよね。お友達関係の話などはされたりしますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T21:45:44",
+      "utterance": "話をするような友達はいないって言ってます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:47:24",
+      "utterance": "そうなんですね。いないと言われると心配ですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T21:47:40",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:48:40",
+      "utterance": "部活動をされていますが、部員同士などの関係はいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T21:50:03",
+      "utterance": "部活でも親しい友達はいないと言ってます。　遅刻するのもあり、先生にもよく思われていないようで、、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:52:39",
+      "utterance": "そうなんですね。心配ですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:53:49",
+      "utterance": "お子さんは、相談者さんに話ができているので、いい関係なんだと感じています。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T21:54:23",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:54:39",
+      "utterance": "部活動は何部ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T21:54:58",
+      "utterance": "テニス部です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:55:31",
+      "utterance": "部員は何人くらいいるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T21:56:13",
+      "utterance": "同じ学年で20人ぐらいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:57:22",
+      "utterance": "20人いるんですね。1年生からやってらっやいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T21:58:11",
+      "utterance": "はい、1年生からやっています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T21:59:29",
+      "utterance": "続いているので、部活は好きなのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T22:00:37",
+      "utterance": "やめたい時期もありました。波はありますが、今は前向きです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T22:01:47",
+      "utterance": "ちゃんとお子様のこと見ていらっしゃいますね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T22:02:18",
+      "utterance": "そうですかね。ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T22:03:28",
+      "utterance": "今のお子さんの前向きな気持ちのまま、生活リズムのかいぜんなどできるといい感じですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T22:04:13",
+      "utterance": "そうかもしれませんね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T22:05:58",
+      "utterance": "すみません。本日は、時間となってしまいました。相談者さんのお子さんをちゃんとみて考えてらっしゃるのが伝わってきました。不安なことの解消にはつながってないと思いますので、もう一度相談に来ていただきたいと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T22:06:21",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T22:07:25",
+      "utterance": "（時間をオーバーしてしまい申し訳ありません。本日も大変勉強になりました。また、よろしくお願いいたします。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-28T22:08:08",
+      "utterance": "(お時間大丈夫ですよ。こちらこそ勉強になりました。ありがとうございました。)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-28T22:08:53",
+      "utterance": "（終了ボタンを押させていただきます）"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "子どもの集団行動に対する親の心配"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4830,
+    "評価作成日時": "2023-03-29T22:55:00",
+    "クライアント役ID": 364,
+    "カウンセラー役ID": 341,
+    "点数": 52,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4830,
+    "evaluation_created_at": "2023-03-29T22:55:00",
+    "client_id": 364,
+    "counselor_id": 341,
+    "score": 52,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,834 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2022-11-08T19:21:30",
+      "utterance": "本日クライエント役をさせて頂きます。よろしくお願い致します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T19:21:51",
+      "utterance": "（こんばんは。はい、本日はよろしくお願いいたします。時間になりましたら始めさせていただきますね。）"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:22:07",
+      "utterance": "わかりました。ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T19:30:09",
+      "utterance": "こんばんは。相談員です。今日はお越しいただきありがとうございます。まずはじめに、よろしければ年齢と性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:30:24",
+      "utterance": "32歳　女性"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T19:30:33",
+      "utterance": "ありがとうございます。今日はどんなご相談で来ていただきましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:30:53",
+      "utterance": "彼との同棲生活に疲れた"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T19:31:23",
+      "utterance": "そのような思いを持たれているんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:31:30",
+      "utterance": "はあ"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:31:32",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T19:31:58",
+      "utterance": "例えば、どんなことに疲れたなと感じますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:32:10",
+      "utterance": "いろいろです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T19:32:27",
+      "utterance": "いろいろと積み重なっていらっしゃるんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T19:32:47",
+      "utterance": "それはしんどい思いをされていますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:32:56",
+      "utterance": "疲れました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T19:33:38",
+      "utterance": "とても疲れがたまっていらっしゃるんですね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T19:34:04",
+      "utterance": "彼との同棲生活はどのぐらいの期間されているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:34:04",
+      "utterance": "寝ても寝ても疲れが取れなくて"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T19:34:09",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:34:14",
+      "utterance": "2ヶ月ぐらい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T19:34:16",
+      "utterance": "続けてくださいね"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:34:42",
+      "utterance": "彼は優しくて"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:34:57",
+      "utterance": "自分には申し訳ないぐらい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T19:35:07",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:35:29",
+      "utterance": "2人分の家事なのにきつくて"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:35:41",
+      "utterance": "悩んでいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T19:36:43",
+      "utterance": "そうでしたか、、彼は優しいけれども、二人分の家事がきつくて疲れが取れないということでお悩みなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:36:52",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T19:37:44",
+      "utterance": "まだ、生活を始めて2か月ということもあって、家事が増えるときついですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:38:19",
+      "utterance": "はい、きついです、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T19:38:45",
+      "utterance": "そうですよね、、。ちなみに、家事はどのように分担されていらっしゃるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:38:56",
+      "utterance": "基本自分です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T19:39:47",
+      "utterance": "そうなんですね。あなたが基本は全てされているとなると、それはきついし、疲れがたまるのも自然なことですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:40:03",
+      "utterance": "でも私働いていないから"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T19:40:14",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:40:42",
+      "utterance": "働こうとは思っているけど"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:41:07",
+      "utterance": "家事と仕事をどうしていけばいいか、わからない"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T19:41:53",
+      "utterance": "そのような状態なのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:41:58",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T19:42:28",
+      "utterance": "家事ですごく大変な中、お仕事のことってなかなか考えられないところもあるのかなと想像しました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:43:02",
+      "utterance": "彼は週2ぐらいでいいんじゃないと"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T19:43:15",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:43:16",
+      "utterance": "言ってくるけど"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:43:40",
+      "utterance": "車のガソリン代とかかかるし"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:44:02",
+      "utterance": "どうしようかと思ってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T19:45:44",
+      "utterance": "週２働きに行くのにも、ガソリン代とかがかかってしまって、働いたお金がガソリン代に結構取られてしまう、ということで、どうしようかと思ってらっしゃるということでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:46:01",
+      "utterance": "うーん"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:46:21",
+      "utterance": "それだけじゃない"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:46:35",
+      "utterance": "そうじゃないかも"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T19:46:35",
+      "utterance": "ええ、それだけではないというと？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T19:47:01",
+      "utterance": "そうじゃない　でしたね失礼いたしました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:47:11",
+      "utterance": "大丈夫です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T19:47:50",
+      "utterance": "どんなことに対して、どうしようかなと迷われていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:48:16",
+      "utterance": "彼は日勤と夜勤があって"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T19:48:25",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:48:37",
+      "utterance": "いつもお弁当作っていて"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:48:59",
+      "utterance": "いろいろな時間に作るのが疲れる"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T19:49:56",
+      "utterance": "作る時間が固定されていないと、規則的ではないからこそ疲れますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:50:17",
+      "utterance": "合わせるのも疲れる"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T19:50:38",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T19:51:28",
+      "utterance": "そうですよね、、お弁当だけではなくて、生活のリズムも合わせなきゃいけない部分がたくさんあると思うので、しんどくもなりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:52:03",
+      "utterance": "はい、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T19:53:40",
+      "utterance": "お話しを聞いて、家事も多くて合わせなきゃいけない部分もたくさんあることで、同棲生活にとても疲れていらっしゃるという様子がとても伝わってきました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T19:54:31",
+      "utterance": "その疲れているというお気持ちは彼にお話しをされたことはありますか"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:54:43",
+      "utterance": "しました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T19:55:04",
+      "utterance": "そうなのですね、彼はどんなふうに言っていましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:55:26",
+      "utterance": "お弁当作り減らせば？って"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T19:55:50",
+      "utterance": "ええ、そう言われたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:55:54",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T19:56:10",
+      "utterance": "それを聞いてあなたはどう感じましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:56:25",
+      "utterance": "そうかなぁって"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:56:58",
+      "utterance": "私どうしたらいいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T19:58:00",
+      "utterance": "そうですね、あなたは、どうなったらいいなあと思われていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:58:18",
+      "utterance": "わからないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T19:58:40",
+      "utterance": "そうお感じなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:59:19",
+      "utterance": "先日実家に帰省して"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T19:59:37",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T19:59:54",
+      "utterance": "両親に優しくしてもらったら"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:00:02",
+      "utterance": "泣いてしまった"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T20:00:42",
+      "utterance": "そうですか、、泣いてしまうほどきっとため込んでいらっしゃるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:01:18",
+      "utterance": "毎週実家に帰りたい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T20:02:04",
+      "utterance": "それぐらい、すがりたくなるようなお気持ちなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:02:25",
+      "utterance": "うーん"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T20:02:50",
+      "utterance": "何か違うお気持ちですかね？よければ教えてください。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:03:44",
+      "utterance": "実家だと気持ちが楽だから"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T20:04:00",
+      "utterance": "ええ、気持ちが楽なんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:04:33",
+      "utterance": "彼からは帰省中"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T20:04:40",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:04:45",
+      "utterance": "LINEが何回もきて"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:04:55",
+      "utterance": "今から仕事に行くとか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T20:05:03",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:05:04",
+      "utterance": "いま帰ってきたとか"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:05:37",
+      "utterance": "お母さんは「かわいいところあるじゃない」と言うけど"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:05:51",
+      "utterance": "何なのかなあ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T20:07:08",
+      "utterance": "そのようなことがあったんですね。何なのかなあ、ということには、どういったお気持ちがありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:07:23",
+      "utterance": "面倒"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T20:07:41",
+      "utterance": "なるほど、面倒なお気持ちですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:08:31",
+      "utterance": "実家にいる時ぐらい"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:08:43",
+      "utterance": "楽にさせてほしい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T20:09:19",
+      "utterance": "ええ。そのように思われるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:09:28",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T20:10:20",
+      "utterance": "同棲生活で楽ではない、しんどい、きついというお気持ちは、家事から全てやってきているのでしょうか？彼との関係性とか、何か他にもありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:11:03",
+      "utterance": "結婚を前提にして暮らしていて"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T20:11:09",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:11:21",
+      "utterance": "だからしっかりしなきゃとか"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:11:46",
+      "utterance": "金銭的には困ってはいないから"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:12:21",
+      "utterance": "彼は優しいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T20:12:34",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T20:14:02",
+      "utterance": "金銭的には困っていはいないということですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:14:29",
+      "utterance": "はい、彼が稼いでくるので"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T20:15:46",
+      "utterance": "そうなのですね。彼との関係性は、今はどのような状態だと思われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:15:55",
+      "utterance": "？？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:16:02",
+      "utterance": "よくわからない"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T20:16:58",
+      "utterance": "わかりにくくてごめんなさい。仲があんまりよくないとか良いとかそういった状態のことです。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:17:19",
+      "utterance": "仲はいいと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T20:17:57",
+      "utterance": "そうなのですね。最初の方にもいい人だとおっしゃっていましたものね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:19:00",
+      "utterance": "一緒にアマゾンプライムとか観たりします。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:19:44",
+      "utterance": "無理に働かなくてもいいって言われているし"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T20:19:51",
+      "utterance": "いいですね。彼との関係は良好なのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:19:55",
+      "utterance": "優しいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T20:19:58",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T20:20:17",
+      "utterance": "あなた思いの優しい方なのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:20:23",
+      "utterance": "まあ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T20:21:40",
+      "utterance": "まあ　というのは何か引っかかるところがおありですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:22:24",
+      "utterance": "一緒に観たくない時もあるけど"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:22:42",
+      "utterance": "一緒に観てほしいみたいだから"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:22:55",
+      "utterance": "合わせてます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T20:23:02",
+      "utterance": "そうなのですね。そこも合わせていらっしゃるときがあるということですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:23:30",
+      "utterance": "そういうものかなと"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T20:23:56",
+      "utterance": "ええ、そういうふうに思われていらっしゃるんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T20:24:20",
+      "utterance": "ここまで、お話しを聞いていて、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T20:25:09",
+      "utterance": "彼との関係は良好でも、疲れがとっても溜まっていらっしゃるように思いました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T20:25:52",
+      "utterance": "なので、ひとまず、いま、寝ても寝ても疲れがとれないというところがあなたを一番しんどくさせているのかなと感じます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T20:26:28",
+      "utterance": "そこを今回は、少しでも楽にできたらなと思うのですが、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:27:28",
+      "utterance": "どこの病院に行けばいいかわからないんですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:27:48",
+      "utterance": "心療内科なのかな"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T20:28:16",
+      "utterance": "たしかに、病院でお薬を処方してもらうのもひとつかもしれませんね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:28:30",
+      "utterance": "はい、、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T20:29:34",
+      "utterance": "不眠症の診療科は基本的に内科のようです。ストレスが原因であれば精神科でもよいともありました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T20:30:17",
+      "utterance": "ただ、私はお医者さまではないので、お電話等していただいて確認していただく方がいいかなとは思います。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:30:36",
+      "utterance": "わかりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T20:30:58",
+      "utterance": "そして、お家でもできるような、リラックス方法も一緒に簡単にお伝えしますね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:31:06",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T20:32:05",
+      "utterance": "五感を使ってリラックスすることが効果的なので、お気に入りの香りをかぐ、肌触りのいいふとんやブランケットにくるまる、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T20:32:36",
+      "utterance": "自分を自分で抱きしめてあげる、心地のいい音楽を聴く、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T20:33:02",
+      "utterance": "等、なにかできそうなことでいいので、五感にアプローチしてみてください。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:33:16",
+      "utterance": "わかりました。ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T20:33:54",
+      "utterance": "今は、とても疲れがたまってしんどい思いをされていると思います。どんなことでもお聞きするので、またいらっしゃってください。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:34:14",
+      "utterance": "また来ます。ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T20:34:36",
+      "utterance": "はい、ぜひ来てください。お時間になりましたので、これで終了とさせていただきますね。本日はお越しいただきありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:34:43",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-08T20:34:56",
+      "utterance": "（お時間過ぎてしまい、申し訳ございません。ありがとうございました。）"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-08T20:35:20",
+      "utterance": "（ありがとうございました。勉強になりました。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "恋愛問題",
+    "main_en": "Romantic Issues",
+    "sub": "同棲生活における家事の分担とコミュニケーションの難しさ"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4206,
+    "評価作成日時": "2022-11-08T20:56:00",
+    "クライアント役ID": 211,
+    "カウンセラー役ID": 295,
+    "点数": 69,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 3,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 3,
+    "要約": 4,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4206,
+    "evaluation_created_at": "2022-11-08T20:56:00",
+    "client_id": 211,
+    "counselor_id": 295,
+    "score": 69,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 3,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

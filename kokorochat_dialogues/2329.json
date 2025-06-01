@@ -1,0 +1,594 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-08-12T12:25:54",
+      "utterance": "（こんにちは。本日はよろしくお願いいたします。お時間が来たら始めさせて頂きます。）"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T12:26:26",
+      "utterance": "よろしくお願い致します。クライエント設定に希望はありますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T12:27:12",
+      "utterance": "（特に決めなていないので自由で大丈夫です。ありがとうございます。）"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T12:27:56",
+      "utterance": "承知しました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T12:30:05",
+      "utterance": "こんにちは。相談員です。よろしければ始めに性別と年齢を教えていただいてもよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T12:30:22",
+      "utterance": "よろしくお願いします"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T12:30:36",
+      "utterance": "20歳女です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T12:30:45",
+      "utterance": "ありがとうございます。今日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T12:31:43",
+      "utterance": "コロナワクチン接種した方がいいのかどうかです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T12:32:11",
+      "utterance": "なるほど、、それは悩ましいですよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T12:32:44",
+      "utterance": "親は医者なのですが、接種していないんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T12:33:47",
+      "utterance": "そうなんですね。ご自身は学生さんですか？それとも働かれていらっしゃるんでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T12:33:58",
+      "utterance": "引きこもりです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T12:34:26",
+      "utterance": "そうなんですね。お話しくださりありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T12:34:36",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T12:35:14",
+      "utterance": "ご自身はワクチンに対してどんなイメージを持っていらっしゃいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T12:36:06",
+      "utterance": "必要なんだとは思いますが、私は外に出ないので、接種しなくていいのかなと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T12:36:55",
+      "utterance": "そうなんですね、、そう感じていらっしゃるんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T12:37:07",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T12:38:01",
+      "utterance": "それでも接種を迷われているというのはどんなことが気になる感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T12:38:38",
+      "utterance": "テレビのニュースで見るからです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T12:39:03",
+      "utterance": "なるほど、、それは迷ってしまいますよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T12:39:19",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T12:40:39",
+      "utterance": "ご家族ではワクチンについてはなにかお話されたりはしますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T12:41:13",
+      "utterance": "副反応がどうしたとか親は言ってました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T12:42:14",
+      "utterance": "そうなんですね。不安にも感じてしまいますよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T12:42:41",
+      "utterance": "受けなければ大丈夫だし"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T12:43:27",
+      "utterance": "私は病院無理だし"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T12:44:42",
+      "utterance": "そうなんですね。病院が無理というのはどんな感じなのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T12:45:11",
+      "utterance": "外には行かないから、病院にも行きません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T12:47:15",
+      "utterance": "なるほど、、もしよろしければ何時頃から外に出なくなったのかお聞きしてもよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T12:47:40",
+      "utterance": "小学生からです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T12:48:55",
+      "utterance": "そうだったんですね。なにかきっかけがあったんでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T12:49:13",
+      "utterance": "めんどくさかったからです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T12:50:03",
+      "utterance": "そうだったんですね、、今は家ではどのように過ごされているんでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T12:51:06",
+      "utterance": "朝6時に起きてゲームして、洗濯物たたんで、夕飯まで一人でのんびりしています"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T12:52:43",
+      "utterance": "親も別に学校行かなくてもいいよって"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T12:53:17",
+      "utterance": "なるほどですね、、そういわれたときはどう思われましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T12:53:33",
+      "utterance": "よかった〜と思いました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T12:54:19",
+      "utterance": "そうだったんですね。そのように思われたんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T12:54:26",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T12:54:55",
+      "utterance": "学校のどんなことがめんどくさいと感じましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T12:55:28",
+      "utterance": "もう昔のことなので忘れました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T12:57:45",
+      "utterance": "そうなんですね。ご自身ではコロナのニュースをみていてどのように感じていらっしゃいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T12:58:30",
+      "utterance": "山形に祖父母がいて、コロナになってから会えないのが寂しいなと思っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T12:58:57",
+      "utterance": "そうなんですね、、それは寂しいでよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T12:59:40",
+      "utterance": "山形にだけは車で年一回、祖父母に会いに行ってました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T12:59:53",
+      "utterance": "コロナになってから行けてない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T13:00:13",
+      "utterance": "そうだったんですね、、それはお辛いですよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T13:01:11",
+      "utterance": "神奈川の人間が山形に行くと嫌がられるからと親は言ってました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T13:01:33",
+      "utterance": "なるほど、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T13:01:50",
+      "utterance": "ご自身ではどう思われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T13:02:10",
+      "utterance": "何がですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T13:03:20",
+      "utterance": "親御さんから嫌がれるというお話を聴いてという事です。分かりにくくなってしまいすいません。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T13:03:54",
+      "utterance": "行かれないんだなと思いました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T13:04:22",
+      "utterance": "そうなんですね、、それはショックですよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T13:05:09",
+      "utterance": "仕方ないし、よくわかりません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T13:06:23",
+      "utterance": "なるほど、、祖父母の方とは連絡などは取っているんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T13:06:42",
+      "utterance": "親はとっていると思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T13:08:28",
+      "utterance": "そうなんですね。ご自身では連絡はされない感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T13:08:35",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T13:09:16",
+      "utterance": "そうなんですね、、山形に行った時はどんな風に過ごされるんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T13:09:44",
+      "utterance": "祖父母の家で過ごします"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T13:10:33",
+      "utterance": "外には出ないんで。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T13:11:35",
+      "utterance": "なるほど、、そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T13:11:37",
+      "utterance": "車も後部座席の窓に布をかけて外から見られないようにしてます"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T13:13:14",
+      "utterance": "パーキングエリアでも車から降りません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T13:13:26",
+      "utterance": "そうだったんですね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T13:14:06",
+      "utterance": "外のどんなことが嫌だと感じていらっしゃいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T13:14:32",
+      "utterance": "息苦しくなるからです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T13:14:58",
+      "utterance": "そうだったんですね、、それはお辛いですよね、"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T13:15:49",
+      "utterance": "美容師さんも家に来てもらってます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T13:16:32",
+      "utterance": "そうなんですね。家の中と外の違いはどんなものがありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T13:17:27",
+      "utterance": "よくわからないです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T13:17:42",
+      "utterance": "家族以外とは直接話さないので"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T13:18:33",
+      "utterance": "ただ美容師さんと母親が話していることは、興味深いです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T13:19:18",
+      "utterance": "そうなんですね。どんなところが興味深い感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T13:20:14",
+      "utterance": "テレビもよく見ますが、私の知らないこととか、話しているからです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T13:20:52",
+      "utterance": "そうなんですね。それは気になりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T13:21:00",
+      "utterance": "ニュースでは接種した方がいいと言ってるのに、うちの親はなんで接種しないんだろ"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T13:21:57",
+      "utterance": "私病院には行かないけど、自宅でならワクチン接種してもいいのに"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T13:22:34",
+      "utterance": "そうなんですね。その事は親御さんにはお話しされましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T13:23:04",
+      "utterance": "言ってないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T13:25:06",
+      "utterance": "そうなんですね。親後さんがなぜ接種しないのかという事も、ご自身が自宅でならワクチンを接種してもいいと感じていることも一度お話してみるのもいいかもしれませんがいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T13:25:47",
+      "utterance": "いや、様子を見ることにします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T13:27:02",
+      "utterance": "そうなんですね。何か気になることがある感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T13:27:18",
+      "utterance": "いえ、今日はありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T13:28:03",
+      "utterance": "パソコンを通じてなら誰かと話すことできるなと思いました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T13:28:27",
+      "utterance": "いえ。色々とお話しくださりありがとうございました。そう感じられたんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T13:28:48",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T13:29:16",
+      "utterance": "少しづつでも大丈夫なのでまたここにきてお話できればと思いますので、またいつでもいらっしゃってくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T13:29:28",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T13:30:08",
+      "utterance": "こちらこそありがとうございました。それでは本日の相談を終了させていただいてもよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T13:30:34",
+      "utterance": "嫌だということは親に伝えたことがありますが、自分から何かをすることを話すことはありませんでした"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T13:30:56",
+      "utterance": "はい。大丈夫です。ありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T13:31:26",
+      "utterance": "(カウンセラーさんお疲れ様でした！)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T13:32:13",
+      "utterance": "（お疲れさまでした。すいません。なかなかイメージしづらく難しいケースでした、、）"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T13:33:55",
+      "utterance": "ありがとうございました。大きな気づきにつながるカウンセリングでした。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T13:35:02",
+      "utterance": "もしよろしければ勉強のためにこんなクライアントでしたという種明かしみたいなものをしていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T13:37:27",
+      "utterance": "評価の方にも書きますが、過保護な親元で過ごしている、引きこもりさん。いろいろな疑問はあっても家族以外の人と話す機会がない。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T13:38:53",
+      "utterance": "20歳になり、外の世界との交流(snsでのみ)をスタートと言った感じです"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T13:39:48",
+      "utterance": "親離れが始まった感じですかね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T13:41:08",
+      "utterance": "お疲れ様でした"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T13:41:34",
+      "utterance": "なるほどありがとうございます。色々なFBをぜひ評価にお願いいたします。聴き切れていない部分が多々ありました。ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T13:42:15",
+      "utterance": "大変勉強になりました。お疲れさまでした。失礼いたします。"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "親とのコミュニケーションの問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2329,
+    "評価作成日時": "2021-08-12T13:57:00",
+    "クライアント役ID": 2,
+    "カウンセラー役ID": 166,
+    "点数": 71,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 4,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 4,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2329,
+    "evaluation_created_at": "2021-08-12T13:57:00",
+    "client_id": 2,
+    "counselor_id": 166,
+    "score": 71,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

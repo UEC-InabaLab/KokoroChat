@@ -1,0 +1,634 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-08-26T12:51:48",
+      "utterance": "(よろしくお願いいたします。13時になりましたら、はじめさせて頂きます。)"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T12:53:30",
+      "utterance": "よろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:00:09",
+      "utterance": "こんにちは。相談員です。はじめに、ご年齢・ご性別を教えていただけますか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:00:31",
+      "utterance": "こんにちは、40代、女性です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:00:42",
+      "utterance": "相談にきてくださって、ありがとうございます。今日、お話になりたいのは、どんなことでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:01:21",
+      "utterance": "主婦なのですが、家事がうまくできないことで悩んでいます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:02:24",
+      "utterance": "そうでしたか。毎日のことですもの。お悩みですね。たとえば、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:02:51",
+      "utterance": "どんなことが気になっておられますか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:03:20",
+      "utterance": "主婦になって10年近く経ちましたが、調理して食器洗いまでいっぺんに完了できずに"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:03:30",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:03:57",
+      "utterance": "朝、片付けをするとか、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:04:32",
+      "utterance": "おききしていますね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:04:32",
+      "utterance": "洗濯物を取り込んで畳むまでいっぺんにできずに"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:05:00",
+      "utterance": "翌日に畳むとか、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:05:08",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:05:17",
+      "utterance": "などを直していきたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:06:31",
+      "utterance": "そんなふうに、お考えなのですね。今お話し頂いた家事のやり方では、どんなことにお困りですか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:07:38",
+      "utterance": "翌日に前日分の家事がプラスされるので、更にどっと疲れを感じます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:09:13",
+      "utterance": "なるほどです。なんだか、マイナスからのスタートになってしまいますね。ご家族は、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:09:28",
+      "utterance": "そのことについて、何か言っておられますか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:09:45",
+      "utterance": "家族はとくに何も言わないです、"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:10:03",
+      "utterance": "ギリギリ間に合うようにはするのですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:10:16",
+      "utterance": "ええ。ええ。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:10:35",
+      "utterance": "間に合わせるだけで精一杯になってしまいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:11:46",
+      "utterance": "そうなのですね。なんだか、あせって、あせって…みたいになって、達成感と言うよりは、疲れの方が押しよせてくる…みたいな感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:13:15",
+      "utterance": "そうですね、、元々キリがない家事の上に疲労感があり楽しくないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:14:25",
+      "utterance": "そうでしたか。楽しくないという気持ちもおありなのですね。もしかしたら、ご自分を責めるようなお気持ちも、プラスされたりしますか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:15:21",
+      "utterance": "はい、ずっと家にいるのに最低限のことしか出来ていないので、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:15:31",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:15:49",
+      "utterance": "自分って能力低いなぁ〜とか思います"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:16:16",
+      "utterance": "働いているママさんは本当にすごいと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:17:07",
+      "utterance": "そんなふうにも感じるんですね。そんなふうにおもってしまうと、辛くなってしまうし、モチベーションもあがらないですよね。ところで、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:18:11",
+      "utterance": "さきほど、食器洗いやせんたくものとう、翌日になってしまうことも…とのことでしたが、そうなってしまうのは、どんなことに原因がありそうですか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:18:57",
+      "utterance": "そうですね、、夜に晩酌をするからでしょうか、、"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:19:34",
+      "utterance": "子どもの習い事のお迎えなどもあって、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:19:48",
+      "utterance": "ええ。ええ。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:20:15",
+      "utterance": "夕方から夜にかけてバタバタするのも疲れてしまいす"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:21:15",
+      "utterance": "そうなのですね。一日の終わりになんだか家事が押しよせてくる…みたいな感じでもあるのでしょうか。晩酌をしてしまうと、眠くなったり、だるくなったりみたいにもなりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:21:59",
+      "utterance": "はい、、1日が終了する感じがします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:22:24",
+      "utterance": "ええ。ええ。ちなみに、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:23:29",
+      "utterance": "家事をテキパキこなしているご自身って、どんなイメージですか。イメージが浮かんだりされますか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:24:17",
+      "utterance": "いや〜イメージわかないです〜"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:25:13",
+      "utterance": "なるほどです。こんなふうにできたらいいなあ…とかみたいな、理想な感じなら思い浮かびますか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:26:36",
+      "utterance": "そうですね〜、目標は余裕のある状態ですね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:27:15",
+      "utterance": "何かをはじめる前にまず、片付けからになっているので、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:27:28",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:27:48",
+      "utterance": "すぐにゼロからスタートできる環境にしたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:28:41",
+      "utterance": "…ということは、目標は、その日のことをその日のうちに…みたいな感じになってきますか。選択肢としては"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:29:04",
+      "utterance": "そうなりますね、、"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:29:32",
+      "utterance": "今のわたしは明日で大丈夫なことは明日にしましょう〜"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:29:55",
+      "utterance": "その日のうちに終わらなくてもＯＫと思える自分になる…という選択肢も、ありかとは思ったのですが。家族からのクレームはとくにないようですし。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:30:20",
+      "utterance": "ちょっと、行き違っているかもです。よければ、続けてください。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:31:06",
+      "utterance": "になっていて、自分はそれでも良かったはずなのに、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:31:13",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:31:54",
+      "utterance": "最近はそのマイナスからのスタートに自分に疲れを感じています"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:32:14",
+      "utterance": "そうなのですね。なにか、きっかけがありましたか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:32:48",
+      "utterance": "今夏休みだから⁇"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:33:05",
+      "utterance": "と思ったりもしますが、、"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:33:31",
+      "utterance": "とりわけ大きなきっかけはありません、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:33:42",
+      "utterance": "ええ。ええ。夏休み。なるほどです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:33:59",
+      "utterance": "ちなみに、去年の夏は、どうでしたか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:34:38",
+      "utterance": "たしかに夏休みは、主婦のリズムは、おおいに狂いますね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:34:39",
+      "utterance": "去年の夏はまだ下の子が幼稚園だったので、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:34:45",
+      "utterance": "ええ。ええ。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:35:16",
+      "utterance": "上の子だけ対応していれば良かったので"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:35:22",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:35:36",
+      "utterance": "まだもう少し余裕があったように思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:36:06",
+      "utterance": "それが、今年は2人分…ということですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:36:42",
+      "utterance": "はい、、宿題を同時に聞かれたりするので、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:36:44",
+      "utterance": "はじめての2人分の夏休み、たしかに底辺…と思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:36:56",
+      "utterance": "ええ。おききしていますね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:37:15",
+      "utterance": "家事どころではなくなり、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:37:23",
+      "utterance": "底辺…　ごめんなさい！　大変です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:37:28",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:37:45",
+      "utterance": "時間に追われてご飯をつくり、"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:38:00",
+      "utterance": "また片付け、、習い事〜"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:38:10",
+      "utterance": "ええ。ええ。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:38:10",
+      "utterance": "ループです、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:38:32",
+      "utterance": "やってられな～い…って、なっちゃいますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:38:47",
+      "utterance": "よく、ここまでがんばられました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:38:57",
+      "utterance": "素直にそう思いました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:39:23",
+      "utterance": "はい、、自分の時間ほしさに夜更かししたりして、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:39:36",
+      "utterance": "ええ。ええ。そうなりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:40:01",
+      "utterance": "気分転換してたつもりでしたが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:40:09",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:40:27",
+      "utterance": "疲れ果てているようですね、、わたし　笑"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:40:48",
+      "utterance": "お話しして気付きました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:41:08",
+      "utterance": "あちゃ～…ですね(笑)　でも、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:42:37",
+      "utterance": "なんか、すごいですね。お話ししながら、どんどん気づかれていくあなたのご様子、ある意味感動でした。お話ききながら、どんどん私も、気づかせてもらっていました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:43:43",
+      "utterance": "何にしても、はじめての体験って、自分が思っているより、もっともっと負担がかかることなのかもしれないですね。はじめての"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:44:19",
+      "utterance": "2人分の夏休み…というところが、もしかしたらポイントだったのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:45:32",
+      "utterance": "そうなりますね〜ふたり分の宿題！"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:46:01",
+      "utterance": "まだ終わっていないという、"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:46:11",
+      "utterance": "悪夢です、"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:46:36",
+      "utterance": "しかし、疲れの原因がはっきりしたので"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:46:46",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:46:49",
+      "utterance": "兆しが見えました！"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:47:19",
+      "utterance": "夏休みはあと3日で終わる！"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:47:38",
+      "utterance": "はい！　はい！"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:47:49",
+      "utterance": "何か力が湧いてきました！"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:48:06",
+      "utterance": "頑張れそうです、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:48:15",
+      "utterance": "わあ！　よかったです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:48:49",
+      "utterance": "ええ。ええ。なにか、あと引っかかっていることとかはないですか。大丈夫そうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:49:14",
+      "utterance": "ありがとうございます、大丈夫そうです！家事が出来ない自分を情け無く思っていましたが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:49:26",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:49:37",
+      "utterance": "今は仕方ないと心底思えます！"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:49:55",
+      "utterance": "はい！2人分の夏休みを"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:50:28",
+      "utterance": "こなしながら、家事までこなしているあなたは、素敵です。こころから、そう思います。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:51:41",
+      "utterance": "ありがとうございます、家族からは当たり前で何も言ってもらえないので嬉しいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:52:35",
+      "utterance": "大人になると、なかなかほめてもらえなくなりますものね。自分で自分をほめてあげてくださいね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:52:42",
+      "utterance": "では、そろそろ、お話を修了させていただいて、よろしいですか。また、何かありましたら、いつでもお越しくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-26T13:52:56",
+      "utterance": "はい、ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-26T13:53:52",
+      "utterance": "あと3日。どうぞ素敵な夏休みをお過ごしくださいませ。修了のメッセージを送ります。"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "家事の負担と子供の夏休みによるストレス"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3897,
+    "評価作成日時": "2022-09-03T08:26:00",
+    "クライアント役ID": 301,
+    "カウンセラー役ID": 316,
+    "点数": 87,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 5,
+    "居心地のよいやりとりだった": 5,
+    "全体として適切でよかった": 5,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 5,
+    "要約": 5,
+    "問題の明確化": 5,
+    "この相談での目標の明確化": 5,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3897,
+    "evaluation_created_at": "2022-09-03T08:26:00",
+    "client_id": 301,
+    "counselor_id": 316,
+    "score": 87,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

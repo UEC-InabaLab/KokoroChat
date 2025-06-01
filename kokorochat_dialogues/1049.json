@@ -1,0 +1,524 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2020-12-31T10:13:38",
+      "utterance": "もしもし(?)"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T10:14:13",
+      "utterance": "時間がきました"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T10:17:29",
+      "utterance": "どうされましたか(?)"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T10:55:58",
+      "utterance": "よろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T10:56:17",
+      "utterance": "こんにちは。相談員です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T10:56:37",
+      "utterance": "メンタルトレーナ：恋愛、です。宜しくお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T10:56:50",
+      "utterance": "わかりました。お願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T10:57:05",
+      "utterance": "始めに、年齢・性別とお名前を何とお呼びしたらよいか、教えて頂けますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T10:57:48",
+      "utterance": "29歳　女性ジェルです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T10:58:11",
+      "utterance": "ありがとうございます。ジェルさんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T10:58:19",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T10:58:34",
+      "utterance": "ご相談内容を教えて頂けますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T10:59:32",
+      "utterance": "結婚しょうと考えている人がいるんですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T10:59:45",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T10:59:49",
+      "utterance": "長男で、跡継ぎ"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T10:59:59",
+      "utterance": "なるほど"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:00:43",
+      "utterance": "向こうの両親と同居になります"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:01:07",
+      "utterance": "結婚に不安があって"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:01:54",
+      "utterance": "なるほどですねそれは確かに不安に感じてしまいますよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:02:33",
+      "utterance": "どんなところが、一番不安ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:03:43",
+      "utterance": "お姑さんと相性が悪い気がします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:04:07",
+      "utterance": "そんな風に感じておられるのですね、、"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:04:30",
+      "utterance": "彼も同居が前提といいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:04:47",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:05:34",
+      "utterance": "相性に不安があると、なかなか良いイメージを持つのは難しいですよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:05:48",
+      "utterance": "はい、"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:06:23",
+      "utterance": "正式に決まってる訳ではないんですが"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:06:51",
+      "utterance": "どうしたものかと"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:06:58",
+      "utterance": "なるほどですね同居の方向性ということなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:07:06",
+      "utterance": "もう29だし"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:07:17",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:07:18",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:07:28",
+      "utterance": "先のこと、考えてしまいますよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:07:32",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:07:59",
+      "utterance": "ジェルさんとしては、どうなったら良いな、というのはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:08:24",
+      "utterance": "同居はちょっと"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:08:41",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:08:43",
+      "utterance": "田舎打者"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:09:00",
+      "utterance": "田舎だし"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:09:17",
+      "utterance": "そこも気に掛かっておられるのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:09:24",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:09:49",
+      "utterance": "回りは畑ばかりで"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:10:20",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:10:42",
+      "utterance": "お姑さん、ハッキリ物事言う方で"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:11:02",
+      "utterance": "なるほど（お聞きしていますので続けてくださいね）"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:11:21",
+      "utterance": "彼はそういう性格だからっていいます"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:11:51",
+      "utterance": "私はグサッってくる時があって"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:12:04",
+      "utterance": "ストレスに"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:12:58",
+      "utterance": "同居でないとダメって聞いたら、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:13:06",
+      "utterance": "そうですよね悪気はないのかもしれませんが、はっきり言われると、傷つくこと、ありますよねそのお気持ち、分かります..."
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:13:15",
+      "utterance": "跡継ぎだからって"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:13:22",
+      "utterance": "そうなんですね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:13:59",
+      "utterance": "後を継ぐお仕事は、同居しなければ継げない感じなのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:14:14",
+      "utterance": "はい、"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:14:33",
+      "utterance": "自営業です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:14:44",
+      "utterance": "なるほどですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:14:48",
+      "utterance": "家も大きいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:15:26",
+      "utterance": "そうなんですね近くで親御さんの仕事ぶりを見て、徐々に後を継いでいくということなんでしょうね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:15:45",
+      "utterance": "そうだと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:16:08",
+      "utterance": "なるほどですねジェルさんも、それが必要というところは納得な感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:16:17",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:16:41",
+      "utterance": "仕事は仕方ないと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:17:11",
+      "utterance": "そうですよね夫さんになる方には、しっかりお仕事継いで頂きたいですもんね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:18:03",
+      "utterance": "彼のお父様が小さな会社の社長で、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:18:16",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:18:53",
+      "utterance": "今は関連会社で修行みたいな感じで、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:19:21",
+      "utterance": "そうなんですね将来に向けて、一生懸命頑張ってらっしゃるのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:19:29",
+      "utterance": "一度外で働いてこいということみたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:20:16",
+      "utterance": "なるほど息子さんに立派になってほしいという親心なのかもしれませんね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:20:22",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:22:03",
+      "utterance": "今後は、結婚を機に、お父様の会社の仕事を覚えていく、という感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:22:28",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:23:41",
+      "utterance": "なるほどですねお仕事の方は着々と前進しておられるのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:23:47",
+      "utterance": "そうすると、"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:23:56",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:24:15",
+      "utterance": "あとは、ジェルさんとしては、できれば、仕事と生活を分けられたら、というところになってきますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:24:45",
+      "utterance": "お姑さんがネックです"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:25:09",
+      "utterance": "そうなりますかねぇ"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:25:12",
+      "utterance": "そうですよね会話することでストレスが、、というお話しでしたもんね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:25:50",
+      "utterance": "毎日顔を合わせるとなると"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:26:05",
+      "utterance": "イライラが"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:26:54",
+      "utterance": "そうですよね、、計り知れないほどのストレスが積もっていきそうで、ジェルさんの健康が心配です…"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:27:24",
+      "utterance": "今でも我慢しているとこあって"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:27:32",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:28:06",
+      "utterance": "彼に言ってもしょうがないの一点張り"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:28:24",
+      "utterance": "そうなんですね、、"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:28:31",
+      "utterance": "あちらよりって感じで"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:28:59",
+      "utterance": "一番支えになってほしい人にそう言われると、悲しくなってしまいますよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T11:29:07",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:30:20",
+      "utterance": "これまでも、胸の内にしまって、我慢して来られたのですね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T11:30:37",
+      "utterance": "（時間になりましたので、終了させて頂きます）"
+    }
+  ],
+  "topic": {
+    "main_jp": "恋愛問題",
+    "main_en": "Romantic Issues",
+    "sub": "同居に関する不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1049,
+    "評価作成日時": "2020-12-31T11:38:00",
+    "クライアント役ID": 131,
+    "カウンセラー役ID": 90,
+    "点数": 50,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 0,
+    "希望や期待を感じられた": 0,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 4,
+    "要約": 2,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 1,
+    "次の行動につながる提案": 0,
+    "勇気づけ・希望の喚起": 0,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1049,
+    "evaluation_created_at": "2020-12-31T11:38:00",
+    "client_id": 131,
+    "counselor_id": 90,
+    "score": 50,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 4,
+    "gained_new_insights": 0,
+    "felt_hopeful_or_expectant": 0,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 0,
+    "encouraged_and_instilled_hope": 0,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

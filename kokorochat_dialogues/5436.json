@@ -1,0 +1,769 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-06-13T09:52:28",
+      "utterance": "（こんにちは、今日はよろしくお願いします。時間になったら始めさせていただきますね。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T09:53:03",
+      "utterance": "よろしくお願いします。クライエント設定，何か希望ありますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T09:53:36",
+      "utterance": "（特にないです。お気遣いありがとうございます。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T09:53:58",
+      "utterance": "了解しました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:00:18",
+      "utterance": "こんにちは、今日はご相談に来ていただきありがとうございます。まず初めに年齢、性別、相談内容をお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:01:03",
+      "utterance": "あのーここで話したこと他に漏れませんか"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:01:33",
+      "utterance": "大丈夫ですよ。外に漏れることはないので、安心して下さいね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:01:50",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:02:07",
+      "utterance": "はい、なんでもお話しください。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:02:18",
+      "utterance": "25歳男　学校での対応についての不満"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:02:45",
+      "utterance": "ええ、なるほど。教えてくださりありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:03:23",
+      "utterance": "詳しく教えて頂けますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:04:07",
+      "utterance": "はい。教員なんですが、学校に保護者と通学してくる児童がいるんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:04:31",
+      "utterance": "なるほど、そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:04:48",
+      "utterance": "まあ最初は、仕方ないかと思っていましたが、いつまで？と思っています"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:05:09",
+      "utterance": "ええ、そう感じていらっしゃるんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:05:15",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:05:26",
+      "utterance": "どうしたらいいですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:06:36",
+      "utterance": "困っていらっしゃるんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:06:48",
+      "utterance": "それは悩みますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:06:53",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:08:06",
+      "utterance": "ではお話しをもう少し詳しく聞かせてもらってもよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:08:14",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:09:03",
+      "utterance": "話せばいいですか？それとも質問待ちですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:09:04",
+      "utterance": "ありがとうございます。先ほど学校の教師さんとお伺いしましたが、どんな学校で何を教えていらっしゃるんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:09:33",
+      "utterance": "小学校なので，全科目教えてます"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:11:23",
+      "utterance": "先ほど児童と申し上げましたが"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:11:59",
+      "utterance": "すみません、入れ違いましたね。小学生に対して、全教科ですね。ありがとうございます。それは素晴らしいお仕事ですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:12:07",
+      "utterance": "どんな学校とは何を答えれば良いでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:12:40",
+      "utterance": "私立とか公立とかですか？普通級とか特別支援校であるとかですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:12:58",
+      "utterance": "障害児の方を指導しているかもしれないし、状況がわからなかったので、"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:13:12",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:13:24",
+      "utterance": "そうですね、話されたくなければ大丈夫ですよ。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:13:36",
+      "utterance": "ので　の後は何が続きますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:14:04",
+      "utterance": "はい、聞かせて頂きました。と続きます。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:14:11",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:14:42",
+      "utterance": "話したくないのではなく、質問の意図がわからなかっただけです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:15:03",
+      "utterance": "わかりました。対応していただきありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:15:05",
+      "utterance": "公立のいわゆるフツーの学校です"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:15:26",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:15:33",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:15:44",
+      "utterance": "話を続けてもいいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:15:53",
+      "utterance": "はい、お願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:16:23",
+      "utterance": "今小学校3年を受け持っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:16:41",
+      "utterance": "ええ、そうなんですね。続けて下さい。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:17:03",
+      "utterance": "これまでも登校をしぶる児童もいましたが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:17:13",
+      "utterance": "ええ、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:17:52",
+      "utterance": "（聞いてますよ）"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:17:55",
+      "utterance": "まあ保護者の方と協力し、まずは一緒の登校。その後少しずつ離していくということが機能していました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:18:15",
+      "utterance": "はい、そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:18:20",
+      "utterance": "ただ今回の保護者、教室の中に入っているんですよ。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:18:35",
+      "utterance": "で、自分の息子の隣に座っているんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:18:36",
+      "utterance": "なるほど。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:18:51",
+      "utterance": "もう6月ですよ"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:18:58",
+      "utterance": "どう思いますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:20:12",
+      "utterance": "ええ、教室に入って来ることや、もう2ヶ月近く経ってるのに、なぜ？というお気持ちがあるんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:20:23",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:20:47",
+      "utterance": "なぜ？と思いませんか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:21:37",
+      "utterance": "教える立場からすると、教室は親は入ってきて欲しくないですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:22:03",
+      "utterance": "なぜそう思いますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:22:15",
+      "utterance": "他の生徒にも影響があえうのではないでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:22:47",
+      "utterance": "はい。他の児童への影響も懸念しています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:22:53",
+      "utterance": "あえう　→ ある　の誤りです。すみません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:23:01",
+      "utterance": "そうですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:23:43",
+      "utterance": "学校公開とかあるので，教室に親が入ってくることにもんだいはありません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:24:00",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:24:35",
+      "utterance": "が、毎日なんで子供の隣に座って一緒に授業を受けているのか、今となっては意味がわかりません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:25:37",
+      "utterance": "ええ、なるほど。納得がいっていらっしゃらないんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:25:49",
+      "utterance": "納得できますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:27:16",
+      "utterance": "そうですね、さぞお困りだとお察しします。学校に対して不満とあったので、学校側はそのことについて何も言わない感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:28:09",
+      "utterance": "はい。副校長とも話していますが"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:28:24",
+      "utterance": "ええ、（聞いてますよ）"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:28:28",
+      "utterance": "たしかにおとなしめの児童です"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:29:35",
+      "utterance": "不登校歴もあり、親御さんが心配なのもわかります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:29:50",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:30:35",
+      "utterance": "けれど，副校長の促しに対し、また不登校になるのと困るから、ママ一緒にいてと息子がいうからと，話が平行線です"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:31:20",
+      "utterance": "どう見ても、親が一緒にいたくて座っています。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:31:57",
+      "utterance": "スクールカウンセラーの部屋で待っていてもらいたいです！"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:32:24",
+      "utterance": "なるほど。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:32:36",
+      "utterance": "モヤモヤしますし、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:32:48",
+      "utterance": "はやくなんとかしたいですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:32:58",
+      "utterance": "そうなんです。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:33:28",
+      "utterance": "夏休みまでこんな感じなんでしょうかねー"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:34:05",
+      "utterance": "ええ、まだ続くのかと思うと嫌な気分になりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:34:07",
+      "utterance": "不登校という言葉を出せばなんでも通ると思っているようです。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:34:37",
+      "utterance": "これでいいんですかね？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:35:07",
+      "utterance": "なるほど、そう感じていらっしゃるんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:35:17",
+      "utterance": "それは悩みますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:35:25",
+      "utterance": "どう思いますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:36:14",
+      "utterance": "そうですね、少しでも相談者様のお力になれればと思います。一緒に考えさせて下さい！"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:36:21",
+      "utterance": "子離れできない親、精神疾患のある親を教員に押し付けないでほしい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:36:38",
+      "utterance": "ええ、（聞いてますよ）"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:36:53",
+      "utterance": "どうしたらいいでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:37:33",
+      "utterance": "そうですよね。教員の負担が多すぎですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:37:42",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:38:25",
+      "utterance": "授業の準備ならいくらでも残業しますし、親対応も頑張りますが"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:38:55",
+      "utterance": "ええ、（聞いてますよ）"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:39:31",
+      "utterance": "教員って地域周辺の行事やその手伝いにも借り出され、大事な授業への準備ができない時が多くあります。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:40:16",
+      "utterance": "なんか楽しそうに授業を聞いてる保護者を毎日見ているとイライラします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:41:05",
+      "utterance": "保護者の方はそんな態度ですか…。それは嫌ですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:41:28",
+      "utterance": "腹が立つのも当然です。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:41:39",
+      "utterance": "今度授業で難しい問題を親にあててやろうかとも思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:42:18",
+      "utterance": "ええ、そうですね。授業聞いてるんですから、わかるはずですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:42:44",
+      "utterance": "そうですよね！名案だ！"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:43:09",
+      "utterance": "居心地悪くなったら、教室から出て行きますかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:43:36",
+      "utterance": "ええ、かもしれないですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:44:07",
+      "utterance": "あとで問題になったりしませんか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:44:40",
+      "utterance": "そうですね。でも、相談者様はそのくらいしないと変わらないと思っていらっしゃるんですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:44:56",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:46:07",
+      "utterance": "お話しを聞いていて、相談者様は副校長にも取り合ったり、色々手立てはしてきたとお見受けしました。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:46:10",
+      "utterance": "給食の問題があり、(親には提供していない)お昼には帰るんですけどね。もちろん児童を連れて"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:46:33",
+      "utterance": "ええ、なるほど。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:46:54",
+      "utterance": "そうです。今年度押し付けられたんです。この親対応"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:48:15",
+      "utterance": "ええ、それは辛いですよね。そんな中で頑張ってこられましたよ。相談者様の不満は相当なものだと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:48:31",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:48:56",
+      "utterance": "相当です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:50:06",
+      "utterance": "本当にそうですよね。近年、ニュースでも教員のサービス残業みたいな、負担がますとよく耳にしますが、ここまでとは、私も知りませんでした。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:50:32",
+      "utterance": "そんなの、やってられないですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:51:17",
+      "utterance": "地域住民も「いいことだから」となんでも学校に提案してきますけど。提案だけで，行動するのは私たち教員です。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:51:38",
+      "utterance": "いいこと地獄と呼んでいます"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:52:18",
+      "utterance": "ことわると、なんで？教育者としてどうなのか叩かれますから"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:52:51",
+      "utterance": "↑どうなのかと叩かれるの間違いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:53:27",
+      "utterance": "ええ、本当に想像もできないくらい、大変な職業だと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:53:40",
+      "utterance": "ご理解いただきありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:53:52",
+      "utterance": "いいえ、とんでもないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:54:24",
+      "utterance": "まだお話しされたいことなど、ございますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:54:45",
+      "utterance": "ないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:55:28",
+      "utterance": "今日は正直なお気持ちを聞かせて頂いてありがとうございます。今日はお話しを聴くだけになってしまいましたが、"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:55:44",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:56:08",
+      "utterance": "よろしければ、次回、具体的な解決策をもう一度考えてみませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:57:29",
+      "utterance": "ぜひお願いします。学校の相談機関は保守的なので，一向に拉致があきません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:58:34",
+      "utterance": "そういって頂いて嬉しいです。教師という立場は、何かと正しさを求められて窮屈なおもいをされることが多いとおもうので、"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T10:58:58",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T10:59:23",
+      "utterance": "いつでも、またいらしてここでしかできないお話しをしていただければ嬉しいです。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T11:00:15",
+      "utterance": "嬉しいと言われても…"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T11:00:35",
+      "utterance": "でもまた相談させてください。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T11:00:41",
+      "utterance": "今日はありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T11:01:02",
+      "utterance": "すみません。良いと思います。ですね。いいえ、こちらこそきて頂いてありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-13T11:01:15",
+      "utterance": "(カウンセラー役さんお疲れ様でした！)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-13T11:01:25",
+      "utterance": "（ありがとうございました）"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "教育現場における保護者との関わり問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 5436,
+    "評価作成日時": "2023-07-11T20:35:00",
+    "クライアント役ID": 2,
+    "カウンセラー役ID": 371,
+    "点数": 75,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 5436,
+    "evaluation_created_at": "2023-07-11T20:35:00",
+    "client_id": 2,
+    "counselor_id": 371,
+    "score": 75,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

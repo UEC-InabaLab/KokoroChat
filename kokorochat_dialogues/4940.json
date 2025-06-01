@@ -1,0 +1,429 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-04-25T20:23:00",
+      "utterance": "（こんばんは、本日は宜しくお願いいたします。大変お手数ですが、DV相談の事例をお願いできますでしょうか。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T20:24:01",
+      "utterance": "（こんばんは、本日は宜しくお願いいたします。大変お手数ですが、DV相談の事例でお願いできますでしょうか。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T20:24:30",
+      "utterance": "(こんばんは。よろしくお願いいたします。承知しました。)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T20:24:57",
+      "utterance": "（送信が重複してしまい申し訳ありません。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T20:25:49",
+      "utterance": "(いえいえ、大丈夫ですよ。)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T20:26:04",
+      "utterance": "（ありがとうございます。お時間になりましたら開始させていただきます。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T20:26:25",
+      "utterance": "(承知しました)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T20:30:13",
+      "utterance": "こんばんは、相談員です。はじめに、年齢、性別、相談内容を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T20:30:56",
+      "utterance": "34歳　女性　夫のことで悩んでいます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T20:32:06",
+      "utterance": "ありがとうございます。ご主人とのことですね。詳しくお話しいただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T20:32:54",
+      "utterance": "大きな声で、強い口調で怒鳴られます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T20:33:48",
+      "utterance": "そうだったんですね。それは恐怖を感じますね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T20:34:25",
+      "utterance": "あとはものを投げたり、壊したりします。怖くて怯えてしまいます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T20:35:27",
+      "utterance": "ええ、とても怖い思いをされましたよね。ちなみに、今ご主人の近くにいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T20:36:12",
+      "utterance": "今主人はお風呂に入っているので大丈夫です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T20:38:31",
+      "utterance": "ご主人にここでのやり取りが見られることはとても危険なのですが、ご主人と離れた場所から相談していただくことはできそうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T20:39:48",
+      "utterance": "自分の部屋であれば大丈夫だと思います。主人は風呂上がったらTV観てるので"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T20:42:13",
+      "utterance": "分かりました。もし相談中にご主人が部屋に入られたりしたら、すぐに中断してここでの履歴を削除してくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T20:42:24",
+      "utterance": "分かりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T20:43:18",
+      "utterance": "ご理解いただきありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T20:45:19",
+      "utterance": "怒鳴られたり、ものを投げられたりするのは日常的にあるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T20:46:18",
+      "utterance": "毎日ではないですが、週に3、4回くらいはあります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T20:47:53",
+      "utterance": "そうなんですね。常に恐怖と隣り合わせといった感じですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T20:48:21",
+      "utterance": "そうかもしれないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T20:48:53",
+      "utterance": "ええ、精神的にもおつらいことと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T20:49:44",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T20:50:58",
+      "utterance": "普段の生活ではどのような感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T20:53:21",
+      "utterance": "休日とかは機嫌が良いのですが、仕事終わりとか、あとは急に私の言葉とかに悪い方に捉えてイラつき始めたりします。"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T20:53:57",
+      "utterance": "あとは子どももいるので、本当に子どもが心配です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T20:55:02",
+      "utterance": "そうだったんですね。機嫌が良い時と悪い時があってびっくりしてしまいますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T20:55:21",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T20:56:12",
+      "utterance": "ええ、お子さんがいるのですね。不安になりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T20:56:24",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T20:57:15",
+      "utterance": "ご主人、お子さんに対してはいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T20:58:12",
+      "utterance": "あまり怒ったりしないし、子どもに当たることはないですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T20:58:43",
+      "utterance": "ただ怒鳴り声とか耳にしてるので怖いと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T20:59:30",
+      "utterance": "そうなんですね。お子さんが見ているときにあなたに対して何かされることはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T21:01:09",
+      "utterance": "1回あったぐらいなのでほぼないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T21:01:10",
+      "utterance": "そうだったんですね。それは心配になるのも自然なことと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T21:02:00",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T21:03:00",
+      "utterance": "今まで怖い思いをされてきて、ご主人に対してどのように思われていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T21:04:22",
+      "utterance": "怖い、怒らないでほしい、って思いとでもやっぱり怒られる自分が悪いのかなって思いもあります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T21:04:47",
+      "utterance": "ええ、そのように感じておられるんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T21:06:09",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T21:06:27",
+      "utterance": "あなたが悪いと思う必要はありません。暴力はいかなる場合があってもあってはならない事です。"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T21:06:59",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T21:08:54",
+      "utterance": "一般的に家族であっても怒鳴ったり、物にあたるという行為は暴力にあたります。"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T21:09:22",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T21:10:00",
+      "utterance": "ええ、あなたとお子さんの事がとても心配です。"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T21:11:08",
+      "utterance": "はい、子どもの為思うと、どうしたらいいか、悩んでわからなくなります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T21:12:20",
+      "utterance": "そうですよね、お子さんのためにもどうしていくのがいいのか一緒に考えてみませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T21:12:46",
+      "utterance": "はい、お願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T21:14:57",
+      "utterance": "ご主人に怖い思いをされていること、伝えるとどうなりそうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T21:16:34",
+      "utterance": "もし、ますます怒鳴られたらと思うと、怖くて勇気が出ません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T21:17:41",
+      "utterance": "ええ、考えてみただけで怖いですよね。。"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T21:17:52",
+      "utterance": "はい…"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T21:20:00",
+      "utterance": "お子さんと一緒にご主人と距離をとることは出来そうでしょうか？（数日間実家に帰省するなど）"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T21:21:41",
+      "utterance": "実家は県外なんですけど、やっぱり子どもの為にはそうした方がいいのでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T21:22:47",
+      "utterance": "ええ、そのような環境で暮らしていることはお子さんにとっても良くない事と思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T21:24:11",
+      "utterance": "分かりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T21:27:22",
+      "utterance": "ご実家が県外とのことで、大変とは思いますが、あなたとお子さんの安全を第一に考えてみてくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T21:27:43",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T21:28:14",
+      "utterance": "今日はお時間が来てしまいましたが、またこちらでお待ちしておりますのでいつでも相談に来てくださいね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T21:28:31",
+      "utterance": "今日はお話してみていかがでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T21:28:36",
+      "utterance": "分かりました。ありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T21:29:02",
+      "utterance": "今まで誰にも話せていなかったので、話せて良かったです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T21:30:20",
+      "utterance": "良かったです。こちらこそ、お話しいただきありがとうございました。終了しましたらトーク履歴を削除すること、お忘れなくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T21:30:34",
+      "utterance": "承知しました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T21:30:38",
+      "utterance": "では終了のメッセージをお送りいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T21:30:45",
+      "utterance": "はいありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-04-25T21:31:19",
+      "utterance": "（クライエント役をしていただきありがとうございました。評価にてフィールドバックの程宜しくお願い致します。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-04-25T21:32:00",
+      "utterance": "(お疲れ様でした。ありがとうございました。評価の件承知しました。)"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦）",
+    "main_en": "Family Issues (Spouse)",
+    "sub": "DVによる恐怖と不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4940,
+    "評価作成日時": "2023-04-27T00:11:00",
+    "クライアント役ID": 136,
+    "カウンセラー役ID": 274,
+    "点数": 73,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 4,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 4,
+    "要約": 3,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4940,
+    "evaluation_created_at": "2023-04-27T00:11:00",
+    "client_id": 136,
+    "counselor_id": 274,
+    "score": 73,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,779 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-01-27T19:22:49",
+      "utterance": "こんばんは。本日は宜しくお願い致します。30分になりましたら、スタートしますね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T19:23:19",
+      "utterance": "こんばんは。分かりました。よろしくお願い致します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T19:30:34",
+      "utterance": "こんばんは。相談員です。今日は相談に来てくださってありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T19:30:45",
+      "utterance": "こんばんは。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T19:31:05",
+      "utterance": "今日はどのようなご相談ですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T19:31:29",
+      "utterance": "毎日しんどくて、どうしたらいいか分かりません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T19:31:52",
+      "utterance": "そうなんですね。それはお辛いですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T19:32:45",
+      "utterance": "いつ頃から、そのようにお感じですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T19:33:07",
+      "utterance": "分かりません。もうずっとです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T19:33:34",
+      "utterance": "長い期間、しんどい思いをされてきたんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T19:33:46",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T19:34:09",
+      "utterance": "あなたのお力になりたいので、少し詳しくお話お聴きできますか?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T19:34:40",
+      "utterance": "性別と年齢を教えてください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T19:35:54",
+      "utterance": "毎日なんでか疲れます。ただ生きるのが辛いです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T19:36:35",
+      "utterance": "生きるのが辛いと思うほど、しんどい思いを抱えてこられたんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T19:37:38",
+      "utterance": "どんな時が一番しんどいと感じますか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T19:38:35",
+      "utterance": "17歳、女です。1人になった時とか、家にいる時もしんどいと感じます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T19:38:56",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T19:39:19",
+      "utterance": "学生さんですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T19:39:34",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T19:40:23",
+      "utterance": "1人になった時や、家にいるときにしんどい思いが強いということですが、学校ではどうですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T19:41:18",
+      "utterance": "友達と話してると気持ちが紛れます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T19:42:19",
+      "utterance": "そうなんですね。お友達とのお話しで気が紛れると救われますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T19:42:50",
+      "utterance": "家族は何人ですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T19:43:37",
+      "utterance": "父と母と妹と弟が1人ずついます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T19:44:14",
+      "utterance": "そうなんですね。ちなみに、妹さんと弟さんは何年生ですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T19:45:19",
+      "utterance": "妹は中学1年で、弟は小学4年生です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T19:45:44",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T19:46:07",
+      "utterance": "おうちの中で、何かストレスを感じることはありますか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T19:48:36",
+      "utterance": "ストレスですか…。よく分かりません。特にすごくきついということもないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T19:49:55",
+      "utterance": "そうなんですね。妹さんや弟さんがいるので、家で例えば勉強するのにうるさくて集中できない、とかあるのかな、と思って聞いてみました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T19:51:18",
+      "utterance": "今、高校生かと思いますが、将来のこととか考えますか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T19:51:18",
+      "utterance": "いえ、妹、弟達は良い子です。元気で明るいとは思うけど、うるさいと思ったことはないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T19:51:36",
+      "utterance": "行違いました。ごめんなさい。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T19:51:46",
+      "utterance": "大丈夫です。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T19:52:00",
+      "utterance": "将来は普通に就職かな、と思ってます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T19:52:35",
+      "utterance": "そうなんですね。高校を卒業して就職という感じですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T19:53:04",
+      "utterance": "はい、そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T19:53:37",
+      "utterance": "どんな仕事に就きたいとか、希望はありますか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T19:54:31",
+      "utterance": "特にないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T19:54:43",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T19:55:08",
+      "utterance": "就職することに関して、あなたはどのように思っていますか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T19:56:31",
+      "utterance": "どのように？生活するために必要、ですかね？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T19:57:03",
+      "utterance": "なるほど。仕事は生活のために必要だと感じておられるんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T19:57:24",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T19:57:27",
+      "utterance": "家族と将来のこととかお話されますか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T19:57:56",
+      "utterance": "なんとなくはしたりすることもあります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T19:58:51",
+      "utterance": "そうですか。あなたが就職を考えていることについてどのようなご意見ですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T19:59:41",
+      "utterance": "そうしてくれると助かると言ってます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:00:14",
+      "utterance": "そのように言われるんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:01:04",
+      "utterance": "助かる、というのはどのようにですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T20:02:15",
+      "utterance": "経済的にということだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:02:39",
+      "utterance": "そのように感じて聴いておられるんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:03:06",
+      "utterance": "親御さんの思いをしっかり受けとめておられますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:03:19",
+      "utterance": "ところで、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:04:37",
+      "utterance": "毎日、疲れて、ただ生きるのも辛い、というお話でしたが、何かあなたが楽しいと感じるものはありますか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T20:05:39",
+      "utterance": "さあ、もうそういうこともあまり感じなくなってます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:06:54",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:07:29",
+      "utterance": "楽しいと感じられないくらいにエネルギーを疲弊されているのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:07:43",
+      "utterance": "体の調子はどうですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T20:08:14",
+      "utterance": "たまに頭痛がします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:08:39",
+      "utterance": "それは不快ですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:09:14",
+      "utterance": "睡眠や食事はどうですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T20:10:19",
+      "utterance": "あまり眠れてないです。浅いというか。食事は出来てますが、食欲はあまりないかもしれません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:10:37",
+      "utterance": "そうでしたか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:11:05",
+      "utterance": "いつ頃から眠れていないと感じますか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T20:12:04",
+      "utterance": "高校生になったくらいからかな。多分。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:12:28",
+      "utterance": "そうでしたか・・・それは長いですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:12:45",
+      "utterance": "何かきっかけはありますか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T20:13:31",
+      "utterance": "分かりません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:14:57",
+      "utterance": "そうなんですね。学校に入学してどのように感じましたか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T20:15:49",
+      "utterance": "あー、新しい学校生活が始まるんだなーって思ってました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:16:25",
+      "utterance": "それは期待のようなわくわくした感じでしたか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T20:17:41",
+      "utterance": "多分特にそんなしてなかったと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:18:18",
+      "utterance": "そうだったんですね。ただ、新しい生活が始まるなという感じだったんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:18:50",
+      "utterance": "今までのお話を少しまとめてみても宜しいですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T20:18:56",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:19:38",
+      "utterance": "あなたは毎日なんでか疲れて、生きるのが辛いと感じている。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T20:20:01",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:20:10",
+      "utterance": "特に1人になった時とか、家にいる時もしんどいと感じる。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T20:20:40",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:20:58",
+      "utterance": "友達と話してると気持ちが紛れるが、楽しいと感じることもなくなっていると感じている。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T20:21:20",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:21:31",
+      "utterance": "体調としては、頭痛や浅い睡眠、食欲もない。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T20:21:45",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:21:54",
+      "utterance": "将来は生活のために就職をすると思う。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:22:09",
+      "utterance": "如何ですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T20:22:23",
+      "utterance": "はい、大丈夫です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:22:34",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:23:18",
+      "utterance": "今までのお話をお聴きして、高校入学後から今まで、ずいぶんしんどい思いをしてこられて、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:23:39",
+      "utterance": "それでもよく頑張ってこられたと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:23:50",
+      "utterance": "特に睡眠は、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:24:08",
+      "utterance": "人間のエネルギーの源でもあります。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T20:24:21",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:25:04",
+      "utterance": "十分な睡眠がとれてはじめて、気持ちも落ち着いたり、前に向けることができるんです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T20:25:48",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:26:00",
+      "utterance": "もしかしたらら、あなたが気づかないところで、何かきっかけがあったのかもしれませんし、なかったのかもしれませんが"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:26:40",
+      "utterance": "まずは、しっかり睡眠をとることで、気力の回復をはかることも一つかと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T20:27:23",
+      "utterance": "はい。薬とか飲んだらいいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:27:48",
+      "utterance": "浅い睡眠が長期にわたっているので、少し睡眠導入剤などを処方してもらうこともありかと思いますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T20:28:10",
+      "utterance": "はい、あの、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:28:20",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T20:28:41",
+      "utterance": "病院でそういう薬もらうのって、私一人だけでももらえますよね？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:29:17",
+      "utterance": "今の年齢なら、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:29:41",
+      "utterance": "小児科に行って相談することも可能かと思いますが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:30:06",
+      "utterance": "家族と一緒は難しいですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T20:30:59",
+      "utterance": "睡眠薬欲しいから病院連れてってとは言いにくかな…。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:31:17",
+      "utterance": "うんうん。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:31:37",
+      "utterance": "あなたは家族のことをしっかり気遣える人ですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:32:14",
+      "utterance": "病院のハードルが高かったら、スクールカウンセラーにお話してみることはできますか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T20:32:15",
+      "utterance": "いや、怒られそうで。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:32:31",
+      "utterance": "そんな風に思うんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:33:05",
+      "utterance": "こんなに長い間眠れていないのは、本当に辛いことなのですが・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T20:33:05",
+      "utterance": "スクールカウンセラーですか。なんかそれも怖いです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T20:33:19",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:33:42",
+      "utterance": "スクールカウンセラーのイメージは怖い感じ?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:34:41",
+      "utterance": "これから、学年が進むと、将来のことを考えていく必要も増してくると思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T20:35:06",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:35:37",
+      "utterance": "少しでも、良い状態で、考えていくためにも、身近なところであなたの味方になってくれる大人を増やしておくことは大事だと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T20:35:53",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:36:12",
+      "utterance": "一番身近な家族に理解してもらえれば"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:36:35",
+      "utterance": "とは思いますが、怒られそうかな?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:36:45",
+      "utterance": "もし、そうであれば"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:37:44",
+      "utterance": "担任の先生やスクールカウンセラーに理解してもらって、サポートしてもらえる体制が取れるといいな、と思うのですが、如何ですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T20:38:18",
+      "utterance": "そんな大袈裟にはしたくないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:39:00",
+      "utterance": "そんな風に思うんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:39:30",
+      "utterance": "どうしてそんな風に思うの?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T20:39:34",
+      "utterance": "生きるのがしんどいとか、あんまり知られたくない。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:40:23",
+      "utterance": "今まで、1人で抱えてきたんですね。よく、頑張りましたね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T20:40:33",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:41:03",
+      "utterance": "今日は本当によく勇気を出して相談に来てくれました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T20:41:12",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:42:04",
+      "utterance": "この続きは、また、次回お話して、少しでもあなたが楽になるように一緒に考えていけたら、と思いますが如何ですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T20:42:27",
+      "utterance": "はい、お願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:43:27",
+      "utterance": "では、今日のところは一旦終了しますね。今日は大切なお話を聞かせてくれてありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T20:43:39",
+      "utterance": "はい、ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:44:06",
+      "utterance": "話したことのないことを話すのは、ずいぶん疲れたと思います。ゆっくりお風呂に入ってリラックスしてくださいね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:44:18",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T20:44:23",
+      "utterance": "はい、分かりました。ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:45:56",
+      "utterance": "★ありがとうございました。時間超過してすみませんでした。ロールプレーを終了して大丈夫ですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-27T20:46:37",
+      "utterance": "いえ、いえ。はい大丈夫です。お疲れ様でした。失礼致します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-27T20:46:48",
+      "utterance": "お疲れさまでした。"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "生きることへの辛さと疲れの感覚"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1257,
+    "評価作成日時": "2021-01-27T21:12:00",
+    "クライアント役ID": 115,
+    "カウンセラー役ID": 91,
+    "点数": 46,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 1,
+    "一緒に考えながら取り組めた": 1,
+    "やりとりのリズムがあっていた": 1,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 1,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 2,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 2,
+    "要約": 2,
+    "問題の明確化": 1,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 1,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1257,
+    "evaluation_created_at": "2021-01-27T21:12:00",
+    "client_id": 115,
+    "counselor_id": 91,
+    "score": 46,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 1,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 1,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

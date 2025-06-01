@@ -1,0 +1,594 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-01-09T20:54:14",
+      "utterance": "今晩は。本日も宜しくお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:01:14",
+      "utterance": "こんばんは、きりきりですみませんよろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:01:35",
+      "utterance": "こちらこそ、宜しくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:01:57",
+      "utterance": "早速、始めさせていただいて宜しいでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:02:10",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:03:25",
+      "utterance": "今晩は。本日は相談に来ていただき、ありがとうございます。始めに、年齢と性別を教えて頂けますでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:04:22",
+      "utterance": "高校2年生、女性です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:04:58",
+      "utterance": "ありがとうございます。本日は、どのような、ご相談でしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:06:20",
+      "utterance": "人の視線が気になって教室にいくのが怖いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:06:44",
+      "utterance": "それはお辛いですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:07:13",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:07:47",
+      "utterance": "人の視線が気になられるには、どのようなことがあったのか詳しく教えて頂けますか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:09:36",
+      "utterance": "以前仲が良かった友達から急に無視されるようになって"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:10:12",
+      "utterance": "それから気になるようになりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:10:35",
+      "utterance": "お辛いですね。何か思い当たることはありますか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:12:17",
+      "utterance": "3人の仲良しグループだったのですが、私だけ話しかけられなくなって"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:12:52",
+      "utterance": "そうなんですね。辛いですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:13:27",
+      "utterance": "学校でどなたかに相談されましたか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:13:28",
+      "utterance": "他の二人に何か話していると、私の悪口を言ってるんじゃないかと思うようになったのです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:14:07",
+      "utterance": "具体的に何か話の内容を聞いてしまったとか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:14:22",
+      "utterance": "担任の先生には相談してことがありましたが、気にしないようにって言われました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:14:43",
+      "utterance": "ご家族には相談されましたか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:15:18",
+      "utterance": "親には話したことはありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:16:19",
+      "utterance": "そうでしたか。相談者さんの悪口を言っていると思うようになったきっかけは、どのような事だったんでしょうか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:19:34",
+      "utterance": "答えずらいことを聞いてしまっていたら申し訳ありません。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:19:55",
+      "utterance": "さっきも書きましたが、3人グループの他の子が急に話してくれなくなって、時々私の方の見ながら二人だけでヒソヒソ話していたので、"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:20:11",
+      "utterance": "きっと私の悪口を言ってるんだと思いました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:21:12",
+      "utterance": "そうですね。ひそひそ話だとそう思ってしまうのも無理はないかもしれませんね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:22:12",
+      "utterance": "それから、誰かが私の方をみると、私を嫌っているんじゃないかとか、何か私がおかしなことしてるんじゃないかとか思うようになってしまいました"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:22:34",
+      "utterance": "怖くて教室には入れません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:23:23",
+      "utterance": "そう思ってしまうと、どんどん辛くなってきますね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:23:56",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:24:07",
+      "utterance": "先程、以前の仲良しとおっしゃっていましたが、今は他の仲良しの方がいらっしゃるのですか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:25:29",
+      "utterance": "2年生になって話しかけてくれた子もいたのですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:25:49",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:25:55",
+      "utterance": "また私から離れてしまうんじゃないかって思ってしまい"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:26:37",
+      "utterance": "あまりこちらから話しかけなかったら、なんとなく疎遠になってしまいまいた"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:26:45",
+      "utterance": "今は一人ぼっちです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:26:49",
+      "utterance": "以前の仲良しの方たちのようにですか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:27:09",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:27:24",
+      "utterance": "実は中学の時にも似たようなことがあったんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:28:00",
+      "utterance": "差し支えなければ、どのような事だったのか教えて頂けますか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:29:44",
+      "utterance": "何かお答えづらい事でしょうか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:31:10",
+      "utterance": "辛い状況を克服するために、ここでお話ししていただけませんか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:31:51",
+      "utterance": "幼馴染だった子に裏切られてしまったのが悲しいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:32:17",
+      "utterance": "それは辛い経験があったのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:32:43",
+      "utterance": "どのように裏切られてしまったのかお教えください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:33:15",
+      "utterance": "とても仲が良かったんですが、その子が他の子と仲良く話してるのが"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:33:25",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:33:36",
+      "utterance": "なんだか嬉しくなくて"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:34:05",
+      "utterance": "そうだったんですね。嫉妬心みたいな感じでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:34:37",
+      "utterance": "あまり話して欲しくないって言ったら避けられてしまったんです"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:34:47",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:35:16",
+      "utterance": "そうでしたか。私も幼稚園の頃、同じことをした記憶があります。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:35:24",
+      "utterance": "友だちが少ないから、私だけの友だちでいて欲しかったのかもしれません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:36:21",
+      "utterance": "そうですね。でも相談者さんが気が付いていないだけで周りには友達はいっぱいいるんですよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:36:57",
+      "utterance": "でもまた裏切られるんじゃないかって思うと怖くて話しかけられません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:37:38",
+      "utterance": "そうなんですね。でもこう考えてみては如何でしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:37:48",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:39:24",
+      "utterance": "お友達は相談者さんを裏切っているのではなく相談者さんの別の友達と話しているだけでまた、相談者さんのところへ自然に戻ってくる。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:40:09",
+      "utterance": "そうかな"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:40:14",
+      "utterance": "相談者さんも色々な友達とお話ししてみては如何でしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:41:11",
+      "utterance": "自分のことをどう思ってるのかわからないと怖いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:41:19",
+      "utterance": "友達の友達はみな友達だ。と言っていたタレントさんもいましたが、それ以前に幼稚園の先生が言っていました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:42:00",
+      "utterance": "これからが自分をアピールするチャンスだと思ってもいいと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:42:07",
+      "utterance": "私にはそんな風には思えません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:42:44",
+      "utterance": "ここまでの話をまとめさせていただきたいので少しお時間を頂けますか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:42:50",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:45:34",
+      "utterance": "相談者さんは、現在、仲良しだった友人たちから無視されるようになり、教室に行くのが怖い。そして過去にもあったように友人が自分から離れて行ってしまうトラウマに悩んでいる。というお悩みで宜しいでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:46:24",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:47:10",
+      "utterance": "相談者さんは、人より少し臆病で、独占欲が強いほうではないでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:48:03",
+      "utterance": "かなり臆病だと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:48:35",
+      "utterance": "そうですね。だからお友達も少なくしてしまう。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:48:38",
+      "utterance": "独占欲は今はどうかな"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:49:06",
+      "utterance": "あのときはあったけど後悔してるので"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:49:29",
+      "utterance": "そうかもしれません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:50:18",
+      "utterance": "はい。少しだけ勇気を持って、以前の仲良し二人とお話ししてみては如何でしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:50:59",
+      "utterance": "もう何か月も話していないので、話しかけづらいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:51:00",
+      "utterance": "無視されたら、私の話をお願いだから聴いて。と言って。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:51:29",
+      "utterance": "うーんよけい嫌われたらどうしよう"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:52:59",
+      "utterance": "そう思ってしまいますよね。そうしたら、二人のうちのどちらか一人に話をしてみては。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:54:20",
+      "utterance": "あれからずっと話してくれないのに、私のことどうおもってるのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:54:32",
+      "utterance": "って思うと怖いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:55:47",
+      "utterance": "そうですよね。私のことどう思っているのか、より私の事、少し分かってと思って話してみてはどうでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:57:21",
+      "utterance": "よくわかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:57:52",
+      "utterance": "最初は、怖いと思います。少し自分を変えてみる勇気が持てるとよいのですが。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:58:00",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:58:25",
+      "utterance": "それは分ってはいるんだけど"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:58:48",
+      "utterance": "なかなか行動に起こせないという感じですか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T21:58:53",
+      "utterance": "なかなかできそうにありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T21:59:55",
+      "utterance": "そうですか、無理をせず、少しづつでもいいので色々な人と話をして関わってみてはどうでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T22:00:21",
+      "utterance": "はいありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T22:01:34",
+      "utterance": "相談者さんは相談者さんなのですから、あまり周りからどう思われているかは気にしないで話をしてみてください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T22:01:43",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T22:02:53",
+      "utterance": "一時間がたってしまいました。難しいことが沢山あると思いますが、何かあればまた、いつでも相談に来てください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T22:03:08",
+      "utterance": "はいありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T22:04:14",
+      "utterance": "こちらこそ、ありがとうございました。相談者さんが今後の学校での生活も楽しめるように願っています。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T22:06:00",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T22:06:41",
+      "utterance": "それでは、終了させて頂きます。ありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T22:07:16",
+      "utterance": "勉強になりました。ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T22:07:46",
+      "utterance": "こちらこそ勉強になりました。難しい問題でした。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T22:09:17",
+      "utterance": "それでは、ロールプレイを終了させて頂きます。またの機会に宜しくお願い致します。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T22:09:34",
+      "utterance": "了解しました"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-09T22:09:51",
+      "utterance": "またよろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-09T22:09:53",
+      "utterance": "ありがとうございました。"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "教室での人間関係の不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1148,
+    "評価作成日時": "2021-01-09T23:11:00",
+    "クライアント役ID": 92,
+    "カウンセラー役ID": 105,
+    "点数": 47,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 1,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 1,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 1,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 4,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 2,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1148,
+    "evaluation_created_at": "2021-01-09T23:11:00",
+    "client_id": 92,
+    "counselor_id": 105,
+    "score": 47,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 4,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,614 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-04-10T12:30:05",
+      "utterance": "こんにちは。相談員です。はじめに、年齢・性別・相談したいことを、教えてください。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T12:41:07",
+      "utterance": "相談にきてくださって、ありがとうございます。今、入力してくださっているのでしょうか。少しずつでも大丈夫なので、よかったら送ってみてくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T12:45:34",
+      "utterance": "小5 女子"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T12:45:42",
+      "utterance": "（遅くなりすみません）"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T12:45:52",
+      "utterance": "(大丈夫です！)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T12:46:04",
+      "utterance": "どんなことを相談したいですか。"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T12:46:08",
+      "utterance": "今日から新しい学校だったんですけど"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T12:46:18",
+      "utterance": "友だちができるか心配です"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T12:46:31",
+      "utterance": "しゃべるのとか発表とか苦手なんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T12:46:45",
+      "utterance": "そうなのですね。教えてくれて、ありがとう。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T12:46:57",
+      "utterance": "不安な気持ちになりますね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T12:47:04",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T12:47:18",
+      "utterance": "男の子と話すのが特に苦手で"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T12:47:20",
+      "utterance": "緊張します"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T12:47:29",
+      "utterance": "どうしたら緊張がとけますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T12:48:56",
+      "utterance": "新しい学校…ということは、転校…したのですか。"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T12:49:08",
+      "utterance": "そうなんです"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T12:49:16",
+      "utterance": "誰も知っている人がいないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T12:49:39",
+      "utterance": "そうでしたか。では、今日は1日よくがんばってきましたね。疲れたでしょう。"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T12:49:50",
+      "utterance": "はい　疲れました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T12:50:17",
+      "utterance": "緊張もしたし、ドキドキもしたし…ですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T12:50:31",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T12:50:34",
+      "utterance": "一日過ごしてみて、どうでしたか。"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T12:50:59",
+      "utterance": "話はできたんですけど"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T12:51:05",
+      "utterance": "グループに入るのが苦手で"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T12:51:43",
+      "utterance": "ええ！　お話しできたのですね。がんばりましたね。勇気がいったでしょう。"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T12:52:01",
+      "utterance": "話しかけてきてくれたので大丈夫でした"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T12:52:33",
+      "utterance": "そうでしたか。よかったですね。きっとあなたが、話しかけやすい雰囲気をもっていたからだと思いますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T12:52:46",
+      "utterance": "うれしいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T12:53:05",
+      "utterance": "ええ。あなたのすてきな魅力ですよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T12:53:19",
+      "utterance": "女の子が話しかけてきてくれたのですか。"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T12:53:25",
+      "utterance": "そうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T12:53:43",
+      "utterance": "そうなのですね。お話ししてみて、どうでしたか。"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T12:53:51",
+      "utterance": "仲良く話せました"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T12:54:00",
+      "utterance": "学校のこととか教えてもらいました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T12:54:25",
+      "utterance": "おお！それは、すばらしい。教えてもらう…最初は大事なことですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T12:54:43",
+      "utterance": "うれしかったですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T12:55:12",
+      "utterance": "でも"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T12:55:12",
+      "utterance": "グループに入るのが苦手…とのことでしたが、"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T12:55:23",
+      "utterance": "一緒に帰れなかった"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T12:55:29",
+      "utterance": "行き違いました。ごめんなさい。"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T12:55:31",
+      "utterance": "話しかけられなくて"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T12:55:38",
+      "utterance": "大丈夫です"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T12:56:17",
+      "utterance": "そうでしたか。一緒に帰れなかったの、残念でしたね。一日いっぱいがんばって、"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T12:56:39",
+      "utterance": "エネルギー切れだったのかもですね。無理ないですよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T12:56:50",
+      "utterance": "ほんとうは、どうしたかったの？"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T12:56:59",
+      "utterance": "一緒に帰りたかったです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T12:57:48",
+      "utterance": "そうなのですね。あなたの大切な気持ちですね。その気持ちがあること、自分で気づいていること、だいじですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T12:58:23",
+      "utterance": "明日も学校ですか。"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T12:58:28",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T12:58:45",
+      "utterance": "(ごめんなさい。宅急便)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T12:59:21",
+      "utterance": "（ごめんなさい。続けます。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T13:00:12",
+      "utterance": "では、どうでしょう。明日、こんなふうにしてみたいな、なったらいいな…とか、ありますか。"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T13:00:36",
+      "utterance": "緊張しなくなったらいいんですけど、どうしたらいいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T13:01:09",
+      "utterance": "なるほど。緊張するのが、とってもしんどいのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T13:01:57",
+      "utterance": "男の子と話すのが特に緊張しま"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T13:01:59",
+      "utterance": "します"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T13:02:15",
+      "utterance": "今日も隣の席が男の子ですごい緊張しました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T13:02:45",
+      "utterance": "そうなのですね。1日、疲れましたね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T13:02:59",
+      "utterance": "前の学校では、どうだったのでしょう。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T13:03:16",
+      "utterance": "特に男の子とかに対して…。"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T13:04:02",
+      "utterance": "前の学校では、活発な子が友だちでいたんで、その子の友だちを紹介してもらってた感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T13:04:49",
+      "utterance": "そうでしたか。心強い味方がいたんですね。あなたがいい子だから、友だちも味方してくれたんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T13:05:16",
+      "utterance": "新しい学校、早くみんなと仲良くなりたいですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T13:05:17",
+      "utterance": "楽しかったです"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T13:05:22",
+      "utterance": "なりたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T13:05:36",
+      "utterance": "あなたの大切な願いですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T13:06:17",
+      "utterance": "男の子も含めて、みんなと仲良くなるために…、どんなことができそうか、一緒に考えて見ませんか。作戦会議です。"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T13:07:05",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T13:07:53",
+      "utterance": "では…。まず、一ヶ月後、こんなふうになっていたらいいな…みたいな、あなたのイメージって、ありますか。教えてください。"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T13:08:52",
+      "utterance": "友だちができてて、他のクラスの人とも話せる"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T13:09:32",
+      "utterance": "おお！そうなのですね。すてきなイメージですね。クラスの友だちは、何人くらいのイメージでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T13:11:28",
+      "utterance": "前の学校はみんなで仲が良い感じだったのでそんなふうになるといいな"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T13:12:37",
+      "utterance": "なるほどです！クラスについての、大事なすてきなイメージがあるのですね。目標に向かって進むために、言いイメージがあること、とても大切な事だったりします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T13:12:56",
+      "utterance": "あなたは、いいスタートラインに立てていると思いました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T13:13:05",
+      "utterance": "そして、今日、"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T13:13:45",
+      "utterance": "あなたは女の子とお話しして、学校のこととか、教えてもらった。すごく、いいスタートを切りましたよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T13:13:55",
+      "utterance": "どう思いますか。"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T13:14:06",
+      "utterance": "はい　そうだと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T13:14:27",
+      "utterance": "ええ、あなたの力です。では…なのですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T13:15:19",
+      "utterance": "たとえば、あなたの言う、みんなで仲が良い感じ…を、100点満点の状態だとしてみますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T13:15:25",
+      "utterance": "そうすると、"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T13:16:01",
+      "utterance": "今日あなたががんばって、進んだことは、100点満点の何点くらいになりそうですか。"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T13:16:12",
+      "utterance": "60点？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T13:16:50",
+      "utterance": "おお！すごいです。60点分も、がんばった気持ちがあるのですね。最高のスタートをきりましたね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T13:17:02",
+      "utterance": "ありがとうございます(ありがとう)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T13:17:13",
+      "utterance": "そんなにも、今日あなたは、がんばった…ということでもありますね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T13:17:23",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T13:18:17",
+      "utterance": "では…、1ヶ月後に向けて、少しずつポイントを積み重ねていきましょうね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T13:18:46",
+      "utterance": "緊張をなくすにはどうしたらいいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T13:19:45",
+      "utterance": "なるほど、緊張をなくすことも、大事なポイントですね。ところで、前の学校では、緊張のことは、どうでしたか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T13:20:01",
+      "utterance": "もしかして、"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T13:20:47",
+      "utterance": "初めは緊張したこともあったけど、クラスのいい雰囲気の中で、しだいに落ち着いていったとか、ありますか。"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T13:22:19",
+      "utterance": "友だちがいたので大丈夫でした"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T13:22:52",
+      "utterance": "そうなのですね。もしかしたら、それはだいじなヒントかもしれないな…と、思いました。つまり、"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T13:24:18",
+      "utterance": "今日いっぱいがんばったあなた、明日から、ポイント積み重ねていく中で、きっといいともだちが増えていくでしょう。そうする中で、もしかしたら、あなたの緊張は、少しずつほどけていくのかもしれない。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T13:24:55",
+      "utterance": "そのためにも、まずあすは、どんなことに挑戦してみましょうか。なにか、思いつくこととか、ありますか。"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T13:25:09",
+      "utterance": "どうしたらいいですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T13:25:41",
+      "utterance": "では、相談員からの提案してみますね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T13:25:50",
+      "utterance": "お願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T13:26:53",
+      "utterance": "今日、お話ができた女の子。あなたもその女の子も、とっても頑張ったな…って、思います。今日は話しかけてくれたのですよね。明日は、あなたから、まずは「おはよう」を言ってみる。どうですか。"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T13:27:15",
+      "utterance": "やってみます！"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T13:27:40",
+      "utterance": "0おお！勇気ある発言、たのもしいです。"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T13:27:54",
+      "utterance": "ありがとうございます！がんばります！"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T13:28:22",
+      "utterance": "昨日ほんとは、いっしょに帰りたかったんだ…って、付け加えてみてもいいかもですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T13:28:36",
+      "utterance": "言ってみます！"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T13:29:09",
+      "utterance": "応援してみますね。やってみて、どうだったかなど、よかったら、またお話にきてください。今日は、きてくれて、ありがとうね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-04-10T13:29:31",
+      "utterance": "では、終了させて、もらいますね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-04-10T13:29:45",
+      "utterance": "ありがとうございました！"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "新しい学校での友だち作りの不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 6716,
+    "評価作成日時": "2024-04-10T15:03:00",
+    "クライアント役ID": 48,
+    "カウンセラー役ID": 316,
+    "点数": 82,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 5,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 3,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 4,
+    "要約": 3,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 5,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 6716,
+    "evaluation_created_at": "2024-04-10T15:03:00",
+    "client_id": 48,
+    "counselor_id": 316,
+    "score": 82,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

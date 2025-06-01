@@ -1,0 +1,479 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-09-09T13:52:39",
+      "utterance": "こんにちは、本日はよろしくお願いします。時間になりましたら、はじめさせて頂きます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T13:52:59",
+      "utterance": "こちらこそ、よろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:00:11",
+      "utterance": "こんにちは、相談員です。はじめに年齢と性別を教えてください。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T14:00:37",
+      "utterance": "44歳　女です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:01:04",
+      "utterance": "ありがとうございます。では、ご相談内容をお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T14:02:06",
+      "utterance": "今、仕事を休職しています。あと少しで復帰するのですが、やっていけるか不安です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:03:17",
+      "utterance": "はい、休職から復帰されてからに不安がおありなのですね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T14:03:24",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:04:03",
+      "utterance": "具体的にどのようなことが不安に感じられていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T14:05:07",
+      "utterance": "心身が疲れてしまい休職したので、自分のメンタルの部分が心配です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:07:35",
+      "utterance": "そうなんですね、メンタルがまた不調になってしまうのではと心配される感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T14:08:31",
+      "utterance": "気持ちが上がって、仕事ができるか、続けられるかが怖いです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:09:29",
+      "utterance": "モチベーションがお仕事モードになれるか、という感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T14:11:35",
+      "utterance": "そうですね。疲れ切ってしまっていた時にミス等が怖かったので、その状態にならずにできるか、と考えてしまいます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:12:29",
+      "utterance": "そうなんですね、休職まえのことを思い出してしまうのでしょうか、、"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T14:13:10",
+      "utterance": "はい。休んでもまた前と同じになるのでは…と"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:14:14",
+      "utterance": "なるほど、また同じことを繰り返してしまうのではないかとお感じなのですね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T14:15:10",
+      "utterance": "人に迷惑をかけてしまいそうで…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:17:22",
+      "utterance": "はい、しばらく職場を離れているだけでも不安になると思います、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:17:28",
+      "utterance": "現在の体調はいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T14:18:24",
+      "utterance": "しばらく外出できず、何もできない状態でしたが、最近は散歩をするようにしています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:19:25",
+      "utterance": "そうなんですね、少し涼しくなったきましたし、お散歩は気持ち良くていいですよね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T14:20:17",
+      "utterance": "家から出ない生活が怖くなり、毎日1回は出るようにしてます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:21:27",
+      "utterance": "はい、いいですね、今ご自分のできる範囲での活動をされているのですね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T14:21:37",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:22:09",
+      "utterance": "前向きなエネルギーを感じます、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:22:17",
+      "utterance": "先ほど”あと少し”で復帰されるとお話されていましたが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:22:52",
+      "utterance": "具体的な日時などは決まっておられるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T14:23:26",
+      "utterance": "はい。あと二週間後です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:24:28",
+      "utterance": "そうですか、あと二週間、、今はそこに向けて準備をされている感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T14:25:14",
+      "utterance": "外にも目を向けようと思ってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:25:44",
+      "utterance": "はい、とても前向きで良い考えだと思います、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:26:04",
+      "utterance": "何か具体的に考えられていることはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T14:26:56",
+      "utterance": "人にも会いたくなかったのですが、先日友達と食事に行きました。ただ、まだエネルギーがあまり出てこなくて…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:28:58",
+      "utterance": "お友達に会われたのですね、休職で前向きに回復されている様子を感じます、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:29:23",
+      "utterance": "それでもまだ疲れやすい、と感じられた"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:29:41",
+      "utterance": "いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T14:31:37",
+      "utterance": "食事の間は久しぶりの外食でもあり、楽しめました。友人と会って話すのはできるのだと自分でもよかったと感じました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:31:56",
+      "utterance": "はい、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:35:09",
+      "utterance": "エネルギーがあまり出てこないと感じられたのは、、どのあたりですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T14:36:16",
+      "utterance": "仕事のことを考えると気が重くなります。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T14:37:11",
+      "utterance": "人に関わる仕事なので、普段でも気をつかってました…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:38:22",
+      "utterance": "そうでしたか、お仕事自体、接客をするため終始気をつかわれるのですね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T14:38:44",
+      "utterance": "自分が落ち着いてないと、何か影響を与えてしまいそうで…"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T14:40:13",
+      "utterance": "そんな自分が仕事を続けてよいのかと…また、仕事を教えるべき立場なので、同僚にも迷惑かけないかと…"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T14:40:59",
+      "utterance": "子ども相手の仕事です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:41:46",
+      "utterance": "そうだったんですね、、それは気が抜けないお仕事ですね、それで、周りに影響を与えてしまうのではないかと、、不安で心配になり復帰することが怖く感じられてしまうのですね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T14:42:51",
+      "utterance": "ミスが許されないし、責任が重くも感じてます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:43:33",
+      "utterance": "そうですよね、大変責任のあるお仕事ですよね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T14:44:36",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:45:32",
+      "utterance": "その不安の中、二週間後に新生活がスタートするのですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:47:07",
+      "utterance": "もしまた繰り返しそうになった時、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:47:58",
+      "utterance": "何かそれを和らげることはできないかなど、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:48:37",
+      "utterance": "少しでも役に立ちそうなことを"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:49:14",
+      "utterance": "一緒に考えたいと思いますが、いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T14:49:23",
+      "utterance": "はいよろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:49:36",
+      "utterance": "了解しました、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:51:03",
+      "utterance": "では、ご自分で疲れたと感じた時に"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:51:21",
+      "utterance": "何かしていることはありますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:51:59",
+      "utterance": "どのように過ごしますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T14:52:18",
+      "utterance": "カフェに行ったり、好きな音楽を聴いたり、ドラマや映画を観たりしてました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:52:43",
+      "utterance": "いいですね、リフレッシュできますね、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:53:44",
+      "utterance": "その中でもお仕事の後、帰ってすぐにできそうなこと、疲れたらすぐにご自分を癒してあげられそうなのは、、"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T14:54:35",
+      "utterance": "音楽を聴くコーヒーを飲むとかですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:55:00",
+      "utterance": "いいですね、コーヒーの香りも癒されますよね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T14:55:06",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:55:49",
+      "utterance": "今お話を聞いていて、相談者さんはちゃんと自分の好きなこと、癒されることを知っていらっしゃる、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:56:33",
+      "utterance": "それはとても大切で、毎日頑張った自分にご褒美をあげる感覚で、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:57:10",
+      "utterance": "日々疲れをとってあげてくださいね、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:57:19",
+      "utterance": "そして、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:57:40",
+      "utterance": "また繰り返すこと、、あるかもしれません、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:58:21",
+      "utterance": "そしたらまたお休みをして、疲れを回復されて、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T14:59:27",
+      "utterance": "どうぞご自分のペースで、そしてその後に、完全復活を目指されてはいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T15:00:10",
+      "utterance": "そうですね、好きなことは分かってますね。ご褒美ですね。がんばっているはずだったのに、それを否定する自分がいたと思います。休むがよくないことと言う考えもありましたが、休むは大切なことですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T15:00:44",
+      "utterance": "とにかく今は休もうと思います"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T15:00:57",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T15:01:30",
+      "utterance": "はい、休むことは自分を大切にすること、、どうぞ今は存分に休みをとってくださいね、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T15:01:56",
+      "utterance": "お時間となりましたが、他に何かございませんでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T15:03:11",
+      "utterance": "癒されることを考えてみたいと思います。(肯定の言葉が多く、力を分けて頂いたように感じました。勉強させて頂きました！ありがとうございました)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T15:04:26",
+      "utterance": "これからの相談者さんが日々健やかに励まれますことを心より応援しております。また疲れた時、不安になったときはご相談にいらしてください。本日はありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T15:04:45",
+      "utterance": "今日はありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T15:05:08",
+      "utterance": "これで終了とさせて頂きます。ことらこそ、どうもありがとうございました。"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "仕事復帰に対する不安感"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3940,
+    "評価作成日時": "2022-09-09T15:19:00",
+    "クライアント役ID": 323,
+    "カウンセラー役ID": 301,
+    "点数": 75,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 5,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3940,
+    "evaluation_created_at": "2022-09-09T15:19:00",
+    "client_id": 323,
+    "counselor_id": 301,
+    "score": 75,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

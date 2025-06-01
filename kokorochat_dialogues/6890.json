@@ -1,0 +1,329 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2024-05-19T15:13:17",
+      "utterance": "こんにちは"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T15:13:34",
+      "utterance": "こんにちわ。相談員です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T15:14:49",
+      "utterance": "最初に年齢、性別、ご相談したいことを教えてください。よろしくお願いおたします。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T15:15:29",
+      "utterance": "26歳、男です。仕事がつらいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T15:16:31",
+      "utterance": "ありがとうございました。お仕事が辛いということですが、もう少し具体的に教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T15:17:09",
+      "utterance": "はい、上司からよく怒られるのですが、もう限界なんです"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T15:17:24",
+      "utterance": "最近休みがちにもなっていて、、"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T15:17:43",
+      "utterance": "転職も考えています"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T15:18:08",
+      "utterance": "なるほど、それはとてもおつらいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T15:18:30",
+      "utterance": "はい・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T15:19:05",
+      "utterance": "上司からよく怒られるとのことですが、どういったときによく怒られるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T15:19:29",
+      "utterance": "仕事でミスをした時です"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T15:19:46",
+      "utterance": "この間もミスをして怒られました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T15:20:41",
+      "utterance": "仕事のミスにもいろいろあると思うのですが、もう少し詳しく教えていただけませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T15:21:07",
+      "utterance": "はい、目標に対して未達だった時や"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T15:21:27",
+      "utterance": "報連相が遅れた時などです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T15:22:08",
+      "utterance": "そうなんですね。営業のお仕事なんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T15:22:16",
+      "utterance": "そうです"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T15:22:32",
+      "utterance": "毎月ノルマを追っています"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T15:23:18",
+      "utterance": "営業のお仕事は大変ですよね。ノルマもあるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T15:23:53",
+      "utterance": "達成月はいいのですが、未達月はストレスがかかります"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T15:23:55",
+      "utterance": "ね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T15:24:25",
+      "utterance": "そうなんですね。ぬぬさんとお呼びしてよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T15:24:31",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T15:25:12",
+      "utterance": "ぬぬさんはノルマ未達はミスとお感じになられているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T15:26:19",
+      "utterance": "はい、未達は悪だと思ってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T15:27:12",
+      "utterance": "未達は悪だとお思いなんですね？なぜ悪とお思いなんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T15:27:48",
+      "utterance": "給料をもらっているのにと考えてしまいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T15:29:30",
+      "utterance": "うんうん。素晴らしいお考えですね。他の方たちは、毎月みなノルマ達成しているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T15:30:08",
+      "utterance": "いえ、月によります。ただ、私が事業所ではワーストですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T15:32:04",
+      "utterance": "そうなんですね。ぬぬさんは転職もお考えとおっしゃってましたが、ワーストを回避できるようになれば転職はしなくても良いとお考えですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T15:32:55",
+      "utterance": "いえ、この環境で働き続けるのは限界なので、環境は変えたいですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T15:34:45",
+      "utterance": "そうなんですね。本当につらい思いをされているのですね。環境を変えたら、ぬぬさんにどんないいことがあると思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T15:35:29",
+      "utterance": "そうですね、まずは今の悩みからは抜け出せると思います"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T15:35:58",
+      "utterance": "そもそも営業職が向いていなかったのかもしれません"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T15:36:39",
+      "utterance": "うんうん。そうですね。営業職が向いてないと思うのはどうしてですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T15:37:21",
+      "utterance": "目標の未達が続き上司からもプレッシャーをかけられメンタルがやられているからです"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T15:37:40",
+      "utterance": "そもそも営業じゃなければと思いました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T15:38:16",
+      "utterance": "教えていただいてありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T15:38:45",
+      "utterance": "営業以外にやりたいものはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T15:39:13",
+      "utterance": "今のところありません"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T15:39:23",
+      "utterance": "これから考えて行きたいと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T15:40:35",
+      "utterance": "そうなんですね。同じ会社内で、職種変更を相談できる友人や部署はないのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T15:41:38",
+      "utterance": "人事に直接相談するしかないですね"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T15:41:55",
+      "utterance": "ただ、社内異動は可能性が低いと思います"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T15:42:33",
+      "utterance": "営業以外は専門のエキスパートを中途で採用しているので"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T15:44:00",
+      "utterance": "なるほど。では会社を変えたい。業種などはこれからゆっくり考えたいということですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T15:44:53",
+      "utterance": "そうですね、まず会社を辞めてゆっくり今後のことについてゆっくり考えたいと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T15:45:58",
+      "utterance": "転職や今後について、相談できる方は身近におられますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T15:46:40",
+      "utterance": "はい、まずは家族に相談してみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T15:47:49",
+      "utterance": "ご家族が相談に乗っていただけそうなんですね。素敵な家族がいらっしゃるとのことで安心しました。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T15:48:17",
+      "utterance": "ありがとうございます。"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "上司とのコミュニケーション問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 6890,
+    "評価作成日時": "2024-05-19T16:18:00",
+    "クライアント役ID": 504,
+    "カウンセラー役ID": 503,
+    "点数": 74,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 4,
+    "要約": 5,
+    "問題の明確化": 5,
+    "この相談での目標の明確化": 5,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 6890,
+    "evaluation_created_at": "2024-05-19T16:18:00",
+    "client_id": 504,
+    "counselor_id": 503,
+    "score": 74,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

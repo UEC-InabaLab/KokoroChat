@@ -1,0 +1,419 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-07-06T13:53:25",
+      "utterance": "(本日はよろしくお願いいたします。お時間になりましたら始めさせていただきます）"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T13:54:04",
+      "utterance": "（よろしくお願いします。本日ご希望されるケース等はございますか？）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T13:55:52",
+      "utterance": "（まだ経験が浅いのでとにかくやってみるという感じなのでケースはとくに何でも構いません。聞いてくださり、ありがとうございます。）"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T13:56:11",
+      "utterance": "（かしこまりました。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T14:00:05",
+      "utterance": "こんにちは。相談員です。本日はお越しくださり、ありがとうございます。はじめにご年齢と性別、相談内容を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T14:00:37",
+      "utterance": "26　男"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T14:01:56",
+      "utterance": "体調が悪いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T14:02:21",
+      "utterance": "ありがとうございます。体調が悪くてご相談にこられたのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T14:02:51",
+      "utterance": "どのようなことでお困りですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T14:03:14",
+      "utterance": "何を知りたいのでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T14:03:59",
+      "utterance": "体調が悪いことによってお困りのことがあるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T14:04:46",
+      "utterance": "何が困っているのかもよくわかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T14:05:33",
+      "utterance": "なるほど。体調が悪いというのは体のどの辺の調子が悪いのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T14:05:43",
+      "utterance": "腹です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T14:06:31",
+      "utterance": "お腹の調子が悪いのですね。どのような状態が起こっているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T14:06:59",
+      "utterance": "たまに腹痛が起こります"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T14:07:38",
+      "utterance": "そうなんですね。腹痛が起こると辛いですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T14:09:15",
+      "utterance": "例えば、腹痛が起こるときはどのような状況のときが多いのですか？緊張したときだとか、、"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T14:09:37",
+      "utterance": "不定期に起きます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T14:10:09",
+      "utterance": "そうなんですか。不定期に起こるとなぜなんだろうと不安になりますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T14:11:25",
+      "utterance": "いつ頃から不定期の腹痛が起こったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T14:11:34",
+      "utterance": "最近です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T14:12:18",
+      "utterance": "最近なんですね。このような状況ははじめてですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T14:12:25",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T14:12:58",
+      "utterance": "そうでしたか。それは急な出来事で不安にもなりますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T14:14:13",
+      "utterance": "何か最近、環境が変わったなどご自身のなかで変化などはございましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T14:15:52",
+      "utterance": "仕事で上司から厳しい指摘をされたことですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T14:16:58",
+      "utterance": "そんな出来事がおありだったのですね。どのような指摘をされたのですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T14:17:09",
+      "utterance": "話せる範囲で構いませんよ"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T14:17:27",
+      "utterance": "マイナスのことしか言われませんでした"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T14:18:21",
+      "utterance": "そうでしたか。マイナスのことばかり言われると悲しいですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T14:20:24",
+      "utterance": "他には何か変化があったりしますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T14:20:52",
+      "utterance": "多分それくらいでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T14:21:40",
+      "utterance": "そうなんですね。あなたの最近の変化は「上司からの厳しい指摘があったこと」なんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T14:23:06",
+      "utterance": "この出来事で腹痛が不定期に起こっていることは考えられますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T14:23:52",
+      "utterance": "おっしゃっている意味がよくわかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T14:25:24",
+      "utterance": "すみません。分かりにくかったですね。腹痛の原因が「上司との関係」からくるものなのかと感じましたがいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T14:26:20",
+      "utterance": "その可能性もありますが、ここって診療してもらえるのでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T14:27:48",
+      "utterance": "こちらでは申し訳ございませんが診療はできません。お困りのことやお悩みのことをお聞きすることはできます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T14:28:19",
+      "utterance": "はい、なんだか医療行為に近いようなものを感じたので質問させていただきました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T14:30:12",
+      "utterance": "そのように伝わっていたのであれば、申し訳なかったです。あなたの体調不良の背景には何か不安な出来事やお困りごとがあるのかと思い質問させていただきました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T14:35:27",
+      "utterance": "あなたは腹痛が不定期に起こることに対してどう感じておられますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T14:35:55",
+      "utterance": "まさかこんなことになるとは思ってませんでした"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T14:38:02",
+      "utterance": "そうだったのですね。なぜ自分が？という思いがあったのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T14:38:45",
+      "utterance": "まあそんなところです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T14:40:59",
+      "utterance": "そうなんですね。それはびっくりしますよね。腹痛は起こるとどのくらいの時間なんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T14:41:33",
+      "utterance": "何の時間を知りたいのですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T14:42:13",
+      "utterance": "腹痛が起こったときの長さですね。長時間苦しめられることもあるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T14:42:39",
+      "utterance": "時々"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T14:43:56",
+      "utterance": "時々、長時間苦しめられることもあるのですね。腹痛が起こると日常生活に影響などございますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T14:44:27",
+      "utterance": "少しはありますが、それほど大きくはありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T14:47:29",
+      "utterance": "そうでしたか。お辛い状況だと思いますが、どうしたいとお考えですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T14:47:56",
+      "utterance": "まだわかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T14:48:44",
+      "utterance": "そうなんですね。では今一番つらいことはどんなことですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T14:50:01",
+      "utterance": "決められません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T14:51:08",
+      "utterance": "そうなんですね。沢山おありなんですね。でしたら1つずつで構いませんのでお話聞いてもよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T14:52:05",
+      "utterance": "腹が痛いこと、仕事で指摘されたこと、指摘されたことを思い出すこと"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T14:52:26",
+      "utterance": "まだ出てくるかもしれませんが今はここまでです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T14:54:10",
+      "utterance": "そうでしたか。ありがとうございます。あげていただいたなかで一番話しやすいものはどれかありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T14:54:22",
+      "utterance": "全部です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T14:55:58",
+      "utterance": "そうなんですね。仕事で指摘されたことや指摘されたことを思い出すこと→お腹が痛くなるということではないんですよね？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T14:57:14",
+      "utterance": "さっきと言ってることが違う気がしますが"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T14:59:42",
+      "utterance": "失礼しました。仕事で指摘されたことや指摘されたことを思い出すことがお腹が痛くなる原因かもしれないのですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T14:59:45",
+      "utterance": "（そろそろクロージングお願いします。）"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T15:00:07",
+      "utterance": "そうかもしれません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T15:00:28",
+      "utterance": "今日はお時間が来てしまい、すべてをお聞きすることができず、申し訳ございません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T15:00:58",
+      "utterance": "本日はこれにてご相談を終了させていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T15:01:27",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-06T15:01:36",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-06T15:01:46",
+      "utterance": "（ロープレありがとうございました。このまま終了メッセージで大丈夫です。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "身体的健康問題",
+    "main_en": "Physical Health Issues",
+    "sub": "不定期な腹痛の原因を探ること"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3686,
+    "評価作成日時": "2022-07-06T15:19:00",
+    "クライアント役ID": 125,
+    "カウンセラー役ID": 294,
+    "点数": 58,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3686,
+    "evaluation_created_at": "2022-07-06T15:19:00",
+    "client_id": 125,
+    "counselor_id": 294,
+    "score": 58,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

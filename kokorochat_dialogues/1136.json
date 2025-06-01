@@ -1,0 +1,734 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-01-08T13:55:08",
+      "utterance": "こんにちはよろしくお願いします"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T13:57:30",
+      "utterance": "（こんにちは）"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T13:58:07",
+      "utterance": "（こんにちは）"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T13:58:23",
+      "utterance": "（よろしくお願いします）"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T13:59:07",
+      "utterance": "わかりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T13:59:37",
+      "utterance": "それでは、時間なので、始めたいと思います"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T13:59:45",
+      "utterance": "はい、お願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:00:33",
+      "utterance": "こんにちは相談員です本日は、ご相談にお越しいただきまして、ありがとうございますよろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:00:51",
+      "utterance": "今日は、どのようなご相談ですか"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:02:01",
+      "utterance": "はい、離婚したいんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:02:23",
+      "utterance": "そうなんですか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:02:48",
+      "utterance": "もう少し詳しく教えていただいてもよろしいでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:04:05",
+      "utterance": "夫の浮気がわかったんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:04:19",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:04:49",
+      "utterance": "それはいつ頃ですか"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:05:06",
+      "utterance": "たぶんずっと"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:05:27",
+      "utterance": "10年くらいだと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:05:40",
+      "utterance": "そうなんですね・・・それは、腹が立ちますよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:06:41",
+      "utterance": "そのようなことがわかったのは、なにかきっかけがありましたか"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:07:57",
+      "utterance": "元々自営業なので、接待とかでクラブやキャバクラに行くのは、よくあったんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:08:20",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:09:32",
+      "utterance": "それが原因だと、思われていますか"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:09:57",
+      "utterance": "はい、そこの女性となので"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:11:38",
+      "utterance": "そうなんですね・・・それは、いまいましいですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:12:05",
+      "utterance": "家の中では、どのような様子だったのですか"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:12:13",
+      "utterance": "はい、毎日悔しくて涙が止まりません"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:12:42",
+      "utterance": "夫はワンマンな人なので、亭主関白と言うか・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:12:54",
+      "utterance": "そうなんですね・・・悔しくて涙が止まらないのも、もっともなことだと思います"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:13:00",
+      "utterance": "こうすると言ったら周りの言葉は聞きません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:13:31",
+      "utterance": "そうなんですね・・・それは、お困りですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:14:46",
+      "utterance": "ちなみに、もしよろしければ、ご年齢、性別、なんとおよびしたらよろしいでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:14:47",
+      "utterance": "手前味噌ですが、私は良く尽くす主婦だと言われてきました。子育ても夫が独立して自営業になるまでは、共働きで3人を育ててきました"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:15:22",
+      "utterance": "42才、女性、京子です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:15:28",
+      "utterance": "そうなんですね・・・今まで、頑張ってこられたのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:15:52",
+      "utterance": "京子さん、教えていただいて、ありがとうございます"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:16:44",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:18:22",
+      "utterance": "そんなに一生懸命だったのに、裏切られてしまったような気がして、腹が立ちますよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:19:18",
+      "utterance": "ご家族は、どのような構成ですか"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:19:28",
+      "utterance": "はい、5人家族です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:19:44",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:20:18",
+      "utterance": "声も聴きたくないし、一緒の空気も吸いたくないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:21:01",
+      "utterance": "そうなんですね・・嫌ですよねお子様たちは、夫さんを、どのように思っていらっしゃるようですか"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:24:14",
+      "utterance": "女の子は当然だめです"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:24:43",
+      "utterance": "19才と21才なので"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:25:08",
+      "utterance": "それは、嫌だということでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:25:20",
+      "utterance": "17才の男の子は学校の寮に入っているので知らせていません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:25:34",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:25:35",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:26:30",
+      "utterance": "京子さんは、夫さんに、離婚したいというお話は、されましたか"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:26:55",
+      "utterance": "まだしていません"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:27:02",
+      "utterance": "口もきいていないので"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:27:06",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:27:34",
+      "utterance": "お話しすることは、難しそうですか"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:27:48",
+      "utterance": "それと、私は数年夫の会社を手伝っていたので、専業主婦も同然なんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:28:17",
+      "utterance": "そうなんですね・・それは、お困りですよね"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:28:24",
+      "utterance": "離婚に向けて就職活動中です"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:29:20",
+      "utterance": "夫と話すとヒステリーみたいに感情が爆発して泣いてしまいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:29:22",
+      "utterance": "そうなんですね京子さんが望む所に、就職できるとよいですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:30:29",
+      "utterance": "望むとかではなく"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:30:40",
+      "utterance": "そうなんですね・・・そう思われるほど、夫さんのことが、嫌で仕方がないのですねそう思うのも、もっともなことだと思います"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:30:47",
+      "utterance": "就職先はないんです"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:30:59",
+      "utterance": "現実、40代の正社員は"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:31:10",
+      "utterance": "登用してくれません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:31:12",
+      "utterance": "ええ、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:31:28",
+      "utterance": "そうなんですか・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:31:41",
+      "utterance": "難しいですよね"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:31:49",
+      "utterance": "仕事が無いのに、離婚はできないし"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:32:28",
+      "utterance": "夫の事はもう体が受け付けないというか、震えたり泣いたり、感情が爆発したりするので"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:32:35",
+      "utterance": "そうなんですね・・・それは、苦しいですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:32:53",
+      "utterance": "ええ、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:33:15",
+      "utterance": "もう、それは、拒絶反応何ですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:33:34",
+      "utterance": "こどもが大学生なので、一人で出ていくこともできないし"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:33:56",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:34:03",
+      "utterance": "八方ふさがりです"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:34:13",
+      "utterance": "私は悪くないのに"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:34:21",
+      "utterance": "それは、お困りですよね"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:34:25",
+      "utterance": "どうしてこんな目に合わなくてはいけないのか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:35:13",
+      "utterance": "そうですよね・・・京子さんは、悪くはないと、私は思います"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:35:31",
+      "utterance": "もいろんです"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:35:40",
+      "utterance": "もちろん"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:35:52",
+      "utterance": "ここまでのお話をまとめさせていただいても、よろしいですか"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:35:58",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:37:41",
+      "utterance": "京子さんは、夫さんの浮気で離婚したいと思っている"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:38:50",
+      "utterance": "夫は、亭主関白で、周りの人の話を聴かず、また、京子さんは、夫さんに対して拒否反応を起こしている"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:39:01",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:39:54",
+      "utterance": "就職もしたい、仕事がないので、離婚できない、大学生のために家も出ていけなくて、困っている"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:40:03",
+      "utterance": "いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:40:12",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:40:41",
+      "utterance": "京子さんは、家族のために、一生懸命でした"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:41:36",
+      "utterance": "京子さんは、決して悪くはないと思います"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:42:30",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:42:47",
+      "utterance": "今回の問題は、夫さんと、いかにして離婚し、これからのことを考えていくということで、よろしいでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:42:55",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:43:48",
+      "utterance": "どうしたらよいか、一緒に考えていきたいと思うのですが、よろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:44:06",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:44:57",
+      "utterance": "まず、夫さんとの離婚について、考えていきましょう。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:46:08",
+      "utterance": "夫さんが、離婚に対して、はい、と言わなくても、家庭裁判所に申し出れば、離婚調停が出来ます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:46:20",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:46:49",
+      "utterance": "そこでは、夫さんから慰謝料を請求することが出来ます"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:47:39",
+      "utterance": "いくらもらえるんですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:47:42",
+      "utterance": "それで、当分の間は、仕事が見つからなくても、食べていくことが出来ると思いますが、いかがでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:48:18",
+      "utterance": "いくらもらえるかは、裁判所が状況を聞いて、決まります"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:48:46",
+      "utterance": "なるべく、証拠になるものを持って行った方が、良いと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:49:12",
+      "utterance": "写真とか、・・。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:49:21",
+      "utterance": "いかがでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:49:22",
+      "utterance": "教えて頂いたのに申し訳ないのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:49:31",
+      "utterance": "はい、"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:50:13",
+      "utterance": "私の調べた所、慰謝料はしばらく食べられるなんて金額は貰えないんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:50:37",
+      "utterance": "そうなんですね・・・。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:50:49",
+      "utterance": "困りますよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:51:23",
+      "utterance": "どんなことが、問題なのでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:54:06",
+      "utterance": "大学の学費年間200万、高校の学費と寮費年間120万や生活費だけを考えても一般的な慰謝料500万はあっという間です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:54:50",
+      "utterance": "そうなんですね・・それは、困りますよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:55:45",
+      "utterance": "では、とりあえず、慰謝料をもらうとして、それ以外のことは、これから考えましょう"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:56:07",
+      "utterance": "これからというと？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:56:28",
+      "utterance": "仕事を見つけたりすることです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:56:39",
+      "utterance": "いかがですか"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:56:56",
+      "utterance": "離婚を先にした方が良いという事ですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:57:46",
+      "utterance": "わかりました"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:57:50",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:57:58",
+      "utterance": "京子さんの気持ち次第ということも、ありますので、それも考えてみてください"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:58:18",
+      "utterance": "はい、ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:58:49",
+      "utterance": "もうよろしいのでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:59:15",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:59:26",
+      "utterance": "本日は、ご相談にお越しいただき、ありがとうございました"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:59:31",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T14:59:46",
+      "utterance": "（ありがとうございました）"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T14:59:46",
+      "utterance": "また、なにかあれば、いらしてください"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T15:00:15",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T15:00:19",
+      "utterance": "ありがとうございました京子さんの、これからの幸せを、願っています"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T15:00:34",
+      "utterance": "お祈りしています"
+    },
+    {
+      "role": "client",
+      "time": "2021-01-08T15:00:46",
+      "utterance": "失礼します"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-01-08T15:01:24",
+      "utterance": "ありがとうございましたこれで、ロールプレイを終了いたします"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦）",
+    "main_en": "Family Issues (Spouse)",
+    "sub": "夫の浮気による離婚の検討"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1136,
+    "評価作成日時": "2021-01-08T15:37:00",
+    "クライアント役ID": 121,
+    "カウンセラー役ID": 42,
+    "点数": 66,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1136,
+    "evaluation_created_at": "2021-01-08T15:37:00",
+    "client_id": 121,
+    "counselor_id": 42,
+    "score": 66,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

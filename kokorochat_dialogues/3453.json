@@ -1,0 +1,634 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-05-08T15:51:58",
+      "utterance": "こんにちは。本日はよろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T15:52:17",
+      "utterance": "時間になりましたら開始させていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T15:52:27",
+      "utterance": "こんにちはこちらこそ宜しくお願い致します"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:00:18",
+      "utterance": "こんにちは。相談員です。本日はよろしくお願いいたします。はじめにご年齢と性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:00:40",
+      "utterance": "20歳　男です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:00:56",
+      "utterance": "ありがとうございます。本日はどのようなご相談ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:01:49",
+      "utterance": "恋愛が上手く出来ないのでどうしたらいいのか相談したいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:02:15",
+      "utterance": "はい。恋愛のことですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:02:29",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:02:53",
+      "utterance": "うまくできないというのはどんな感じなのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:03:30",
+      "utterance": "女の子と上手く関われないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:04:17",
+      "utterance": "そうなんですね。異性と関わるのって難しく思いますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:04:35",
+      "utterance": "そうなんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:05:15",
+      "utterance": "今は社会人ですか？学生ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:05:34",
+      "utterance": "いまはフリーターです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:06:08",
+      "utterance": "そうなんですね。普段女子と関わる機会はどれくらいありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:06:32",
+      "utterance": "アルバイト先の人ぐらいですかね"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:06:42",
+      "utterance": "そんなに深い会話はしないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:06:54",
+      "utterance": "ええ。そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:07:44",
+      "utterance": "アルバイト先の人と話すときはどう感じますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:08:02",
+      "utterance": "関わるのは難しく感じたりしますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:08:58",
+      "utterance": "仕事上でのことは会話できるんですけど、プライベートの会話みたいなのは苦手です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:10:07",
+      "utterance": "うんうん、仕事上の話と違ってプライベートな会話ってなかなかうまくできないこともありますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:10:58",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:11:09",
+      "utterance": "女子とうまく関われないなと思うようになったのはいつ頃からですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:12:34",
+      "utterance": "小学生の時から苦手意識がありますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:13:07",
+      "utterance": "ええ。ずっと苦手意識があったんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:13:50",
+      "utterance": "そうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:14:45",
+      "utterance": "はい。プライベートな会話が苦手でうまく関われないから恋愛が難しい、という感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:16:02",
+      "utterance": "そうですね今まで男とばかり遊んできたので、いざ女の子と関わろうとするとどう接していいか分からないんですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:17:09",
+      "utterance": "そうなんですね。いざ関わろうとすると悩みますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:17:29",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:18:42",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:19:20",
+      "utterance": "いざ女の子と関わろうとすると、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:19:46",
+      "utterance": "どんな考えが浮かんできますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:21:00",
+      "utterance": "うーんなにか話さなきゃってなって焦る感じですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:22:18",
+      "utterance": "そうなんですね。なにか話さなきゃと思うほど、どんどん焦ったりしますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:23:05",
+      "utterance": "あとは恥ずかしさなのか、目を見て話すのが苦手です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:24:07",
+      "utterance": "なるほどですね。目が合うと途端に恥ずかしく感じたりってことがありますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:25:02",
+      "utterance": "２０歳でこんな感じなのも恥ずかしいですよね、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:25:45",
+      "utterance": "うんうん、ご自身ではそう思っているんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:27:00",
+      "utterance": "まだ彼女とかも出来たこと無いですし"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:27:01",
+      "utterance": "でも恥ずかしいことじゃないかもしれない、と"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:27:23",
+      "utterance": "思えるように一緒に考えていきましょうね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:28:36",
+      "utterance": "出来れば改善したいとは思ってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:29:00",
+      "utterance": "ええ。では一緒に彼女ができるための作戦みたいなものを考えていきましょうね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:29:15",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:29:30",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:29:53",
+      "utterance": "ちなみにあなたのことをなんとお呼びしたらいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:30:16",
+      "utterance": "なんでも大丈夫です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:30:25",
+      "utterance": "かしこまりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:30:59",
+      "utterance": "では女の子と会話をするとして、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:31:17",
+      "utterance": "その会話の理想ってどんなイメージですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:32:25",
+      "utterance": "ぎこちない感じが無くなって、自然体で会話できるようになりたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:32:47",
+      "utterance": "うんうん、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:33:36",
+      "utterance": "自然体で会話ができたらあなた自身も楽に会話ができそうですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:34:04",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:34:33",
+      "utterance": "ええ、せっかくなら楽しんで会話もしたいですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:35:12",
+      "utterance": "出来ればそうしたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:35:50",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:36:29",
+      "utterance": "あと理想や、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:37:32",
+      "utterance": "自然体で会話ができるってどんなイメージですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:38:09",
+      "utterance": "もっとこういう話したいな、とかありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:38:56",
+      "utterance": "あまり意識しないで話せるようになれればいいかなと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:39:58",
+      "utterance": "ええ。意識しすぎるから焦ったりする、ということですものね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:41:35",
+      "utterance": "はい男とはコミュニケーション普通に取れるのでそれと同じ感じでコミュニケーション取れればいいなと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:43:00",
+      "utterance": "はい。男の人と同様にコミュニケーションできたら、ぎこちなさはなさそうですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:43:23",
+      "utterance": "会話を自然体でできるようになりたいということ、目を見て話せるようにしたい、など理想をお聴きしましたが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:44:03",
+      "utterance": "これだったら今の自分にもできそうだな、と思うことはどんなことがありますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:45:02",
+      "utterance": "その理想のために今の自分ができることってことです。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:45:11",
+      "utterance": "うーんどうなんですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:45:25",
+      "utterance": "はい、"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:45:44",
+      "utterance": "積極的に女の子と関わる時間を増やさないといけないかなとは思います"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:46:24",
+      "utterance": "今まで関わってこなかったから慣れが必要かなっていう"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:46:28",
+      "utterance": "うんうん、関わる機会が増えれば、自ずとできるようになりそうな感じですかね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:47:09",
+      "utterance": "とても良い気付きですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:47:13",
+      "utterance": "いまのとこはそれぐらいですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:47:38",
+      "utterance": "素晴らしいことだと思いますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:47:58",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:48:38",
+      "utterance": "こうやって今ご自身で考えたことも、理想に向けての重要な一歩ですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:49:07",
+      "utterance": "ご自身でおっしゃってたように、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:49:44",
+      "utterance": "会話はスキルなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:50:10",
+      "utterance": "今までスキルを磨く機会があまりなかっただけなので、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:51:19",
+      "utterance": "２０歳であろうが何歳であっても恥ずかしいことではないですし、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:51:55",
+      "utterance": "年齢に関係なく磨くことができますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:52:22",
+      "utterance": "分かりました頑張ります"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:52:41",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:53:07",
+      "utterance": "スキルとして私が提案できそうなことは、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:53:29",
+      "utterance": "自分の理想を紙に書き出してみたり、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:54:02",
+      "utterance": "その中から今の自分ができそうなことを少し試してみたり、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:54:54",
+      "utterance": "テレビとかYouTubeとかみてて、話が上手い人を見つけてみたり"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:55:11",
+      "utterance": "とかがあるかなと思いました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:55:51",
+      "utterance": "なるほどですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:56:08",
+      "utterance": "どうですか？何かヒントは見つかりましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:56:08",
+      "utterance": "出来ることからやってみようと思います"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:57:06",
+      "utterance": "とりあえず自分で出来ること探してみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:57:22",
+      "utterance": "ええ。できそうなことからで良いので、無理せず試してみてくださいね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:58:07",
+      "utterance": "もし、もっと他に教えてほしいとかあればまた相談に来てくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:58:14",
+      "utterance": "分かりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T16:58:54",
+      "utterance": "はい。応援していますからね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T16:59:36",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T17:00:21",
+      "utterance": "今日あなたがここに来てくださったその勇気は"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T17:00:47",
+      "utterance": "ご自身の理想のためになりますからね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T17:01:16",
+      "utterance": "それでは最後にご質問ございますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T17:01:28",
+      "utterance": "特にないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T17:01:36",
+      "utterance": "かしこまりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T17:01:58",
+      "utterance": "それでは終了させていただきますね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T17:02:07",
+      "utterance": "はいありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T17:02:49",
+      "utterance": "今日はお越しいただき、ありがとうございました。あなたのこれからの人生応援しています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T17:03:04",
+      "utterance": "それでは失礼いたします。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-08T17:03:47",
+      "utterance": "（カウンセラー役お疲れ様でした。本日はありがとうございました）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T17:03:53",
+      "utterance": "（ロープレお疲れ様でした。ありがとうございました。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-08T17:04:48",
+      "utterance": "（お手隙の際に評価して頂けたら嬉しいです。それでは終了させていただきます。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "恋愛問題",
+    "main_en": "Romantic Issues",
+    "sub": "異性とのコミュニケーションに対する苦手意識"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3453,
+    "評価作成日時": "2022-05-08T17:20:00",
+    "クライアント役ID": 280,
+    "カウンセラー役ID": 136,
+    "点数": 57,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 2,
+    "要約": 2,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3453,
+    "evaluation_created_at": "2022-05-08T17:20:00",
+    "client_id": 280,
+    "counselor_id": 136,
+    "score": 57,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 2,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

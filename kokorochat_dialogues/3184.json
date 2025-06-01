@@ -1,0 +1,784 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:10:04",
+      "utterance": "お待たせして申し訳ございませんでした。始めさせて頂きたいと思います。よろしくお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:10:17",
+      "utterance": "はーいよろしくお願いいたします"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:10:35",
+      "utterance": "こんにちは。相談員です。今日はお越し頂きありがとうございます。初めに差し支えなければあなたの年齢と性別を教えて頂けますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:10:50",
+      "utterance": "27歳女性です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:11:09",
+      "utterance": "教えて頂きありがとうございます。今日はどんなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:11:32",
+      "utterance": "1週間前に主人に離婚してほしいと言われました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:11:45",
+      "utterance": "ええ、ええ、そうだったのですね、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:11:52",
+      "utterance": "お辛かったですね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:11:59",
+      "utterance": "はい　とても"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:12:16",
+      "utterance": "ええ、ええ、もう少しあなたのことについて教えて頂きたいのですが、"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:12:22",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:12:35",
+      "utterance": "そのように言われてどのように思われましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:12:45",
+      "utterance": "辛かったです。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:12:58",
+      "utterance": "信じてたので"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:13:19",
+      "utterance": "ええ、旦那様をとても思っておられたのですね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:13:25",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:13:33",
+      "utterance": "だからこそとても苦しいお気持ち、お察しいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:13:42",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:14:10",
+      "utterance": "ええ、それでそのように言われてからどのようなことを伝えたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:14:36",
+      "utterance": "固まってしまって何も言えませんでした"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:15:08",
+      "utterance": "ええ、ええ、とても驚かれたのかなとも思いました、"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:15:14",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:15:27",
+      "utterance": "はい、そのようになってしまうのも自然ですよね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:15:48",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:16:18",
+      "utterance": "ええ、旦那様を信じていたのに、ということでしたが、どんなことがあったのか話せることからで大丈夫なので教えて頂くことはできますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:16:39",
+      "utterance": "はい。なんか彼女が出来たそうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:17:17",
+      "utterance": "はい、そうだったのですね、そらを知った時はとても悲しい思いをされましたよね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:17:23",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:17:43",
+      "utterance": "ええ、それは旦那様がそのようにおっしゃってたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:17:53",
+      "utterance": "はいそうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:18:24",
+      "utterance": "ええ、そうでしたか、そのような事実を知って、どんなことが頭に浮かびましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:18:59",
+      "utterance": "全然気付かなかかったので、、頭が真っ白になりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:19:57",
+      "utterance": "ええ、ええ、考えもしなかったことを知ったんですから、そのようになってしまうのも当然ですよね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:20:08",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:20:35",
+      "utterance": "そしてとても信じていた旦那様だったからこそしんどかったと思います、"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:20:51",
+      "utterance": "裏切られたって思いました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:21:06",
+      "utterance": "ええ、そのように思われたのですね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:21:15",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:21:44",
+      "utterance": "1週間、とても辛く、苦しい中よく耐えていらっしゃいましたね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:21:55",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:22:11",
+      "utterance": "ええ、1週間前の出来事ということでしたが、今は旦那様とはどのようにされているのでしょう？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:22:32",
+      "utterance": "とりあえず家には帰ってきています"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:23:00",
+      "utterance": "ええ、そうなのですね、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:23:09",
+      "utterance": "それからはどんな話をされてるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:23:24",
+      "utterance": "話をしたがらないんですよ"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:23:33",
+      "utterance": "自分が原因なのに"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:23:52",
+      "utterance": "ええ、はい、それは困ってしまいますね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:24:01",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:24:07",
+      "utterance": "ええ、あなたとしてはどんなお話をしたいと思われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:24:26",
+      "utterance": "これからどうしたいのか知りたいんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:24:44",
+      "utterance": "ええ、ええ、そのように思われてるのですね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:24:50",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:25:08",
+      "utterance": "新しい彼女ができた、というお話を旦那様がした時に他に話したことはあったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:25:41",
+      "utterance": "そうですね　彼女と結婚したいから離婚したいという感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:26:10",
+      "utterance": "ええ、それを聞いてあなたは旦那様になんと言ったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:26:30",
+      "utterance": "ショックで何も言えなかったです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:27:02",
+      "utterance": "ええ、ええ、悲しかったですよね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:27:13",
+      "utterance": "はい　とても"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:27:35",
+      "utterance": "はい、ではそれ以来旦那様とお話できていないという感じなのですね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:28:00",
+      "utterance": "ええ、帰ってくるけどすぐ部屋にこもってコモっしまって"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:28:13",
+      "utterance": "旦那様がですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:28:18",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:28:37",
+      "utterance": "そうだったのですね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:28:43",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:29:08",
+      "utterance": "あなたとしてはこれまでとても悩んでたくさん考えられたと思うのですが、旦那様について思うことなどどんなことがおありですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:30:11",
+      "utterance": "そうですね、結婚して1年で離婚なんなら最初から結婚なんかしなきゃ良かったって思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:30:51",
+      "utterance": "ええ、そのように感じたのですね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:30:56",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:31:21",
+      "utterance": "ええ、あなたとしては関係をどのようにしていきたいと思われるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:31:33",
+      "utterance": "離婚は避けたいのです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:31:45",
+      "utterance": "はい、そうなんですね、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:32:11",
+      "utterance": "どんなことがあって避けたいのか教えて頂くことはできますか？お話しできる範囲で大丈夫です"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:32:17",
+      "utterance": "なんか恥ずかしいじゃないですか、"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:32:34",
+      "utterance": "1年目で離婚って"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:32:58",
+      "utterance": "そのように思われるのですね、どんなふうに周りに思われるのが気掛かりですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:33:08",
+      "utterance": "ええとても"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:33:32",
+      "utterance": "ええ、ええ、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:34:09",
+      "utterance": "この1年旦那様と過ごしてきてどのように思われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:34:58",
+      "utterance": "うーん　なんか全部の思い出が今回でパーになってしまって、今は無責任な人としか思いません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:35:36",
+      "utterance": "ええ、ええ、裏切られた、そのようなお気持ちになりますよね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:35:48",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:36:31",
+      "utterance": "はい、あなたとしてはやはり旦那様との関係をはっきりとさせたい、といったところでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:37:12",
+      "utterance": "ええ　でも体裁上離婚は今は避けたいというのが状況です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:37:36",
+      "utterance": "ええ、大切なお気持ちお話ししてくれてありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:38:26",
+      "utterance": "旦那様が部屋に引きこもってしまう、とのことでしたが、あなたに対してどんなことを思っていると思われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:39:13",
+      "utterance": "話さないのでよくわかりません、、少し話でもすればなんとかわかるのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:39:33",
+      "utterance": "ええ、ええ、そのように考えてらっしゃるのですね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:39:41",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:39:52",
+      "utterance": "ええ、例えばあなたから声を掛けたらどんなことが起こりそうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:40:14",
+      "utterance": "とりあえず　おはようとか言ってるんですが無視されます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:40:40",
+      "utterance": "そうでしたか、、とても寂しい気持ちになりますね、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:41:11",
+      "utterance": "自分が苦しい中でも、前向きに挨拶をしよう、とおもうあなたの気持ちを拝見しました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:41:22",
+      "utterance": "ええでもまるで私が浮気したのかという態度ですよね、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:41:53",
+      "utterance": "ええ、ええ、そのように感じたのですね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:42:05",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:42:42",
+      "utterance": "では毎日旦那様と顔を合わせるのは仕事から帰ってきた時と出社するタイミングだけなのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:42:57",
+      "utterance": "はい　そうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:43:10",
+      "utterance": "ええ、そうでしたか、"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:43:17",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:44:16",
+      "utterance": "ええ、あなたは体裁上離婚は避けたい、とのことですが、"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:44:25",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:44:52",
+      "utterance": "あなたからまだ旦那様を信じてみたい、このようなお気持ちももしかしたらあるのかもしれない、と思ったのですが、いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:45:21",
+      "utterance": "そうかもしれないですね、今言われて思いました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:45:43",
+      "utterance": "ええ、苦しい中でも旦那様に毎日おはようって挨拶すること、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:46:17",
+      "utterance": "簡単なことではないと思いました。これまで大切にしてきた旦那様への気持ちが大きいのかなと感じました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:46:29",
+      "utterance": "どのように思われましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:46:35",
+      "utterance": "そうなのかもしれませんね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:46:54",
+      "utterance": "ええ、わたしはそのようにお話を聞いて思いましたよ、"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:46:57",
+      "utterance": "頭に血が昇って冷静さに欠けてたのかもしれません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:47:29",
+      "utterance": "ええ、その状況でしたら誰しもがそのようになるのが自然ではないかと思います、よく耐えられましたよね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:47:57",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:48:02",
+      "utterance": "また、お話しをしてきて思ったのですが、毎日旦那様は家に帰ってくるのですよね？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:48:11",
+      "utterance": "はい　とりあえず"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:48:34",
+      "utterance": "ええ、本当に嫌いで離婚したいのなら家にも帰ってこないのではないかと思いました"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:48:54",
+      "utterance": "そうなんですね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:49:10",
+      "utterance": "お話を聞いていて、そうかもしれない、と思いました、"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:49:32",
+      "utterance": "もう少し前向きにみてみますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:49:42",
+      "utterance": "もしかしたら本当は向き合いたいけどどうしたらいいかわからない、そんな状況なのかもしれないですよね、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:49:52",
+      "utterance": "ええ、そのように思われたのですね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:49:58",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:50:04",
+      "utterance": "ええ、ええ、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:50:53",
+      "utterance": "あなたが今日わたしに上手にお話ししてくださったように、あなたのお気持ちを素直に旦那様にお話ししてみてはどうかな？と思ったのですが、いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:51:13",
+      "utterance": "ええ　とりあえず少しはなしかけてみますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:51:32",
+      "utterance": "ええ、そのように前向きに捉えてくださり嬉しく思います、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:51:43",
+      "utterance": "ですが、簡単なことではないと思います、"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:51:55",
+      "utterance": "ええそうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:52:16",
+      "utterance": "あなたが言うように少しからでいいのでお話ししてみればいいのではないかと思います。あなたらしく"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:52:30",
+      "utterance": "はいありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:53:09",
+      "utterance": "ええ、もしうまくいかなかったらまたここでお話ししましょう。あなたのお力になりたいと思います、"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:53:26",
+      "utterance": "ありがとうございます。トライしてみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:54:41",
+      "utterance": "はい、旦那様を真っ直ぐ信じてきたあなただからこそ、素直な気持ち伝わるのではないかと思います。少しでも状況がよくなるように願ってますね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:54:50",
+      "utterance": "はいありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:55:03",
+      "utterance": "それではそろそろお時間ですね、今日お話ししてみていかがでしたか？他に話したりないことはありませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:55:23",
+      "utterance": "はい大丈夫です。少しスッキリしました"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:55:26",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:55:45",
+      "utterance": "そのように聞けて私も嬉しいです。またここでいつでも待ってますね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:55:53",
+      "utterance": "はい！"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:55:56",
+      "utterance": "それでは、失礼致します。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:56:03",
+      "utterance": "失礼します"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:56:31",
+      "utterance": "(貴重なお時間、ありがとうございました。開始に時間を要してすみませんでした、お疲れ様です。)"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:56:42",
+      "utterance": "(いえいえありがとうございました)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-23T15:57:00",
+      "utterance": "(後ほど改善点など教えてください、それでは失礼します。)"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-23T15:57:13",
+      "utterance": "失礼します"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦）",
+    "main_en": "Family Issues (Spouse)",
+    "sub": "離婚の危機とコミュニケーション不足"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3184,
+    "評価作成日時": "2022-02-23T16:23:00",
+    "クライアント役ID": 253,
+    "カウンセラー役ID": 181,
+    "点数": 91,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 5,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 5,
+    "居心地のよいやりとりだった": 5,
+    "全体として適切でよかった": 5,
+    "今回の相談は価値があった": 5,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 5,
+    "要約": 5,
+    "問題の明確化": 5,
+    "この相談での目標の明確化": 5,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 5,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3184,
+    "evaluation_created_at": "2022-02-23T16:23:00",
+    "client_id": 253,
+    "counselor_id": 181,
+    "score": 91,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

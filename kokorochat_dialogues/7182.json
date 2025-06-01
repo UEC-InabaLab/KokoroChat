@@ -1,0 +1,474 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-08-16T20:50:44",
+      "utterance": "(宜しくお願い致します。)"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T20:52:13",
+      "utterance": "こちらこそよろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T21:00:09",
+      "utterance": "こんばんは。相談員です。来ていただき、ありがとうございます。最初に、年齢・性別・ご相談内容を聞かせて頂けますか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:01:02",
+      "utterance": "こんばんは。60歳、男性です"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:01:18",
+      "utterance": "なんか、人生がつまらないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T21:01:58",
+      "utterance": "教えて頂き、ありがとうございます。そうでしたか。そのようなお気持ちなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T21:02:20",
+      "utterance": "ちなみに、お仕事はされていますか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:02:22",
+      "utterance": "まぁ、そうです"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:02:34",
+      "utterance": "会社員です"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T21:03:13",
+      "utterance": "そうでしたか。つまらない、というお気持ちになったのは、いつごろからでしょう?"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:03:37",
+      "utterance": "50歳くらいからだと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T21:04:00",
+      "utterance": "そうなのですね。何かきっかけのようなものはありました?"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:04:37",
+      "utterance": "わかりません…特にはなかったです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T21:05:55",
+      "utterance": "そうでしたか。いつの間にか…、という感じでしょうか。お仕事はどのようなことをされているのでしょう?"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:06:48",
+      "utterance": "経営管理部門で、総務とか経理です"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T21:08:01",
+      "utterance": "そうなのですね。大変なお仕事をされていらっしゃるのですね。残業とかはされているのですか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:08:24",
+      "utterance": "残業はほとんどないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T21:09:47",
+      "utterance": "そうなのですね。定時に帰れるお仕事なのですね。もう少し状況を教えて下さいね。ご家族はいらっしゃるのでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:10:07",
+      "utterance": "はい。家族はいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T21:10:52",
+      "utterance": "何人家族で、お子さんは何人でしよう?"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:11:22",
+      "utterance": "4人家族で子供は2人です"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T21:12:17",
+      "utterance": "教えて頂き、ありがとうございます。つまらないなぁ、という時に、どのようなお気持ちがあるのでしょう?"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:12:50",
+      "utterance": "つまらないという気持ちです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T21:13:32",
+      "utterance": "そうなのですね。具体的に、何がつまらない、というのはありますか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:13:56",
+      "utterance": "全部つまらないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T21:15:35",
+      "utterance": "そうでしたか。全部だとしんどいでしょうね。お仕事やそれ以外について、ということでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:16:10",
+      "utterance": "全部です。何もかも"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T21:17:04",
+      "utterance": "そうでしたか。何もかもつまらないのですね。今のお仕事は何年くらいお勤めなのでしょう?"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:17:26",
+      "utterance": "38年です"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T21:18:10",
+      "utterance": "ずいぶん長く勤めていらっしやって。頑張っていらっしゃったのですね?"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:19:06",
+      "utterance": "そうですか？終身雇用時代でしたから周りもそうですけど…"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T21:19:55",
+      "utterance": "そうですよね。でも大変なご苦労もあったのではないですか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:21:09",
+      "utterance": "特に大変な苦労があったとは感じてません"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T21:21:37",
+      "utterance": "そうなのですね。淡々とこなしていらしたのですね。今のお仕事は何歳まで働こうとお考えでしょう?"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:22:49",
+      "utterance": "65歳まではいれるので、そうしようかなとかは思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T21:24:02",
+      "utterance": "そのようにお考えなのですね。お仕事以外に何か、趣味のようなものはお持ちでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:24:39",
+      "utterance": "何してもつまらないのでありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T21:25:44",
+      "utterance": "そうでしたか。ご家族との関係はいかがでしょう?"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:26:09",
+      "utterance": "別に普通だと思いますが…"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T21:26:55",
+      "utterance": "それは良かったです。体調の方はいがかでしよう?"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:27:16",
+      "utterance": "普通です"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T21:28:15",
+      "utterance": "特に問題も無く、良好なのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:28:54",
+      "utterance": "良好かどうかわかりませんが、普通です"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T21:30:02",
+      "utterance": "良かったです。つまらない、とは、何をするにも気力がわかない、ということでしょうか?何か別のお気持ちがありますか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:31:56",
+      "utterance": "仕事もするし、普通に生活してるので、気力がないというわけではありませんね。とにかくつまらないのですよ"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T21:33:31",
+      "utterance": "そうでしたか。普段通り仕事や生活をこなしていらっしやるけれども、お気持ちの方がつまらない、と感じるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:33:43",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T21:34:43",
+      "utterance": "お若い頃に、何か興味を持って取り組んでいたこと等、何かありますか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:35:59",
+      "utterance": "親に押し付けられてピアノを習ってましたが、興味はありませんでした"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T21:36:37",
+      "utterance": "そうでしたか。いやいや通っていた感じでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:37:32",
+      "utterance": "いやいやというか、「つまんねーな」と思ってはいました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T21:37:56",
+      "utterance": "それは大分苦痛だったのでしょうね。それよりも興味のあること等、何かありました?"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:38:40",
+      "utterance": "苦痛とは思わなかったです。他にはないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T21:39:24",
+      "utterance": "そうなのですね。つまらない、と思うことで、何か困っていること等ありますか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:40:30",
+      "utterance": "つまらないから人生面白くないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T21:41:29",
+      "utterance": "そのようにお考えなのですね。そのことをパートナーさんにお話しされたことはあります?"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:41:54",
+      "utterance": "ないですよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T21:42:29",
+      "utterance": "そうでしたか。なかなか言いづらい話題でしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:42:59",
+      "utterance": "余計な心配されてもつまらないですから…"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T21:43:19",
+      "utterance": "そうなのですね。お優しいのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:43:47",
+      "utterance": "なんで優しいんですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T21:44:28",
+      "utterance": "パートナー様を気遣っていらっしゃると思いました。"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:45:15",
+      "utterance": "別にそんなつもりはないですが、普通じゃないですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T21:47:03",
+      "utterance": "そのようにお考えなのですね。ご友人とか同僚の方とかと、つまらない、とかそのような話をされますか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:47:30",
+      "utterance": "別にしませんが"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T21:49:13",
+      "utterance": "そうなのですね。つまらないお気持ちがどこからくるのか、考えていました。他の方たちは人生を楽しんでいるように思われますか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:50:37",
+      "utterance": "どうなんでしょうかね？つまらなさそうに見えますけど。他人は関係ないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T21:52:44",
+      "utterance": "そうでしたか。今の生活を続けられて、疲れたと思うことってあります?"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:53:25",
+      "utterance": "仕事したりすれば疲れます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T21:54:41",
+      "utterance": "そうですよね。疲れたままだと気持ちも重くなってしまいますよね。疲れを取るために何かされてますか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:55:25",
+      "utterance": "普通に食事して、お風呂に入って寝ます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T21:56:16",
+      "utterance": "そうなのですね。睡眠はしっかり取れている感じでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:56:46",
+      "utterance": "普通に取れてると思ってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T21:57:37",
+      "utterance": "良かったです。相談者様は、これからどうなりたいとお考えでしょう?何か目標とか…。"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T21:58:43",
+      "utterance": "どうなりたいとか、わからないので相談したんですけど…"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T22:00:34",
+      "utterance": "そうでしたね。お話の途中ですが、お時間になってしまいました。申し訳ありません。またお時間のある時にいらして下さい。"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T22:00:58",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T22:01:08",
+      "utterance": "今日はお話を聴かせていただき、ありがとうございました。これで終了とさせて頂いてもよろしいでしょうか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T22:01:43",
+      "utterance": "（ありがとうございました。）"
+    },
+    {
+      "role": "client",
+      "time": "2024-08-16T22:01:43",
+      "utterance": "はい。意地悪な相談者を演じて申し訳ございませんでした"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-08-16T22:02:13",
+      "utterance": "（大丈夫です。また宜しくお願いします）"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "人生のつまらなさによる気持ちの停滞"
+  },
+  "review_by_client_jp": {
+    "評価ID": 7182,
+    "評価作成日時": "2024-08-16T22:17:00",
+    "クライアント役ID": 503,
+    "カウンセラー役ID": 261,
+    "点数": 49,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 7182,
+    "evaluation_created_at": "2024-08-16T22:17:00",
+    "client_id": 503,
+    "counselor_id": 261,
+    "score": 49,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,569 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2024-01-21T16:24:43",
+      "utterance": "(こんにちは。よろしくお願い致します。クライエント役にご希望がありましたら、お知らせください。)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T16:26:20",
+      "utterance": "（こんにちは。こちらこそよろしくお願い致します。特に希望はありません。）"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T16:27:44",
+      "utterance": "(かしこまりました)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T16:30:05",
+      "utterance": "こんにちは。いらして下さり、ありがとうございます。最初に、年齢・性別・ご相談内容を教えていただけますか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T16:30:59",
+      "utterance": "23歳女性、毎日忙しくて、しんどいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T16:31:21",
+      "utterance": "教えて頂き、ありがとうございます。そうなんですね。忙しくて大変ですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T16:32:00",
+      "utterance": "お仕事は何をされていらっしゃいますか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T16:32:12",
+      "utterance": "事務員です"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T16:33:20",
+      "utterance": "そうなのですね。しんどく感じていらっしゃることを、もう少し詳しく教えていただけますか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T16:34:30",
+      "utterance": "やらなきゃいけないことがたくさんあって、常に急かされているような気がします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T16:35:40",
+      "utterance": "そうだったんですね。お仕事の量が多くて。急かされると気持ちが落ち着かないですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T16:36:02",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T16:36:44",
+      "utterance": "他に事務のお仕事をされていらっしゃる方はいますか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T16:36:57",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T16:37:25",
+      "utterance": "何人くらいいらっしゃるのでしょう?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T16:38:14",
+      "utterance": "部署全体では30人ぐらいいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T16:39:20",
+      "utterance": "そうなのですね。沢山いらっしゃいますね。他の方達も、相談者様と同じような仕事量なのでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T16:40:20",
+      "utterance": "細かな担当は違いますが、大体みんな仕事の量は多くて、似たような感じで忙しいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T16:41:15",
+      "utterance": "そうだったんですね。全体的に皆さんで忙しくお仕事されているのですね。お仕事を始められてから何年くらいでしょう?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T16:41:31",
+      "utterance": "2年目です"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T16:42:33",
+      "utterance": "今、ようやくお仕事に慣れてきた感じでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T16:42:49",
+      "utterance": "まあ、そうかもしれません"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T16:43:37",
+      "utterance": "そうなんですね。お休みは週二日とか取れていらっしゃいますか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T16:44:14",
+      "utterance": "いえ、休日出勤も結構してます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T16:45:02",
+      "utterance": "そうだったんですね。お休みが無いとしんどくなるのも、もっともですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T16:45:13",
+      "utterance": "そうですね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T16:45:45",
+      "utterance": "お休みが取れた日は、何をして過ごしていらっしゃいますか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T16:46:09",
+      "utterance": "家のことをしてます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T16:47:23",
+      "utterance": "そうなのですね。体が休まらなくて大変でしょうね。家事とか育児とかでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T16:47:42",
+      "utterance": "家事です"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T16:48:26",
+      "utterance": "教えて頂き、ありがとうございます。睡眠は十分とれている感じでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T16:49:30",
+      "utterance": "熟睡できた感じは、あまりないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T16:50:13",
+      "utterance": "そうなのですね。疲れが翌日まで残ってしまう感じでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T16:51:07",
+      "utterance": "疲れているのかどうか、自分でもよくわからないんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T16:52:31",
+      "utterance": "そうなんですね。慢性的な疲労かもしれませんね。お食事のほうはちゃんと摂れている感じでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T16:52:53",
+      "utterance": "一応食べています"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T16:54:12",
+      "utterance": "良かったです。家事…とのことですが、ご結婚されていらっしゃるのでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T16:54:23",
+      "utterance": "いいえ"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T16:55:13",
+      "utterance": "他にご家族の方はいらっしゃいますか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T16:55:19",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T16:55:55",
+      "utterance": "そうなのですね。ご両親と一緒にお暮しなのでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T16:56:00",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T16:58:00",
+      "utterance": "そうでしたか。同居されているのですね。安心ですね。ご両親を介護等されているのでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T16:58:15",
+      "utterance": "いいえ"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T16:59:16",
+      "utterance": "そうだったんですね。お仕事が忙しくておつらい、とのことですが、そのことをどなたかにご相談されました?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T17:03:31",
+      "utterance": "仕事もあるかもしれませんが、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T17:04:07",
+      "utterance": "はい。ここでは何でもお話しして頂いて大丈夫ですよ。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T17:04:17",
+      "utterance": "うーーん、どうなんだろう……"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T17:04:27",
+      "utterance": "ちょっとわからなくなってきました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T17:04:44",
+      "utterance": "何か迷っている感じでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T17:04:53",
+      "utterance": "仕事が忙しいから、辛いんでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T17:05:49",
+      "utterance": "今のお仕事は、何か興味があって選ばれたのでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T17:06:42",
+      "utterance": "特に強い動機はありませんでした。就活が厳しかったので、選んでる余裕もなかったし。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T17:07:55",
+      "utterance": "そうだったんですね。お仕事を選ぶ暇もなく、とにかく仕事に就かなくては、という感じでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T17:09:52",
+      "utterance": "周りの友達もみんな、大学卒業したら正社員になるのが当たり前な雰囲気でした。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T17:10:46",
+      "utterance": "そうでしたか。雰囲気もありますよね。お仕事の内容以外で、何か「しんどい」と感じられることがおありですか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T17:11:34",
+      "utterance": "家のことも、しんどいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T17:12:21",
+      "utterance": "そうだったんですね。具体的にしんどいと感じられることは何でしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T17:12:59",
+      "utterance": "家事をやらないといけないのが、縛られているみたいで。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T17:13:42",
+      "utterance": "そうでしたか。自由な時間が取れない感じでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T17:14:00",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T17:14:30",
+      "utterance": "具体的に、家事の内容を教えて頂けますか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T17:15:05",
+      "utterance": "多分殆ど全部だと思います"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T17:15:34",
+      "utterance": "食事も掃除も洗濯も"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T17:15:52",
+      "utterance": "それは大変ですよね。一人でこなすのは。ご家族のどなたに縛られているのでしょう?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T17:16:19",
+      "utterance": "母、かなあ…"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T17:17:17",
+      "utterance": "お母様は何か家事が出来ない理由がおありでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T17:17:35",
+      "utterance": "仕事が忙しいので"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T17:18:14",
+      "utterance": "そうだったんですね。でも相談者様も同じように忙しいお仕事をされていますよね?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T17:19:02",
+      "utterance": "はいでも母が帰ってきた時に家の中が散らかっていたり、洗濯物が干されたままだったり、ご飯ができてないと、怒るんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T17:19:29",
+      "utterance": "それはしんどくなりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T17:19:44",
+      "utterance": "だから一旦帰って家のことやって、また会社に戻って残業してます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T17:20:27",
+      "utterance": "そうだったのですね…。お母様に、相談者様の状況を伝えられそうですか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T17:20:42",
+      "utterance": "無理です"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T17:21:08",
+      "utterance": "今までだって、誰も助けてくれなかったし。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T17:21:33",
+      "utterance": "そうなのですね。このままではご相談者様の心身の健康が心配です。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T17:22:38",
+      "utterance": "私はいつまで頑張れば良いと思いますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T17:23:01",
+      "utterance": "もしかしたら、家から出てお母様と距離を置く、というのも選択肢の一つかもしれません。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T17:23:33",
+      "utterance": "そんなことしたら、母はどうにかなってしまうかもしれません"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T17:23:57",
+      "utterance": "そうですね。ご心配なのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T17:24:32",
+      "utterance": "そばにいたら怖くてたまらないのに、私が少しでも離れようとすると、離さないために必死になるんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T17:25:35",
+      "utterance": "それはどうしたらいいか、迷われますよね。手紙でお気持ちを伝えるのはどうでしょう?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T17:25:59",
+      "utterance": "中学生の頃、高校生の頃にやってみました"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T17:26:18",
+      "utterance": "父にも助けてほしいと手紙を書きました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T17:26:21",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T17:26:25",
+      "utterance": "でも何も変わらなかった"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T17:26:39",
+      "utterance": "悲しいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T17:27:16",
+      "utterance": "今はもう、諦めようとしていますだけど、苦しくなるんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T17:27:36",
+      "utterance": "でも相談者はもう大人で、ご自身のことは、ご自身で決められるのですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T17:28:28",
+      "utterance": "苦しいお気持ち、お察しします。親子ですものね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T17:29:45",
+      "utterance": "離すまいと必死な人から離れようとすると、殺されるんじゃないかと怖くなります。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T17:30:34",
+      "utterance": "変な話をしてすみません。もう終了時間ですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T17:30:43",
+      "utterance": "それはひどく怖いことですよね。お母様と距離を取ることは、ご相談者様の人生の可能性を広げることに繋がるのではと思われます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T17:31:27",
+      "utterance": "残念ながら、もう終了時間となりました。よろしければまたいらっしゃいませんか?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T17:31:45",
+      "utterance": "いつでもお待ちしております。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T17:31:48",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T17:32:11",
+      "utterance": "(お疲れさまでした。ありがとうございました)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T17:32:24",
+      "utterance": "こちらこそ来ていただき、ありがとうございました。これで終了させて頂いてよろしいですか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-21T17:32:43",
+      "utterance": "はい、大丈夫です"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-21T17:32:53",
+      "utterance": "（お疲れ様でした。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "母との依存関係によるストレス"
+  },
+  "review_by_client_jp": {
+    "評価ID": 6307,
+    "評価作成日時": "2024-01-22T00:43:00",
+    "クライアント役ID": 420,
+    "カウンセラー役ID": 261,
+    "点数": 47,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 2,
+    "要約": 2,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 6307,
+    "evaluation_created_at": "2024-01-22T00:43:00",
+    "client_id": 420,
+    "counselor_id": 261,
+    "score": 47,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

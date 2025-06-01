@@ -1,0 +1,549 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-09-20T16:51:44",
+      "utterance": "こんばんは。今日はよろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T16:53:35",
+      "utterance": "こんばんは。よろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T16:54:20",
+      "utterance": "お時間になりましたら、始めさせてください。お願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T16:55:10",
+      "utterance": "はい、よろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:00:32",
+      "utterance": "こんばんは。相談員です。ライン相談にお越しくださって、ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:00:47",
+      "utterance": "よろしかったらはじめに、年齢・性別と、ご相談内容を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T17:01:14",
+      "utterance": "はい、60歳男性"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:03:23",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T17:03:29",
+      "utterance": "なんでも話していいですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:03:58",
+      "utterance": "もちろんです。ここは安全な場所です。ここではどんなお話、お気持ちをお話しいただいても大丈夫ですよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T17:04:20",
+      "utterance": "実は妻がなくなりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:04:53",
+      "utterance": "そうだったのですね。お気落としの所にいらしてくださったのですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T17:05:53",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:06:35",
+      "utterance": "お悔やみ申し上げます。少しずつでかまいません。どんなことでもお話しいただけたらと思います"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T17:07:18",
+      "utterance": "ずっと闘病生活でした"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:07:31",
+      "utterance": "そうだったのですね・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:08:06",
+      "utterance": "どのくらい療養されておられたのでしょう"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T17:08:22",
+      "utterance": "1年です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:09:16",
+      "utterance": "そうでしたか・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T17:10:16",
+      "utterance": "あとを追うようにペットも亡くなりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:11:13",
+      "utterance": "そんな・・・ペットさんまで…かなしいですよね・・・今はどなたとお暮しなのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T17:11:29",
+      "utterance": "1人です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:12:01",
+      "utterance": "そうなのですね。そんな中、お話にいらしてくださってありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:12:40",
+      "utterance": "奥様はいつ亡くなられたのでしょう。伺ってもよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T17:13:36",
+      "utterance": "3ヶ月前です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:14:27",
+      "utterance": "そうだったのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:15:44",
+      "utterance": "とてもさみしい思いをされておられるかと思いますが・・・今はどのように過ごされておられるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T17:16:06",
+      "utterance": "何もしてないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:17:39",
+      "utterance": "そうなのですね。でも、そんな中でもお話にいらしてくださったのですね。奥様はどんな方だったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T17:18:28",
+      "utterance": "よく働く人でした"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:19:06",
+      "utterance": "ええ、そうなんですね。お仕事など、どんなことをされておられたのでしょう？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T17:20:14",
+      "utterance": "販売員でした"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:22:52",
+      "utterance": "そうなのですね。お勤めされていたのですね。奥様はよく働く方とのことですが、どんなご様子だったのでしょう？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T17:23:34",
+      "utterance": "普通です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:25:27",
+      "utterance": "そうなのですね。普通にお勤めもされて…それでは、もしかして、ご病気のことも思いもよらなかったとか‥‥"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T17:26:13",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:26:54",
+      "utterance": "そうだったのですね。突然のことだったのでしょうか‥‥？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T17:27:57",
+      "utterance": "闘病生活でした"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:29:04",
+      "utterance": "そばで見ているあなたもお辛かったですよね‥‥"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T17:30:06",
+      "utterance": "そうですね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:31:30",
+      "utterance": "ええ、ええ。元気で働き者の奥様だったからこそ、とてもつらかったですよね"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T17:32:06",
+      "utterance": "もう死にたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:33:00",
+      "utterance": "そこまで深く悲しんでおられるのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:33:41",
+      "utterance": "今はどちらからご相談くださってますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T17:33:48",
+      "utterance": "あとを追ってもいいですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:35:15",
+      "utterance": "そこまでおもいつめておられるのですねもしかして、そのために何か準備とかされたりしているということはありませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T17:35:41",
+      "utterance": "準備とはなんですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:37:06",
+      "utterance": "きっと、おひとりになられて心細い思いもされておられるかと思います。あなたのことがとても心配になったものですから・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:38:38",
+      "utterance": "それくらい悲しんでおられるのですよね"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T17:39:23",
+      "utterance": "1人で生きてても仕方ない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:40:16",
+      "utterance": "そこまで苦しんでおられるのですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T17:40:51",
+      "utterance": "どうしたららくになりますか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:42:47",
+      "utterance": "そう思われているのですね。楽になるために、今日は、よかったら、奥様とのお話など、私でよければ、おはなしいただけたらな　　と思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:44:08",
+      "utterance": "もちろん、お話しできるところからでかまいません"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T17:45:18",
+      "utterance": "妻に会いたいどうしたら会えますか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:46:50",
+      "utterance": "それくらい深く思っておられるのですねそれだけ、あなたにとって、かけがえのない存在でいらしたのですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T17:47:26",
+      "utterance": "ペットに会いに行きたい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:48:20",
+      "utterance": "ペットさんにも会いたいのですね。どんな子だったのでしょう？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:49:08",
+      "utterance": "きっと、一緒に居ても癒やされたのでしょうね"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T17:50:01",
+      "utterance": "犬でした"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:50:46",
+      "utterance": "ワンちゃんですね。どんな思い出がありますか？良かったら、お話しいただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T17:51:28",
+      "utterance": "秋田犬でした"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:51:54",
+      "utterance": "秋田犬うんうん。きっと賢かったのでしょうね…"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T17:53:05",
+      "utterance": "人懐こかったです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:54:05",
+      "utterance": "そうなんですね。かわいい姿が浮かんできそうですあなたにとってはどんな存在だったのでしょう"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T17:54:35",
+      "utterance": "生きがいでした"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:55:03",
+      "utterance": "ええ、ええ。本当に大切な存在だったのですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T17:55:38",
+      "utterance": "でももう会えない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:56:45",
+      "utterance": "そう思うと、とても悲しくなりますよね…その子のこと、なんて呼んでたんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T17:57:33",
+      "utterance": "チロルです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T17:58:20",
+      "utterance": "チロルちゃんてすかかわいいお名前ですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T18:00:49",
+      "utterance": "今までお話伺って、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T18:02:44",
+      "utterance": "お元気だったころの奥さまやチロルちゃんの姿を思う程に、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T18:03:24",
+      "utterance": "おひとりで悲しみをこらえながら過ごしてこられたのですよね・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T18:04:01",
+      "utterance": "きっと限界だと感じられるほどに・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T18:04:34",
+      "utterance": "でも、こうして、今日お話しに来てくださったのは、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T18:06:19",
+      "utterance": "あなたがそれだけ苦しんでおられる中でも、前に進みたいと思ったからではありませんか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T18:06:32",
+      "utterance": "とても悲しみが深いのは、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T18:07:08",
+      "utterance": "それだけあなたには、、とてもとても大切な宝物があるということ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T18:07:56",
+      "utterance": "姿かたちは　なくなっても、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T18:08:25",
+      "utterance": "大切な人柄と、想い出は　なくなることはありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T18:09:23",
+      "utterance": "だから、いとおしいと思える思い出を、今は抱きしめていていいと私は思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T18:10:09",
+      "utterance": "・・・どの様に　お感じになられますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T18:11:30",
+      "utterance": "話を聞いてもらいありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T18:13:34",
+      "utterance": "悲しい思いの中、いらしてくださり、ありがとうございました。今は、名を呼んで、気持ちを声に出して話しかけてみてもいいと思いました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T18:14:01",
+      "utterance": "そうしてみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T18:14:38",
+      "utterance": "今は、悲しい気持ちを抱きしめて、ご自身の気持ちも抱きしめてあげていいと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T18:15:13",
+      "utterance": "はい、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T18:15:55",
+      "utterance": "大切な宝物を抱きしめるように…あなたのこと、いつでも見守っています。もしよかったら、またお話にいらして下さるとうれしいです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T18:16:22",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T18:17:09",
+      "utterance": "こちらこそ、お話しくださってありがとうございました。それでは、またのお越しをお待ちしておりますね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T18:17:21",
+      "utterance": "はい失礼します"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T18:17:48",
+      "utterance": "本日はご相談いただきまして、ありがとうございました。失礼いたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T18:18:36",
+      "utterance": "(ありがとうございました。また課題が見つかりました。感じたことやアドバイスなど、評価にお願いいたします)"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-20T18:18:57",
+      "utterance": "(お疲れ様でした、ありがとうございました)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-20T18:19:08",
+      "utterance": "（ロープレありがとうございました。失礼いたします）"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "配偶者を亡くした後の悲しみや孤独感"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2477,
+    "評価作成日時": "2021-09-20T18:40:00",
+    "クライアント役ID": 17,
+    "カウンセラー役ID": 108,
+    "点数": 56,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 3,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 3,
+    "要約": 2,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2477,
+    "evaluation_created_at": "2021-09-20T18:40:00",
+    "client_id": 17,
+    "counselor_id": 108,
+    "score": 56,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

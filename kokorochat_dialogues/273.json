@@ -1,0 +1,789 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-07-27T20:54:39",
+      "utterance": "（こんにちは。本日はよろしくお願いします。）"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T20:55:35",
+      "utterance": "よろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T20:55:43",
+      "utterance": "（時間になったら始めさせていただきますね）"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T20:55:56",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:00:05",
+      "utterance": "こんにちは。担当の相談員です。よろしくお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:00:21",
+      "utterance": "宜しくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:00:25",
+      "utterance": "はじめにニックネームでよろしいのでどのようにお呼びすればよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:01:03",
+      "utterance": "さおり　でお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:01:18",
+      "utterance": "さおりさん今日はどのようなご相談で来られましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:02:20",
+      "utterance": "職場の人間関係がうまくいかなくて"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:02:45",
+      "utterance": "そうなんですね。それは悩みますね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:03:05",
+      "utterance": "はい・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:03:19",
+      "utterance": "どのようなことでうまくいかないのか詳しく聞かせていただいてもよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:03:25",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:04:56",
+      "utterance": "職場の仲間とも少しギクシャクしてるのですが、老人ホームの利用者さんとの関係が悪くなってしまい、寝れなくて・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:05:59",
+      "utterance": "寝れなくなるほど悩まれて、それはお辛いですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:06:36",
+      "utterance": "はい、お酒を飲まないと寝れなくなってしまったのです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:08:08",
+      "utterance": "お酒に頼らないと寝れなくなったのですねそれはどのような感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:09:03",
+      "utterance": "色々あった出来事を考えて、寝れない感じです。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:09:41",
+      "utterance": "今日も仕事を休んでしまいました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:10:09",
+      "utterance": "本当はしっかりと休みたいのに、職場のことを考えると寝れないのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:10:26",
+      "utterance": "はい、そうです。精神疾患"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:10:44",
+      "utterance": "しかも仕事を休んでしまう。とても苦しんでおられるのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:11:23",
+      "utterance": "はい。主任だから精神疾患の利用者さんと一番関わっていて、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:11:36",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:12:05",
+      "utterance": "こちらの言葉にいつも噛みついて来られ、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:12:19",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:12:29",
+      "utterance": "主任失格と連呼で怒鳴られて、"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:13:00",
+      "utterance": "怖くなってしまいました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:13:26",
+      "utterance": "それはとても辛くて怖くなりますよ"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:13:56",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:14:16",
+      "utterance": "さおりさんのお体の状態はどうなんでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:15:13",
+      "utterance": "胃薬は飲んでます。それくらいですが・・"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:15:42",
+      "utterance": "後、"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:15:52",
+      "utterance": "寝不足です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:16:29",
+      "utterance": "寝不足はつらいですよね。胃薬を飲んでいるということは、どこか痛むのでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:17:12",
+      "utterance": "胃がキリキリ痛くなった時だけ飲みます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:19:00",
+      "utterance": "胃がキリキリ痛むほど苦しく抱えておられるのですね。週にどれほどで痛むのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:19:42",
+      "utterance": "近々その利用者さんと、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:19:50",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:20:04",
+      "utterance": "通院の担当になっていて"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:20:36",
+      "utterance": "また怒鳴られるのかと思うと・・・"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:21:05",
+      "utterance": "苦痛です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:21:24",
+      "utterance": "仕事中にまた怒鳴られるかと考えると苦痛なのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:21:34",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:22:11",
+      "utterance": "そう考えると、胃がキリキリと痛み、夜が寝れなくなってくるのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:22:26",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:22:32",
+      "utterance": "また"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:22:40",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:23:37",
+      "utterance": "主任失格と言われたら。きっとまた言われると思ってしまい。それでなくても、主任一年目で"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:24:16",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:24:26",
+      "utterance": "正直自信が無い上のその言葉は耐え難く"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:24:42",
+      "utterance": "うんうん。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:25:13",
+      "utterance": "頑張らないとと思う一方、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:25:53",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:26:03",
+      "utterance": "もっと手を抜いてと仲間に言われるのですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:26:23",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:26:47",
+      "utterance": "何が手を抜くことなのか分からなくなってきています"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:27:22",
+      "utterance": "主任としての自信まで傷つけられて"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:27:34",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:28:07",
+      "utterance": "それでも頑張って仕事をしようと思っていたら"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:28:38",
+      "utterance": "仲間からは手を抜いていいよと言われても"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:28:39",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:29:30",
+      "utterance": "何が手を抜くのか分からないというのは、本当に今は自分の感覚がどのような感じなのかが"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:30:14",
+      "utterance": "分からなくなるほど、悩み苦しんで苦しんでもがいておられるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:31:01",
+      "utterance": "自分の感覚？そうですね、もがいています。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:31:19",
+      "utterance": "主任は"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:31:25",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:31:36",
+      "utterance": "下の者が嫌がる事も"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:31:46",
+      "utterance": "うんうん。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:31:59",
+      "utterance": "しないといけないと思っていたのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:32:08",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:32:50",
+      "utterance": "だから、率先して言いにくい事も"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:33:01",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:33:04",
+      "utterance": "伝えたりしてましたが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:33:20",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:33:25",
+      "utterance": "手を抜けというのは、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:33:35",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:34:15",
+      "utterance": "時には見て見ぬふりをしたりしていいと言われても。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:34:30",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:34:45",
+      "utterance": "分からないことは"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:34:55",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:35:32",
+      "utterance": "仲間に相談もしてるのに。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:35:47",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:36:40",
+      "utterance": "それで職場の仲間とも少しギクシャクしていると感じておられるのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:37:37",
+      "utterance": "はい。仲間は愚痴も聞いてくれますが、指摘された言葉が手を抜いてという言葉で。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:38:08",
+      "utterance": "自分の思う主任像が"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:38:20",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:38:22",
+      "utterance": "分からなくなっています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:38:40",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:38:52",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:39:53",
+      "utterance": "わからなくなった主任としての自分を今はどのように思われますか？？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:41:27",
+      "utterance": "精神疾患の利用者さんに失格と言われたので、きっと仲間も同じなのではないか。自分は主任にふさわしくないのではないかと。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:43:12",
+      "utterance": "自分は主任にふさわしくわないのだと思われているのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:43:32",
+      "utterance": "そうですね、自信喪失です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:43:57",
+      "utterance": "そうやって思うと、自信喪失してしまっているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:44:10",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:44:50",
+      "utterance": "自信喪失したさおりさんはそれからは、どうしていけばいいと思われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:46:18",
+      "utterance": "仕事に行くのが怖くて(顔見たら怒鳴られたらどうしようって)休んでしまったから、通院の日も休んでしまいそうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:47:34",
+      "utterance": "また会って同じことを言われたらと思うと怖くて休んでしまいそうで"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:49:01",
+      "utterance": "それがまた主任としての自分では行かないとと思うのと、仲間は力を抜いていいといわれての"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:49:50",
+      "utterance": "間で葛藤しながら、悩んでおられる。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:50:27",
+      "utterance": "ここまでのことを整理させていただいてもよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:50:36",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:51:15",
+      "utterance": "さおりさんはある精神疾患の患者さんからの"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:52:49",
+      "utterance": "主任失格やひどい言葉で会うのも怖くなり、仕事を休んでしまうほど、寝不足や胃の痛みに悩んでおられる"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:53:39",
+      "utterance": "それでも主任として頑張らないとと思い、言いにくいことを言ったり、率先して動いたりしていても"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:54:13",
+      "utterance": "はい、寝不足と胃の痛みは結果なので、それ自体が悩みとは思っていないですがね・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:54:34",
+      "utterance": "仲間たちさおりさんを気遣ってか、力をもっと抜いてもいいよと言ってくれるが"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:54:51",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:56:04",
+      "utterance": "それが逆にさおりさんにとって頑張っているのが、ご自分の主任像と"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:56:41",
+      "utterance": "離れていってしまっているような感じで、自信喪失になってきている。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:57:17",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T21:57:51",
+      "utterance": "そうすると、1番の問題はさおりさんの自信を取り戻すようにしていければいいように思うのですがいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T21:59:09",
+      "utterance": "怖いのも自信を持つと和らぐのでしょうか・・どうすれば・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T22:00:29",
+      "utterance": "そうですね。怖さは、その患者さんから言われた主任失格と言われた言葉が大きいと思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T22:00:44",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T22:02:01",
+      "utterance": "なので、まずは、さおりさんは主任についたとき今の職場をどのようにいていきたいと考えられていましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T22:03:00",
+      "utterance": "違う職種からの主任だったので、とにかく手探りと助けてもらって"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T22:03:09",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T22:03:53",
+      "utterance": "初めから日々の業務をこなすので精一杯でした。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T22:04:37",
+      "utterance": "そうなんですね。日々の仕事を一生懸命にこなしているときに"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T22:05:24",
+      "utterance": "そのような言葉を浴びたのは本当につらかったし怖かったと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T22:05:51",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T22:06:40",
+      "utterance": "(時間が来てしまいましたね・・・)"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T22:07:10",
+      "utterance": "（もう少しだいじょうぶでしょうか）"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T22:08:07",
+      "utterance": "（時間がなければ終わりにしますがどうでしょうか？）"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T22:08:13",
+      "utterance": "(すみません、後五分くらいでお願いします)"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T22:08:36",
+      "utterance": "（わかりました）"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T22:09:22",
+      "utterance": "ひどい言葉を受けながらでも、力を抜かずに頑張っていこうと思われる"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T22:10:14",
+      "utterance": "さおりさんは、とても主任として頼もしい存在だと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T22:11:03",
+      "utterance": "いえいえ。まだまだなんです。でもありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T22:11:19",
+      "utterance": "そのような姿を見ているから仲間たちは信頼していると思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T22:11:42",
+      "utterance": "そうでしょうか・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T22:12:41",
+      "utterance": "はい。そこは仲間にきてもいいかなと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T22:13:31",
+      "utterance": "ここで本日の相談を終了したいと思いますがよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T22:13:57",
+      "utterance": "はい、今日はありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T22:14:35",
+      "utterance": "ぜひ頑張ってください。応援しております。ありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T22:14:46",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T22:15:12",
+      "utterance": "（すいません。時間がオーバーでした）"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T22:15:35",
+      "utterance": "(いえ、大丈夫ですよ)"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T22:16:10",
+      "utterance": "（ありがとうございます。これで本日のロールプレイを終了させていただきますがよろしいでしょうか？）"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-27T22:16:29",
+      "utterance": "はい、終了で、お願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-27T22:17:07",
+      "utterance": "（ロールプレイを終了させていただきます。お疲れ様でした。ありがとうございました。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "職場の人間関係の問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 273,
+    "評価作成日時": "2020-07-27T22:41:00",
+    "クライアント役ID": 25,
+    "カウンセラー役ID": 58,
+    "点数": 49,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 2,
+    "要約": 4,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 273,
+    "evaluation_created_at": "2020-07-27T22:41:00",
+    "client_id": 25,
+    "counselor_id": 58,
+    "score": 49,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 2,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

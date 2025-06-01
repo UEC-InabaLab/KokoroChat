@@ -1,0 +1,414 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-07-22T16:21:14",
+      "utterance": "本日はよろしくお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-22T16:21:47",
+      "utterance": "よろしくお願いします。本日ご希望のケース等ございますでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T16:23:55",
+      "utterance": "ありがとうございます。相談内容は問いませんが、あまり心を開いていなく、口数が少ないようなひとをお願いできればと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-22T16:24:20",
+      "utterance": "かしこまりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T16:25:05",
+      "utterance": "ありがとうございます。お時間になりましたら始めさせていただきます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T16:30:04",
+      "utterance": "こんにちは。相談員です。本日はご相談にお越しくださり、ありがとうございます。はじめにご年齢、性別、そして相談内容を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-22T16:30:37",
+      "utterance": "30 男"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-22T16:30:45",
+      "utterance": "たすけてください"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T16:31:16",
+      "utterance": "ええ、どのようなことでお困りでしょうか？何でもお話くださいね"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-22T16:31:40",
+      "utterance": "生活費が払えません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T16:32:10",
+      "utterance": "そうなのですね。それは困りますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T16:32:40",
+      "utterance": "ちなみにいまはお仕事はされているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-22T16:32:57",
+      "utterance": "してます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T16:33:26",
+      "utterance": "そうなのですね。どのようなお仕事をされているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-22T16:34:12",
+      "utterance": "ウェブサイト運営です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T16:35:15",
+      "utterance": "なるほど。ウェブサイト運営は会社に所属しておられるのですか？それとも自営ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-22T16:35:40",
+      "utterance": "自営です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T16:36:56",
+      "utterance": "そうなのですね。生活費が払えないとのことですがなにか仕事などの影響がおありなのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-22T16:37:20",
+      "utterance": "仕事が減りました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T16:38:08",
+      "utterance": "そうだったのですね。生活に関わってくるとそれは焦りますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T16:39:13",
+      "utterance": "以前と今とではどのくらい変化があったのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-22T16:39:32",
+      "utterance": "何についてですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T16:40:59",
+      "utterance": "言葉足らずでした。すみません。仕事が減ったということですが、例えば仕事量であったりだとか売上面はいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-22T16:41:24",
+      "utterance": "かなり減りました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T16:43:44",
+      "utterance": "そうだったのですね。生活費が払えないとおっしゃっていましたものね。コロナの影響などもおありなんでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-22T16:43:58",
+      "utterance": "たぶん"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T16:46:12",
+      "utterance": "そうなんですね。ちなみにウェブサイト運営はどのようなことを扱ってらっしゃるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-22T16:46:25",
+      "utterance": "色々です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T16:47:12",
+      "utterance": "そうでしたか。色々とは例をあげてみるなら何かございますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-22T16:47:55",
+      "utterance": "話す意味はあるのですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T16:49:41",
+      "utterance": "あなたはどう思われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-22T16:49:56",
+      "utterance": "意味ないと思いますが"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T16:52:26",
+      "utterance": "そうでしたか。でしたら、違う質問をしますね。生活費が払えないほどお困りのようですが、今はどのように生活をやりくりされているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-22T16:52:56",
+      "utterance": "貯金を崩してます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T16:54:04",
+      "utterance": "そうなんですね。貯金を崩しながら生活されているのですね。それは不安になったりもしますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T16:57:50",
+      "utterance": "コロナの影響以外にも収入に影響する出来事など何かありましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-22T16:58:49",
+      "utterance": "ないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T17:00:00",
+      "utterance": "そうなんですね。では、あなたはコロナの影響で収入が減ってしまい、生活費が払えないほど困っているということでよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-22T17:00:18",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T17:01:32",
+      "utterance": "なるほど。今のこのコロナ渦という状況に関してあなたはどう感じておられますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-22T17:02:16",
+      "utterance": "表現できません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T17:03:05",
+      "utterance": "ええ、表現できないほど色々な感情がおありなんでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-22T17:03:20",
+      "utterance": "たぶんそうなのではないでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T17:05:49",
+      "utterance": "そうですよね。ご自身でウェブサイトの運営をこれまで頑張ってこられて、コロナ渦で収入が減ってしまい、焦りや不安、また怒りなどもこみあげてきてしまいますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T17:10:37",
+      "utterance": "これからどうしていくかなどなにか考えられたことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-22T17:11:50",
+      "utterance": "自治体に給付金について受けられるか相談しましたが、対象外と言われました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T17:13:06",
+      "utterance": "そうだったのですね。それは納得いかないですよね。理由はきかれましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-22T17:13:34",
+      "utterance": "収入の面で対象外とのことでした"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T17:14:16",
+      "utterance": "収入の面とは？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-22T17:15:21",
+      "utterance": "たぶん一定より下回ってないからなのではないかと"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T17:16:07",
+      "utterance": "なるほど。あなたは生活費が払えないほど困っているのに、それはひどいですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T17:17:37",
+      "utterance": "給付金以外でこの状況を変える方法は何か思いつくことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-22T17:17:47",
+      "utterance": "わかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T17:19:00",
+      "utterance": "そうですね。この状況を打破するために何かいい方法を一緒に探していければと思いますが、いかがでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-22T17:19:15",
+      "utterance": "あるんですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T17:21:26",
+      "utterance": "それを考えていければと思うのですが。。周りに同じような状況でお困りの方はおられたりしますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-22T17:21:43",
+      "utterance": "いません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T17:24:47",
+      "utterance": "そうでしたか。ご家族や友人などにご相談はされたことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-22T17:24:53",
+      "utterance": "ありません"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-22T17:25:04",
+      "utterance": "話しにくいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T17:25:42",
+      "utterance": "そう感じておられるのですね。それはどうしてでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-22T17:25:44",
+      "utterance": "馬鹿にされたくないからです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T17:26:59",
+      "utterance": "そうなのですね。馬鹿にされたくないのはどういったことからそう思われるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-22T17:28:03",
+      "utterance": "自分で生活費払えないのは恥ずかしいから"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T17:29:12",
+      "utterance": "そう感じておられて誰にも話せず、貯金を崩しながら耐えておられたのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T17:31:34",
+      "utterance": "申し訳ございません。本日は終了のお時間が来てしまいました。今の状況を少しでもよくするために何かいい方法がないか次回の相談までに私も考えておきます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-22T17:31:48",
+      "utterance": "はい、ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T17:32:33",
+      "utterance": "また、おひとりで考え込まずにこちらにお越しくださればと思います。本日はありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-22T17:33:36",
+      "utterance": "では終了のメッセージをお送りします。ありがとうございました。"
+    }
+  ],
+  "topic": {
+    "main_jp": "経済的問題",
+    "main_en": "Financial Issues",
+    "sub": "生活費が払えない問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3722,
+    "評価作成日時": "2022-07-23T13:24:00",
+    "クライアント役ID": 125,
+    "カウンセラー役ID": 294,
+    "点数": 58,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 4,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3722,
+    "evaluation_created_at": "2022-07-23T13:24:00",
+    "client_id": 125,
+    "counselor_id": 294,
+    "score": 58,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

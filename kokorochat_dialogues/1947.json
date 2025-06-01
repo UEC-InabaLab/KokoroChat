@@ -1,0 +1,759 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-05-26T09:50:57",
+      "utterance": "おはようございます。本日、カウンセラー役をさせて頂きます。お時間になりましたら、どうぞよろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T09:59:25",
+      "utterance": "すみません、遅くなりました。よろしくお願い致します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:00:21",
+      "utterance": "それでは、始めさせて頂きます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:00:29",
+      "utterance": "こんにちは、相談員です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:00:38",
+      "utterance": "本日は、どのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:01:10",
+      "utterance": "今、不登校てす"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:01:26",
+      "utterance": "毎日か辛いです"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:01:54",
+      "utterance": "楽しい事がありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:02:24",
+      "utterance": "そうなのですね。楽しいことがないのは辛いですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:02:28",
+      "utterance": "これからどうしていけば良いのか分かりません"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:03:17",
+      "utterance": "毎日ゲームしてますが、楽しくてやってる訳ではなく、やる事がないからです"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:03:59",
+      "utterance": "学校行かないと、大人になって困るんですよね？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:05:12",
+      "utterance": "気持ちを話してくれて、ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:06:12",
+      "utterance": "少し、話が変わってしまって、申し訳ないのですが、年齢、性別、お名前（ニックネーム可）をお答えできる範囲で教えてもらえますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:06:59",
+      "utterance": "中学2年　13歳　康太です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:07:17",
+      "utterance": "康太くんですね。ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:08:54",
+      "utterance": "義務教育というのは、あるけど、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:09:11",
+      "utterance": "こうして大人の人と相談して、お休みすることはできますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:09:32",
+      "utterance": "お休みですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:11:25",
+      "utterance": "そうですね。康太くんはどのようなことが辛いと感じていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:12:49",
+      "utterance": "今は、勉強しないままで大丈夫かと不安になります。でも、やりたくない事を無理にはできません。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:13:05",
+      "utterance": "勉強はしたくないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:13:51",
+      "utterance": "そうなのですね。そうですよね。やりたくないことは、なかなか出来ないですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:14:26",
+      "utterance": "やりたくない勉強を無理矢理強制的にする学校は嫌いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:15:13",
+      "utterance": "そうなのですね。無理矢理やらされるのは、いい気持ちがしないですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:16:29",
+      "utterance": "何度も頑張ってみましたが、やっぱり僕には無理だった"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:17:04",
+      "utterance": "そういう気持ちだったんですね。頑張ってきたんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:17:44",
+      "utterance": "それに勉強して覚えても、すぐに忘れるから、意味がないと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:18:43",
+      "utterance": "そういう風に感じられるのですね。確かに、せっかく勉強しても、忘れてしまうものは多いものですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:19:31",
+      "utterance": "はい、でも大人になって困るのは自分なんだろうなと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:20:33",
+      "utterance": "でも、ずっとこのままなら困らないのかも"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:21:04",
+      "utterance": "なるほどですね、そのように感じているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:21:59",
+      "utterance": "分からないです"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:22:22",
+      "utterance": "自分がどう思ってるのかも分からない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:22:39",
+      "utterance": "そうなのですね。色々と考えをめぐらせると、不安な気持ちが頭を巡って、よく分からなくなってきますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:23:29",
+      "utterance": "康太くんが何度も頑張った、という風に言っていたのが、僕はとても印象的です。康太くんは、一生懸命頑張ったのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:24:23",
+      "utterance": "不登校の自分は嫌いで、何度も行ったりしたけど、どうしても無理"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:25:08",
+      "utterance": "そうなのですね。それは辛い気持ちですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:25:24",
+      "utterance": "義務教育はどうしてあるんですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:26:45",
+      "utterance": "義務教育がどうしてあるか。そういう疑問って、ありますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:26:55",
+      "utterance": "質問返しになってしまうんだけど、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:27:08",
+      "utterance": "康太くんはどうして義務教育があるのだと思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:27:16",
+      "utterance": "分からないです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:27:25",
+      "utterance": "必要ないと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:27:45",
+      "utterance": "なるほどですね、そのように思うのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:28:18",
+      "utterance": "どのように感じるから、必要ないと思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:28:38",
+      "utterance": "よく不登校だった人が、大人になってちゃんと仕事してるから大丈夫って聞きます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:30:09",
+      "utterance": "そうなのですね。確かに、そういう話は僕も聞いたことがあります。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:30:52",
+      "utterance": "行かなきゃいけないって事が嫌だ"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:31:20",
+      "utterance": "どうして行かなきゃいけないんですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:31:45",
+      "utterance": "なるほど、そのように感じるのですね。〜しなきゃいけない、というのはストレスに感じることがありますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:32:37",
+      "utterance": "行きたくないのに、やりたくないのに強制的なのはおかしいと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:34:03",
+      "utterance": "でも行かなきゃいけないのに行けない自分も嫌です。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:34:28",
+      "utterance": "訳が分からない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:35:01",
+      "utterance": "そうなのですね。そうですよね。本当に混乱してしまいますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:35:19",
+      "utterance": "ちょっと、今までの話をまとめてみてもいいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:35:26",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:37:32",
+      "utterance": "康太くんは、今まで何度も頑張ってきたんだけど、学校に行かなきゃいけない、勉強しなきゃいけない、という強制的なことに納得がいかない。でも、行かなきゃいけないのに、行けない自分も嫌だと感じている。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:38:06",
+      "utterance": "そんな感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:38:52",
+      "utterance": "そうなのですね。どのような事が、康太くんの不安を軽くしてくれるか、一緒に考えてみましょう。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:39:24",
+      "utterance": "どうしたらいいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:40:08",
+      "utterance": "康太くんは、どのような自分になれたら不安が軽くなると感じていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:41:07",
+      "utterance": "勉強していないことが不安です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:42:11",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:42:37",
+      "utterance": "でも面白くないから出来ない"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:43:04",
+      "utterance": "興味がない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:43:17",
+      "utterance": "なるほどですね。確かに、面白くないとやりづらいですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:43:38",
+      "utterance": "逆に、ちょっと勉強から離れてしまいますが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:43:56",
+      "utterance": "康太くんはどのような事に興味がありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:44:14",
+      "utterance": "ゲーム"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:44:29",
+      "utterance": "そうなんですね。ゲームが好きなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:44:38",
+      "utterance": "あと、絵を描くのも好き"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:44:57",
+      "utterance": "そうなんですね、僕も絵を描くのが好きですよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:45:00",
+      "utterance": "ゲームのキャラを描いたり"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:45:05",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:45:15",
+      "utterance": "もっと上手くなりたい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:45:27",
+      "utterance": "うんうん、そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:45:48",
+      "utterance": "すごい上手い友達がいて羨ましい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:46:14",
+      "utterance": "なるほどですね。そういう気持ちになること、ありますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:47:01",
+      "utterance": "先程、義務教育ってなんであるの？という風に質問をしてくれましたよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:47:21",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:47:43",
+      "utterance": "義務教育というのは、人との関わりを学びに行くためにあるんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:47:58",
+      "utterance": "数学や、英語を勉強するだけじゃないんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:48:30",
+      "utterance": "絵が好きで、友達にすごいうまい人がいて、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:48:53",
+      "utterance": "もっと上手くなりたい、と思うのも、義務教育の大事な大事な一部です。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:49:30",
+      "utterance": "僕の友達はSNSの友達で"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:49:40",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:49:41",
+      "utterance": "会ったことはない"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:50:03",
+      "utterance": "会ったことなくても友達にはなれて"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:50:15",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:50:25",
+      "utterance": "コミュニケーションはとれる"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:50:41",
+      "utterance": "学校に勉強がなかったら"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:50:53",
+      "utterance": "もしかして行けるかもしれないし"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:51:10",
+      "utterance": "リアルの友達も作れる"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:51:42",
+      "utterance": "なるほどですね。そのように感じているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:52:05",
+      "utterance": "リアルの友達もいて、たまに遊ぶけど、ネットの友達も良い友達"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:52:30",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:53:00",
+      "utterance": "人との関わりを学びに行くなら、勉強はなぜあるのか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:53:45",
+      "utterance": "なるほど、そのような思いなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:55:19",
+      "utterance": "大人になって役に立たない勉強だけど、大人になって困ると言われる"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:55:32",
+      "utterance": "なんかおかしい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:56:02",
+      "utterance": "なるほどですね。リアルの友達やネットの友達はそのことについてどのように言っていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:56:42",
+      "utterance": "僕と同じ不登校の子は、親に出て行けって言われている"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:56:51",
+      "utterance": "腹が立つ"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:57:05",
+      "utterance": "不登校の気持ち、全然分かってない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:57:29",
+      "utterance": "そうなんですね。そうですよね。そういう気持ちになりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:58:13",
+      "utterance": "今、頑張って学校行ってる友達は、親に勉強しろって言われた"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:58:26",
+      "utterance": "頑張ってるのに"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:59:03",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T10:59:15",
+      "utterance": "頑張っているのに、言われると、腹が立ちますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T10:59:40",
+      "utterance": "可哀想だと思います"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T11:00:49",
+      "utterance": "そういうの毒親てすよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T11:02:18",
+      "utterance": "そうですよね。毒親かどうか、今の話だけでは分からないけど、頑張りを認めてもらえない時、がっかりする気持ちになりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T11:03:27",
+      "utterance": "訳が分かりません"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T11:03:33",
+      "utterance": "何もかも"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T11:04:27",
+      "utterance": "そうですよね。周りの人の話を聞いていても、色々混乱して、わけがわからなくなってきますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T11:05:05",
+      "utterance": "康太くんは、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T11:05:12",
+      "utterance": "今の話を聞いていて、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T11:05:42",
+      "utterance": "友達思いで、本当に頑張り屋なんだと感じました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T11:06:23",
+      "utterance": "今康太くんは、ちょうど子供から大人になる年齢で、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T11:07:00",
+      "utterance": "今日聞いていた疑問や不安は、全て正しいし、決して間違っていません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T11:07:36",
+      "utterance": "不登校ということも含めて、今色々と試しているところなんだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T11:08:29",
+      "utterance": "そろそろ、お時間になってしまい、今日は気持ちを聞く形になったのですが、今のお気持ちはいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T11:09:02",
+      "utterance": "いろいろ話せて、スッキリしてます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T11:09:20",
+      "utterance": "そうなのですね。それはよかったです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T11:09:45",
+      "utterance": "不安が色々あって、混乱する時もあると思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T11:10:00",
+      "utterance": "もし、お話をまたしたくなったら、いつでも来てくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T11:10:15",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T11:10:31",
+      "utterance": "こちらこそ、お話してくださってありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T11:10:43",
+      "utterance": "それでは、こちらで失礼いたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T11:10:59",
+      "utterance": "はい、ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T11:11:11",
+      "utterance": "（お疲れ様でした。朝からのトレーニング、ありがとうございました。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T11:11:31",
+      "utterance": "（お時間、超過してしまい申し訳ありません。大変勉強させて頂きました。）"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T11:11:44",
+      "utterance": "(長くなってしまい、すみませんでした。勉強になりました。お疲れ様でした。)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T11:12:16",
+      "utterance": "（また機会がありましたら、どうぞよろしくお願いいたします。お時間あります時にご評価いただければ幸いです。）"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T11:12:45",
+      "utterance": "(こちらこそ、ありがとうございました！)"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-26T11:13:00",
+      "utterance": "(失礼いたします)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-26T11:13:09",
+      "utterance": "（失礼いたします。お疲れ様でした。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "不登校の悩み"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1947,
+    "評価作成日時": "2021-05-29T14:31:00",
+    "クライアント役ID": 159,
+    "カウンセラー役ID": 157,
+    "点数": 83,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 5,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 5,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1947,
+    "evaluation_created_at": "2021-05-29T14:31:00",
+    "client_id": 159,
+    "counselor_id": 157,
+    "score": 83,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

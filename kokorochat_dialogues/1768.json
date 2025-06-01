@@ -1,0 +1,589 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-05-01T14:54:20",
+      "utterance": "こんにちは。本日はよろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T14:54:27",
+      "utterance": "お時間になりましたら声をおかけいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T14:54:31",
+      "utterance": "よろしくお願いいたします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:00:30",
+      "utterance": "こんにちは。相談員です。本日はご相談にお越しいただきありがとうございます。 差し支えなければ、はじめにご年齢と性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T15:01:11",
+      "utterance": "17　男"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:01:26",
+      "utterance": "ありがとうございます。今日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T15:02:28",
+      "utterance": "学校にいきたくありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:03:41",
+      "utterance": "そう思われているんですね。何でもお聞きしますので、もう少し教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T15:04:04",
+      "utterance": "何から話せば良いか、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:04:49",
+      "utterance": "ええ。そう思うようになったのは、いつからですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T15:04:59",
+      "utterance": "先月からです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:05:56",
+      "utterance": "そうだったんですね。それ以前はどうお考えでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T15:06:13",
+      "utterance": "以前は普通でした"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:07:00",
+      "utterance": "そうでしたか。学校に行こうと思うと、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:07:24",
+      "utterance": "どんな考えが頭に浮かびますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T15:07:45",
+      "utterance": "怖いです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T15:07:48",
+      "utterance": "差別されるか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:08:18",
+      "utterance": "ええ(聴いていますね)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:09:42",
+      "utterance": "そう感じているんですね…どのような状況か、教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T15:10:29",
+      "utterance": "先月コロナに感染して症状は回復しましたがその後クラスからの差別発言がひどすぎます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:11:43",
+      "utterance": "はい。それは大変でしたよね…それなのにひどいことを言われたんですね…"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T15:12:10",
+      "utterance": "大変というよりは辛いです"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T15:12:18",
+      "utterance": "生きちゃダメなんですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:12:47",
+      "utterance": "辛い、という感じですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:13:16",
+      "utterance": "いえ、普通なら心配してほしいですよね"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T15:13:30",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:14:04",
+      "utterance": "はい。感染したくてしてる人は居ませんからね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:14:39",
+      "utterance": "ちなみに、あなたを何とお呼びすればいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T15:15:06",
+      "utterance": "こうすけ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:15:32",
+      "utterance": "こうすけさんですね、ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:16:29",
+      "utterance": "今回のご相談で、こうすけさんにとって一番ベストなことを教えてください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T15:16:45",
+      "utterance": "ベストって何ですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:17:24",
+      "utterance": "はい。今回のご相談で何をお望みですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T15:17:52",
+      "utterance": "コロナ差別をなくしたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:18:23",
+      "utterance": "教えていただき、ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:18:43",
+      "utterance": "大事なことなので、一緒に考えていけたらと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T15:19:46",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:20:11",
+      "utterance": "こうすけさんは、クラスの人に差別発言を言われたあと、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:20:28",
+      "utterance": "どう学校生活をお過ごしですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T15:20:46",
+      "utterance": "保健室で過ごしました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:22:02",
+      "utterance": "そうなんですね…今もそうされているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T15:22:13",
+      "utterance": "はい、たまに早退してます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:23:17",
+      "utterance": "そうでしたか。でも、学校に行かれているのはすごいことだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:24:09",
+      "utterance": "ちなみにクラスの担任の先生やご友人には相談されましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T15:24:40",
+      "utterance": "先生はしました。友達はしていません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:25:31",
+      "utterance": "なるほど、そうなんですね。先生はその時、どんなことをお話してましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T15:25:59",
+      "utterance": "忙しいから後回しになりそうって言われました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:26:40",
+      "utterance": "ええ…後回しにしてほしくないですよね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:27:55",
+      "utterance": "少しお辛いことをお伺いしますが"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:29:14",
+      "utterance": "クラの人によるの差別発言のことを、お話できる範囲で教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T15:29:56",
+      "utterance": "菌扱いされます"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T15:30:10",
+      "utterance": "話すのが辛いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:30:46",
+      "utterance": "そうなんですね…教えていただけありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:31:23",
+      "utterance": "質問ばかりで恐縮ですが、ご家族には相談しましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T15:31:50",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:32:31",
+      "utterance": "はい。ご家族は何とお話してましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T15:34:05",
+      "utterance": "医療従事者なので話は聴いてくれましたがそれどころではないみたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:35:21",
+      "utterance": "そうだったんですね。心細い状況ですよね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:36:18",
+      "utterance": "ここまでのお話を少し整理してもよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T15:36:49",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:37:07",
+      "utterance": "ありがとうございます。少しお時間いただきますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:39:16",
+      "utterance": "先月コロナに感染し、回復後学校に行くとクラスの人が差別発言をしてきたせいで、学校に行くのが怖いと感じてしまっている。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:40:02",
+      "utterance": "こうすけさんは、コロナ差別をなくしたい、と考えていらっしゃる。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:40:21",
+      "utterance": "このような感じでよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T15:41:14",
+      "utterance": "そんな感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:41:45",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:42:21",
+      "utterance": "こうすけさんは「コロナ差別をなくしたい」と仰せでしたが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:43:28",
+      "utterance": "もしご友人が、こうすけさんご自身と同じような状況になったとき、何と言ってあげますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T15:43:41",
+      "utterance": "何も言えないと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:44:45",
+      "utterance": "そうお考えなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:45:50",
+      "utterance": "コロナ差別をなくすために、何かできそうなことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T15:46:32",
+      "utterance": "わからないので相談しました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:48:48",
+      "utterance": "はい。分かりました。こうすけさんは今回のことで、理想はどんなイメージですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T15:49:07",
+      "utterance": "理想、、？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T15:49:40",
+      "utterance": "以前のように学校生活したいってことですかね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:50:36",
+      "utterance": "そうなんですね。学校生活の方がいいですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:51:52",
+      "utterance": "「コロナ差別をなくしたい」と仰せでしたが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:53:22",
+      "utterance": "なくすためには、人の心と心が結束する必要があると思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:55:04",
+      "utterance": "こうすけさんは今回辛い思いをされましたが、同じ境遇に陥ってしまった子の、お気持ちを理解できるのではないか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:55:18",
+      "utterance": "と思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:57:09",
+      "utterance": "なので、もしこういうことが起きたら、その時はその人を助けてあげてほしいと思うのですが、いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T15:57:29",
+      "utterance": "それって将来のことですよね？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:57:57",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T15:58:21",
+      "utterance": "そのために何をするかがわからないんです"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T15:58:24",
+      "utterance": "今"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T15:59:05",
+      "utterance": "またご提案で恐縮ですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T16:00:20",
+      "utterance": "まずは親御さんを頼り、学校の先生や教育委員会に相談してもらうことがいいのでは、と思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T16:00:43",
+      "utterance": "こうすけさんのクラスから受けた差別発言は、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T16:01:18",
+      "utterance": "いじめにも該当すると考えられます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T16:03:11",
+      "utterance": "なので、まずは親御さんを頼りに、今の現状を変えていくのが、「以前の学校生活に戻りたい」という理想や「コロナ差別発言をなくしたい」というこうすけさんの想いの"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T16:03:27",
+      "utterance": "第一歩だと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T16:03:50",
+      "utterance": "いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T16:04:14",
+      "utterance": "教育委員会、、なくはないけど怖いなあ、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T16:05:38",
+      "utterance": "ええ、そう思うのも無理はないと思います。親御さんや頼れる先生にお願いされると"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T16:05:48",
+      "utterance": "いいのかなと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T16:06:41",
+      "utterance": "お話を聞いていかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T16:07:33",
+      "utterance": "相談したのにまた親や先生に相談するんですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T16:09:31",
+      "utterance": "はい。もちろん強制ではないですよ。支援リソースの一種であり、クラスの状況を好転させれる可能性もあると思い、ご提案した次第です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T16:10:31",
+      "utterance": "お時間が長引き申し訳ないのですが、本日は他にご相談したいことはありませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T16:10:39",
+      "utterance": "ありません"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-01T16:10:44",
+      "utterance": "大丈夫です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T16:11:12",
+      "utterance": "分かりました。それでは相談を終了させていただきます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T16:11:39",
+      "utterance": "あまりお役に立てず、申し訳ございません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-01T16:12:16",
+      "utterance": "こうすけさんのこと、応援しています。"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "コロナ感染後の差別発言による学校への恐怖感"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1768,
+    "評価作成日時": "2021-05-01T16:40:00",
+    "クライアント役ID": 125,
+    "カウンセラー役ID": 136,
+    "点数": 65,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 4,
+    "要約": 4,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1768,
+    "evaluation_created_at": "2021-05-01T16:40:00",
+    "client_id": 125,
+    "counselor_id": 136,
+    "score": 65,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

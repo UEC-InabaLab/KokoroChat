@@ -1,0 +1,429 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:00:04",
+      "utterance": "こんばんは。相談員です。本日はご相談に来て下さり、ありがとうございます。まず初めに、年齢、性別、ご相談内容について教えて頂けますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-07T18:00:31",
+      "utterance": "30　男"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-07T18:01:05",
+      "utterance": "精神疾患持ちで、不安が強いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:01:49",
+      "utterance": "ありがとうございます。精神疾患持ちで、不安が強く出てしまうんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:02:15",
+      "utterance": "具体的に、どういったことに不安をお持ちですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-07T18:02:42",
+      "utterance": "何もかも"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-07T18:02:44",
+      "utterance": "全部"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:03:19",
+      "utterance": "何もかも全部、ですか。それは辛いですね、、、"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-07T18:03:46",
+      "utterance": "夜も眠れません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:04:13",
+      "utterance": "夜も、ですか、、、何が原因だったんでしょうか？お話できる範囲で構いませんので、教えて頂けますか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-07T18:04:44",
+      "utterance": "わかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:05:28",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:05:45",
+      "utterance": "どれくらい前からとか、わかりますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-07T18:05:57",
+      "utterance": "わかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:06:44",
+      "utterance": "そうですか、かなりお辛い状況なんですね、、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:08:27",
+      "utterance": "辛い中、ご相談に来て頂けたんですね。よくがんばりましたね。なんとか元気になる方法を一緒に探したいと思いますが、いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-07T18:08:38",
+      "utterance": "無理"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-07T18:08:50",
+      "utterance": "もう頑張れない"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:10:09",
+      "utterance": "そうですよね、難しいですよね、、、"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-07T18:10:48",
+      "utterance": "生きてる意味ありませんよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:12:55",
+      "utterance": "そんなことないと思いますよ。ただ、今そう思ってしまうくらい深刻なんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-07T18:13:06",
+      "utterance": "じゃあ生きている意味ってなんですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:16:16",
+      "utterance": "例えば、何か過去で楽しかった経験はありませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-07T18:18:15",
+      "utterance": "ありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:20:33",
+      "utterance": "失礼いたしました。そう言った経験をお聞きできれば、と思いましたが、、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:21:01",
+      "utterance": "先ほど、眠れないとのことでしたが、現在の状況についてもう少し具体的にお話いただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-07T18:21:50",
+      "utterance": "何を話せばいいのかわかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:22:34",
+      "utterance": "そうですよね、ごめんなさい。ご家族の方はいらっしゃいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-07T18:22:52",
+      "utterance": "いません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:23:27",
+      "utterance": "お一人で過ごされているんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:23:49",
+      "utterance": "ご飯は食べられていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-07T18:23:59",
+      "utterance": "なんとか"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:24:34",
+      "utterance": "そうですか、それはよかったです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:24:47",
+      "utterance": "今日は何を食べられましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-07T18:25:02",
+      "utterance": "覚えてません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:25:51",
+      "utterance": "うんうん、覚えてはいないけれども、何かしら口にされているということですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:26:13",
+      "utterance": "好きな食べ物はありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-07T18:26:28",
+      "utterance": "わかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:28:13",
+      "utterance": "そうですか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:28:38",
+      "utterance": "何かできることはありませんか？運動とか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-07T18:28:51",
+      "utterance": "わかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:30:07",
+      "utterance": "今は何もする気にならない、という感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-07T18:30:36",
+      "utterance": "それもわかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:31:17",
+      "utterance": "そうですか、何もわからない状況なんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:31:25",
+      "utterance": "とても不安ですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-07T18:31:58",
+      "utterance": "もう死ぬしかないですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:33:58",
+      "utterance": "死ぬしかないと思ってしまうほど、辛い状況なんですね。もう少しお伺いさせてください。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:34:19",
+      "utterance": "精神疾患とのことでしたが、病院で診断して頂いた、ということでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-07T18:34:44",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:35:18",
+      "utterance": "なるほど、その時は医師の方からどのように言われたか、覚えていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-07T18:36:03",
+      "utterance": "覚えてません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:37:19",
+      "utterance": "なるほど、思い出すのは、難しそうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-07T18:37:28",
+      "utterance": "なんで"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:40:19",
+      "utterance": "色々と不安はあると思いますが、医師の方から言われた通りのことをやれば、まずは大丈夫だと思うからです。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-07T18:40:52",
+      "utterance": "その根拠は"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-07T18:41:20",
+      "utterance": "大丈夫ではないから来ているのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:43:47",
+      "utterance": "その根拠は、あなたのことを元気にするために医師の方がいるからです。ただ、この先不安というのはお話の中でとても感じております。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:44:12",
+      "utterance": "何か力になれればと思いますが、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-07T18:44:48",
+      "utterance": "あなたに医師の何を知ってるのですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:46:07",
+      "utterance": "お気持ちに触れてしまったようであれば、申し訳ありません。大変失礼いたしました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:47:14",
+      "utterance": "とにかく、あなたの力になってあげたいと、今は考えています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:49:28",
+      "utterance": "しばらくは、何も考えずにお休みしてみてはいかがでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:49:52",
+      "utterance": "体が回復すれば、考えも変わってくると思いますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-07T18:50:43",
+      "utterance": "考えないことができません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:52:40",
+      "utterance": "考えないことができないのですね。それは、この先の不安からくるということで合っていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-07T18:52:54",
+      "utterance": "多分"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:54:09",
+      "utterance": "そうですよね。それもあって中々眠れないんですもんね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:56:13",
+      "utterance": "そろそろ終了時間が来てしまいます。あまり力になれずに申し訳ありません。よろしければ、次の機会にまたお話頂けますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-07T18:56:24",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2023-02-07T18:56:54",
+      "utterance": "（お疲れ様でした。このまま終了メッセージ送信で、ロープレ終了お願いします。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:56:58",
+      "utterance": "ありがとうございます。あなたのことをもっと知ることができたらと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-02-07T18:58:03",
+      "utterance": "（承知いたしました。あまり慣れておらず、不誠実な対応等あったかと思いますが、大変参考になりました。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "不安障害とその影響"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4564,
+    "評価作成日時": "2023-02-07T19:07:00",
+    "クライアント役ID": 125,
+    "カウンセラー役ID": 342,
+    "点数": 20,
+    "聴いてもらえた、わかってもらえたと感じた": 1,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 1,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 1,
+    "一緒に考えながら取り組めた": 1,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 2,
+    "要約": 3,
+    "問題の明確化": 1,
+    "この相談での目標の明確化": 1,
+    "次の行動につながる提案": 1,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": "チェックあり"
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4564,
+    "evaluation_created_at": "2023-02-07T19:07:00",
+    "client_id": 125,
+    "counselor_id": 342,
+    "score": 20,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 3,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": "チェックあり"
+  }
+}

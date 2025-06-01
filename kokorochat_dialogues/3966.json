@@ -1,0 +1,514 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2022-09-13T18:55:26",
+      "utterance": "（今日はよろしくお願いします）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:00:05",
+      "utterance": "（よろしくお願いします。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:01:00",
+      "utterance": "こんばんは。相談員です。来ていただきありがとうございます。よろしくおねがいします。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T19:01:09",
+      "utterance": "よろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:01:54",
+      "utterance": "まず、あなたの年齢、性別、お住まいの都道府県を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T19:02:31",
+      "utterance": "25歳　男東京"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:03:04",
+      "utterance": "わかりました。今日はどのようなご相談ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T19:03:38",
+      "utterance": "彼女の事で"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:04:34",
+      "utterance": "ええ、パートナーの方ですね。よろしければ詳しくお聞かせ願えますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T19:05:41",
+      "utterance": "別れようと言われて。連絡が取れなくなりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:06:20",
+      "utterance": "それは急に言われたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T19:06:40",
+      "utterance": "そうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:07:09",
+      "utterance": "それはさぞびっくりしたことと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:07:25",
+      "utterance": "どのくらい前に言われたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T19:07:33",
+      "utterance": "はい。辛いです"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T19:08:04",
+      "utterance": "2か月くらい前です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:08:58",
+      "utterance": "2か月連絡が取れないというのは本当にお辛かったと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T19:09:19",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:09:37",
+      "utterance": "あなたの方から何度か連絡は試みたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T19:10:38",
+      "utterance": "最初の頃はLINEや電話をしてました。今は連絡するのも怖くなって。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T19:10:50",
+      "utterance": "やり直したいんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:12:04",
+      "utterance": "そうなんですね。LINEしても既読にならなかったり、電話しても出ない感じだったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T19:12:59",
+      "utterance": "そうです。既読が付かなくなって、LINEするのも怖くなりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:13:53",
+      "utterance": "何も反応がないと不安になったり怖くなったりしますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:14:21",
+      "utterance": "別れたいと言われた、原因とか、何か思い当たることはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T19:16:00",
+      "utterance": "彼女が大学院に進学するために神奈川に引っ越して、プチ遠距離になってました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:17:03",
+      "utterance": "神奈川だと、確かに少し離れますね。その状態はどれくらい続いたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T19:17:42",
+      "utterance": "今年の春からです。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T19:18:30",
+      "utterance": "何も手につかないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:19:15",
+      "utterance": "そうですか。では最近ですね。毎日考えてしまって、何も手につかない感じなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:20:09",
+      "utterance": "プチ遠距離になってから、会う回数とか連絡手段とか、変わりましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T19:20:12",
+      "utterance": "はい。遅刻が増えて、今日は上司に体調聞かれて。ヤバい"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T19:21:18",
+      "utterance": "LINEや電話は変わらないです。会うのは減りました。月一でした"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:22:24",
+      "utterance": "遅刻してしまったり、周りにもわかってしまうほど体調にも変化が生じているのは心配です。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T19:23:17",
+      "utterance": "ヤバいのは分かってるんですが、寝れないし起きれないんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:24:16",
+      "utterance": "何も手につかないほど考え込んでいたら、眠れなくなりますよね。。直接会うのが減って、その間に彼女さんの様子が変わったなと感じたことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T19:25:25",
+      "utterance": "勉強が大変だけど楽しいって言ってました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:27:01",
+      "utterance": "大学院に行きたいということは、さらに勉強したいと思うことでもありますからね。彼女さんは勉強することにだんだん喜びを見出したのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T19:28:21",
+      "utterance": "そうです。会社の同期でしたが、進学のために退職したくらいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:29:19",
+      "utterance": "そうだったんですか。一旦社会人になって、勉強したくなって退職したんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:29:55",
+      "utterance": "それなら、かなりの覚悟をもって勉強に打ち込んでいるのではないですかね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T19:31:04",
+      "utterance": "はい。結婚の話も出ていたけど、進学が夢だったから先延ばしになってました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:33:01",
+      "utterance": "結婚の話まで出ていたということは、もうだいぶ深い関係になっておられたのですね。それが大学院に行ってから変わったということは、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:33:56",
+      "utterance": "恋愛よりも勉強の方に今は打ち込みたいと彼女さんは考えておられるのではないでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T19:35:01",
+      "utterance": "はい。大学院で出会いがあったのかとかとも考えてしまいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:35:42",
+      "utterance": "ああ、そちらの方の心配も出てきますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T19:36:17",
+      "utterance": "やっぱりそう思いますか？　それも辛いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:37:20",
+      "utterance": "それを考えてしまうとさらに辛いですよね。進学してから、あなたに対する彼女さんの態度とかに変化は見られましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T19:38:36",
+      "utterance": "態度はそんなに変わらなかったので、会えたくても大丈夫だと思ってたんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:39:48",
+      "utterance": "変化はそんなに感じられなかったから、会えなくても大丈夫だと思っていたら、突然連絡が途絶えたということですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:40:20",
+      "utterance": "別れたいということに対して理由は何も言っていなかったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T19:41:54",
+      "utterance": "会えないからと言っていました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:43:13",
+      "utterance": "会えないというのは、なかなか会えなくなったからということですか？それとも、彼女さんの都合で会えないということなのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T19:45:14",
+      "utterance": "どうでしょう会う回数が減ったのは事実ですし。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T19:46:20",
+      "utterance": "同じ会社で働いていた頃より会えないのは事実です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:46:44",
+      "utterance": "そうですね。。会えなくて寂しいからなのか、勉強に集中したいから会えないのか、他に相手が出来たからなのか"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T19:47:42",
+      "utterance": "分からないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:47:44",
+      "utterance": "様々な可能性があるから不安も増しますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:48:30",
+      "utterance": "立ち入ったことをお聞きしますが、"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T19:48:42",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:49:12",
+      "utterance": "彼女さんから嫌われたと感じたことはありましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T19:49:47",
+      "utterance": "あー、それは傷つく質問です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:50:25",
+      "utterance": "ごめんなさい。傷つけてしまって。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:50:35",
+      "utterance": "大変失礼いたしました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T19:50:43",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T19:50:58",
+      "utterance": "そう考えるのは辛すぎます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:51:54",
+      "utterance": "そうですよね。辛い気持ちを分かっていながら、逆なでするような質問をしてしまって本当にごめんなさい。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T19:52:17",
+      "utterance": "大丈夫です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:54:05",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T19:54:14",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:54:37",
+      "utterance": "彼女さんの住所とかはおわかりなのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T19:55:29",
+      "utterance": "会う時はお互いの家に泊まってあたのでわかります"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:56:33",
+      "utterance": "そうですか。LINEや電話だと出てもらえないのであれば、手紙を書いてみるというのはどうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T19:57:26",
+      "utterance": "うーん、"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T19:57:39",
+      "utterance": "ちょっと勇気ないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T19:59:58",
+      "utterance": "そうですか。。あなたの中で彼女さんと連絡が取れないということが相当辛いことなのがとてもよくわかります。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T20:00:47",
+      "utterance": "はいLINEも既読つかなくて怖くなってるので"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T20:01:21",
+      "utterance": "どうやったらやり直せるのか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T20:01:32",
+      "utterance": "今日はそろそろ終了時間となってしまうのですが、よろしければまたここに来ていただいて、これからのことや彼女さんとのこと、体調のことなど、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T20:01:49",
+      "utterance": "引き続き考えていきませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T20:02:25",
+      "utterance": "はい。ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T20:02:25",
+      "utterance": "どうすればやり直せるのか、そこを第一に考えながら、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T20:03:01",
+      "utterance": "お話していきましょう。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T20:03:13",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T20:03:29",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T20:03:57",
+      "utterance": "今日は大変失礼いたしました。今後このようなことがないようにいたします。それではまたよろしくお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T20:04:23",
+      "utterance": "大丈夫ですよろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-13T20:04:51",
+      "utterance": "それでは終了しますね。ありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-13T20:05:05",
+      "utterance": "こちらこそありがとうございました！"
+    }
+  ],
+  "topic": {
+    "main_jp": "恋愛問題",
+    "main_en": "Romantic Issues",
+    "sub": "別れを告げられた後のコミュニケーションの不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3966,
+    "評価作成日時": "2022-09-13T20:37:00",
+    "クライアント役ID": 320,
+    "カウンセラー役ID": 322,
+    "点数": 62,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3966,
+    "evaluation_created_at": "2022-09-13T20:37:00",
+    "client_id": 320,
+    "counselor_id": 322,
+    "score": 62,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

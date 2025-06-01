@@ -1,0 +1,549 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-06-21T19:54:24",
+      "utterance": "(こんばんは、本日はよろしくお願いいたします)"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T19:56:58",
+      "utterance": "(こんばんは、本日は宜しくお願いします)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T19:57:50",
+      "utterance": "（お時間になりましたら、お声がけさせていただきます）"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T19:58:50",
+      "utterance": "(はい)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:00:05",
+      "utterance": "こんばんは、相談員です。相談に来ていただき、ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:00:19",
+      "utterance": "初めに、年齢と性別を教えていただけますでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T20:00:46",
+      "utterance": "本日は宜しくお願いします57才　女"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:01:10",
+      "utterance": "宜しくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:01:18",
+      "utterance": "本日は、どのようなご相談でしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T20:01:36",
+      "utterance": "娘が引きこもってしまい、悩んでます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:02:05",
+      "utterance": "そうだったのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:02:48",
+      "utterance": "大切な娘さんのことですから、心配ですよね"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T20:03:00",
+      "utterance": "はい、心配です"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:03:45",
+      "utterance": "よければ、どのような状況なのか詳しく教えてもらえますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T20:05:04",
+      "utterance": "はい、娘は28才になるのですが、仕事を上司からの嫌がらせが原因で辞めてからは、就職せずに何年も家にいます"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T20:05:56",
+      "utterance": "結婚もして欲しいと思っていたのに、引きこもってしまって、どうすればいいかわからないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:07:59",
+      "utterance": "そうだったのですね。娘さんが何年も引きこもりになっておられて、ご自身でもずっと不安を抱えてやってこられたのですね"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T20:08:11",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:08:51",
+      "utterance": "ちなみに、何年くらい引きこもっておられるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T20:09:03",
+      "utterance": "5年くらいは引きこもってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:09:30",
+      "utterance": "そうでしたか、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:10:28",
+      "utterance": "その期間ずっと娘さんのことを見守ってこられたのですね"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T20:10:37",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:11:59",
+      "utterance": "娘さんに対して、ご自身としてはこれまでどんな感じで関わってこられたのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T20:12:54",
+      "utterance": "何を言っても言い返されるので、最低限の会話しかできておりません…"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T20:13:50",
+      "utterance": "親として情けなく思ってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:14:10",
+      "utterance": "そのようなこともあったのですね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:15:39",
+      "utterance": "娘さんは、どのような感じで言い返してきたりするのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T20:16:12",
+      "utterance": "うるさいとか、あっち行っててとか、そんな感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:18:17",
+      "utterance": "そうでしたか。何を言っても反発されてしまう感じなのですね"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T20:18:49",
+      "utterance": "はい、私も毎回感情的になってしまいます…"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:20:01",
+      "utterance": "そうでしたか、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:20:45",
+      "utterance": "大切な娘さんのことを思うあまり、ついつい気持ちが高ぶってしまうこともありますよね"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T20:21:51",
+      "utterance": "はい、私もいつまで身体が持つかも分からないので…"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T20:22:15",
+      "utterance": "ずっと働かないままなんじゃ無いかと思うと不安になってきます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:23:17",
+      "utterance": "そうでしたか。そのような思いもずっと抱えてこられたのですね、、"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T20:23:24",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:26:11",
+      "utterance": "大切な娘さんが、この先何とか自立する道を探してくれないか、そのように思っておられるのですね"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T20:26:43",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:27:38",
+      "utterance": "その辺りのことは、娘さんご自身はどのように思っておられるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T20:28:08",
+      "utterance": "分からないです、、何も話してくれません…"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:28:33",
+      "utterance": "そうだったのですね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:30:07",
+      "utterance": "あなたの大切な思いを伝えることも難しいくらい、今は娘さんも本当にしんどい状況なのですね"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T20:31:15",
+      "utterance": "そうなんですかね…？ずっと引きこもってて、怠けてばかりで、いい加減にして欲しいって思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:32:15",
+      "utterance": "そうでしたか。そのようにも感じておられるのですね"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T20:32:26",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:33:47",
+      "utterance": "怠けているかもしれないというのは、どのようなところでそう感じるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T20:34:08",
+      "utterance": "引きこもってばかりで働こうとしないからです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:36:05",
+      "utterance": "そうだったのですね。大切な娘さんだからこそ、やはり以前のように働きに出て欲しい、そのような思いがおありなのですね"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T20:37:40",
+      "utterance": "先ほども言いましたが、私もいつまで身体が持つのか分からないので、私が働けなくなったら娘を養えなくなるので、その不安が大きいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:40:12",
+      "utterance": "何とかこれから自分の力で進んで行って欲しい、そのようにお思いなのですね"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T20:40:54",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:41:13",
+      "utterance": "そのような思いを抱えながら、今日はよくご相談に来てくださったと思います"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T20:42:00",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:43:04",
+      "utterance": "ちなみに、今日お話してくださっていることを、これまで誰かにご相談されたことはあったりしますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T20:43:34",
+      "utterance": "いえ、して無いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:43:57",
+      "utterance": "そうだったのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:44:36",
+      "utterance": "ここまでお話を聞かせていただいて、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:45:52",
+      "utterance": "あなたは、大切な娘さんが上司の嫌がらせがあって仕事を辞めてしまい、5年間引きこもっておられて、とてもつらい思いを抱えておられます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:47:04",
+      "utterance": "何を言っても言い返されてしまい、時には気持ちが高ぶってしまい感情的になることもあります"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:49:02",
+      "utterance": "あなたとしては、娘さんを見ていると怠けているように見えてしまうところもあります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:50:14",
+      "utterance": "ただ、この先自分自身でも何年もつかわからないし、大切な娘さんのことだからこそ、ご自身で早く働いて自立していってほしいと思っておられます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:51:02",
+      "utterance": "そうした不安な気持ちをお一人で抱えながら、ここまで何とかやってこられました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:51:21",
+      "utterance": "このようなお話と思いますが、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T20:51:30",
+      "utterance": "はい合ってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:52:09",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:52:41",
+      "utterance": "お話を聞かせていただき、感じたことを少しお伝えしてもよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T20:53:34",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:54:46",
+      "utterance": "あなた一人で抱えながら、ここまで本当によくやってこられたと思います"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T20:55:02",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:56:14",
+      "utterance": "はい、本当に並大抵のことではないと思います"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T20:56:38",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T20:58:19",
+      "utterance": "娘さんとのやり取りを聞かせていただくと、あなたからの大切な思いを伝えていっても、今は受け取れない状況のようですので、まだもう少し心の充電期間が必要な状況なのかもしれませんね"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T20:58:49",
+      "utterance": "そうなんですね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:00:25",
+      "utterance": "はい、今はそのように感じました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:00:55",
+      "utterance": "でもこれは、ここ素にダメージを受けた場合は自然なことなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:01:10",
+      "utterance": "ゆっくりと娘さんとあなたのペースで進んで行けば、きっと光が見えてくると思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:03:03",
+      "utterance": "今は、そうした道の半ばをあなたと娘さんで、懸命に進んでおられるのだと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:03:26",
+      "utterance": "あなたは、本当によくやっておられると思います"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:03:49",
+      "utterance": "何か他に言い方あったんじゃないですか？なんかショックです…"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:04:36",
+      "utterance": "そのようにお感じなのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:05:59",
+      "utterance": "気に障るようなことをお伝えしてしまったようでしたら、申し訳ありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:06:25",
+      "utterance": "今は、ご自身の中ではどのような思いがありますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:06:45",
+      "utterance": "もしよければ、聞かせていただけますか"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:07:37",
+      "utterance": "大丈夫です"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:07:51",
+      "utterance": "そうでしたか"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:08:34",
+      "utterance": "本日は大切なお話を聞かせていただき、本当にありがとうございました"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:08:45",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:09:23",
+      "utterance": "本日のご相談はここまでとさせていただきます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:09:28",
+      "utterance": "今日は相談に来て下さり、ありがとうございました"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:09:37",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:09:38",
+      "utterance": "（お疲れさまでした）"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:10:09",
+      "utterance": "(今日はお疲れさまでした。カウンセラー役ありがとうございました)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:10:33",
+      "utterance": "（こちらこそ、どうもありがとうございました）"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-06-21T21:10:59",
+      "utterance": "（それでは、終了メッセージをお送りさせていただきます）"
+    },
+    {
+      "role": "client",
+      "time": "2023-06-21T21:11:11",
+      "utterance": "(はい、お願いします)"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "娘の引きこもり問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 5313,
+    "評価作成日時": "2023-06-21T21:18:00",
+    "クライアント役ID": 379,
+    "カウンセラー役ID": 39,
+    "点数": 35,
+    "聴いてもらえた、わかってもらえたと感じた": 1,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 1,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 1,
+    "一緒に考えながら取り組めた": 1,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 2,
+    "要約": 3,
+    "問題の明確化": 1,
+    "この相談での目標の明確化": 1,
+    "次の行動につながる提案": 1,
+    "勇気づけ・希望の喚起": 1,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 5313,
+    "evaluation_created_at": "2023-06-21T21:18:00",
+    "client_id": 379,
+    "counselor_id": 39,
+    "score": 35,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 2,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 1,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

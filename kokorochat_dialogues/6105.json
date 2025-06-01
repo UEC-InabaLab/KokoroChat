@@ -1,0 +1,604 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2023-12-11T20:21:33",
+      "utterance": "こんばんは。本日は時間になりましたらよろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T20:21:35",
+      "utterance": "（こんばんは。カウンセラー役です。本日はよろしくお願いいたします。時間になりましたら始めさせていただきます。)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T20:22:21",
+      "utterance": "(急ですが、相談者の設定を中高生でお願いしてもよろしいでしょうか？)"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T20:22:32",
+      "utterance": "かしこまりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T20:23:00",
+      "utterance": "（ありがとうございます。よろしくお願いいたします。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T20:30:08",
+      "utterance": "こんばんは。相談員です。ご相談にお越しいただきありがとうございます。はじめに年齢と性別、今日の相談内容を教えていただけますか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T20:30:46",
+      "utterance": "15歳、女です。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T20:30:54",
+      "utterance": "学校に行きたくありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T20:31:29",
+      "utterance": "ええ、そのように思われるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T20:31:39",
+      "utterance": "うん"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T20:32:33",
+      "utterance": "話せるところからでいいので、どうしてそう思うのか、少し状況を教えてくれますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T20:33:03",
+      "utterance": "勉強が嫌いなのと友達がいないからかな"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T20:33:23",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T20:34:27",
+      "utterance": "嫌いなことをするのってストレスになりますね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T20:34:28",
+      "utterance": "行きたくない"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T20:35:05",
+      "utterance": "ええ。友達もいないと思うとさみしくなりますね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T20:35:30",
+      "utterance": "ひとりのが好きだから寂しくはないよ"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T20:35:49",
+      "utterance": "なるほど、そう思うのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T20:36:30",
+      "utterance": "うん"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T20:36:59",
+      "utterance": "学校ってなんのために行くんですか？辞めたい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T20:37:30",
+      "utterance": "そうでしたか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T20:37:55",
+      "utterance": "あなたとしてはなんのためだと思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T20:38:10",
+      "utterance": "わかんない"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T20:39:08",
+      "utterance": "そうでしたか。ちなみに今は中学3年生で合ってますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T20:39:24",
+      "utterance": "高校生ですら"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T20:39:46",
+      "utterance": "教えてくれてありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T20:40:08",
+      "utterance": "今、学校には毎日通っているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T20:40:26",
+      "utterance": "行ってない日もあるよ"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T20:41:02",
+      "utterance": "ええ、そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T20:41:25",
+      "utterance": "行ってない日は週にどれくらいありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T20:41:41",
+      "utterance": "2回くらいかな"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T20:42:37",
+      "utterance": "なるほど、では週の半分以上は通われているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T20:43:06",
+      "utterance": "うん"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T20:44:28",
+      "utterance": "行きたくないという気持ちがあるなか、週に半分以上通わっているのは頑張っていらっしゃると思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T20:45:06",
+      "utterance": "じゃあ学校行かなくてもいいってこと？やめていいの？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T20:45:48",
+      "utterance": "ちなみに、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T20:46:59",
+      "utterance": "ひとりの方が好きと教えてくれたけど、学校に行きたくない理由として友達がいないを挙げてくれたのはどうしてなのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T20:48:30",
+      "utterance": "うーん、なんかハブられてて"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T20:49:27",
+      "utterance": "そうだったんですね・・・ショックですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T20:50:10",
+      "utterance": "だから学校行きたくないし行く意味ないって思う"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T20:50:57",
+      "utterance": "ええ・・・そう思うくらいあなたは傷ついたんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T20:51:27",
+      "utterance": "学校辞めたい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T20:52:46",
+      "utterance": "ええ・・・もしかして、そういうことをされ学校に行くとしんどくなったりするのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T20:53:36",
+      "utterance": "学校に居場所がないから"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T20:54:12",
+      "utterance": "そんなふうに感じるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T20:54:20",
+      "utterance": "うん"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T20:56:28",
+      "utterance": "きっとあなたの居場所が学校にもあったら、気持ちも少しは軽くなっていたかもしれませんね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T20:56:59",
+      "utterance": "うん"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T20:58:14",
+      "utterance": "あなたが一部の人にそういう扱いをされることを知っている同級生とか先生はいるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T20:58:40",
+      "utterance": "いないよ"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T20:59:19",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T21:00:31",
+      "utterance": "言わなきゃいけないの？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T21:01:30",
+      "utterance": "ええ・・・あなたとしてはどう思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T21:02:24",
+      "utterance": "先生に言ったってきっと何もしてくれないし、ちくったの気づかれたら嫌だよ"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T21:03:50",
+      "utterance": "そうでしたか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T21:04:21",
+      "utterance": "相談者さんとしては先生の期待感はないし、もしそれがバレたらもっと嫌だと考えているんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T21:04:29",
+      "utterance": "うん"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T21:04:33",
+      "utterance": "そうそう"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T21:04:50",
+      "utterance": "だからここに相談に来たよ"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T21:04:55",
+      "utterance": "それでずっと一人で抱えてきたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T21:05:45",
+      "utterance": "うん"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T21:05:48",
+      "utterance": "でも相談しようと決断して、ここに来てくれてありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T21:06:28",
+      "utterance": "あなたの気持ちが少しでも楽になるためにこれから一緒に考えていきましょうね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T21:07:03",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T21:07:45",
+      "utterance": "どうしたらいいかわかんなくなってきた"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T21:08:53",
+      "utterance": "ええ、これまでたくさんご自身でも考えてきたのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T21:09:12",
+      "utterance": "誰にも言えなかったから"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T21:10:43",
+      "utterance": "うん、誰にも言えなかった期間、どんな気持ちでいたのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T21:11:02",
+      "utterance": "あんまり思い出したくないなあ"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T21:11:49",
+      "utterance": "ええ、そう思うくらい嫌な気持ちだったのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T21:12:10",
+      "utterance": "うーん、そうなのかな"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T21:12:46",
+      "utterance": "相談員さんだったら学校いく？辞める？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T21:14:13",
+      "utterance": "私だったらどうするのかな・・・でもしんどくて学校に行きたくないと思うのは自然なことだと思いますよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T21:14:43",
+      "utterance": "きっと多くの人が学校に行きたくないと思うかもしれません。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T21:14:44",
+      "utterance": "そうなんだ"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T21:14:55",
+      "utterance": "わたし変じゃないんだ"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T21:15:25",
+      "utterance": "ええ、そんなことされたら誰だって傷つきますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T21:15:36",
+      "utterance": "うん"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T21:16:11",
+      "utterance": "そしてそれはする方が悪いのであって、あなたは何も悪くありませんからね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T21:16:25",
+      "utterance": "うん"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T21:18:22",
+      "utterance": "学校に居場所がないと教えてくれましたが、"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T21:19:04",
+      "utterance": "うん"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T21:19:27",
+      "utterance": "あなたの理想とかでもいいので、「ここが居場所になれば」と思うような人や場所はどこになりそうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T21:19:56",
+      "utterance": "家、家族かなぁ"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T21:20:56",
+      "utterance": "そうなんですね。そう思うのも家族と仲が良いからだと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T21:21:18",
+      "utterance": "へぇ"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T21:23:09",
+      "utterance": "そんな居場所に近いものが学校にもあればと思うのですが、気になる子とか、仲良くなりたい先生はいるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T21:23:20",
+      "utterance": "いないよ"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T21:23:51",
+      "utterance": "そうだったんですね。教えてくれてありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T21:24:19",
+      "utterance": "うん"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T21:26:02",
+      "utterance": "ここまでお話お聞きして、あなたがハブられたことや学校に居場所がないと感じ、学校に行きたくないと思う気持ちを教えてくださりましたね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T21:26:39",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T21:28:10",
+      "utterance": "そんな思いをずっと一人で抱えてきたあなたが相談しようと決断して、ここに来てくれた勇気は嬉しく思いますし、きっとその行動力はあなた自身を今後も助けてくれると思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T21:28:44",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T21:30:16",
+      "utterance": "ひとりの方が好きだと教えてくれましたが、もしかしたらあなたみたいに、ひとりの方が好きだけど居場所になってくれる人がほしいと思っている子もいるかもしれませんね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T21:30:31",
+      "utterance": "へぇ"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T21:31:52",
+      "utterance": "なので、あなたの気持ちに共感できる子との出会いがあるかもしれませんよ。そしてハブられることを、学校の先生には話しづらいと思うので、"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T21:32:21",
+      "utterance": "うん"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T21:32:46",
+      "utterance": "まずは安心しやすい親御さんに相談してみてほしいです。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T21:32:58",
+      "utterance": "うん"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T21:33:49",
+      "utterance": "今日は時間が過ぎてしまったのでこれで終了にさせていただきます。親御さんに話してみてどうだったか、次回お話聴かせてもらえたらと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T21:34:03",
+      "utterance": "はーい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T21:35:06",
+      "utterance": "誰かに話してみることで、少しだけでも気持ちが軽くなることがあるかと思います。またお待ちしてますね。本日は大切なお話聴かせてくださりありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T21:35:17",
+      "utterance": "それでは終了します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T21:35:29",
+      "utterance": "（ロープレお疲れ様でした。お時間長引いてすみません。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-11T21:36:01",
+      "utterance": "(ありがとうございました)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-11T21:36:03",
+      "utterance": "（お手隙に評価頂けたら幸いです。よろしくお願いいたします。それでは終了いたします。ありがとうございました。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "学校に行きたくない理由（友達がいない）"
+  },
+  "review_by_client_jp": {
+    "評価ID": 6105,
+    "評価作成日時": "2023-12-12T21:37:00",
+    "クライアント役ID": 433,
+    "カウンセラー役ID": 136,
+    "点数": 61,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 6105,
+    "evaluation_created_at": "2023-12-12T21:37:00",
+    "client_id": 433,
+    "counselor_id": 136,
+    "score": 61,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

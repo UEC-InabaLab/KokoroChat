@@ -1,0 +1,484 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-05-30T12:51:39",
+      "utterance": "こんにちは。本日はよろしくお願いいたします。時間になったら始めていきます。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T12:52:15",
+      "utterance": "(こんちには。こちらこそ、時間になりましたら、よろしくお願いいたしますっ。)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:00:02",
+      "utterance": "こんにちは、相談員です。今日は相談にお越し下さりありがとうございます。ここでは安心してどんなことでもお話ください。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:00:28",
+      "utterance": "それでははじめに年齢、性別、相談内容を教えてください。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T13:00:55",
+      "utterance": "36歳、女、仕事が見つからないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:01:33",
+      "utterance": "教えていただきありがとうございます。それはお困りの事と思います。もう少し詳しく教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T13:02:34",
+      "utterance": "探してはいるんですけど、採用してもらえないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:03:13",
+      "utterance": "就職活動をしているけど採用までいかないのですね。それはお辛いですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T13:03:19",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:03:41",
+      "utterance": "いつから探されているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T13:04:03",
+      "utterance": "5ヶ月前くらい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:04:36",
+      "utterance": "そうなのですね。5ヶ月間就職活動を頑張ってこられたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T13:04:51",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:05:01",
+      "utterance": "5ヶ月前は何をされていたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T13:05:29",
+      "utterance": "普通にOLです今も"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:06:05",
+      "utterance": "今は現職があるのですね。転職活動中ということでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T13:06:10",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:06:47",
+      "utterance": "ありがとうございます。転職活動をし始めたきっかけは何かありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T13:07:28",
+      "utterance": "何となく今の職場が嫌になってきて"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:08:42",
+      "utterance": "そうなのですね、嫌だと思い始めて転職活動をするようになったのですね。嫌になってきた職場に通う続けるのはしんどい事と思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T13:08:57",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:09:27",
+      "utterance": "現職の職場が嫌で、就職活動だけどなかなか採用されない今の状況、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:09:37",
+      "utterance": "どのような気持ちになりますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T13:10:15",
+      "utterance": "早く決まらないかなーとは思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:11:11",
+      "utterance": "そうなのですね、今の職場が嫌だから早く他の仕事に就きたいなという感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T13:11:37",
+      "utterance": "まぁ、そうですね。何となく"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:12:19",
+      "utterance": "他に何か心配になったり気になったりすることはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T13:12:28",
+      "utterance": "無いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:13:33",
+      "utterance": "ありがとうございます。今の状況での一番のお困りごとは、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:13:45",
+      "utterance": "次の仕事が決まらないことでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T13:13:57",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:14:43",
+      "utterance": "確認していただきありがとうございます。現職があるとの事でしたが、急いで転職されたいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T13:15:32",
+      "utterance": "決まったら、って感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:17:03",
+      "utterance": "そうなのですね。そうしましたら、採用されなくて困っているとおっしゃっていましたが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:18:00",
+      "utterance": "応募の方は順調にいっていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T13:19:12",
+      "utterance": "決まらないので、順調ではないですが、はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:19:44",
+      "utterance": "そうですよね、、採用されないとどのような気持ちになりますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T13:21:39",
+      "utterance": "また探さなきゃ、めんどくさいなと。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:22:43",
+      "utterance": "なるほど、面倒くさいと思われるのですね。応募するにも書類の準備等ありますし、決して楽ではないですものね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T13:22:53",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:24:05",
+      "utterance": "今の会社に在籍し続けることは全く考えていらっしゃらないのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T13:24:23",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:25:18",
+      "utterance": "先ほど今の職場が何となく嫌とおっしゃていましたが、どのようなところが嫌かお話していただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T13:25:38",
+      "utterance": "人間関係"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:25:38",
+      "utterance": "話せる範囲で構いませんので。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:26:31",
+      "utterance": "人間関係ですか、それは出社したら毎日顔を合わせると思うのでお辛いですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T13:26:43",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:27:49",
+      "utterance": "人間関係が嫌な中お仕事に行かれているのはすごいです。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T13:28:28",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:28:46",
+      "utterance": "転職活動をしていることは、誰かに言っているのですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:29:00",
+      "utterance": "会社の人等"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T13:29:04",
+      "utterance": "言わないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:29:37",
+      "utterance": "言わずにコツコツと準備をされているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T13:29:45",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:30:07",
+      "utterance": "仕事探しは、何か職種等絞っているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T13:30:32",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:31:15",
+      "utterance": "ありがとうございます。活動の中で、採用されなくてとおっしゃていましたが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:31:45",
+      "utterance": "その前段階、選び方や応募でお困りの事等ありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T13:32:07",
+      "utterance": "無いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:33:10",
+      "utterance": "ありがとうございます。そうしましたら、あとは採用してもらえれば！という感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T13:33:21",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:34:01",
+      "utterance": "最終段階でなかなか思うようにいかないのですね。困ってしまいますね。先ほど、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:35:18",
+      "utterance": "また探さなきゃ、めんどくさいといっていましたが今は少し転職活動にお疲れなのではないかなと思いましたがいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T13:35:47",
+      "utterance": "まぁ、はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:36:20",
+      "utterance": "他に何か思うことはありますか？些細なことでも何でも構いません。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T13:39:07",
+      "utterance": "今話したことくらいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:41:27",
+      "utterance": "教えていただきありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:42:31",
+      "utterance": "なかなか採用なされない今の状況は不安になってしまったり、また探さなきゃと面倒くさくなってしまったりすると思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T13:42:50",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:44:27",
+      "utterance": "今の職場は人間関係が嫌だとおっしゃっていましたが、現段階ではお仕事されているので生活にすぐ困るという状況ではないのかなと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T13:44:43",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:45:39",
+      "utterance": "次のお仕事も決まったらとおっしゃっていたので、そんなに切羽詰まって転職活動されている訳ではないのかなと感じたのですがいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T13:46:22",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:47:48",
+      "utterance": "ありがとうございます、なかなか採用されないことで自信を失って来ているのかなとも感じたのですがいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T13:48:49",
+      "utterance": "まぁ、そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:49:54",
+      "utterance": "そうですよね。うまくいかないと自信を無くしてしまうこともありますよね。転職活動は、どのようにしているのですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:50:07",
+      "utterance": "転職サイトやハローワークなど"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T13:50:37",
+      "utterance": "サイト"
+    },
+    {
+      "role": "client",
+      "time": "2023-05-30T13:50:46",
+      "utterance": "見ます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:51:33",
+      "utterance": "サイトを見ていらっしゃるのですね。活動の相談等できるのですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:56:42",
+      "utterance": "ご存知だとは思いますが、就職サイトやハローワークでは個別に仕事の探し方や書類の記入等アドバイスをしてくれます。ここでは、活動に行き詰まったり、疲れたなと思った時などお気軽にご相談いただけます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T13:58:15",
+      "utterance": "返信がなく心配しています。何かありましたでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-05-30T14:00:23",
+      "utterance": "時間となりましたので一旦終了とさせていただきます。またいつでもお気軽にご相談ください。本日はありがとうございました。"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "転職活動の困難さと自己肯定感の低下"
+  },
+  "review_by_client_jp": {
+    "評価ID": 5173,
+    "評価作成日時": "2023-05-30T14:30:00",
+    "クライアント役ID": 391,
+    "カウンセラー役ID": 385,
+    "点数": 69,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 4,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 5173,
+    "evaluation_created_at": "2023-05-30T14:30:00",
+    "client_id": 391,
+    "counselor_id": 385,
+    "score": 69,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

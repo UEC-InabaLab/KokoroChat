@@ -1,0 +1,709 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:00:35",
+      "utterance": "こんにちは、相談員です。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:00:56",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:01:04",
+      "utterance": "本日はお越しいただきありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:01:17",
+      "utterance": "ご相談をはじめる前に、性別と年齢、あと何とお呼びすればいいか教えていただけますか？あだ名でも大丈夫です。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:01:53",
+      "utterance": "モカ　40代女性です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:02:16",
+      "utterance": "モカさんですね、ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:02:25",
+      "utterance": "それでは、本日はどのようなご相談ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:03:03",
+      "utterance": "はい。姉が収入を考慮せず、買い物することが気になって。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:03:34",
+      "utterance": "そうなのですね、それは気がかりですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:03:42",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:04:15",
+      "utterance": "どのくらい買い物されるですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:04:46",
+      "utterance": "欲しいと思ったものを考えずに買っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:05:07",
+      "utterance": "なるほど、衝動買いが多いのですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:05:38",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:05:49",
+      "utterance": "総額としてはけっこう多かったりするんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:06:02",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:06:29",
+      "utterance": "そうなんですね…それは困りますよね"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:06:34",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:07:15",
+      "utterance": "お姉さんが衝動買いをするとモカさんはどのように思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:07:37",
+      "utterance": "またか　と思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:08:11",
+      "utterance": "なるほど…ちょっとうんざりしてきますよね"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:08:25",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:09:25",
+      "utterance": "モカさんとしては、お姉さんにどうしてほしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:10:02",
+      "utterance": "収入と支出のバランスを考えてほしいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:11:03",
+      "utterance": "そうですよね、お金がなくなるとどんどん不安が募りますものね…"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:11:10",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:12:11",
+      "utterance": "今お姉さんとはどのようなご関係なのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:13:13",
+      "utterance": "特に関係に変化はありませんが、私が、やかましく言うので、嫌がられているとは思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:14:04",
+      "utterance": "なるほど、そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:14:09",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:14:30",
+      "utterance": "支出が多いとたしかに言いたくなるのは当然だと思います"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:14:40",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:15:06",
+      "utterance": "日常生活には何か影響がでていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:15:34",
+      "utterance": "本人の貯金がなくなっているくらいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:16:37",
+      "utterance": "なるほど、モカさんの生活には特に大きな影響はないですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:16:51",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:17:10",
+      "utterance": "そうなんですね、その点では安心しました"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:17:32",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:18:48",
+      "utterance": "お姉さんに関して他に感じることはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:19:41",
+      "utterance": "このままだと、老後のための貯金もできないだろうと心配しています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:20:30",
+      "utterance": "なるほど、そうですよね、不安になってきますよね"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:20:42",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:22:11",
+      "utterance": "お姉さんが老後どうなるかと考えると、どう思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:22:32",
+      "utterance": "不安になります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:23:15",
+      "utterance": "そうですね、不安でいろいろ考えてしまいますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:23:34",
+      "utterance": "モカさん自身にはどのように影響すると思われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:24:08",
+      "utterance": "困って、頼られるのかなと思っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:24:23",
+      "utterance": "なるほど、たしかにそうなりそうですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:24:54",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:25:11",
+      "utterance": "実際に頼られたとすると、モカさんはどうするとお考えですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:26:47",
+      "utterance": "それが不安でご相談しています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:27:08",
+      "utterance": "そうですよね、では一緒に考えていきましょう"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:27:33",
+      "utterance": "私もそんなに余裕があるわけではないので、頼られても困ります。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:27:55",
+      "utterance": "お願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:28:09",
+      "utterance": "そうなんですね、不安が募るばかりですよね"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:28:22",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:29:15",
+      "utterance": "「余裕がないので頼られても困る」といったことは、お姉さんに言ったことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:30:26",
+      "utterance": "買い物ばかりしてて、貯金がなくなったらどうするの？　私は払えないよということはあります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:31:11",
+      "utterance": "なるほど、お金の面をお伝えしたのですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:31:23",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:31:52",
+      "utterance": "「困る」「不安だ」といったような感情面のことはいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:33:18",
+      "utterance": "お姉ちゃんが困るよということはありますが、私が困ると伝えたことはないです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:33:37",
+      "utterance": "私が困る場面がまだないので"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:34:21",
+      "utterance": "なるほど、現状を基準にお伝えしたということなのですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:34:39",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:35:31",
+      "utterance": "今モカさんは不安がかなりある状態ですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:36:16",
+      "utterance": "その不安をお姉さんに全部伝えたら、おねえさんはどう反応すると思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:36:22",
+      "utterance": "買い物が、だんだん高価なものに移行してきているので"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:36:47",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:36:49",
+      "utterance": "特に反応しないと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:37:40",
+      "utterance": "なるほど、反応なしだとよけいに不安になりますよね"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:37:53",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:38:36",
+      "utterance": "承知しました。今までのおはなしを一旦まとめたいと思いますがよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:38:41",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:39:12",
+      "utterance": "モカさんのお姉さんは老後を考えず高額な買い物を繰り返しています"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:39:22",
+      "utterance": "どれだけ言ってもやめてくれない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:39:59",
+      "utterance": "もし将来金銭面で頼られてもモカさんが困る"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:40:32",
+      "utterance": "不安がつのるばかりで、お姉さんに不安を伝えても反応はないだろう"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:40:48",
+      "utterance": "このような感じだと思うのですがいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:41:32",
+      "utterance": "はい。だんだんと高価なものに移行してきています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:42:03",
+      "utterance": "そうですよね…承知しました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:42:27",
+      "utterance": "すみません、もうひとつだけお聞かせください"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:42:32",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:42:56",
+      "utterance": "家族の老後の面倒を見る、ということに関して、どう思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:44:58",
+      "utterance": "姉のということでしょうか？今のままでは無理です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:45:26",
+      "utterance": "なるほど、現状ではそう思いますよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:45:57",
+      "utterance": "モカさんの現状が変われば面倒を見てもいいとお考えですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:46:33",
+      "utterance": "私の現状と言われますとどのような？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:47:12",
+      "utterance": "例えばモカさんに金銭的な余裕ができたら、いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:49:19",
+      "utterance": "そうですね。余裕があり、生活していける状態でしたら、今と同じように近くで見守ることはできますが、丸抱えということなのでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:50:04",
+      "utterance": "いえいえ、丸抱えということではありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:50:41",
+      "utterance": "とても責任感のある方だと私は感じましたので、念のために質問をさせていただいたんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:51:15",
+      "utterance": "ご家族を大事にしたいという想いがあると強く思いました"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:51:56",
+      "utterance": "近くで見守ることはできますし、ご飯を食べに行ったりなどは可能だと思います。しかし、債務を抱えられるとそれは、困ります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:52:28",
+      "utterance": "ええ、債務に関してはそのとおりだと私も思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:52:48",
+      "utterance": "私が思う事をお伝えしたいと思いますがよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:53:17",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:53:45",
+      "utterance": "お姉さんの金銭面に関して"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:54:08",
+      "utterance": "モカさんは面倒を見なくていいと私は思います"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:54:46",
+      "utterance": "法的にもということですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:54:54",
+      "utterance": "たとえおねんさんが「困った」と頼ってきたとしても、「助けられないよ」と伝えていいと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:55:12",
+      "utterance": "法的というのはどのようなことですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:56:19",
+      "utterance": "姉が債務を抱えた場合、親族には支払い義務が生じるのか否か　すみませんこれは自分で調べてみます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:56:50",
+      "utterance": "ええ、その法律はありますね、それはとても気になると思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:57:20",
+      "utterance": "私も専門ではありませんが、その法律には「但し書き」がありましてね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:57:53",
+      "utterance": "「ただし、親類に金銭的な余裕がなければその限りではない」というものがあるんですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:58:29",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:58:55",
+      "utterance": "ですので、絶対的に債務を負わなければならないものとは限らないんですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T14:59:37",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T14:59:46",
+      "utterance": "そのような法律があると…ものすごく負担に感じるし、不安になりますよね…"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T15:01:10",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T15:02:05",
+      "utterance": "もし法律に関してさらに明確にしたいとお考えなら、法律専門にご相談されるといいと思います"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T15:02:37",
+      "utterance": "わかりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T15:02:42",
+      "utterance": "あと、お姉さんのと関係のおはなしを少しだけ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T15:02:59",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T15:03:06",
+      "utterance": "↑お姉さんとの　の間違いです"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T15:03:15",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T15:03:56",
+      "utterance": "悲しいですが…おそらくモカさんがどれだけ訴えても、お姉さんの浪費癖は現状のままだと思います…"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T15:04:41",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T15:04:46",
+      "utterance": "お姉さんの支出はお姉さん自身の問題ですので"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T15:04:51",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T15:05:37",
+      "utterance": "モカさんは問題を抱えないほうがいいと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T15:05:57",
+      "utterance": "お姉さんの問題は、お姉さん自身で解決してもらいましょう"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T15:06:14",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T15:06:33",
+      "utterance": "もう言いたいことは一通りお伝えしたと思いますし、ご自身の生活がなにより大切ですから"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T15:07:27",
+      "utterance": "私からは以上になります、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-24T15:07:40",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-24T15:07:53",
+      "utterance": "こちらこそありがとうございました"
+    }
+  ],
+  "topic": {
+    "main_jp": "経済的問題",
+    "main_en": "Financial Issues",
+    "sub": "姉の衝動買いによる収入と支出のバランスの悪化"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1499,
+    "評価作成日時": "2021-03-24T15:13:00",
+    "クライアント役ID": 109,
+    "カウンセラー役ID": 15,
+    "点数": 59,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1499,
+    "evaluation_created_at": "2021-03-24T15:13:00",
+    "client_id": 109,
+    "counselor_id": 15,
+    "score": 59,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

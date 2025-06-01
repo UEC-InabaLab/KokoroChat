@@ -1,0 +1,384 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2024-05-19T14:09:19",
+      "utterance": "こんにちは"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T14:09:47",
+      "utterance": "こんにちは"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T14:10:32",
+      "utterance": "こんにちは、相談員です。今日はどんな相談でお越しいただきましたか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T14:11:15",
+      "utterance": "あなたの年齢、性別、ご相談内容についてお聞かせいただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T14:13:44",
+      "utterance": "はい。60歳男性です。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T14:14:38",
+      "utterance": "会社の上司が、挨拶をしないのがムカついて仕方ありません。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T14:14:56",
+      "utterance": "どう対応したら良いでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T14:15:45",
+      "utterance": "会社の上司についてのご相談ですね。もう少し詳しくお聞かせいただいてもよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T14:15:58",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T14:16:21",
+      "utterance": "挨拶をしないというのは、どういうことでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T14:18:02",
+      "utterance": "部下には「元気よく挨拶すること！」というくせに、自分は朝も帰りも、挨拶されても返事もせず、なんです"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T14:19:12",
+      "utterance": "自分からは一切ありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T14:19:51",
+      "utterance": "そうなんですね。それは腹が立ちますね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T14:20:54",
+      "utterance": "そうなんですよ！私の部下達も同じ思いをしていて、よく愚痴られます…"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T14:22:00",
+      "utterance": "そうなんですね。それはhajiさんに対してだけでなく、全員に対してなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T14:22:12",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T14:22:38",
+      "utterance": "なるほど・・・なぜその上司の方は挨拶を返さないと思いますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T14:22:53",
+      "utterance": "hajiさんの仮説で結構です。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T14:24:00",
+      "utterance": "する気が毛頭ないから？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T14:24:35",
+      "utterance": "なるほど・・・挨拶以外の普段のコミュニケーションはいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T14:26:23",
+      "utterance": "先方からは業務上以外はほとんどありませんが、たまに飲みに誘えとかカラオケ行きたいとか行ってきたりします"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T14:27:58",
+      "utterance": "そうなんですね、実際に飲みにいかれたり、カラオケに行かれたりはしているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T14:29:10",
+      "utterance": "最初は行ってましたが、最近は避けるように努力しています。行ってもつまらないので"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T14:31:09",
+      "utterance": "そうなんですね・・・hajiさん的には業務外ではお付き合いしたくないのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T14:31:15",
+      "utterance": "ちなみに、業務外でのお付き合い（飲み会やカラオケなど）があった時も挨拶は返してくれませんでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T14:32:44",
+      "utterance": "解散時はいつのまにかいなくなってますので、当然挨拶はありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T14:33:43",
+      "utterance": "そうですか・・・それは困りますね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T14:33:55",
+      "utterance": "部下にも申し訳ないと謝ることもあります"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T14:34:37",
+      "utterance": "思い出すだけで腹が立ってきます！"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T14:35:02",
+      "utterance": "そうですよね、hajiさんが謝ることではないと思います・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T14:35:26",
+      "utterance": "hajiさんは上司の方から挨拶を返してもらえれば気持ちが晴れますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T14:36:25",
+      "utterance": "それとも部下に対しての申し訳のなさの方が気持ちとしては強いですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T14:36:29",
+      "utterance": "今は期待してないので、してもらいたいとも思いません"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T14:37:39",
+      "utterance": "そうですか・・・その上司の方とは仕事をする上でどれくらいかかわるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T14:37:49",
+      "utterance": "はい、部下に申し訳ないです。挨拶しろと言われるのは納得感ないと、みな怒ってますので"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T14:38:06",
+      "utterance": "毎日かかわります"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T14:39:08",
+      "utterance": "いないと、皆のびのびします"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T14:39:10",
+      "utterance": "そうですか・・・毎日かかわるのではストレスが溜まりますね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T14:39:25",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T14:39:40",
+      "utterance": "上司の方は初めからそのような態度だったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T14:39:49",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T14:40:23",
+      "utterance": "無表情だし、声小さいし！"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T14:40:37",
+      "utterance": "そうですか・・その上司の方とのお付き合いは何年目ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T14:41:03",
+      "utterance": "6年目となります"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T14:41:10",
+      "utterance": "上司の方と気が合わないと感じておられるのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T14:41:22",
+      "utterance": "6年目ですか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T14:41:51",
+      "utterance": "6年間もよく一緒に頑張ってこられましたね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T14:42:16",
+      "utterance": "この6年間、ずっと同じような悩みに悩まされてきたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T14:42:23",
+      "utterance": "もう通り越した感じで、表面的に付き合えばいいかなと思ってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T14:43:29",
+      "utterance": "そうですか・・・"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T14:43:51",
+      "utterance": "人は変えられないですもんね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T14:43:59",
+      "utterance": "改めて、今回どのようなことが解決できたらいいな！とお考えですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T14:45:34",
+      "utterance": "挨拶しろと言わせないように出来たらいいなと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T14:46:24",
+      "utterance": "なるほど、挨拶しろと言わせないようにしたいわけですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T14:46:31",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T14:47:01",
+      "utterance": "hajiさんはどうしたらいいと思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T14:48:47",
+      "utterance": "私としては社長以外の役員にも、他の同僚にも相談しましたか、解決策がなく、今回相談させてもらったんです。いい方法ありませんか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T14:49:55",
+      "utterance": "役員にも同僚にも相談されたのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T14:50:11",
+      "utterance": "その時は、どのような回答でしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T14:50:25",
+      "utterance": "私はいいですが、部下の気持ちを和らげたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T14:51:04",
+      "utterance": "そうですよね、部下の方のお気持ちも気になりますよね・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-19T14:51:48",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-19T14:51:53",
+      "utterance": "ありがとうございました🙇"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "上司とのコミュニケーション問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 6891,
+    "評価作成日時": "2024-05-19T16:34:00",
+    "クライアント役ID": 503,
+    "カウンセラー役ID": 504,
+    "点数": 74,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 4,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 6891,
+    "evaluation_created_at": "2024-05-19T16:34:00",
+    "client_id": 503,
+    "counselor_id": 504,
+    "score": 74,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

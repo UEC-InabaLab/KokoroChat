@@ -1,0 +1,574 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-06-15T14:22:56",
+      "utterance": "（こんにちは。本日はロールプレイをよろしくお願い致します。時間になりましたら開始させていただきますね。）"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T14:23:17",
+      "utterance": "こんにちはよろしくお願いいたします"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T14:30:11",
+      "utterance": "こんにちは。相談員です。本日はご相談にきてくださりありがとうございます。最初に年齢と性別を教えてください。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T14:32:36",
+      "utterance": "30歳女性です"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T14:32:45",
+      "utterance": "宜しくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T14:32:50",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T14:33:15",
+      "utterance": "本日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T14:33:36",
+      "utterance": "色々、悩んでます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T14:34:06",
+      "utterance": "そうなんですね。話しやすいところからでいいので、話してくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T14:34:17",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T14:35:21",
+      "utterance": "1番は転職なんですけどこれまでも何回も転職していて"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T14:35:33",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T14:36:24",
+      "utterance": "今の会社で最後と思っていたのですが、小さい会社で、色々と不安な面があったりして、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T14:36:50",
+      "utterance": "ええ、"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T14:37:05",
+      "utterance": "もう少しちゃんとした会社に転職したいのですが、年齢的にも、経歴としても、転職できるのか不安で、、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T14:37:55",
+      "utterance": "そうなんですね。それは悩みますね…"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T14:38:10",
+      "utterance": "はい、、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T14:38:33",
+      "utterance": "今の仕事はいつからされているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T14:39:04",
+      "utterance": "1年くらいになります"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T14:39:28",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T14:40:07",
+      "utterance": "ちなみにどのようなお仕事ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T14:40:27",
+      "utterance": "化粧品の代理店です"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T14:40:53",
+      "utterance": "自社製品も作ってますが、とても小規模です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T14:41:31",
+      "utterance": "そうなんですね。仕事の内容はどのような事ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T14:41:50",
+      "utterance": "わたしの仕事内容ですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T14:42:13",
+      "utterance": "はい、そうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T14:43:19",
+      "utterance": "直接お客様に販売をされているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T14:43:27",
+      "utterance": "小さい会社なので、色々担当してます。顧客のクレーム対応とか、商品の企画とか、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T14:43:54",
+      "utterance": "そうだったのですね。教えてくださりありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T14:44:56",
+      "utterance": "今まで転職を何回もしていると言われていましたが、何回ぐらい転職をされたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T14:45:45",
+      "utterance": "今のところで3社目です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T14:46:44",
+      "utterance": "そうなんですね。転職をするときはとても不安な気持ちになるのは無理もないことだと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T14:47:11",
+      "utterance": "はい、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T14:47:43",
+      "utterance": "今の会社を転職したいのはどのような理由からでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T14:49:34",
+      "utterance": "小さい会社で、色々適当なんです寄せ集めみたいな人ばかりで、、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T14:50:08",
+      "utterance": "その様にお感じなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T14:50:37",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T14:51:19",
+      "utterance": "社長はいくつか会社を持ってるらしくて、メインの会社がうまくいってるから大丈夫って言われるんですけど"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T14:51:30",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T14:52:15",
+      "utterance": "社員が５人だけであとパートさんなんですけど"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T14:53:00",
+      "utterance": "私以外の社員は、毎日遅刻だしタイムカードもないし、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T14:53:16",
+      "utterance": "はい、そうだったのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T14:53:47",
+      "utterance": "それは気になりますね"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T14:54:46",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T14:55:41",
+      "utterance": "転職のほかに悩んでいることはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T14:56:15",
+      "utterance": "あります"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T14:56:47",
+      "utterance": "ええ、どのようなことでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T14:57:41",
+      "utterance": "貯金もないし、彼氏もろくでなしだし、人生どうなっちゃうんだろう、って、、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T14:57:42",
+      "utterance": "何でもお話ししてくださいね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T14:57:59",
+      "utterance": "すみません、行き違いました"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T14:58:29",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T14:58:46",
+      "utterance": "とにかく、全てが不安です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T14:58:59",
+      "utterance": "ええ、ええ。そうだったのですね。色々と抱えてお辛かったですね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T15:00:34",
+      "utterance": "彼氏についてはどのような事が不安なのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T15:02:43",
+      "utterance": "水商売の人なんです結婚とかは考えてなくて、とりあえず一緒にいると楽しいし、優しいから付き合ってますけど"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T15:03:06",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T15:03:32",
+      "utterance": "お金もあるだけ使っちゃうような人だし、まぁ、ずっと付き合うつもりもないからいいんですけど"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T15:04:05",
+      "utterance": "年齢考えると、こんな人と付き合ってる場合でもないなって思ったり、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T15:04:14",
+      "utterance": "そうなんですね。そのようにお考えなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T15:04:57",
+      "utterance": "私の人生どうなっちゃうのかなって不安です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T15:05:51",
+      "utterance": "ええ、ええ。今までのお話をまとめてみてもいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T15:05:57",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T15:06:11",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T15:09:29",
+      "utterance": "相談者様は現在色々な悩みがありとても不安な気持ちを抱えていらっしゃいます。一番の不安は転職についてです。今まで転職を３回していて、今の会社は規模小さく色々と適当なこともあり、転職したいと考えてます"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T15:10:05",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T15:11:24",
+      "utterance": "そのほかには彼氏さんのとのことや、貯金もない現状を考えると不安いっぱいです。その様な状況の中、今日はご相談にきてくださったのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T15:11:50",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T15:12:28",
+      "utterance": "誰にも相談できなくて、、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T15:13:25",
+      "utterance": "そうだったのですね。一人で抱えて不安でしたね…"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T15:13:55",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T15:15:42",
+      "utterance": "そんな中、毎日どのようにお過ごしですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T15:16:39",
+      "utterance": "仕事したり、休日は彼氏とカラオケ行ったり飲みに行ったり、普通です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T15:17:36",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T15:18:44",
+      "utterance": "悩みを抱えながらも日々、仕事にいったりきちんとした生活を送っていらっしゃるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T15:18:45",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T15:19:12",
+      "utterance": "体調はいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T15:19:36",
+      "utterance": "仕事はきちんとしてます"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T15:20:13",
+      "utterance": "体調も悪くはありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T15:20:42",
+      "utterance": "そうなんですね。安心しました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T15:21:07",
+      "utterance": "誰にも相談しないのは何か理由はありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T15:21:52",
+      "utterance": "友達には多少言いますけど、、友達に話しても解決しないし、みんな大変だし"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T15:23:20",
+      "utterance": "仕事のことも、本社というか社長とかメインの会社の人にも話してみてるんですけど、大したアドバイスもないです人のことは気にするなとか、会社は大丈夫とか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T15:23:53",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T15:24:30",
+      "utterance": "それはモヤモヤした気持ちになりますね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T15:25:25",
+      "utterance": "そうですね、、結局、自分のことは自分で考えなきゃなんですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T15:26:40",
+      "utterance": "周りの友達に心配をかけないようにしている思いやりも伝わってきます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T15:28:04",
+      "utterance": "うーん、、、というか、そんなに本気で私のことを心配してくれる人なんていないと思ってます"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T15:28:24",
+      "utterance": "みんな自分でいっぱいいっぱいじゃないですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T15:28:56",
+      "utterance": "そう感じているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T15:29:12",
+      "utterance": "はい、自分で何とかしないとですよね、、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T15:33:04",
+      "utterance": "すごく真面目で繊細な方なので、仕事の事も恋愛のことも一人で抱えて悩むことも多いと思いますが、少しづつでも不安が解消されていくことを願っていますね。本日はお時間がきてしまいましたのが、いつでもご相談にいらしてください。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T15:33:36",
+      "utterance": "時間なんですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T15:33:44",
+      "utterance": "わかりましたありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T15:33:48",
+      "utterance": "またいつでもご相談にいらしてください。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T15:34:21",
+      "utterance": "本日はご相談にきてくださりありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T15:34:44",
+      "utterance": "はいありがとうございました"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T15:34:56",
+      "utterance": "（お疲れ様でした。難しかったですね💦）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T15:36:08",
+      "utterance": "（勉強になりました。色々と復習したいと思います…ロールプレイありがとうございました）"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T15:36:39",
+      "utterance": "（こちらこそ勉強させていただきました。）"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-15T15:36:54",
+      "utterance": "（ありがとうございました！）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-15T15:37:09",
+      "utterance": "（では、終了メッセージを送らせていただきますね。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "転職に関する不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3605,
+    "評価作成日時": "2022-06-15T15:57:00",
+    "クライアント役ID": 283,
+    "カウンセラー役ID": 161,
+    "点数": 55,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 2,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 2,
+    "要約": 4,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3605,
+    "evaluation_created_at": "2022-06-15T15:57:00",
+    "client_id": 283,
+    "counselor_id": 161,
+    "score": 55,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

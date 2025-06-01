@@ -1,0 +1,434 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:00:07",
+      "utterance": "こんにちは相談員です。よろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-04T17:00:15",
+      "utterance": "よろしくお願いいたします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:00:27",
+      "utterance": "最初に年齢と性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-04T17:00:38",
+      "utterance": "17 男"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:00:44",
+      "utterance": "お返事ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:00:54",
+      "utterance": "学年も教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-04T17:01:04",
+      "utterance": "高2"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:01:15",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:01:24",
+      "utterance": "今日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-04T17:01:49",
+      "utterance": "卒業後の進路希望を明日提出するように言われているのですが、進学にしろ就職にしろどちらもデメリットがあって選択ができません。先生や友達にも話してみましたが、どちらでも良いから結局自分でとにかく決めろとのことでした。全くをもってその通りなのですが、進路を決めてしまったらその通りにしないといけない雰囲気があってしんどいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:02:43",
+      "utterance": "大きな決め事に差し掛かっているのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:04:19",
+      "utterance": "いったん決めてしまったら、その通りにしなければならないと思うと、それだけで重荷ですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:08:53",
+      "utterance": "進学と就職とどちらもデメリットがあってとのことですが、大きなところではそれぞれにどんなデメリットが気になっているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-04T17:11:09",
+      "utterance": "進学は、勉強が難しくなる上に4年間も勉強しないといけないところで、就職は、高卒の自分を雇ってくれるところがかなり少ないし就けたとしても仕事きつそうだし、もしそこがダメで転職しようとしてもかなり難しいところです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:12:09",
+      "utterance": "なるほど。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:12:34",
+      "utterance": "どちらにしても、きつそうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:14:21",
+      "utterance": "両方のデメリットを見ていると気がめいってきてしまうような気がしますけれど、いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-04T17:14:57",
+      "utterance": "わかってはいるんですけどどうしても気になります"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:15:53",
+      "utterance": "そうですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:16:26",
+      "utterance": "どちらにしても、デメリットがあるとなると、簡単には決められませんよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:16:41",
+      "utterance": "無理ないと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:17:11",
+      "utterance": "物事を真剣に考えるからこそのお悩みですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:19:55",
+      "utterance": "今までにも、大事な事を決めてきたことがおありかと思うのですが、そんな時は、最終的にはどのようにして決めてきたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-04T17:21:17",
+      "utterance": "今までそのようなことはありませんでした"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:21:34",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:21:59",
+      "utterance": "今回は初めての大事な決め事なのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:23:59",
+      "utterance": "先生に相談しても、どちらでもいいから自分で決めなさいと言われても困ってしまいますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:28:32",
+      "utterance": "進学と就職の大きなデメリットを先ほど教えてもらいましたけれど、これは絶対嫌だなというのはどちらのデメリットですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-04T17:29:02",
+      "utterance": "どっちも嫌ですね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:30:10",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:30:55",
+      "utterance": "たしかに、どちらになっても辛いことがありそうですものね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:32:14",
+      "utterance": "そうすると、明日はどのようなお返事をするのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-04T17:32:46",
+      "utterance": "まだ決めてません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:33:19",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:34:11",
+      "utterance": "ご自分としては、どのようにして決めようと思っているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-04T17:35:05",
+      "utterance": "質問の意味がわかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:36:23",
+      "utterance": "まだ決めてませんとのお話しでしたので、こんな感じで決めることになるのかなと漠然と決めるための方針を感じているのかなと思ったのですが。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-04T17:38:44",
+      "utterance": "すみません、理解力が低くて申し訳ないのですが何を知りたいのでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:39:35",
+      "utterance": "分かりにくい言い方をしてしまって、失礼しました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:40:52",
+      "utterance": "なんとなく、思っている所がおありかなと思ったのですが、そういう訳でもなかったのですね。失礼しました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:41:00",
+      "utterance": "ところで、親御さんに相談してみるというのも一つかと思うのですが、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-04T17:41:20",
+      "utterance": "親にも相談しても同じでした"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:41:57",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:43:10",
+      "utterance": "親御さんからは、こっちの方がいいんじゃないというようなご意見はいかがでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-04T17:43:23",
+      "utterance": "ありませんでした"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:43:39",
+      "utterance": "そうでしたか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:44:27",
+      "utterance": "そうなると、ご自分で考えて決めるしかないということなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:46:41",
+      "utterance": "もし明日決めないとどういうことなるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-04T17:47:17",
+      "utterance": "先生に叱られます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:47:43",
+      "utterance": "それも辛いですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:48:10",
+      "utterance": "意思決定の方法というのがあるのですが。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:48:40",
+      "utterance": "もし、よろしければそれをお伝えすることもできますが、いかがしましょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-04T17:49:33",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:50:03",
+      "utterance": "一般的に言われている方法なのでご存知かもしれません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:50:15",
+      "utterance": "簡単にご案内しますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:50:52",
+      "utterance": "あなたは、進学と就職について、デメリットは既に列挙されていると思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:51:16",
+      "utterance": "そこで、それに加えて、進学と就職のメリットを列挙してみます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:51:59",
+      "utterance": "進学と就職のメリットとデメリットを書き出して、その中で、これは重要だなと思うものに赤い丸印をつけます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:52:55",
+      "utterance": "この4つのデータ、進学のメリットとデメリット、就職もメリットとデメリットの全体を見てご判断するという方法です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:53:16",
+      "utterance": "もし、お役に立ちそうなら、試してごらんになるのも一つかもしれません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:53:24",
+      "utterance": "いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-04T17:53:37",
+      "utterance": "なんだかよくわかりませんがそうしてみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:55:27",
+      "utterance": "急に言われたので、分かりにくいかもしれませんね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:56:07",
+      "utterance": "他に何か気になることはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-04T17:56:16",
+      "utterance": "ありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:56:45",
+      "utterance": "それでは、最終的にご自身が決めることができるように応援しています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:57:10",
+      "utterance": "気になることが出てきたら、また、ご相談にいらしてください。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:57:25",
+      "utterance": "ご一緒に考えさせていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-04T17:57:26",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:57:48",
+      "utterance": "こちらこそ、今日はご相談に来てくださりありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:58:13",
+      "utterance": "では、失礼いたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-10-04T17:59:15",
+      "utterance": "（ロールプレイありがとうございました。）"
+    },
+    {
+      "role": "client",
+      "time": "2021-10-04T17:59:37",
+      "utterance": "(ありがとうございました)"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "進学と就職の選択に関する悩み"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2524,
+    "評価作成日時": "2021-10-05T08:42:00",
+    "クライアント役ID": 125,
+    "カウンセラー役ID": 5,
+    "点数": 47,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 2,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 1,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2524,
+    "evaluation_created_at": "2021-10-05T08:42:00",
+    "client_id": 125,
+    "counselor_id": 5,
+    "score": 47,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

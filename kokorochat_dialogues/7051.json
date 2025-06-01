@@ -1,0 +1,779 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-06-21T13:52:25",
+      "utterance": "(こんにちは。カウンセラー役です。よろしくお願いいたします）"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T13:55:51",
+      "utterance": "(こちらこそ、よろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T13:56:09",
+      "utterance": "（ありがとうございます）"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T13:56:37",
+      "utterance": "（扱いたいテーマとかありましたら、おっしゃっていただければと思います）"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T13:57:32",
+      "utterance": "（若年層からの相談をお願いしても大丈夫ですか？テーマはお任せします）"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T13:57:47",
+      "utterance": "（承知しました）"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T13:57:59",
+      "utterance": "（ありがとうございます）"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:01:30",
+      "utterance": "こんにちは。相談員です。ご相談ありがとうございます。はじめに、年齢、性別と今日のご相談の内容をお伺いします。"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:01:37",
+      "utterance": "13歳女"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:01:54",
+      "utterance": "どうしたらいいのか分からない"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:02:26",
+      "utterance": "ありがとうございます、13歳というと中二でしょうか？今、どうしたらわからない状況なんですね？"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:02:44",
+      "utterance": "今、中1です"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:03:07",
+      "utterance": "そうです"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:03:32",
+      "utterance": "先輩にいろいろ言われる"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:03:42",
+      "utterance": "怖い"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:04:03",
+      "utterance": "はい、そうだったんですね。今、どうしたらいいかわからないというのは、その先輩に色々言われていることなんですね？"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:04:13",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:04:41",
+      "utterance": "そうですね、怖いですよね。お話しやすいところからで大丈夫なので、"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:05:13",
+      "utterance": "どこから話したらいいか分からない"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:05:15",
+      "utterance": "どんな先輩で、どんなことを言われたのかなど教えてもらえますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:05:51",
+      "utterance": "近所の知り合いの先輩"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:06:24",
+      "utterance": "いきちがってしまいました。近所に住んでいるのですね。とすると学校も同じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:06:56",
+      "utterance": "2人そうです"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:07:19",
+      "utterance": "他は違う"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:07:48",
+      "utterance": "嫌なことを言う先輩が何人もいるのですね？それはとても怖いし、いやになりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:07:55",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:08:31",
+      "utterance": "怖いと思う先輩たちは何人いるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:08:43",
+      "utterance": "4人"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:09:30",
+      "utterance": "4人もいるのですね、とすると４対1なのですね？"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:09:52",
+      "utterance": "いろいろ言われていうこと聞かないといけない"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:10:06",
+      "utterance": "怖くて"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:10:48",
+      "utterance": "そうだったんですね、今までひとりで不安な思いをされてきたんですね。つらかったですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:11:46",
+      "utterance": "いじめにあっている感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:11:59",
+      "utterance": "だと思います"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:12:33",
+      "utterance": "でも、怖くて・・・"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:12:46",
+      "utterance": "先輩なので"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:13:06",
+      "utterance": "そうでしたか・・・いじめは絶対にいじめる方が悪いのですよ。あなたが悪いのではないので、それだけは安心して下さいね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:13:22",
+      "utterance": "呼ばれたらいかないと何をされるか・・・"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:13:37",
+      "utterance": "そうなのでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:14:02",
+      "utterance": "そうです、あなたは何も悪くありませんよ。ですので、"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:14:28",
+      "utterance": "言えない自分もダメですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:15:38",
+      "utterance": "そんな風に感じてしまうのですね・・・無理もないかも知れません。先輩たちがどんなことを言ってくるのか、少しおしえてもらえますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:16:17",
+      "utterance": "自分を責めることはないのですよ。"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:16:31",
+      "utterance": "いろいろ命令されて、いうこと聞かないといけない"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:17:02",
+      "utterance": "コンビニに買いにいったり、"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:17:35",
+      "utterance": "ええ、ええ（聞いていますよ）"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:17:47",
+      "utterance": "携帯でもいろいろ言われる"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:17:57",
+      "utterance": "つらい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:19:07",
+      "utterance": "そうですよね、命令されたり携帯にまで連絡があったりすると、参ってしまいますよね。ちなみに、一番最近は、どんなことを言われましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:20:03",
+      "utterance": "先輩に画像を送れって・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:20:36",
+      "utterance": "ええ、そうだったんですね・・・・言うことを聞かないとどうなってしまいそうですか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:20:37",
+      "utterance": "怖くて送っちゃった"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:21:04",
+      "utterance": "あることないこと言いふらされて、学校に行けなくなる"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:21:51",
+      "utterance": "もし言えたらでいいのですが、どんな画像か教えてもらえますか？あなたがとっても不安になっているのが、伝わっていますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:21:53",
+      "utterance": "もう私の人生終わり"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:22:01",
+      "utterance": "だと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:22:26",
+      "utterance": "人生の終わりと感じるほどなのですね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:22:28",
+      "utterance": "裸の写真"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:23:22",
+      "utterance": "すでにグループ内で拡散されてて"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:23:41",
+      "utterance": "いうこと聞くしかないんです"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:24:15",
+      "utterance": "こんなこと誰にも言えない"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:24:45",
+      "utterance": "死んでしまいたい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:24:53",
+      "utterance": "そうですよね、不安だし怖いし、誰にも言えないことを相談に来てくれたんですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:25:00",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:25:51",
+      "utterance": "よく相談に来てくれましたね。勇気が要ったと思います。がんばってきてくれたんですね、ありがとう。"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:26:18",
+      "utterance": "どうしたらいいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:26:51",
+      "utterance": "ええ、あなたを守るために、この時間で考えて行きましょうね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:27:22",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:28:48",
+      "utterance": "まず、画像の送信を強要したり、それを拡散するなどする先輩たちは、罪に問われても仕方の無いようなことをしていると言えると思います。"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:29:16",
+      "utterance": "それはわかっているけど・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:30:18",
+      "utterance": "そうですね、なのでいったん自分を責めることをやめておきましょうね。あなたはなにも悪くないのですから。"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:30:57",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:31:36",
+      "utterance": "今、学校には行けていますか？それともお家にいたりしますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:32:32",
+      "utterance": "学校には行っている"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:32:39",
+      "utterance": "行かないと・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:32:58",
+      "utterance": "ええ（聞いていますね）"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:33:29",
+      "utterance": "何されるか分からない"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:34:32",
+      "utterance": "怖い"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:35:03",
+      "utterance": "そんな怖いことをしそうな先輩なのですね。怖いと思う気持ちは当然ですよ。あなたがどんな思いで学校に行っているのか、とても心配です。"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:35:21",
+      "utterance": "どうしたらいいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:35:47",
+      "utterance": "そうですね・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:36:33",
+      "utterance": "まず、画像の拡散を削除するなどの対策と、あなたの安全を確保したいと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:36:36",
+      "utterance": "このままわたしはいったいどうなってしまうのかと思うと、つらいです"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:37:02",
+      "utterance": "どうやったらそんなことができるんですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:38:08",
+      "utterance": "これは、拡散されたサイトから削除してもらうなどのことが必要になってくると思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:38:51",
+      "utterance": "わたしは、今とっても危険にさらされているあなたを守りたいのですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:40:12",
+      "utterance": "秘密は守られますので、あなたの通っている学校を教えてもらえますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:40:20",
+      "utterance": "サイト？lineの画像ですが、保存されてしまっているんです"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:41:00",
+      "utterance": "言ったら全部バレてしまう"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:41:08",
+      "utterance": "学校中に"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:41:14",
+      "utterance": "そんなことできない"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:41:23",
+      "utterance": "怖い"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:41:45",
+      "utterance": "無理です"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:42:33",
+      "utterance": "無理です"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:42:42",
+      "utterance": "そうですか、やはり怖いですよね・・・わかりました。でもここでは秘密は厳守する決まりがあるので安心して下さいね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:43:29",
+      "utterance": "もう死んでしまいたい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:43:54",
+      "utterance": "死にたいほどいやなお気持ちなんですね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:44:50",
+      "utterance": "もう何もない"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:45:21",
+      "utterance": "生きてても意味ないよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:45:57",
+      "utterance": "そんな風に感じているのですね、ひとりでどうしたら良いかわからなくなっていると伝わって来ます。"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:46:22",
+      "utterance": "誰か助けてほしい"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:46:36",
+      "utterance": "どうしたらいいの"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:47:09",
+      "utterance": "そうですよね、通っている学校にスクールカウンセラーがいるのは知っていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:47:29",
+      "utterance": "いますが、誰も利用していませんよ"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:47:52",
+      "utterance": "話したら、先生に筒抜けになるそうです"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:48:52",
+      "utterance": "そんなの怖すぎます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:48:54",
+      "utterance": "そう思うのですね、でも頼れる人のひとりなんですよ。スクールカウンセラーは、学校の職員ではなくて、どんな秘密も守らなくてはならない立場の人ですから。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:49:41",
+      "utterance": "あなたをなんとかして守りたいのです！"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:50:42",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:50:57",
+      "utterance": "お住まいの地域だけでも教えるのは無理そうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:51:13",
+      "utterance": "怖いです"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:51:30",
+      "utterance": "言えないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:51:40",
+      "utterance": "そうなんですね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:51:57",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:53:12",
+      "utterance": "スクールカウンセラーは大人の頼れる人ですので、「いじめにあっている」ということだけでもお話出来ると良いのですが、いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:54:20",
+      "utterance": "大人に知れたら、後でどんな目にあわされるか・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:54:21",
+      "utterance": "それと、もし学校をお休みした場合、お家にはどなたがいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:54:54",
+      "utterance": "だれも"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:54:58",
+      "utterance": "いません"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:55:44",
+      "utterance": "どなたもいないのですね。同居しているご家族はどなたがいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:55:47",
+      "utterance": "お母さんはシングルマザーで心配かけたくない。"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:56:19",
+      "utterance": "私のために懸命に働いてくれていて"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:56:57",
+      "utterance": "お母さんに負担をかけたくない"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:57:05",
+      "utterance": "ええ、ええ、そういうお気持ちなんですね。これほどつらくても、お母さんに心配かけたくない。あなたはとってもお母さん思いなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:58:15",
+      "utterance": "そんなことないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T14:59:10",
+      "utterance": "お母さんをあなたはどんな風に感じていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:59:25",
+      "utterance": "今日は聴いてくれてありがとうございました"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T14:59:59",
+      "utterance": "大切なお母さんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T15:00:38",
+      "utterance": "とんでもありません、ここでは秘密が守られますのでご安心下さい。スクールカウンセラーも秘密を守る立場のひとなので、相談することを考えてみて下さいね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T15:01:08",
+      "utterance": "どうにもできないことが分かりました"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T15:01:33",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T15:01:48",
+      "utterance": "もしかして、消えたいとか考えてしまいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T15:02:32",
+      "utterance": "どうしたらいいのか分かりません消えてしまいたい気持ちです。"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T15:02:46",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T15:03:26",
+      "utterance": "あなたのことが心配です。もう一度ここへ相談にきてもらうことはできますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T15:04:03",
+      "utterance": "このあとすぐでもかまいません。"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T15:05:13",
+      "utterance": "（大変恐れ入りますが、これで終了させていただきます。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T15:05:24",
+      "utterance": "承知しました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T15:05:47",
+      "utterance": "それでは修了のメッセージをお送りいたします。ありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T15:06:01",
+      "utterance": "（今日は難しいケースだったかもしれません。お疲れさまでした。）"
+    },
+    {
+      "role": "client",
+      "time": "2024-06-21T15:06:15",
+      "utterance": "（ありがとうございました。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-06-21T15:06:29",
+      "utterance": "（ありがとうございました）"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "先輩からのいじめ問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 7051,
+    "評価作成日時": "2024-06-27T07:48:00",
+    "クライアント役ID": 156,
+    "カウンセラー役ID": 273,
+    "点数": 50,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 4,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 7051,
+    "evaluation_created_at": "2024-06-27T07:48:00",
+    "client_id": 156,
+    "counselor_id": 273,
+    "score": 50,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 2,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

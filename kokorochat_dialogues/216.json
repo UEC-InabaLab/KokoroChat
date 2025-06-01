@@ -1,0 +1,864 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2020-07-18T15:52:26",
+      "utterance": "こんにちは(^o^)"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T15:52:58",
+      "utterance": "こんにちはありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T15:53:12",
+      "utterance": "よろしくお願いします"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T15:53:19",
+      "utterance": "よろしくお願いします★"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T15:53:53",
+      "utterance": "少しはやいですが、もう始めますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T15:54:03",
+      "utterance": "良いですよ(^o^)"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T15:54:25",
+      "utterance": "よろしくお願いします"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T15:54:32",
+      "utterance": "よろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T15:54:46",
+      "utterance": "こんにちは相談員です"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T15:54:53",
+      "utterance": "こんにちは"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T15:55:06",
+      "utterance": "本日は、いかがされましたか"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T15:55:27",
+      "utterance": "学校を退学しようかと悩んでます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T15:55:39",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T15:55:44",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T15:56:30",
+      "utterance": "退学しようと思っていらっしゃるのは、どのような理由からでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T15:57:25",
+      "utterance": "後2年通わなければいけないのですが、2年あったら学校で学ぶより働いて資格を取りたいなと思いました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T15:57:44",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T15:57:49",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T15:57:57",
+      "utterance": "何歳ですか"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T15:58:07",
+      "utterance": "20です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T15:58:39",
+      "utterance": "どんな学校に行っているのですか"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T15:58:54",
+      "utterance": "工業系の学校に通ってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T15:59:08",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T15:59:15",
+      "utterance": "はい!"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T15:59:35",
+      "utterance": "働いてどんな資格をえたいとお思いですか"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:00:44",
+      "utterance": "人と関わる仕事が向いていると感じて、学歴がなくて取れる国家資格は介護福祉士かなと思っていまはそう考えてます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:01:20",
+      "utterance": "そうなんですね　それは楽しみですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:01:58",
+      "utterance": "楽しみというか、退学して良いのか。みんなは勿体無いと言うんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:02:02",
+      "utterance": "今の学校で一番の問題点は、何ですか"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:02:21",
+      "utterance": "学校の問題点？？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:02:51",
+      "utterance": "間違えました　すみません"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:02:53",
+      "utterance": "卒業までに2年は勿体無いかなって思うくらいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:03:29",
+      "utterance": "そうなんですね　もどかしいのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:04:11",
+      "utterance": "僕からしたら工業系の仕事につく気が無いのに2年学ぶのはもどかしいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:04:40",
+      "utterance": "今、通っている学校は、あまりきょうみが　何のですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:05:04",
+      "utterance": "そうですねもったいないと思われるのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:05:38",
+      "utterance": "そうですね。高専なんで国立だから他からしたら退学は勿体無いのかも知れません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:06:31",
+      "utterance": "そう思われているお気持ちもおありなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:07:19",
+      "utterance": "僕は思ってないです。家族や先生、友人がそう思って言ってくれている感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:07:54",
+      "utterance": "そうなんですね皆に言われると、嫌になってしまいますよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:08:29",
+      "utterance": "そうですね。。自分の選択は間違っているのかと思い始めて悩んでます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:09:10",
+      "utterance": "そう思われているのですねお辛いですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:09:49",
+      "utterance": "社会福祉の道に進みたいと思われたきっかけは、何ですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:10:45",
+      "utterance": "介護福祉士です"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:11:18",
+      "utterance": "辛いというか‥‥余計に色々考えちゃいます。工業の仕事は人との関わりが少ないので、もっと人関わる仕事がしたいと思ったのがきっかけです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:11:52",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:11:56",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:12:16",
+      "utterance": "人と関わる仕事もいいですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:12:37",
+      "utterance": "そうですね。自分はそうだと思いました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:12:47",
+      "utterance": "何とお呼びしたらよろしいですか"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:13:07",
+      "utterance": "ウエノでいいですよ"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:13:25",
+      "utterance": "ウエノさんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:13:31",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:14:24",
+      "utterance": "ウエノさんは、高専で工業の勉強をしています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:14:57",
+      "utterance": "その勉強は、もったいなく感じる"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:14:58",
+      "utterance": "はいそうですが‥‥？？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:15:20",
+      "utterance": "ん？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:15:30",
+      "utterance": "ここで、整理してよろしいですか"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:15:58",
+      "utterance": "あーごめんなさい整理してくれてたんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:17:15",
+      "utterance": "介護福祉の仕事が、魅力的で、そちらの仕事をしたいとお考えですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:17:36",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:18:05",
+      "utterance": "今の学校がが、時間がもったいないと思われているのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:18:32",
+      "utterance": "簡単に言うとそうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:19:45",
+      "utterance": "実際に、今の学校に行かれていて、ウエノさんは、退屈だと考えておられますよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:20:10",
+      "utterance": "自分には、合わないと思われているのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:20:50",
+      "utterance": "退屈とは思ってないですよ。ただ有意義ではないと思ってます。そうですね。合わないとは思ってます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:20:51",
+      "utterance": "人と関わるのが大好きなんですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:21:22",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:21:35",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:21:43",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:22:29",
+      "utterance": "だから、介護福祉士をやりたいと思われて折れれるのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:23:27",
+      "utterance": "ウエノさんは、真面目で、一生懸命な方です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:24:02",
+      "utterance": "そして、仕事に対して、真剣に感じておられます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:24:54",
+      "utterance": "たくさんの患者のために、一生懸命に役に立ちたいとお考えなのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:26:24",
+      "utterance": "思い切って、たくさんの患者さんのために、勉強して働いてみたいとは、思いませんかウエノさんは、どのように思われますか"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:27:05",
+      "utterance": "どうしましょう。まぁ間違ってないですけど。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:27:24",
+      "utterance": "まぁ本当はカウンセラーになりたいんですが、なんか収入面とか全然分からないし、安定しなそうなんで、とりあえず手に職はつけなければと思って実務経験で取れる介護福祉士を目指してます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:28:00",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:28:13",
+      "utterance": "工業系の勉強するなら福祉の経験と勉強をしたいとは思ってます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:29:26",
+      "utterance": "試しに、福祉の勉強や、カウンセラーなどの勉強をしてみませんか"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:29:46",
+      "utterance": "試しにですか？？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:30:37",
+      "utterance": "人と接する介護福祉士の仕事は、ウエノさんには、ぴったりだと思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:30:59",
+      "utterance": "そうですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:31:20",
+      "utterance": "退屈している、高専の仕事より、魅力的なのでは、ないでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:32:45",
+      "utterance": "退屈というか‥‥意味ない勉強に思えてしまって。そうですね。人と関わる仕事の方が魅力的です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:33:10",
+      "utterance": "介護福祉士の仕事に着こうと、準備をされては、いかがですか"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:34:32",
+      "utterance": "みんなは学校を退学すると中卒扱いになるから卒業してからのやればいいって言うんです。どう思いますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:35:01",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:35:16",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:35:34",
+      "utterance": "周りは考え直せって言います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:35:54",
+      "utterance": "ウエノさんは、高専に、未練がありますか"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:36:49",
+      "utterance": "今はないです。ただ学歴は大事なのかなって考えることもあります。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:37:05",
+      "utterance": "周りが言うので"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:37:45",
+      "utterance": "自分の魅力的な人生に、進んで聞くことが、とても幸せなことだと、私は、思いますが、いかがですか"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:38:16",
+      "utterance": "中卒でも大丈夫ですかね？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:39:25",
+      "utterance": "中卒ということに、不安があるのですね苦しく思いますよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:39:51",
+      "utterance": "苦しくは無いですが不安ではありますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:40:14",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:40:22",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:40:37",
+      "utterance": "不安なのも、よくわかります"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:41:04",
+      "utterance": "そうなんですよ。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:41:59",
+      "utterance": "ただ、一度職業を決めて、やり始めると、あまり学歴も関係ないように思われますか、いかがですか"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:42:16",
+      "utterance": "高専卒業して工業系に就職した方が給料高いですし。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:42:45",
+      "utterance": "そうなんですか？仕事まだしてないので分かりません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:44:05",
+      "utterance": "仕事をしてみてからのことは、やってみないと分からないですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:44:19",
+      "utterance": "お気持ち、よくわかります"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:44:50",
+      "utterance": "出世する仕事だと、学歴は、必要には、思いますが・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:45:06",
+      "utterance": "どのように、思われますか"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:45:44",
+      "utterance": "出世したいとはあまり思ってないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:45:58",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:46:08",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:46:46",
+      "utterance": "それであれば、自分の憧れている介護福祉士をめざしてみては、いかがでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:46:47",
+      "utterance": "でも給料は高い方が良いのかな？とも思います。介護は安いって聞きます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:48:01",
+      "utterance": "そう思われていらっしゃるのですね力仕事ですしね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:48:38",
+      "utterance": "えーと。。憧れてるというよりはとりあえずの目標みたいなのです。憧れてるのはカウンセラーです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:49:02",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:49:11",
+      "utterance": "はい!"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:49:25",
+      "utterance": "カウンセラーに憧れているのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:50:08",
+      "utterance": "どちらが、魅力的に思われますか"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:50:32",
+      "utterance": "そうですね。でもどうなればいいのか全然分からないし、収入も安定しなそうなんで、手に職をつけるつもりで介護福祉士を取ろうと思ってます。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:51:11",
+      "utterance": "なれるならカウンセラーになりたいですよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:52:55",
+      "utterance": "介護福祉士を、やってみて、働いてみませんか。カウンセラーは、介護福祉士の働いていた時数で、カウンセラーになれるかもしれません"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:53:30",
+      "utterance": "介護福祉士で働けばカウンセラーになれるんですか？？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:54:02",
+      "utterance": "一度、介護福祉士をやってから、カウンセラーになるのも、良いかもしれません"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:55:05",
+      "utterance": "まぁ、そのつもりではいます。働かないと資格を取るために勉強出来ないですし。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:55:49",
+      "utterance": "カウンセラーになる条件の中に、介護福祉士で働いていた時数も、含まれます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:55:59",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:56:32",
+      "utterance": "介護福祉士の勉強、頑張ってくださいね。応援しています"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:56:32",
+      "utterance": "えー！！カウンセラーは介護福祉士もってないとなれないんですか？？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:57:07",
+      "utterance": "そんなことはないですよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:57:34",
+      "utterance": "複雑な説明で、申し訳ありません"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:57:34",
+      "utterance": "カウンセラーになる条件の中に、介護福祉士で働いていた時数も、含まれます。ってどういうことですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:58:05",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T16:58:15",
+      "utterance": "？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:58:31",
+      "utterance": "カウンセラーになるためには"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:59:11",
+      "utterance": "それぞれの分野の時数が必要です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T16:59:50",
+      "utterance": "現場実践という時数に、介護福祉士を満たすことも、出来る、ということで"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T17:01:14",
+      "utterance": "現場実践は、今まで仕事をしていた職業で、カウンセラーになるのに、当てはまる仕事であれば、時数に入れることが出来ます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T17:01:52",
+      "utterance": "いかがでしょうか？説明になっていますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T17:01:56",
+      "utterance": "なるほど。。カウンセラーになるのはそんなにあまくないですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T17:03:21",
+      "utterance": "でも、ウエノさんなら、きっと、夢をかなえることが出来ます。何よりも、人と接することに、魅力を感じていますから温かくて、一生懸命ですし、"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T17:03:41",
+      "utterance": "そうですか？？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T17:03:55",
+      "utterance": "そうです"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T17:04:06",
+      "utterance": "今のやり取りでそんな事も分かるんですね!!"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T17:04:16",
+      "utterance": "凄いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T17:04:34",
+      "utterance": "そんなことないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T17:04:52",
+      "utterance": "心から、応援しています"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T17:05:02",
+      "utterance": "祈っています"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T17:05:04",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T17:05:26",
+      "utterance": "他に、何かございますか"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T17:05:40",
+      "utterance": "大丈夫ですよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T17:06:19",
+      "utterance": "ご相談ありがとうございましたまた、何かありましたら、いらしてくださいね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T17:07:11",
+      "utterance": "それでは、本日のロールプレーを終了してもよろしいでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T17:07:24",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T17:07:39",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T17:08:58",
+      "utterance": "お疲れ様です★"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T17:09:10",
+      "utterance": "お疲れ様です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T17:09:27",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T17:09:40",
+      "utterance": "ありがとうございました(^o^)★"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "学校の退学と将来の目標設定"
+  },
+  "review_by_client_jp": {
+    "評価ID": 216,
+    "評価作成日時": "2020-07-18T18:09:00",
+    "クライアント役ID": 63,
+    "カウンセラー役ID": 42,
+    "点数": 59,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 4,
+    "要約": 4,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 216,
+    "evaluation_created_at": "2020-07-18T18:09:00",
+    "client_id": 63,
+    "counselor_id": 42,
+    "score": 59,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

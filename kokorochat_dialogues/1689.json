@@ -1,0 +1,769 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-04-20T14:20:34",
+      "utterance": "こんにちは。本日カウンセラー役をさせていただきます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T14:20:45",
+      "utterance": "お時間になりましたら、どうぞよろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:28:03",
+      "utterance": "こんにちは。本日はよろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T14:30:18",
+      "utterance": "それでは、始めさせていただきます。どうぞよろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:30:38",
+      "utterance": "よろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T14:30:48",
+      "utterance": "こんにちは、相談員です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T14:30:56",
+      "utterance": "本日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:31:11",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:31:53",
+      "utterance": "今年、大学受験があるのですが、集中力が長く続きません"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:32:02",
+      "utterance": "どうしたらいいでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T14:33:02",
+      "utterance": "なるほど、そうなのですね。それは考えてしまいますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:33:11",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T14:34:25",
+      "utterance": "集中力が続かないというのはどのような感じが、もう少し詳しくお聞きしてもよろしいでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T14:34:41",
+      "utterance": "すみません、感じか、でした。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:35:58",
+      "utterance": "勉強し始めて15分くらいすると、携帯触ったり、読書したり、長く続けられないんです"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:36:36",
+      "utterance": "携帯は機内モードにしてるのに、それを解除したりしてしまいます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T14:36:36",
+      "utterance": "なるほど、そうなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:36:42",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T14:36:45",
+      "utterance": "すみません、行き違いました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:36:58",
+      "utterance": "いいえ、大丈夫です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T14:37:25",
+      "utterance": "なるほどですね。その事について、ご自身ではどのよにお感じになりますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:39:08",
+      "utterance": "「うわ、ダメだな自分」とか、「せめて30分は頑張ろう」と意識していますが、結局集中力が切れてしまいます"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:39:36",
+      "utterance": "と感じます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T14:39:51",
+      "utterance": "なるほど、そのように感じられるんですね。お答えくださってありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:39:59",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T14:40:37",
+      "utterance": "そういうことありますよね。集中力が続かなくてどうしたらいいんだろう、って気持ち、とてもよくわかります。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:40:54",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T14:41:01",
+      "utterance": "誰か友達や他の人に相談してみたことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:41:24",
+      "utterance": "相談したことはないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T14:41:35",
+      "utterance": "なるほど、そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T14:41:47",
+      "utterance": "すみません、質問が少し変わってしまうのですが、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:41:53",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T14:42:26",
+      "utterance": "もしよろしければ、お名前（ニックネーム可）、性別、年齢をお答えできる範囲で教えていただいてもよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:43:19",
+      "utterance": "金森、男、17歳(高3)です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T14:43:35",
+      "utterance": "金森さんですね、ありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:43:41",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T14:44:01",
+      "utterance": "そうか、相談されたことはなかったのですね。ご自身で考えてこられたんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:44:30",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T14:44:33",
+      "utterance": "一人で考えていると、わからなくなってくることもありますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:45:20",
+      "utterance": "以前はネットの意見を参考にしたことありますが、結局ダメでした"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T14:45:52",
+      "utterance": "そうだったのですね。なかなか難しいところ、ありますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:46:05",
+      "utterance": "そう思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T14:46:10",
+      "utterance": "集中力が続かないのは、勉強の時だけですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:47:06",
+      "utterance": "基本的に勉強以外も続かないと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T14:47:19",
+      "utterance": "なるほど、そうなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:47:24",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T14:47:40",
+      "utterance": "ちなみに、ネットで検索した時はどのような事を試してみたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:49:02",
+      "utterance": "「まずは5分だけ勉強してみる」、「机やその周りに勉強道具以外は置かない」などです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T14:49:41",
+      "utterance": "なるほど。それはあまり、うまくいかなかったんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:50:10",
+      "utterance": "はい、そうなんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T14:50:15",
+      "utterance": "どういうところがうまくいきませんでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:51:20",
+      "utterance": "し始めて10分くらいで他のこと気にしてしまいます"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:52:02",
+      "utterance": "勉強終わったら何しようかとか、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T14:52:12",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:52:33",
+      "utterance": "なんかニュース気になる"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T14:52:48",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:52:50",
+      "utterance": "とか余計なことに気を取られてしまいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T14:52:59",
+      "utterance": "なるほど、そうなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:53:04",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T14:53:33",
+      "utterance": "それは、携帯などの勉強道具が周りになくても、関係ない感じですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T14:53:46",
+      "utterance": "すみません、勉強道具以外でした。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:54:00",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T14:54:36",
+      "utterance": "色々、質問に答えてくれてありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:54:47",
+      "utterance": "いえ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T14:55:01",
+      "utterance": "ちょっと方向性の違う質問をしたいんだけど、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T14:55:28",
+      "utterance": "集中力を続けることができる人というのは、どのような事をしているイメージが湧きますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:56:38",
+      "utterance": "集中したいことだけに集中できるような、オンとオフの切り替えが的確な人"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:56:46",
+      "utterance": "というイメージがあります"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T14:56:57",
+      "utterance": "なるほど、そうなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:57:04",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T14:58:09",
+      "utterance": "金森くんの中で、オンとオフを切り替える、というのはどういうことか、言葉にしてもらってみてもいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:59:38",
+      "utterance": "30分勉強すると決めたら、30分やり切る、ような自分で決めたことをやり通す"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T14:59:43",
+      "utterance": "というイメージです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:00:18",
+      "utterance": "なるほど、そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T15:00:25",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:02:25",
+      "utterance": "集中がうまく出来ていイメージと、出来ていない自分のイメージを比べてみて、出来ているイメージに近づく為には、どのような事ができるか、イメージが湧きますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:02:52",
+      "utterance": "すみません。集中がうまく出来ているイメージ、でした。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T15:03:18",
+      "utterance": "そうですね、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T15:04:10",
+      "utterance": "まだこれというものが見つかっていないので、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:04:20",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T15:04:57",
+      "utterance": "自分なりに合いそうな事(できそうな事)を何個も試していくこと"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T15:05:02",
+      "utterance": "かなと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:05:41",
+      "utterance": "なるほど、そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:05:53",
+      "utterance": "今までお話を聞いていて、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:06:57",
+      "utterance": "金森くんは、すごく自分で物事のイメージができる、頭の切れる人なんだなぁ、と思いました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:07:12",
+      "utterance": "頭の回転も早い、というか、、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:08:13",
+      "utterance": "今、自分なりに合いそうなこと、出来そうなこと、という風に言ってくれたけど、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:09:07",
+      "utterance": "何か自分なりに出来そうな事、イメージのなかにありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T15:09:49",
+      "utterance": "そうですね、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:09:57",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T15:11:23",
+      "utterance": "タイマー設定するか、目標を書いて、それをイメージトレーニングするとか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:11:38",
+      "utterance": "ふんふん。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T15:11:39",
+      "utterance": "ぐらいしか今は考えられてないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:12:29",
+      "utterance": "いや、素晴らしいと思います。特に、目標を書いてみるのは、客観的にイメージができるから、とても良さそうですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T15:12:46",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:13:22",
+      "utterance": "そのくらいしか今は考えられてない、という風に今聞きましたが、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T15:13:32",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:13:42",
+      "utterance": "それだけ出てきたのが、とてもすごい事だと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T15:14:13",
+      "utterance": "そうなんですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:14:48",
+      "utterance": "自分の中で、出来ているイメージっと、出来ていないイメージを比較して、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:15:15",
+      "utterance": "できる為には何が必要か、それを金森くんは全部自分で考えたんですよ？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:15:27",
+      "utterance": "これは誰もができることではないと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T15:16:15",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:16:30",
+      "utterance": "僕は、そう思いました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:16:53",
+      "utterance": "もしかしたら、また勉強や他のことを続けていく上で、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:17:14",
+      "utterance": "今思いついたことだけでは足りなくなってしまう、と感じる時もあるかもしれません。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T15:18:00",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:18:20",
+      "utterance": "でも、今こうして良い方向に向かうために自分で考えたことを思い出せば、またきっとうまくいくと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T15:19:13",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T15:19:31",
+      "utterance": "もっと考えてみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:19:52",
+      "utterance": "そうですね。でも一つお伝えしたいのは、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:20:07",
+      "utterance": "小さい事の積み重ねで大丈夫、ということです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:20:30",
+      "utterance": "三日坊主、という風によく言いますが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:21:15",
+      "utterance": "だめだな、と思って諦めちゃったとしても、また三日坊主をすれば、結果ちゃんと出来ている事になります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:21:50",
+      "utterance": "そのために、ちっちゃい目標を少しずつ達成していく、というのがポイントだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:22:07",
+      "utterance": "タイマー設定も、５分に設定して、"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T15:22:09",
+      "utterance": "分かりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:22:27",
+      "utterance": "すみません、行き違いました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T15:22:47",
+      "utterance": "いえ問題ありません"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T15:23:22",
+      "utterance": "「昨日より1分長く集中する」を続けてみようと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:23:51",
+      "utterance": "うんうん、素晴らしいと思いますよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:24:05",
+      "utterance": "でもそれだと、100日で100分になってしまうので、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:24:22",
+      "utterance": "もっとゆっくりした目標でも全然問題ないと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T15:24:45",
+      "utterance": "なるほど。分かりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:25:10",
+      "utterance": "相談してみて、お気持ちいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T15:26:19",
+      "utterance": "モヤモヤしてたので、今日言葉にしてみたことで、スッキリした気がします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:26:55",
+      "utterance": "そうなんですね。そう言ってもらえてよかったです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T15:27:12",
+      "utterance": "ご相談できて良かったです。ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:27:32",
+      "utterance": "こちらこそ、相談して頂いてありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:27:40",
+      "utterance": "勉強、頑張ってくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T15:27:49",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T15:27:56",
+      "utterance": "頑張ります"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:28:15",
+      "utterance": "それでは、こちらで失礼します。ご相談ありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T15:28:32",
+      "utterance": "ありがとうございました。失礼いたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:28:49",
+      "utterance": "（お疲れ様です。ありがとうございました。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:29:08",
+      "utterance": "（今日も大変勉強になりました。ありがとうございます。）"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T15:29:58",
+      "utterance": "お疲れ様でした。私も多々勉強になりました。ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:30:19",
+      "utterance": "（また機会がありましたら、どうぞよろしくお願いいたします。）"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-20T15:30:32",
+      "utterance": "はい。よろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-20T15:30:55",
+      "utterance": "（それでは失礼いたします。お時間あります時にご評価いただければ幸いです。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "大学受験に向けた集中力の維持問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1689,
+    "評価作成日時": "2021-04-21T15:18:00",
+    "クライアント役ID": 136,
+    "カウンセラー役ID": 157,
+    "点数": 93,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 5,
+    "取り組みたかったことを扱えた": 5,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 5,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 5,
+    "今回の相談は価値があった": 5,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 5,
+    "要約": 4,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 5,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1689,
+    "evaluation_created_at": "2021-04-21T15:18:00",
+    "client_id": 136,
+    "counselor_id": 157,
+    "score": 93,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

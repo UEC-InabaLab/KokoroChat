@@ -1,0 +1,479 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-08-15T14:51:11",
+      "utterance": "今日はよろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T14:52:34",
+      "utterance": "よろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T14:53:27",
+      "utterance": "時間前ですが、スタートしますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T14:53:55",
+      "utterance": "いつでも大丈夫です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T14:54:30",
+      "utterance": "それでは始めさせていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T14:54:38",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T14:55:10",
+      "utterance": "こんにちは、相談員です。まず初めに年齢、性別、相談内容についてお聞かせ下さい。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T14:56:09",
+      "utterance": "17歳　女性進路面談が嫌"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T14:56:57",
+      "utterance": "そうなんですね。お話しやすいことろからでいいので、もう少し詳しくお話いただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T14:57:25",
+      "utterance": "こんど進路面談があるけど、別に話すことないし"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T14:57:34",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T14:58:12",
+      "utterance": "やる意味あるのかなって"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T14:59:20",
+      "utterance": "そう思われていらっしゃるのですね。今は学生さんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T14:59:25",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T15:00:08",
+      "utterance": "高校何年生でいらしゃいかますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T15:00:14",
+      "utterance": "２年"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T15:01:26",
+      "utterance": "そうなんですね。進路相談は担任の先生とされるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T15:01:36",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T15:01:45",
+      "utterance": "あと、"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T15:01:52",
+      "utterance": "ほんとは保護者"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T15:01:53",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T15:03:28",
+      "utterance": "そうなんですね。担任の先生と保護者、貴方の３者面談なんですね。今回保護者の方も同席されるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T15:03:40",
+      "utterance": "どうかな"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T15:03:48",
+      "utterance": "お母さん、仕事忙しいから"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T15:03:58",
+      "utterance": "そなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T15:04:07",
+      "utterance": "たぶんむり"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T15:05:07",
+      "utterance": "そうなんですね。それは残念に貴方は思われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T15:05:21",
+      "utterance": "残念には思わない"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T15:05:51",
+      "utterance": "そうなんですね。どんなお気持ちになられますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T15:06:04",
+      "utterance": "仕方ないと思う"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T15:06:40",
+      "utterance": "そうなんですね。そう思われるのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T15:07:20",
+      "utterance": "面談では、どんなお話がされると思われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T15:07:33",
+      "utterance": "進路のこと"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T15:08:17",
+      "utterance": "あとは休みが多いとか、そういうの、きっと言われる"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T15:09:57",
+      "utterance": "そうなんですね。進路のこと。休みが多いとお話してくれましたが、どんなペースでお休みが多いのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T15:10:29",
+      "utterance": "どんなペース…"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T15:10:56",
+      "utterance": "週２日くらい？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T15:11:45",
+      "utterance": "そうなんですね。普段の学校生活はどんな感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T15:12:24",
+      "utterance": "べつに、ふつう"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T15:13:12",
+      "utterance": "そうなんですね。部活動とか、何かスポーツとかやられていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T15:13:34",
+      "utterance": "やってない"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T15:14:44",
+      "utterance": "そうなんですね。何か好きな趣味とか、楽しいこととかありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T15:15:14",
+      "utterance": "ない"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T15:15:46",
+      "utterance": "そんな時間ないし"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T15:16:48",
+      "utterance": "そうなんですね。そんな時間ないとお聞きしましが、どうして時間ないのか、もう少し詳しくお話いただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T15:17:56",
+      "utterance": "家のことしてるから"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T15:18:40",
+      "utterance": "おばあちゃんもいるし"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T15:18:55",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T15:19:53",
+      "utterance": "家事とか、おばあさんの面倒を見られているといことなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T15:20:08",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T15:21:36",
+      "utterance": "それは時間がないですよね。貴方は、お家の事で色々頑張っていらっしゃるのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T15:25:30",
+      "utterance": "進路面談の話ですが、今後貴方は、進路はどうされたい思われていらしゃいかますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T15:26:10",
+      "utterance": "働くしかないと思う"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T15:27:15",
+      "utterance": "でも、家のこともあるから、よくわからない"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T15:29:41",
+      "utterance": "そう思われていらっしゃるのですね。家のこととは具体的にどんなことが考えられますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T15:31:03",
+      "utterance": "ごはんとか洗濯とかあとは、おばあちゃんのこと"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T15:32:21",
+      "utterance": "そうですよね。貴方は、とても家族思いで、優しい方なんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T15:34:17",
+      "utterance": "進路に関して、貴方は、本当はどうされたいと思われていらしゃいかますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T15:34:41",
+      "utterance": "考えたことない"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T15:36:06",
+      "utterance": "そうなんですね。お母さんとは進路のこととかお話されたことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T15:37:10",
+      "utterance": "話さない心配かけたくないし"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T15:38:15",
+      "utterance": "そうなんですね。お母さんのことを思われてそうされていらっしゃるのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T15:39:26",
+      "utterance": "お友達とかに、進路相談の件とか、相談されましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T15:39:37",
+      "utterance": "絶対しない"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T15:40:02",
+      "utterance": "したことない"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T15:40:12",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T15:45:01",
+      "utterance": "色々お話聴かせていただきましたが、進路面談が嫌で、別に話すことないし、やる意味あるのかなと思われていらっしゃる。家事とか、おばあさんの世話で毎日忙しく、自分の時間がない。お母さんも忙しく、心配をかけたくないということでよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T15:45:37",
+      "utterance": "まぁ"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T15:45:48",
+      "utterance": "そんな感じ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T15:46:26",
+      "utterance": "他に何か思われることはございますか？？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T15:47:11",
+      "utterance": "ないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T15:48:38",
+      "utterance": "ありがとうございます。色々毎日忙しく、お体は大丈夫ですか、睡眠はとれていらっしゃいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T15:49:37",
+      "utterance": "寝てはいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T15:50:29",
+      "utterance": "それは良かったです。他に体調で気になることがございますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T15:50:41",
+      "utterance": "ありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T15:52:13",
+      "utterance": "進路面談の件ですが、今のご自分の気持ちを担任の先生に話されるのはいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T15:52:59",
+      "utterance": "むり"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T15:53:39",
+      "utterance": "進学前提だしやる気ないとか言われるだけ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T15:55:35",
+      "utterance": "そうなんですね。そう言われると嫌と感じられますよね。もう少し聞く耳を持ってもらいたいと思われますよね？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T15:56:02",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-15T15:56:36",
+      "utterance": "（ありがとうございました。１時間経過しました。大変勉強になりました。いかがでしたか？）"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-15T15:57:20",
+      "utterance": "（ありがとうございました！こちらも大変勉強になりました）"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "進路面談に対する不安と無関心"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3806,
+    "評価作成日時": "2022-08-15T17:12:00",
+    "クライアント役ID": 307,
+    "カウンセラー役ID": 312,
+    "点数": 62,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3806,
+    "evaluation_created_at": "2022-08-15T17:12:00",
+    "client_id": 307,
+    "counselor_id": 312,
+    "score": 62,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

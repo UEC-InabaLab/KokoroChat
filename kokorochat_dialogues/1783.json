@@ -1,0 +1,544 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-05-04T16:50:52",
+      "utterance": "こんばんは。本日、カウンセラー役をさせていただきます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T16:51:05",
+      "utterance": "お時間になりましたら、どうぞよろしくお願い致します。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-04T16:51:29",
+      "utterance": "こんばんは。こちらこそよろしくお願い致します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:00:21",
+      "utterance": "それでは始めさせていただきます。どうぞよろしくお願い致します。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-04T17:00:38",
+      "utterance": "はい、お願い致します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:00:47",
+      "utterance": "こんばんは。相談員です。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-04T17:00:54",
+      "utterance": "こんばんは。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:00:59",
+      "utterance": "本日は、どのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-04T17:01:47",
+      "utterance": "色々しんどくて、なかなか家の家事ができないんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:03:45",
+      "utterance": "なるほどですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:04:48",
+      "utterance": "家事が手に付かないような気持ちになること、ありますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:05:16",
+      "utterance": "どのようにしんどいか、詳しくお伺いしてもよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-04T17:06:22",
+      "utterance": "数年前から鬱を患っていて、頭痛や眩暈なんかもあったりして、しんどいんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:07:07",
+      "utterance": "そうなんですね。それはお辛い気持ちになりますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:08:32",
+      "utterance": "すみません、話が少し変わってしまうのですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:09:08",
+      "utterance": "お呼びできるお名前（ニックネーム可）、年齢、性別を、お答えできる範囲で構わないので、教えていただけますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-04T17:09:51",
+      "utterance": "はい、吉田、35歳、女性です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:10:07",
+      "utterance": "吉田さんですね。ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:11:55",
+      "utterance": "鬱、本当にお辛いですよね。僕も鬱の症状が出たことがあるので、お気持ち、とてもよくわかります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:13:39",
+      "utterance": "吉田さんは、どのようなご職業でいらっしゃいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-04T17:13:53",
+      "utterance": "仕事はしてません。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-04T17:14:44",
+      "utterance": "仕事もしてないのに、家のことも出来ません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:15:42",
+      "utterance": "そうなのですね。ご家族はいらっしゃるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-04T17:16:33",
+      "utterance": "はい、夫と子供が2人います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:17:39",
+      "utterance": "そうなのですね。ご主人と、鬱についてお話をされたりはなさりますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-04T17:18:34",
+      "utterance": "はい、たまに。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:19:14",
+      "utterance": "どのようなお話をされているか、お伺いしてもよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-04T17:20:49",
+      "utterance": "調子はどう？とか、無理しなくていいからとか言われるので、ごめんねと答える感じです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:21:20",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:22:51",
+      "utterance": "家事ができない、という風におっしゃっていましたが、その時のお気持ちがどのようなものか、お伺いしてもよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-04T17:23:40",
+      "utterance": "やりたいけど、気力が湧かない感じです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-04T17:23:59",
+      "utterance": "とても情けなく思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:25:03",
+      "utterance": "そうなのですね。お母さんとして、家事をする気力が湧かない、というのは、悔しく、情けないお気持ちを感じてしまいますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:26:51",
+      "utterance": "現在は、どのようにして過ごされていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-04T17:28:01",
+      "utterance": "家事ができそうならやって、しんどい時は横になったりしています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:29:24",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:31:09",
+      "utterance": "すみません、間が空いてしまいました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:31:49",
+      "utterance": "今までのお話を少しまとめると、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:32:11",
+      "utterance": "数年前から、鬱を患っていて、家事が手に付かない。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:33:00",
+      "utterance": "ご主人は、無理しなくていいよ、という風に気遣ってくれていて、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:33:58",
+      "utterance": "家事ができる時は、されていて、難しい時は横になっている。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:34:53",
+      "utterance": "その様な中で、情けない、という風にお感じになられているのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:37:07",
+      "utterance": "お子様は吉田さんに、どの様に声をかけてきていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-04T17:38:34",
+      "utterance": "普通に遊んでとか、しんどそうな時は、大丈夫？とかです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:39:30",
+      "utterance": "そうなのですね。優しいお子さんなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:40:12",
+      "utterance": "先ほども申し上げたのですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:40:27",
+      "utterance": "私も鬱の症状が出たことがありました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:41:14",
+      "utterance": "私は、結婚はしていませんが、一緒に同棲している人がいて、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:42:11",
+      "utterance": "その人に迷惑をかけてしまっていると考えると、尚のこと落ち込んでしまう、そんな日が続いていました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:43:20",
+      "utterance": "私は薬が嫌だったので、医者には行かず、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:44:34",
+      "utterance": "吉田さんと同じように、時々カウンセリングを受けながら、日々過ごしていました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:44:52",
+      "utterance": "すみません、私の話をしてしまって、、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-04T17:45:21",
+      "utterance": "いえ、大変でしたね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:45:59",
+      "utterance": "私の場合は、頑張りすぎが原因だったな、と今、思うのです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:46:27",
+      "utterance": "鬱の症状が出る様になったのは、極度のストレスでした。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:47:42",
+      "utterance": "私ごとで恐縮ですが、妹が兄からの猥褻行為を幼い頃に受けていたことがわかり、家族関係がめちゃめちゃになってしまい、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:48:24",
+      "utterance": "家族のために、妹のために、自分ができることは何かないか、と頑張りすぎて、鬱になってしまいました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:49:27",
+      "utterance": "落ち込んでいる自分であることを、同棲しているパートナーにとても申し訳なく思っていました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:50:29",
+      "utterance": "でも、頑張らない、ということに気づいた時、鬱は開放に向かったのです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:51:24",
+      "utterance": "親とも妹とも、連絡をするのを、断腸の思いでやめました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:52:39",
+      "utterance": "家では、12時間ほど眠ることも、今はそういう時期なんだ、と自分を許し、起きている時間はベランダで花を育てる様になりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:53:24",
+      "utterance": "花が咲いたり、実がなったりする様は、私の心を動かし、少しずつ気力が戻ってきたのです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:53:38",
+      "utterance": "すみません、私の話を長くしてしまって、、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:54:40",
+      "utterance": "私も鬱に苦しんでいたので、この中で吉田さんのお気持ちに届くところが少しでもあれば、と思ってお恥ずかしながらお話しさせていただきました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:58:05",
+      "utterance": "すみません、間が空いてしまいました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:58:14",
+      "utterance": "吉田さんのお気持ち、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-04T17:58:54",
+      "utterance": "私は、頑張れてません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:59:30",
+      "utterance": "頑張らないで大丈夫ですよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T17:59:50",
+      "utterance": "申し訳ありません、私の表現がよろしくなかったですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T18:00:16",
+      "utterance": "頑張らないで大丈夫、ゆっくりで大丈夫ということをお伝えしたかったのです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-04T18:00:38",
+      "utterance": "それは先生にも夫にも言われます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-04T18:01:15",
+      "utterance": "でも私は何もできてないんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T18:01:49",
+      "utterance": "そうですよね。吉田さんの、お気持ち、とても伝わります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T18:04:11",
+      "utterance": "たびたび間が空いてしまって申し訳ありません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T18:05:12",
+      "utterance": "頑張りたい、でも気力がわかない、そのお気持ち、とてもよくわかります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T18:05:33",
+      "utterance": "先ほど、私のお話をさせていただいたのですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T18:06:31",
+      "utterance": "もうされているかもしれませんが、植物を何か育ててみてはいかがでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T18:07:07",
+      "utterance": "生活の中にそれを取り入れることで、家事をする気力が取り戻せる可能性があります。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-04T18:07:41",
+      "utterance": "家のことも出来ないことがあるのに、育てられるでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T18:09:12",
+      "utterance": "僕は、最初は失敗したこともありました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T18:09:21",
+      "utterance": "でも、水をあげるだけです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T18:09:49",
+      "utterance": "そして、植物をみているだけで、不思議と気力が戻ってきました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T18:11:03",
+      "utterance": "とても簡単なので、育てられると思いますよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T18:11:21",
+      "utterance": "もしよかったらやってみてください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-04T18:11:32",
+      "utterance": "はい、考えてみます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T18:12:17",
+      "utterance": "今日は、お話をしてくださってありがとうございます。そろそろお時間になってしまうのですが、今のお気持ち、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-04T18:13:09",
+      "utterance": "ちょっと疲れました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-04T18:13:20",
+      "utterance": "また横になろうと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-04T18:13:25",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T18:14:15",
+      "utterance": "そうですよね。お気持ちを話すのは、体力のいることですから。こちらこそ、ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T18:14:35",
+      "utterance": "それでは、こちらで失礼致します。本日はご相談ありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-04T18:14:52",
+      "utterance": "失礼します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T18:15:10",
+      "utterance": "（お疲れ様です。ありがとうございました。）"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-04T18:15:21",
+      "utterance": "こちらこそありがとうございました。お疲れ様でした。失礼します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-04T18:16:17",
+      "utterance": "拙いカウンセリングで本当に失礼致しました。こちらで失礼致します。お時間あります時にご評価いただければ幸いです。"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "鬱による気力の低下"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1783,
+    "評価作成日時": "2021-05-04T21:09:00",
+    "クライアント役ID": 115,
+    "カウンセラー役ID": 157,
+    "点数": 29,
+    "聴いてもらえた、わかってもらえたと感じた": 1,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 0,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 1,
+    "一緒に考えながら取り組めた": 0,
+    "やりとりのリズムがあっていた": 0,
+    "居心地のよいやりとりだった": 0,
+    "全体として適切でよかった": 1,
+    "今回の相談は価値があった": 1,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 1,
+    "肯定・承認": 1,
+    "的確な質問による会話の促進": 2,
+    "要約": 4,
+    "問題の明確化": 1,
+    "この相談での目標の明確化": 1,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 1,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1783,
+    "evaluation_created_at": "2021-05-04T21:09:00",
+    "client_id": 115,
+    "counselor_id": 157,
+    "score": 29,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 3,
+    "gained_new_insights": 0,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 0,
+    "conversation_had_good_rhythm": 0,
+    "conversation_felt_comfortable": 0,
+    "felt_appropriate_and_satisfying": 1,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 1,
+    "provided_acknowledgment_and_affirmation": 1,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 1,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,639 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-02-22T13:22:56",
+      "utterance": "こんにちは。宜しくお願い致します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T13:23:56",
+      "utterance": "時間になりましたら、こちらから始めさせていただきますね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T13:24:30",
+      "utterance": "こんにちは。こちらこそ宜しくお願い致します。承知致しました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T13:30:36",
+      "utterance": "こんにちは。相談員です。本日は相談に来てくださってありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T13:30:46",
+      "utterance": "こんにちは。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T13:31:13",
+      "utterance": "今日はどのようなご相談ですか?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T13:32:12",
+      "utterance": "お話しやすいところからで大丈夫ですよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T13:32:31",
+      "utterance": "今一人で子供を育てているのですが、最近ものすごく疲れてしまって。この先どうしたらいいか、分からないんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T13:33:05",
+      "utterance": "そうなんですね。1人での子育て、しんどいですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T13:33:13",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T13:33:36",
+      "utterance": "あなたの力になりたいので、詳しく聴かせてくださいね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T13:34:03",
+      "utterance": "お子さんはおいくつですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T13:34:23",
+      "utterance": "子供は5歳です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T13:34:42",
+      "utterance": "そうなんですね。お子さんはおひとりですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T13:34:58",
+      "utterance": "はい、そうです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T13:35:10",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T13:35:36",
+      "utterance": "疲れを感じ始めたのはいつ頃からですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T13:36:08",
+      "utterance": "ここひと月ほどです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T13:36:22",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T13:36:40",
+      "utterance": "何かきっかけみたいなものはありましたか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T13:37:30",
+      "utterance": "いえ、特には…。なんだか急に気が塞ぐようになった感じです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T13:38:03",
+      "utterance": "そうだったんですね。それはもどかしくなりますね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T13:38:23",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T13:38:41",
+      "utterance": "お仕事はされているのですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T13:39:20",
+      "utterance": "はい、しています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T13:40:25",
+      "utterance": "子育てとお仕事の両立はとても大変だと思いますが、勤務はどのようですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T13:41:45",
+      "utterance": "朝9時から夕方5時の勤務ですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T13:42:10",
+      "utterance": "フルタイムですね。それだけでも疲れますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T13:42:26",
+      "utterance": "ちなみに、お勤めの間、お子さんは?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T13:43:43",
+      "utterance": "一応保育園に預けています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T13:45:15",
+      "utterance": "そうなんですね。保育所に預けるのも、準備やら、なにやら毎日細々大変ですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T13:45:42",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T13:46:25",
+      "utterance": "先ほど、一応、と言われましたが、どんな感じですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T13:48:55",
+      "utterance": "多分卒園まで大丈夫とは思うのですが、金銭的に心配なところがありまして。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T13:49:18",
+      "utterance": "ええ、（聴いています）"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T13:50:46",
+      "utterance": "私も体調を崩しがちで、今の仕事もパートなので、休むとその分給料も減るので、その辺りの心配も心に余裕がなくなっていることにつながっていると思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T13:51:52",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T13:52:16",
+      "utterance": "それは、不安ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T13:52:23",
+      "utterance": "はい別れた夫からの慰謝料の支払いも滞っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T13:53:06",
+      "utterance": "夫さんとは、別れて一人で子育てされていたんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T13:53:20",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T13:53:24",
+      "utterance": "勇気を出されましたね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T13:53:46",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T13:54:20",
+      "utterance": "小さなお子さんを抱えていると、なかなか、ふんぎりがつかなかったことと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T13:54:56",
+      "utterance": "ええ、そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T13:55:25",
+      "utterance": "別れたのは、いつ頃ですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T13:56:10",
+      "utterance": "一年程前です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T13:56:27",
+      "utterance": "そうでしたか…。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T13:57:30",
+      "utterance": "この一年、一人で子育てしながら、一生懸命に生活されてきましたね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T13:57:49",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T13:58:15",
+      "utterance": "別れるときは、スムーズでしたか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T13:58:48",
+      "utterance": "いえ、揉めました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T13:59:03",
+      "utterance": "そうでしたか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T13:59:26",
+      "utterance": "差し支えなければ、お話していただけますか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T14:00:50",
+      "utterance": "もともと夫のDVが原因で別れたのですが、別れる時も子供の親権とか要求してきたり、脅されるようなこと言われたり、本当に疲れました…。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T14:01:13",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T14:01:38",
+      "utterance": "長い間、安心して暮らせなかったのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T14:01:52",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T14:02:15",
+      "utterance": "別れるに至るまでに、本当に沢山のエネルギーを使ってこられましたね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T14:02:35",
+      "utterance": "そうですね…。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T14:03:05",
+      "utterance": "慰謝料が滞っている、ということでしたが、それ以外に、夫さんとのことで、気になっていることはありますか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T14:04:24",
+      "utterance": "無いというか、もう本当にお金さえくれればそれでいいくらいにしか思ってないです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T14:04:44",
+      "utterance": "それ以外関わりたくも無いという感じです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T14:05:28",
+      "utterance": "お気持ち分かります。ひつこく付きまとわれたり、ということはないようで、良かったです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T14:06:06",
+      "utterance": "はい、ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T14:06:44",
+      "utterance": "今、一番心配なことは何ですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T14:07:35",
+      "utterance": "この先ちゃんとやっていけるのか、不安で不安で仕方がないところですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T14:08:46",
+      "utterance": "あなたのちゃんとやっていくとは、どのような感じですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T14:09:35",
+      "utterance": "子供にも不自由な想いをさせることなく過ごすことです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T14:09:49",
+      "utterance": "うんうん、そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T14:10:46",
+      "utterance": "そのように考えて一生懸命やられているのに、体調が悪くなったり、慰謝料が滞ったりすると、とても不安になりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T14:11:00",
+      "utterance": "はい…。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T14:11:39",
+      "utterance": "今までのお話をお聴きして、"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T14:11:59",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T14:12:52",
+      "utterance": "あなたは、お子さんのことを考え、とてもよくやられていると思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T14:13:25",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T14:13:29",
+      "utterance": "愛情深く、お子さんを育て、将来のことも考えていらっしゃいます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T14:13:47",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T14:14:42",
+      "utterance": "あなたの今の思いを相談できる方はいますか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T14:15:29",
+      "utterance": "いえ、特には…。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T14:15:56",
+      "utterance": "そうですか。1人で抱えているとしんどいですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T14:16:05",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T14:16:59",
+      "utterance": "せめて体調が悪くなった時、十分休息が取れれば、と思うのですが、今はどうされていますか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T14:18:40",
+      "utterance": "あまりにもしんどい時だけ休みを取ってます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T14:19:18",
+      "utterance": "それは、しんどいですよね。ぎりぎりまで頑張って来られたんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T14:19:38",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T14:20:55",
+      "utterance": "1人の時間などもたれていますか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T14:22:24",
+      "utterance": "ほぼ取れてないかもですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T14:22:36",
+      "utterance": "そうですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T14:22:42",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T14:24:03",
+      "utterance": "特に子育てされている方の中で、お子さんを大切に思われている人ほど、一人の時間をもつことに罪悪感を感じる方が多いようですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T14:24:12",
+      "utterance": "如何ですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T14:25:29",
+      "utterance": "というより時間配分的に難しいという感じですかね。休日でもまだまだ子供に目が離せないですし。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T14:25:57",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T14:26:04",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T14:26:22",
+      "utterance": "経済的な問題は、すぐに解決は難しいかもしれませんが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T14:27:01",
+      "utterance": "あなたも感じておられるように、気持ちの余裕、ということも大切なのかもしれません。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T14:27:14",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T14:28:12",
+      "utterance": "保育園に迎えに行く時間を少し遅くして、30分だけ一人でお茶を飲んだり、ウインドウショッピングをしたりと"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T14:29:21",
+      "utterance": "リラックスする時間をもつ工夫をされてみるのも良いかもしれませんね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T14:30:07",
+      "utterance": "これは、戦略的回復、といって、明日に向かっていく力を蓄えていく方法の一つなんです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T14:30:38",
+      "utterance": "ええ、そうなんですね。そういえば何かしないとと思うばかりで、あえてゆっくりする時間を作ってみるなんて今まで考えたことも無かったです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T14:31:58",
+      "utterance": "一生懸命にやって来られたから、それは自然なことだと思います。でも、一度、何かリラックスできることをなさってみていただければ、と思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T14:32:43",
+      "utterance": "はい、日常の中でそういう時間が取れそうな場面をまずは探してみます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T14:33:34",
+      "utterance": "そうですね。また、やってみてどうだったか、聴かせていただければ嬉しいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T14:34:19",
+      "utterance": "何とか、あなたの不安が軽減されますよう、応援しています。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T14:34:24",
+      "utterance": "ええ、こちらこそまたどうだったかお話聞いていただければと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T14:34:30",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T14:35:16",
+      "utterance": "今日は大切なお話を聴かせて下さりありがとうございました。では今日の相談を終了せていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T14:35:36",
+      "utterance": "はい、ありがとうございました。それでは失礼いたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T14:35:50",
+      "utterance": "ありがとうございました。失礼致します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T14:36:26",
+      "utterance": "★ありがとうございました。ロールプレイを終了して宜しいですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-02-22T14:36:40",
+      "utterance": "はい、大丈夫です。ありがとうございました。お疲れ様でした。失礼いたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-02-22T14:37:05",
+      "utterance": "お疲れさまでした。失礼いたします。"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "一人親としての子育ての疲れと経済的な不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1382,
+    "評価作成日時": "2021-02-22T16:59:00",
+    "クライアント役ID": 115,
+    "カウンセラー役ID": 91,
+    "点数": 81,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 5,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 3,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 3,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 5,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1382,
+    "evaluation_created_at": "2021-02-22T16:59:00",
+    "client_id": 115,
+    "counselor_id": 91,
+    "score": 81,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

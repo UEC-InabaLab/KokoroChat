@@ -1,0 +1,879 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2020-10-14T12:31:36",
+      "utterance": "こんにちは"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T12:32:11",
+      "utterance": "今日はよろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T12:32:19",
+      "utterance": "よろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T12:33:27",
+      "utterance": "こんにちは相談員です差し支えなければ、性別と年齢を教えていただけますでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T12:33:58",
+      "utterance": "14才、女です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T12:34:22",
+      "utterance": "お答えいただきありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T12:34:37",
+      "utterance": "今日はどのような相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T12:35:10",
+      "utterance": "はい、友達ができなくて…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T12:35:32",
+      "utterance": "そうなんですね心配ですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T12:35:43",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T12:36:04",
+      "utterance": "今中学１年生？でしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T12:36:33",
+      "utterance": "2年です。今年、引越して転校したんですけど"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T12:36:52",
+      "utterance": "うん、うん"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T12:37:12",
+      "utterance": "新しい学校になじめなくて"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T12:37:30",
+      "utterance": "そうだったんですね・・"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T12:37:53",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T12:38:19",
+      "utterance": "転校したのは何月からですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T12:38:36",
+      "utterance": "年度の初めでした"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T12:38:49",
+      "utterance": "でも学校がしばらくなかったので…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T12:39:21",
+      "utterance": "ええ、コロナで休校だったんですね・・"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T12:39:31",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T12:40:07",
+      "utterance": "学校が始まったのは、いつ頃からでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T12:40:43",
+      "utterance": "6月の半ば？初めは一日置き登校でした"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T12:42:21",
+      "utterance": "そうなんですね学校生活も通常通りではない中、お友達を作るのは大変な感じですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T12:43:10",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T12:43:56",
+      "utterance": "みんな知らない子で自己紹介の時に山形から来ましたって言ったら"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T12:44:14",
+      "utterance": "田舎！って叫んだ男子がいて"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T12:44:45",
+      "utterance": "なんだか言葉もバカにされそうで"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T12:44:52",
+      "utterance": "転校したばかりで・・コロナの時期と重なっていまい・・不安なのに・・そんなひどいことを言われたんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T12:45:09",
+      "utterance": "はい…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T12:45:59",
+      "utterance": "前に住んでいたのは地方の何県だったのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T12:46:25",
+      "utterance": "え？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T12:46:52",
+      "utterance": "山形県でした"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T12:47:00",
+      "utterance": "ごめんなさい行違ってしまいましたね山形でしたね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T12:47:27",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T12:47:40",
+      "utterance": "向こうの友達に会いたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T12:48:17",
+      "utterance": "そうですよね淋しい気持ちになってしまいますね・・"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T12:48:24",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T12:49:23",
+      "utterance": "今の学校は都会にある学校でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T12:49:50",
+      "utterance": "東京都立です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T12:50:26",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T12:50:31",
+      "utterance": "23区内っていうんですかね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T12:51:07",
+      "utterance": "お父さんの転勤で仕方なかったんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T12:51:31",
+      "utterance": "でしたら、なおのこと今までとは環境も違って戸惑ってしまいますね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T12:51:57",
+      "utterance": "はい向こうでは何でものんぴりしててよかったのに"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T12:52:05",
+      "utterance": "全然違います"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T12:52:44",
+      "utterance": "山形のお友達とは雰囲気も違うのでしょうね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T12:53:32",
+      "utterance": "そうですねみんな、なんかそっけない感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T12:54:29",
+      "utterance": "まずはこちらの環境にも慣れないといけないのに、言葉も違ってしまうのは辛いですねお友達の雰囲気もやはり、違って感じられるのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T12:55:22",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T12:55:28",
+      "utterance": "そっけない、というのは何だか冷たいような感じがするんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T12:55:57",
+      "utterance": "はい。そうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T12:56:18",
+      "utterance": "山形のお友達と、どうしても比べてしまいますよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T12:56:55",
+      "utterance": "そうですね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T12:57:09",
+      "utterance": "あなたは、向こうではお友達がたくさんいるタイプでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T12:57:40",
+      "utterance": "はい。普通に仲良しがいました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T12:57:51",
+      "utterance": "そうだったんですね・・"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T12:58:15",
+      "utterance": "こっちでは学校でいつもまだ緊張してて"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T12:58:35",
+      "utterance": "今までお友達ができなかったななんていう体験は初めてなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T12:58:49",
+      "utterance": "はい、そうなんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T12:58:55",
+      "utterance": "ええ緊張して不安ですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T12:59:04",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T12:59:45",
+      "utterance": "担任の先生とかはどんな感じの方ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:00:44",
+      "utterance": "人のことをバカにしてると思います。自己紹介の時も一緒になって笑ってました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:01:29",
+      "utterance": "そうなんですか・・何だか悲しくなってしまいますね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:01:41",
+      "utterance": "部活も始まったんですけどなかなか輪に入れない気がしてて"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:01:54",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:02:17",
+      "utterance": "どんな部活をされているんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:02:27",
+      "utterance": "バスケ部に入りました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:02:42",
+      "utterance": "素敵ですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:03:29",
+      "utterance": "小学校から一緒の仲間みたいで会話についていけません"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:04:24",
+      "utterance": "同じ小学校から来ているグループみたいなのが、あるんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:04:41",
+      "utterance": "そうみたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:04:53",
+      "utterance": "女の子のグループ？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:05:03",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:05:49",
+      "utterance": "グループだと、入っていくのは難しそうですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:06:48",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:07:20",
+      "utterance": "住んでいた環境も違うし、どんなことを話したらいいか悩んでしまいますよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:07:51",
+      "utterance": "グループに入ってない女の子とかはいないのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:08:19",
+      "utterance": "部活の中ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:08:40",
+      "utterance": "いない事もないかもです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:08:53",
+      "utterance": "はい、部活も、クラスの中にも、です"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:09:32",
+      "utterance": "クラスではできるだけ話さないようにしてるのでよくわかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:09:59",
+      "utterance": "そっかグループに入ってない子に話かけたりもしてないのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:10:32",
+      "utterance": "話さないようにしているのは、どんな気持ちからですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:11:05",
+      "utterance": "イントネーションが変だってクスクス笑う人がいるから"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:11:16",
+      "utterance": "そうだったんですね・・"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:12:07",
+      "utterance": "すごく恥ずかしいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:12:10",
+      "utterance": "笑われてしまうと、話すのが嫌になってしまうのはもっともですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:12:37",
+      "utterance": "そうですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:13:49",
+      "utterance": "中には笑わないお友達もいるのでは？と思うのですが・・いかがでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:14:56",
+      "utterance": "いるんでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:15:14",
+      "utterance": "方言やイントネーションが違ってもいいと思っているお友達はきっといると思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:15:36",
+      "utterance": "そうですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:17:08",
+      "utterance": "テレビドラマでも方言を話すドラマだってあるのですから、きっと気にしない人もいるのではないかしら、と思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:18:49",
+      "utterance": "はいでも誰が気にしてないのかとかよく分かりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:19:17",
+      "utterance": "今のクラスのお友達は、たまたま山形の言葉を知らないから、笑うのかもしれません"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:20:00",
+      "utterance": "はい・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:20:07",
+      "utterance": "笑ったからといって、それがバカにして笑っているのとは違う気がします"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:21:22",
+      "utterance": "言葉、直そうかと思ってたんですけど、それも自信なくて"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:21:55",
+      "utterance": "あなただって、大阪弁とかをお友達が喋っていたらもしかしたらクスっと笑いたくなるような言い回しがあるかも？と思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:22:41",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:23:14",
+      "utterance": "直そうと思ってしまうほど悩んでいるんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:23:34",
+      "utterance": "ああ、そうですね。大阪弁はそうかもしれません"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:24:12",
+      "utterance": "会話のたびにいちいち聞き返されたりするかも、とか思うと"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:26:15",
+      "utterance": "そっか不安に思ってしまうんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:26:42",
+      "utterance": "そうなんです。いちいち緊張します"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:26:44",
+      "utterance": "今までも聞き返されたりしてたんですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:27:31",
+      "utterance": "それとも、たぶんそうかなあ・・と不安や緊張した気持ちが強いのか・・"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:27:44",
+      "utterance": "はい聞き返すっていうか、笑いながら真似してきたりとか"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:28:19",
+      "utterance": "別に会話が通じない訳ではないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:28:24",
+      "utterance": "うん、うん真似されるのは嫌な気持ちになりますね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:29:07",
+      "utterance": "相手は楽しんでるかも、だけどこっちは全然楽しくないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:29:12",
+      "utterance": "真似しないで、って強くは言えないですものね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:29:57",
+      "utterance": "真似されて楽しい気持ちにはなれなくて当然です"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:30:03",
+      "utterance": "怒ったりしたらまた何言われるかわかりません。余計にいじられそうだし"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:30:20",
+      "utterance": "そうですよね・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:31:25",
+      "utterance": "あなたは、真似されても仕方なくニコニコしている感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:32:02",
+      "utterance": "はい、そんな感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:32:18",
+      "utterance": "ここまでお話を伺って感じたことをお伝えしてもよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:32:27",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:34:15",
+      "utterance": "あなたは、山形から引っ越しのため今の学校に転校してきましたが、言葉のハンデがあってなかなか学校になじめずにお友達が出来なくて悩んでるのですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:34:33",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:35:35",
+      "utterance": "本当は、あなたはお友達ができないタイプではなくてむしろ仲良しの友達もいるくらい社交的な方だと思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:36:01",
+      "utterance": "はい、前はそうでした"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:36:59",
+      "utterance": "でも、話すと笑って真似されたりバカにされているように思ってしまい、今はとてもひっこみじあんになってしまっています"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:37:08",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:38:44",
+      "utterance": "方言は決して悪いものではありません"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:39:09",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:39:48",
+      "utterance": "あなたも笑われたり真似されたり、ましてバカにされるなんてあってはならないことです"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:41:30",
+      "utterance": "いっぱいありますけど、そうなんですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:41:52",
+      "utterance": "あなとのことを、ちゃんと見てくれているお友達がきっといる筈ですグループに所属していないお友達がいないか良く観察して、勇気をだして話しかけてみませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:42:51",
+      "utterance": "はい、、やってみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:43:52",
+      "utterance": "そして、あまりバカにされたり真似されたりして嫌な気持になったら、保険の先生とか、あとは話しやすそうな先生に相談してみることも大事だと思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:44:34",
+      "utterance": "はい。分かりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:44:41",
+      "utterance": "それがエスカレートしたらいじめの対象になる可能性もあるからです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:45:10",
+      "utterance": "あなたが、一人で悩んで抱え込む必要はありません"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:45:32",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:46:00",
+      "utterance": "また、こちらでもいいですし、話したいことがあったら相談にきてくださいね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:46:24",
+      "utterance": "はい、お願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:46:46",
+      "utterance": "あなたは一人ではありませんあなたを心配してくれている人はたくさんいると思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:47:21",
+      "utterance": "そうでしょうか…。でも、ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:47:38",
+      "utterance": "きっとあなたのことをわかってくれるお友達がいるはずです"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:48:03",
+      "utterance": "はい…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:48:15",
+      "utterance": "あなたが楽しい学校生活が送れますように応援しています"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:48:35",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:49:06",
+      "utterance": "あなたなら、きっと大丈夫言葉だけでなく、笑顔も大事です"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:49:22",
+      "utterance": "また相談にくるかもしれません。でもその前に先生に話してみます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:49:37",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:49:56",
+      "utterance": "はい。ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:49:59",
+      "utterance": "ぜひ、相談してみてくださいね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:50:14",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:50:36",
+      "utterance": "今日の相談はこれで大丈夫でしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:50:46",
+      "utterance": "はい大丈夫です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:51:17",
+      "utterance": "今日は大切なお話を聞かせてくれてありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:51:47",
+      "utterance": "ではこれで終了にさせて頂きますね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:52:02",
+      "utterance": "はい。ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:52:15",
+      "utterance": "こちらこそありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:52:50",
+      "utterance": "（すみません、時間が過ぎてしまいました。今日はありがとうございました。）"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:53:15",
+      "utterance": "(いえ、こちらこそありがとうございました。)"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-14T13:53:23",
+      "utterance": "（終了ボタンを押しますね）"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-14T13:53:30",
+      "utterance": "お願いします"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "友達作りの困難さ"
+  },
+  "review_by_client_jp": {
+    "評価ID": 562,
+    "評価作成日時": "2020-10-14T14:29:00",
+    "クライアント役ID": 26,
+    "カウンセラー役ID": 93,
+    "点数": 67,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 4,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 4,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 562,
+    "evaluation_created_at": "2020-10-14T14:29:00",
+    "client_id": 26,
+    "counselor_id": 93,
+    "score": 67,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

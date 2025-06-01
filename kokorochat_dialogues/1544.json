@@ -1,0 +1,499 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2021-03-31T19:51:27",
+      "utterance": "本日はよろしくお願いいたします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T19:53:59",
+      "utterance": "カウンセラー役をさせていただきます。本日はよろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T19:54:44",
+      "utterance": "時間が来たら開始させていただきますね"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T19:55:08",
+      "utterance": "了解しました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T20:00:15",
+      "utterance": "こんにちは。相談員です。最初に年齢と性別を教えてください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T20:01:01",
+      "utterance": "17歳　男です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T20:01:24",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T20:01:42",
+      "utterance": "では、本日はどのようなお悩みでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T20:02:13",
+      "utterance": "勉強ができません"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T20:02:22",
+      "utterance": "就職できないかも"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T20:03:02",
+      "utterance": "勉強ができない　とお悩みなのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T20:03:28",
+      "utterance": "少し詳しく教えてください"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T20:04:07",
+      "utterance": "授業が特にわからないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T20:05:00",
+      "utterance": "そうねんですね。いま高校生ですね何年生ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T20:05:58",
+      "utterance": "2年です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T20:07:32",
+      "utterance": "はい。大学進学を考えていますか？就職をかんがえていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T20:08:25",
+      "utterance": "就職できないかもと話したと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T20:08:50",
+      "utterance": "そうでしたね。失礼いたしました"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T20:10:15",
+      "utterance": "どうすればいいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T20:10:25",
+      "utterance": "勉強ができなくてお悩みなのですね。それは、学校にいくのもしんどくなりますね"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T20:11:07",
+      "utterance": "そう感じていますどうすればいいですかる"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T20:11:12",
+      "utterance": "ですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T20:11:18",
+      "utterance": "どうすればいいか、一緒に考えていきましょう"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T20:11:55",
+      "utterance": "勉強は特に何が苦手ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T20:13:35",
+      "utterance": "機械工学がわかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T20:14:32",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T20:15:13",
+      "utterance": "ちなみに就職先はどのようなところを目指していますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T20:15:43",
+      "utterance": "工業高校なので、多分そっち系統になると思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T20:17:14",
+      "utterance": "はい。学校の先生やご両親に相談されましたか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T20:18:01",
+      "utterance": "ちなみに何とお呼びしたらいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T20:18:51",
+      "utterance": "ケイでいいです相談できないのでここに来ました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T20:19:57",
+      "utterance": "そうだったのですね。先生には成績のことで何かいわれたりしますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T20:21:07",
+      "utterance": "よくないねと言われてます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T20:21:52",
+      "utterance": "そうなんですね。それは気が重くなりますね"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T20:22:52",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T20:23:09",
+      "utterance": "ご両親には成績の事は何かいわれますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T20:23:54",
+      "utterance": "無関心です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T20:24:39",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T20:25:49",
+      "utterance": "学校のお友達とは成績や就職の事ははなしますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T20:26:11",
+      "utterance": "恥ずかしくて話せません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T20:26:46",
+      "utterance": "そうなんですね。一人で抱え込んでしんどいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T20:27:57",
+      "utterance": "どうすればいいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T20:30:23",
+      "utterance": "うーん。もう少し質問させていただきますね。工業高校の就職についてもう少し詳しく教えてください。工業高校は成績で就職先が決まっていく感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T20:31:46",
+      "utterance": "違うと思いますが、、、いい人からいいところに決まっていくのが普通だと思います"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T20:32:03",
+      "utterance": "入社試験などもありますし"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T20:32:29",
+      "utterance": "なるほど。成績以外に何か考慮されることがありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T20:33:04",
+      "utterance": "面接ですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T20:35:15",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T20:37:36",
+      "utterance": "ケイさんは就職活動をするにあたり、一番不安なのはどういったことですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T20:38:53",
+      "utterance": "？就職できないかもと話したと思いますが、、、それが不安なんだと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T20:39:52",
+      "utterance": "これまでのお話をまとめてみてもいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T20:40:04",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T20:44:06",
+      "utterance": "今高校2年生で学校の勉強についていけず、就職できないかも　と悩んでいる学校の先生にも成績はあまりよくないといわれていて、ご両親はあなたに無関心で話していない。友達にも恥ずかしくて言えず、一人で抱え込んてとても不安でしんどい。どうしたらいいのかわからない"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T20:44:56",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T20:47:44",
+      "utterance": "とても不安な気持ちを抱えて一人よく頑張ていますね。すこしだけ少し勇気を出して周りの方に話してみてはどうかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T20:48:27",
+      "utterance": "できないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T20:49:28",
+      "utterance": "そのようにお感じなのですね。そのように感じるのに理由がありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T20:49:51",
+      "utterance": "恥ずかしいからです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T20:51:21",
+      "utterance": "そうなんですね。何か恥ずかしい体験をしたことがありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T20:52:22",
+      "utterance": "悪い成績に見られていい気持ちになる人はいないと思いますし、"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T20:52:42",
+      "utterance": "僕は恥ずかしいと感じます"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T20:52:51",
+      "utterance": "笑われますし"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T20:55:34",
+      "utterance": "うん、うん。笑われたことがあるのかな？以前に"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T20:55:48",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T20:57:19",
+      "utterance": "そうだったんだね。それはあなたにとってとても苦い体験でしたね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T20:57:59",
+      "utterance": "これでなにかわかりましたか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T20:59:55",
+      "utterance": "どうかわからないけど、人前でなにか嫌なことを言われたりしたことがあるとかかな？それがあってから、あまり人に相談したりできなくなったのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T21:01:39",
+      "utterance": "笑われたことは嫌なことです"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T21:02:07",
+      "utterance": "笑われていい思いはしません"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T21:02:35",
+      "utterance": "(時間ですが少しつづけますか？)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T21:03:05",
+      "utterance": "お時間大丈夫ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T21:03:37",
+      "utterance": "(多少なら大丈夫です)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T21:04:25",
+      "utterance": "（できるだけ早く切り上げますね）"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T21:05:21",
+      "utterance": "(完結しなくてもいいのでキリのいいとこまでいきましょう、現場を想定して)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T21:09:01",
+      "utterance": "笑われて嫌な体験をされて辛かったですね。笑われたことでケイさんは自分を否定され自信をなくしかけているのかもしれませんね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T21:10:58",
+      "utterance": "そうなんですか、、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T21:14:13",
+      "utterance": "でも、今まで頑張ってきて、今も一人で抱えこみながらも一生懸命頑張っているのですからこれはすごく前向きでいいことだと思います。決してあなたをすべて否定されたわけはないのですから、前を向いて進んでいれば必ず道は開けてくると思いますよ！！これからも前を向いて進んでいってください。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T21:15:32",
+      "utterance": "きょうはそろそろ時間がきてしまいましたが、ここまで相談してみていかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T21:15:46",
+      "utterance": "わかりました、ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T21:17:23",
+      "utterance": "次回また相談にきていただいたときは別の相談員が対応することになると思いますが、今回の相談内容はわかるようにしておきますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T21:17:56",
+      "utterance": "本日はご相談ありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T21:18:28",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T21:19:04",
+      "utterance": "(お疲れ様でした、フィールドバックはこの後送りますね)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T21:19:09",
+      "utterance": "ロールプレイの時間を過ぎてしまいましたがどうもありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-03-31T21:20:04",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-03-31T21:20:08",
+      "utterance": "はい。お願いします。お疲れ様でした。ではロールプレイ終了させていただきます"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "就職活動に対する不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1544,
+    "評価作成日時": "2021-03-31T21:27:00",
+    "クライアント役ID": 51,
+    "カウンセラー役ID": 161,
+    "点数": 61,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 2,
+    "要約": 2,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1544,
+    "evaluation_created_at": "2021-03-31T21:27:00",
+    "client_id": 51,
+    "counselor_id": 161,
+    "score": 61,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

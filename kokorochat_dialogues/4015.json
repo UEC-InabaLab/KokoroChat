@@ -1,0 +1,874 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-09-22T09:53:01",
+      "utterance": "（おはようございます。今日はよろしくお願いします。）"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T09:53:19",
+      "utterance": "よろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T09:53:42",
+      "utterance": "（時間前ですが、定時からスタートしますか？）"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T09:53:59",
+      "utterance": "お任せします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T09:54:37",
+      "utterance": "（それでは、これかこら１時間でお願いします。）"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T09:54:48",
+      "utterance": "了解しました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T09:55:35",
+      "utterance": "おはようございます。相談員です。まず初めによろしかったら年齢、性別、相談内容についてお聞かせ下さい。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T09:56:18",
+      "utterance": "おはようございます、40代、女性です、相談内容は、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T09:56:29",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T09:56:41",
+      "utterance": "姉との関係についてです、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T09:58:25",
+      "utterance": "そうなんですね。お姉さまとの関係ということで、具体的にはどのようなことでご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T09:59:11",
+      "utterance": "4つ上に姉がいるのですが、最近疎遠にしています、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T09:59:22",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T09:59:34",
+      "utterance": "もうお互い大人なので、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T09:59:42",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T09:59:50",
+      "utterance": "ベタベタする必要はありませんが、"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:00:04",
+      "utterance": "このままでいいのかな、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:00:05",
+      "utterance": "そう思われていらっしゃるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:00:28",
+      "utterance": "とたまに思ったりします、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:00:39",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:00:45",
+      "utterance": "はい、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:01:45",
+      "utterance": "それは、気になられますよね。このままでいいのかなと思われますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:01:56",
+      "utterance": "はい、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:02:43",
+      "utterance": "いつ頃からそのようにお感じになられたのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:03:12",
+      "utterance": "この数日です、"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:03:29",
+      "utterance": "明日、兄夫婦が遊びに来るので、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:03:39",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:03:44",
+      "utterance": "思い出しました、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:03:54",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:03:58",
+      "utterance": "はい、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:05:04",
+      "utterance": "お姉さんとの間でそのように感じられる何かきっかになるようなことは、ございましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:05:48",
+      "utterance": "はい、今年の新年の集まりで、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:05:57",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:06:20",
+      "utterance": "酔っ払って子どもたちの前でおでこを叩かれました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:06:51",
+      "utterance": "姉は冗談のつもりだと思うのですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:07:08",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:07:22",
+      "utterance": "とても腹が立ち、それから距離を取っています、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:08:05",
+      "utterance": "そんな事が、おありだったのですね。それは、腹が立ちますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:08:11",
+      "utterance": "はい、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:09:19",
+      "utterance": "どうしてお姉さまは、そのような事をされたか、考えられると事は、おありですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:09:59",
+      "utterance": "母から聞いた話しですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:10:07",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:10:54",
+      "utterance": "わたしが冗談で旦那のことを悪く言ったことに対してツッコミを入れたと、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:11:10",
+      "utterance": "なるほど"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:11:12",
+      "utterance": "わたしの旦那のことなのに、"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:11:23",
+      "utterance": "何が悪いのか、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:11:41",
+      "utterance": "そうですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:13:06",
+      "utterance": "その話をお母さまからお聞きになられて、どんなお気持ちになられましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:13:31",
+      "utterance": "自分のことを棚に上げて、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:13:38",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:13:42",
+      "utterance": "とさらに腹が立ちました、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:15:27",
+      "utterance": "そう思われたのですね。自分の事を棚に上げてとお聞きしましたが、お姉さまも旦那さんの事を、お母さまに話されていらしゃるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:16:32",
+      "utterance": "姉は旦那さんに頭が上がらないので、悪くいいません、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:16:52",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:17:11",
+      "utterance": "でも、他の人、自分が気に入らない人に対しては全否定します、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:17:28",
+      "utterance": "そうなんですか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:18:17",
+      "utterance": "それは、貴方としては、納得いかないですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:18:32",
+      "utterance": "はい、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:19:04",
+      "utterance": "ご兄弟は、何人でいらしゃるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:19:27",
+      "utterance": "３人兄妹です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:20:23",
+      "utterance": "そうでらっしゃるんですね。お兄さまとは、どのような関係でいらしゃるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:20:41",
+      "utterance": "私ですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:20:54",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:21:02",
+      "utterance": "良好です、"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:21:25",
+      "utterance": "兄はあまり自己主張しないタイプなので、"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:22:04",
+      "utterance": "いつも中立でいたがります、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:22:04",
+      "utterance": "そうなんですね。お兄さまとお姉さまの関係は、どのような感じでいらしゃるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:22:22",
+      "utterance": "兄はシスコンです、"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:22:36",
+      "utterance": "姉には服従しています、"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:23:01",
+      "utterance": "昔からそうでしたね、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:23:06",
+      "utterance": "そうなんですね。それは、貴方としては、やりきれないですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:23:51",
+      "utterance": "そうですね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:24:14",
+      "utterance": "そう思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:25:34",
+      "utterance": "貴方と、お姉さまのこういった関係は、いつ頃からそう感じられるようになられたのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:26:08",
+      "utterance": "わたしが結婚してからですかね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:26:27",
+      "utterance": "そうなんですか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:26:37",
+      "utterance": "独身のころは可愛がってくれていました、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:26:50",
+      "utterance": "そうだったのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:26:59",
+      "utterance": "甥っ子たちともよく遊びましたし、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:27:12",
+      "utterance": "なるほど"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:27:17",
+      "utterance": "はい、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:28:42",
+      "utterance": "貴方のご結婚が、お姉さまにどのような影響があられたとお感じになりますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:28:58",
+      "utterance": "そうですね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:29:06",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:29:27",
+      "utterance": "わたしと姉は真逆の人生を歩んでいるように感じています、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:29:46",
+      "utterance": "そう思われていらっしゃるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:29:56",
+      "utterance": "彼女は20才でできちゃった結婚"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:30:14",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:30:35",
+      "utterance": "わたしは31才で式を挙げて結婚"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:30:55",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:31:19",
+      "utterance": "はい、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:32:24",
+      "utterance": "その事が、お姉さまにどのような考えを持たれるようになられたとお考えですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:33:03",
+      "utterance": "お互い違い過ぎて、同じ経験をしているようで違うのだと思います、"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:33:27",
+      "utterance": "子育てしている時代も環境も違うので、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:33:39",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:34:11",
+      "utterance": "彼女の態度から察すると、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:34:19",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:34:24",
+      "utterance": "気に入らないのでしょう、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:34:37",
+      "utterance": "なるほど"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:34:59",
+      "utterance": "はい、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:36:21",
+      "utterance": "子育てされていた、時代も環境も違うとお聞きしましたが、具体的にはどのような違いなんでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:37:22",
+      "utterance": "10年違うのと地域が違います、あとは収入ですかね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:37:42",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:38:01",
+      "utterance": "20才の夫婦では本当大変だったと想像します、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:38:50",
+      "utterance": "そうですよね、貴方の言われるようにしんどかったでしょうね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:39:10",
+      "utterance": "あとは母との関係性ですかね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:39:21",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:39:39",
+      "utterance": "どんな関係でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:39:44",
+      "utterance": "反対を押し切って結婚しましたから、"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:40:07",
+      "utterance": "でも支援を受けていましたよ、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:40:23",
+      "utterance": "そうなんですか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:40:58",
+      "utterance": "金銭面や孫の世話も母はしていましたし、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:41:13",
+      "utterance": "そうなんですか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:41:16",
+      "utterance": "はい、"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:42:09",
+      "utterance": "それを見ていたので、わたしは母に賛成してもらえる結婚をしようと決めていました、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:42:30",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:42:44",
+      "utterance": "はい、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:43:18",
+      "utterance": "そう思わるのは、もっともなことだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:44:24",
+      "utterance": "色々お話聴かせていただき、整理させていただきますので、少しお時間いただけますか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:44:46",
+      "utterance": "はい、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:48:12",
+      "utterance": "貴方は、四つ上の、お姉さまとの関係で、今のままの疎遠でいいのか悩んでいらっしゃる。過去の結婚の生い立ちとか、子育ての環境もお姉さんとは、違っていた。貴方は、旦那さんの事をお姉さんが突っ込んできたことが、納得いかれていない。このような内容でよろしいでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:49:05",
+      "utterance": "はい、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:50:43",
+      "utterance": "お話お聞きしていると、貴方は、お姉さんの事を良く考えられており、お姉さま思いの優しい方と思われますが、いかがですか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:51:09",
+      "utterance": "そうなりますかね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:51:23",
+      "utterance": "そう思います。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:52:42",
+      "utterance": "実はこの件で、わたしは彼女が嫌いだ、と自分の気持ちを確信して、とても納得していました、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:53:09",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:53:39",
+      "utterance": "子どものころから気に入られようと頑張っていたのだなと、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:53:41",
+      "utterance": "今はどのようなお気持ちですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:53:56",
+      "utterance": "もうやめようと、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:54:12",
+      "utterance": "そう思われたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:54:12",
+      "utterance": "気に入られる必要もないし、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:54:24",
+      "utterance": "そうですよね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:55:04",
+      "utterance": "何より、自分の家族を大切にしたいです、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:55:50",
+      "utterance": "そうですよね。貴方は、貴方の考えで進まれてと思いますが、いかがですか"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:56:28",
+      "utterance": "そうですね、でも母の気持ちを考えると複雑になります、"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:56:53",
+      "utterance": "やっぱりできれば、兄妹仲良くしてほしいでしょうから、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:57:32",
+      "utterance": "そうですよね。お母さまもきっとそう思われていると思います。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:57:39",
+      "utterance": "はい、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:58:24",
+      "utterance": "お姉さまとも仲良く行けそうですか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:58:40",
+      "utterance": "いや、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:58:52",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:59:05",
+      "utterance": "彼女から歩み寄りがないとキツイですね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T10:59:19",
+      "utterance": "そうですか"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T10:59:29",
+      "utterance": "はい、すみません、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T11:00:55",
+      "utterance": "お話お伺いしていると、根本的には、貴方もお姉さまも仲良くされたいお気持ちはおありかと思いますが、いかがでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T11:01:40",
+      "utterance": "きっとそうですね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T11:01:53",
+      "utterance": "そうだと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T11:01:58",
+      "utterance": "はい、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T11:02:39",
+      "utterance": "大丈夫しうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T11:04:06",
+      "utterance": "ご兄弟の気持ちが、通じてれば貴方の思われている方向に動くと思いますが、いかがでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T11:04:06",
+      "utterance": "はい、⁇ありがとうございました、"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T11:04:43",
+      "utterance": "はい、時間をかけて、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T11:05:00",
+      "utterance": "そう思います。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T11:05:08",
+      "utterance": "徐々に進めいきたいと思います、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T11:05:42",
+      "utterance": "少しずつ進めていかれるのが、良いと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T11:06:12",
+      "utterance": "はい、"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T11:06:50",
+      "utterance": "今日はありがとうございました、すみません、予定がありますので、"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-22T11:07:07",
+      "utterance": "これで失礼します、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T11:07:22",
+      "utterance": "すいません、時間となりましたので、また、お話しされた時は,、起こし下さい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-22T11:07:51",
+      "utterance": "（ありがとうございました。大変勉強になりました。いかがでしたか）"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "姉との疎遠状態とその背景"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4015,
+    "評価作成日時": "2022-09-22T17:37:00",
+    "クライアント役ID": 301,
+    "カウンセラー役ID": 312,
+    "点数": 59,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4015,
+    "evaluation_created_at": "2022-09-22T17:37:00",
+    "client_id": 301,
+    "counselor_id": 312,
+    "score": 59,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

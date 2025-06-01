@@ -1,0 +1,484 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-01-12T15:52:43",
+      "utterance": "（こんにちは。カウンセラー役です。本日はよろしくお願いいたします。時間になりましたら始めさせていただきます。）"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-12T15:53:45",
+      "utterance": "(こんにちは。今日は、よろしくお願いします。では、時間になりましたら、どうぞよろしくお願いします。)"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-12T15:54:24",
+      "utterance": "(相談内容など、何かリクエストございますでしょうか。)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T15:55:26",
+      "utterance": "（中高生の相談者という設定でお願いできますでしょうか？）"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-12T15:56:10",
+      "utterance": "(かしこまりました。内容などは何かご指定ありますか。)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T15:56:39",
+      "utterance": "（ありがとうございます。内容はおまかせします。）"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-12T15:56:59",
+      "utterance": "(かしこまりました。では、よろしくお願いします。)"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T15:57:40",
+      "utterance": "（よろしくお願いいたします）"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T16:00:11",
+      "utterance": "こんにちは。相談員です。ご相談にお越しいただきありがとうございます。はじめに年齢と性別、今日の相談内容を教えていただけますか。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-12T16:00:51",
+      "utterance": "こんにちは"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-12T16:00:59",
+      "utterance": "中１女子"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-12T16:01:16",
+      "utterance": "学校に行きたくない"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T16:01:52",
+      "utterance": "教えてくれてありがとうございます。そう思うのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-12T16:01:58",
+      "utterance": "どうしたらいいの"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T16:03:26",
+      "utterance": "ええ、お困りなのですね。行きたくないと思うのはどんな理由からでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-12T16:04:43",
+      "utterance": "学校に行く時間にお腹痛くなる"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T16:05:17",
+      "utterance": "そうだったんですね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T16:06:13",
+      "utterance": "学校に行こうとするときにしんどくなるのですね、、"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-12T16:07:16",
+      "utterance": "お母さんに言われて学校に行くけど、お腹痛いから帰っちゃう"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T16:08:22",
+      "utterance": "そうでしたか・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T16:10:45",
+      "utterance": "早退することは、あなた自身やお母さんはどう思っているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-12T16:11:25",
+      "utterance": "学校に行ってすぐに帰ってたら、皆にヘンな目で見られるからイヤ"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-12T16:12:05",
+      "utterance": "お母さんもヘンに思ってる"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T16:12:50",
+      "utterance": "ええ、みんなからの視線が気になるのも無理もないと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T16:14:14",
+      "utterance": "そうだったんですね。お腹が痛いのにそう思われるのはもどかしいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-12T16:14:44",
+      "utterance": "私、おかしくないかなあ"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T16:15:42",
+      "utterance": "そう思われるのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T16:16:00",
+      "utterance": "どんなところから、そう感じるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-12T16:16:53",
+      "utterance": "やっぱり、学校には行かなきゃいけないよね。お母さんもそう言ってる"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T16:17:58",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T16:18:39",
+      "utterance": "でも学校に行くときにお腹が痛くなるあなたが心配です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T16:19:29",
+      "utterance": "ちなみに、お腹が痛くなること以外に、学校に行きたくないと思うことがあるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-12T16:22:53",
+      "utterance": "クラスに気になる男子がいる"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T16:23:23",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-12T16:23:54",
+      "utterance": "その子が気になってお腹痛くなっちゃう"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T16:24:19",
+      "utterance": "そうだったんですね・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T16:25:14",
+      "utterance": "もしかしたら「その子が気になるせいでお腹が痛くなるのではないか」とお考えなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-12T16:25:28",
+      "utterance": "うん"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T16:26:43",
+      "utterance": "お話してくれてありがとうございます。その子のどんなことが気になっているか、少し教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-12T16:28:15",
+      "utterance": "その子がいると、気になって緊張しちゃう"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T16:29:18",
+      "utterance": "そうなんですね。。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T16:30:10",
+      "utterance": "その子は同じクラスメイトなのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-12T16:30:54",
+      "utterance": "同じクラスで、先月、転校してきた子。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T16:31:18",
+      "utterance": "そうでしたか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T16:33:48",
+      "utterance": "同じクラスだとクラスにいるとき、気になってしょうがないですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-12T16:34:07",
+      "utterance": "うん"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T16:35:04",
+      "utterance": "その子とはお話したりするのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-12T16:36:19",
+      "utterance": "あまり話さない。話そうとしたら緊張しちゃう"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T16:38:05",
+      "utterance": "そうですよね。余計緊張したりお腹が痛くなるかもしれませんよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T16:39:30",
+      "utterance": "そうすると、お腹が痛くなったのはその子が転校してきてから、ということでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-12T16:40:03",
+      "utterance": "うん"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T16:41:40",
+      "utterance": "いつも、お腹が痛くなった時はどうしているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-12T16:42:45",
+      "utterance": "最初は我慢してたけど、最近は、帰りたくなっちゃう"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T16:44:32",
+      "utterance": "そうだったんですね。我慢するのはしんどかったと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T16:45:20",
+      "utterance": "気になってしまいお腹が痛くなることについて、お友達とかにお話されたことはあるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-12T16:46:11",
+      "utterance": "うーん、ないかな。言うの、恥ずかしいし。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T16:48:16",
+      "utterance": "そうなのですね。気になる人について話すのが恥ずかしいと思うのも自然なことだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T16:50:18",
+      "utterance": "ここまでお話をまとめると、学校に行くとクラスメイトの先月転校してきた男子のことが気になってしまいお腹が痛くなってしまうというお話でしたね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-12T16:50:40",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T16:52:49",
+      "utterance": "毎回お腹が痛くなっては身体的にも学業的にもご心配なのですが、あなた自身どうすればお腹が痛くならないとお考えですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-12T16:56:40",
+      "utterance": "その子と普通に話せるようになったら、大丈夫と思う"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T16:57:16",
+      "utterance": "そう思われるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-12T16:57:34",
+      "utterance": "どうしたら話せるようになるかな"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T16:58:38",
+      "utterance": "ええ、気になりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-12T16:59:42",
+      "utterance": "うん"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T16:59:47",
+      "utterance": "緊張するのも、それだけ相手の人のことを良く思っている証拠であり、あなたの素敵な人柄だと思いますよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T17:01:03",
+      "utterance": "緊張をなくそうと思うと、余計緊張しやすくなるので、緊張しても大丈夫と受け入れることも必要になります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T17:01:32",
+      "utterance": "また、相手に緊張感をもって接する事で誠実さが伝わる良い面もありますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-12T17:02:30",
+      "utterance": "うまく話せないとおかしくないかな"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T17:03:05",
+      "utterance": "うまくしゃべろうと思わず、簡単に話せることから話していけば徐々にですが緊張も解けていけると思うので、ぜひやってみてくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-12T17:03:23",
+      "utterance": "うん、やってみる"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T17:04:00",
+      "utterance": "最初はおはようとか、好きなテレビとか趣味とか無難で話しやすいところからだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T17:04:12",
+      "utterance": "応援していますからね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-12T17:04:13",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-12T17:04:22",
+      "utterance": "ありがとう"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T17:04:51",
+      "utterance": "こちらこそありがとうございました。それではこれで終了いたしますね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-12T17:05:05",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T17:05:39",
+      "utterance": "またうまくいかないと感じたらいつでもお待ちしているので一緒に作戦を立てましょうね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-12T17:05:52",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T17:06:27",
+      "utterance": "本日は大切なお話聴かせてくださりありがとうございました。それでは終了します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T17:06:38",
+      "utterance": "（ロープレお疲れ様でした。お時間長引いてすみません。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-12T17:07:12",
+      "utterance": "（お手隙に評価頂けたら幸いです。よろしくお願いいたします。それでは終了いたします。ありがとうございました。）"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-12T17:07:20",
+      "utterance": "(こちらこそ、ありがとうございました。大変勉強になりました!)"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "学校に行きたくない理由（身体的反応）"
+  },
+  "review_by_client_jp": {
+    "評価ID": 6248,
+    "評価作成日時": "2024-01-12T17:54:00",
+    "クライアント役ID": 432,
+    "カウンセラー役ID": 136,
+    "点数": 55,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 2,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 2,
+    "要約": 4,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 6248,
+    "evaluation_created_at": "2024-01-12T17:54:00",
+    "client_id": 432,
+    "counselor_id": 136,
+    "score": 55,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,789 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2021-11-23T19:24:07",
+      "utterance": "こんばんは。今日はよろしくおねがいします"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:24:32",
+      "utterance": "1つお願いがありますが、いいですか?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T19:24:39",
+      "utterance": "〈どうぞよろしくお願いします〉"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:24:55",
+      "utterance": "よろしくおねがいします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T19:25:08",
+      "utterance": "はい、どうされましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:28:14",
+      "utterance": "お願いというのは、ロールプレイ中にラポールが取れたとカウンセラー側が思った時に「何があれば、あなたは○○になれますか?」か「そんな事が続けばどうなりますか?」という問いかけをしてみて欲しいんです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:28:52",
+      "utterance": "可能でしょうか?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T19:29:27",
+      "utterance": "はい、とらいしてみますね。がんばります＾＾"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:29:46",
+      "utterance": "お手数おかけしますが、よろしくおねがいします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T19:30:06",
+      "utterance": "では、はじめますね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:30:16",
+      "utterance": "〈はい。〉"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T19:30:57",
+      "utterance": "こんばんは、相談員です。まずご年齢と性別をお聞きしてもいいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:31:26",
+      "utterance": "こんばんは。中2女子です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T19:32:10",
+      "utterance": "ありがとうございます。なんとお呼びすればいいか教えてくださいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:32:23",
+      "utterance": "るいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T19:32:44",
+      "utterance": "るいさんですね、教えてくださりありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:32:52",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T19:33:02",
+      "utterance": "今日はどのようなことでいらっしゃいましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:33:48",
+      "utterance": "この前の実力テストで成績が悪かったので、困っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T19:34:26",
+      "utterance": "テストの成績が良くなく悩まれているのですね？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:34:31",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:35:19",
+      "utterance": "周りは「悪かった」というけど、まぁまぁいい点取っているんです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:35:32",
+      "utterance": "私だけ悪い。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T19:35:56",
+      "utterance": "なるほどですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:36:03",
+      "utterance": "落ち込みます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T19:36:26",
+      "utterance": "周りというのはご家族の事でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:36:36",
+      "utterance": "友達です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T19:37:04",
+      "utterance": "お友達、、、なのですね。それは落ち込みますね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:37:09",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T19:38:09",
+      "utterance": "るいさんは、周りとの点数の差が気になってしまうのですね？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:38:29",
+      "utterance": "そうですね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T19:39:03",
+      "utterance": "でも、ご自分では結構いい点取ってると思っていたので、そのギャップに落ち込むって感じですかね？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:39:22",
+      "utterance": "ギャップではないです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:40:13",
+      "utterance": "勉強しても頭になかなか入らなくて、集中出来ないし。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:40:47",
+      "utterance": "皆と比べて(私馬鹿だなー)って思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T19:40:52",
+      "utterance": "そうですか、、、頑張っているのにお辛いですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:41:07",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T19:41:39",
+      "utterance": "では、ご自身の中でどうなりたいな～っていうのってありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:42:00",
+      "utterance": "そうだなー。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T19:42:23",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:43:01",
+      "utterance": "テストでいい点取って、親や友達や先生に認めてほしいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T19:43:20",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:43:25",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T19:43:55",
+      "utterance": "るいさんは、お友達やご両親に認めてもらいたいのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:44:02",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T19:44:22",
+      "utterance": "認められたらどんな気持ちになるかな～っておもいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:44:36",
+      "utterance": "嬉しいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T19:44:49",
+      "utterance": "いいですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:44:54",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:45:06",
+      "utterance": "そうなりたいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T19:45:08",
+      "utterance": "とっても嬉しい気持ちになると思うのですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:45:14",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T19:45:39",
+      "utterance": "るいさんはとっても努力家で、頑張り屋さんなんだと感じます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:46:02",
+      "utterance": "がんばってるかなー?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T19:46:18",
+      "utterance": "はい、そうおもいます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:46:42",
+      "utterance": "どうしてそう思うんですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:47:52",
+      "utterance": "なかなか集中して勉強も出来ないし、色々考えて、なかなか先に進まない事が多いんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T19:47:52",
+      "utterance": "でも、もっと頑張りたいっていう気持ちがあるから、自分だけが成績が悪い、とかんじているのかなぁって感じるからです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:48:07",
+      "utterance": "うーん。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:48:43",
+      "utterance": "実際点数は周りの友達の中で1番低いみたいなんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T19:49:10",
+      "utterance": "お友達の中で、、、ではそうなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:49:16",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T19:50:04",
+      "utterance": "では、るいさんは、どうしたらお友達に認められる、って思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:50:04",
+      "utterance": "頑張っても頭悪いから、無駄かなとか…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T19:52:13",
+      "utterance": "頑張っても、無駄かな、、、っておもっちゃうのですね。。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:52:20",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:53:22",
+      "utterance": "認められるのは、友達よりいい点を取る事かな～。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T19:54:32",
+      "utterance": "そっか～。お友達よりいい点を取った時に認められるって感じるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:54:41",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:55:31",
+      "utterance": "自信が付くというか、そんな感じ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T19:56:03",
+      "utterance": "なるほどなるほど。じゃあ、お友達よりいい点数を取るにはどうしたらいいか、一緒に考える。ていうことでお話を進めていってもいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:56:56",
+      "utterance": "いい点がそれで取れるというなら、考えます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T19:58:14",
+      "utterance": "いい点数がどうすれば取れるか考えてみたりしていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:58:49",
+      "utterance": "そうですね…集中したいです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T19:59:29",
+      "utterance": "机に座っても、あれもこれもやらないとと思うし。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:00:08",
+      "utterance": "集中しないとと思うと、余計に集中出来ないし、頭に入りません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T20:00:23",
+      "utterance": "あれもこれも、、、整理がつかなくなっちゃう感じかな？そうなんですね。。。どうすればるいさんは集中できるかなって思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:00:41",
+      "utterance": "わからないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T20:01:32",
+      "utterance": "なんだろう、、、机の前に座っちゃうと焦っちゃう感じかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:02:14",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T20:03:03",
+      "utterance": "そうなのですね。。それはとってもつらいですね。その状態はどのくらい続いているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:04:04",
+      "utterance": "結構前からかな"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T20:04:42",
+      "utterance": "結構長い事続いているのですね、、、何かきっかけはあったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:05:14",
+      "utterance": "小学生の妹がいるんだけど、成績も良くて、かわいいし、親も認めてる感じです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:06:19",
+      "utterance": "妹が中学受験を勧められてて、塾も特別コースクラスに入っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T20:06:50",
+      "utterance": "妹さんがいらっしゃるのですね、ご両親も認めていて、、、自分はそうじゃないって感じてしまうのですね。。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:07:03",
+      "utterance": "私は公立だし、小学校の時もあまり成績良くなかったから。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:07:45",
+      "utterance": "努力しても無駄かなーって思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T20:07:56",
+      "utterance": "そうだったのですね。。。それは何とかしないとって、焦っちゃいますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:08:03",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T20:08:48",
+      "utterance": "だから、机の前に座ると、余計集中できないのですね。。。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:09:02",
+      "utterance": "色々思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T20:09:17",
+      "utterance": "色々。。ですか。。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:09:44",
+      "utterance": "来年受験だけど、このままだといい高校いけないだろうなーとか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:10:10",
+      "utterance": "親に迷惑かけるかなーとか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T20:10:19",
+      "utterance": "自信がなくなっちゃったのですね。。。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:10:34",
+      "utterance": "はい。自信ないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T20:11:34",
+      "utterance": "私が逆の立場でも、自信なくなっちゃうって思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:11:44",
+      "utterance": "そうですか?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T20:12:05",
+      "utterance": "はい、そう思っちゃうと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:13:10",
+      "utterance": "じゃあ、相談員さんだったら、どうやって自信をつけますか?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T20:13:28",
+      "utterance": "でも、努力は「無駄になる」っては思わないかなぁ"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:14:22",
+      "utterance": "そうなんですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:14:41",
+      "utterance": "無駄にはならないんですか?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:14:56",
+      "utterance": "結果がよくなくても?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T20:16:10",
+      "utterance": "「無駄」とは思いません。ただ、やり方や、進め方について、落ち着いて考えてみたり、することで「無駄」にはならないと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:16:42",
+      "utterance": "そうなんですか…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T20:17:14",
+      "utterance": "るいさんの「成績がよくなりたい」っていうきもちって、とってもとっても大切なことだと思いますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:17:41",
+      "utterance": "気持ですか…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T20:17:51",
+      "utterance": "ただ、今のお話を聞いていると・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:17:56",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T20:18:43",
+      "utterance": "「集中できない」理由について、「焦ってしまう」と感じているようですよね"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:19:37",
+      "utterance": "確かに焦ります。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:19:55",
+      "utterance": "覚えられないと、テストできないし"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T20:20:45",
+      "utterance": "「焦る」理由としては、「お友達と比べて成績が悪い」「認められたい」と言うのがあるからなのかなぁって聞いていて感じました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:20:59",
+      "utterance": "それはあります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T20:21:42",
+      "utterance": "るいさんが集中するには、いったん気持ちを落ち着かせて焦らないようにすることかなって思うのですが、いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:22:09",
+      "utterance": "落ち着かせ方がわかりません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T20:22:50",
+      "utterance": "どうすれば落ち着くかな？って今出来そうなことってありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:23:12",
+      "utterance": "どうだろう?"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:23:47",
+      "utterance": "今出来そうな事…"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:24:27",
+      "utterance": "すぐは出て来ないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T20:24:33",
+      "utterance": "例えば、お友達の点数や、両親の評価を気になるけど、いったん「気にしない！！！」って決めてみる。とか"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:25:04",
+      "utterance": "でも気になります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T20:25:45",
+      "utterance": "何があれば、るいさんは気にならなくなると思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:26:26",
+      "utterance": "なんだろう…。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:26:57",
+      "utterance": "誰かからの励ましかもしれないです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:27:18",
+      "utterance": "大丈夫だよとか、心配ないよとか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T20:27:39",
+      "utterance": "そうなのですね！！それはとっても大切ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:27:53",
+      "utterance": "そういうのがあれば、落ち着くと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:28:50",
+      "utterance": "何か、聞いてもらって、今気づきました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T20:29:32",
+      "utterance": "励ましあえるお友達のそばにできるだけいたり、ご両親に、今はできるだけ「応援してほしい」という協力で集中できるかもしれないですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:30:14",
+      "utterance": "親とか友達とかに、そういうのは言った事ないけど…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T20:30:32",
+      "utterance": "るいさんが落ち着いて、集中できるように、私も応援しています。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:30:39",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T20:31:27",
+      "utterance": "ご両親に頼んでみたりしてみてもいいかもしれません。是非ためしてみてください。心から応援していますので。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:31:51",
+      "utterance": "お母さんに言ってみようと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T20:32:02",
+      "utterance": "また、集中できないなっと思ったらいらしてくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:32:20",
+      "utterance": "それか、またここへ来てもいいなら、また来ます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:32:42",
+      "utterance": "何かスッキリしました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T20:32:47",
+      "utterance": "今日はたくさんお話しくださってありがとうございます。また、お待ちしていますから"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:32:56",
+      "utterance": "はい。ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-23T20:33:26",
+      "utterance": "(ではおわりますね。ありがとうございました。ご指導のほどよろしくお願いいたします。)"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-23T20:33:52",
+      "utterance": "(こちらこそすごく参考になりました。ありがとうございました。)"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "テストの成績が悪いことによる悩み"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2757,
+    "評価作成日時": "2021-11-23T20:52:00",
+    "クライアント役ID": 112,
+    "カウンセラー役ID": 243,
+    "点数": 82,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 5,
+    "希望や期待を感じられた": 5,
+    "取り組みたかったことを扱えた": 5,
+    "一緒に考えながら取り組めた": 5,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 5,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 4,
+    "要約": 3,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 5,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2757,
+    "evaluation_created_at": "2021-11-23T20:52:00",
+    "client_id": 112,
+    "counselor_id": 243,
+    "score": 82,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

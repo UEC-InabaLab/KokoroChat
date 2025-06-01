@@ -1,0 +1,394 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-12-30T15:51:27",
+      "utterance": "（こんにちは。よろしくお願いいたします。お時間になりましたら、始めさせていただきます。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T15:51:58",
+      "utterance": "(こんにちは、こちらこそ、宜しくお願い致します。)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T16:00:01",
+      "utterance": "こんにちは。相談員です。始めに年齢と性別を教えてください。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T16:00:29",
+      "utterance": "25歳、男性です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T16:00:57",
+      "utterance": "ありがとうございます。今日のご相談内容をお聞かせください。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T16:01:36",
+      "utterance": "仕事がだるくてやる気が出ないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T16:02:05",
+      "utterance": "そうなんですね、、。それはお辛いですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T16:02:28",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T16:03:36",
+      "utterance": "仕事がだるくてやる気が出ないきっかけなどは何かありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T16:04:56",
+      "utterance": "特にきっかけは無いですが、やってても面白くない感じです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T16:05:47",
+      "utterance": "なるほど、そうなのですね。お仕事は何をされていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T16:06:28",
+      "utterance": "ディラーで自動車販売の仕事をしています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T16:07:54",
+      "utterance": "そうなのですね。そのお仕事の中で、どのような部署につかれていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T16:08:52",
+      "utterance": "営業部でお客様へ車の販売をしています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T16:09:51",
+      "utterance": "そうなのですね、、。お客様の対応などいろいろと大変なことがあると思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T16:12:09",
+      "utterance": "営業部の中で、ご相談者様はどのような立場にいらっしゃるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T16:13:16",
+      "utterance": "まだ、入って間もないので、役職は無い普通の営業マンです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T16:14:53",
+      "utterance": "なるほど、そうなのですね。お仕事をしていて、何かお困りのことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T16:16:54",
+      "utterance": "まだ、仕事には慣れておらず、特に人脈も無いので、どのように販売を伸ばしていければよいかがわからない感じです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T16:18:54",
+      "utterance": "なるほど、そうなのですね。それはお困りですよね。どなたかこのことを相談なさいましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T16:19:36",
+      "utterance": "特に相談した人はいないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T16:20:38",
+      "utterance": "そうなのですね。同じ部署で話しやすそうな方などはいませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T16:22:04",
+      "utterance": "先輩とかに話しかけられる事は出来ると思いますが、、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T16:23:04",
+      "utterance": "何か躊躇するようなことがおありなのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T16:24:31",
+      "utterance": "話しても、頑張れよ、とか、その内慣れるよ、などの返事だと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T16:25:34",
+      "utterance": "そうなのですね、そう思われるのは何か理由がおありなのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T16:28:08",
+      "utterance": "同じ職場の人なので、営業マンとして頑張れよ！とか励ましは言ってくれると思いますが、特に、あまり嬉しいとは思えないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T16:30:01",
+      "utterance": "なるほど、励まされてもうれしくない、と思われているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T16:30:26",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T16:30:55",
+      "utterance": "ご相談者様はそれ以外のお言葉を、その方からいただきたかったのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T16:31:55",
+      "utterance": "そうかもしれません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T16:32:23",
+      "utterance": "例えばどんな言葉だったらうれしいと思われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T16:33:55",
+      "utterance": "職場の人なので、励ましや褒める言葉かと思いますが、どちらもあまり嬉しいとは思えないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T16:36:46",
+      "utterance": "なるほど、そうなのですね。それではその方よりも上司の方でお話やすい方に相談してみられたでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T16:37:50",
+      "utterance": "上司の方も、多分、同じ対応かと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T16:38:25",
+      "utterance": "なので、特にこれまでも相談はしていないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T16:39:18",
+      "utterance": "そうなのですね、それはご相談者様にとって職場の方はあまりあてになさっていない、ということですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T16:40:52",
+      "utterance": "そうですね。そのため、違った視点からアドバイスを頂きたく今日は伺った次第です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T16:41:25",
+      "utterance": "ところで、ご相談者様がこの職業を選んだ理由は何だったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T16:42:50",
+      "utterance": "年齢的にもそろそろ正社員として、安定した職業に就く必要があると思ったからです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T16:43:35",
+      "utterance": "そうなのですね、とてもしっかりしたお考えで選ばれたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T16:44:46",
+      "utterance": "そうですかね、、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T16:45:38",
+      "utterance": "それでは安定した職業、という理由でこの職業になさったのですね。実際に働いていかがでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T16:47:34",
+      "utterance": "自動車販売の大手企業なので、安定した会社で、福利厚生は整っていますが、あまり自分には向いていないと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T16:48:32",
+      "utterance": "そうなのですね、ご相談者様はご自分でお分かりになられていたんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T16:49:52",
+      "utterance": "それではご自分ではどのような職業が向いている、もしくはやってみたいとお考えなのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T16:50:32",
+      "utterance": "それが、もうひとつわからないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T16:52:09",
+      "utterance": "そうなのですね、今は浮かばないかもしれませんが、学生の頃やお小さかった頃など、あこがれた職業はありませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T16:53:45",
+      "utterance": "人に教える事が好きだったので、学校の先生に憧れた事があります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T16:54:16",
+      "utterance": "そうなのですね、それは素敵ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T16:55:01",
+      "utterance": "ただ、教員免許は持っていないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T16:57:22",
+      "utterance": "そうなのですね、でも今は学士入学など、働きながら（例えば通信制大学）学べるなどいろいろ方法があります。ご存じでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T16:58:09",
+      "utterance": "あまり深くは知らないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T17:00:04",
+      "utterance": "そうなのですね、今ならネットで学べるなどかなり忙しい方にも勉強しやすい環境になっています。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T17:00:39",
+      "utterance": "そうですね。少し調べてみます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T17:01:04",
+      "utterance": "もしご興味があれば、一度見てみるのもよい刺激になると思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T17:01:27",
+      "utterance": "分かりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T17:02:16",
+      "utterance": "教員に限らずいろいろなジャンルがありますので、この機会に探してみるのもよいかと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T17:02:57",
+      "utterance": "分かりました。ありがとうございます。色々と探してみます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T17:04:20",
+      "utterance": "ご相談者様がより良い環境で、のびのびと働けることwpお祈りしています。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T17:05:14",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T17:05:20",
+      "utterance": "また何かあったら、いつでもいらしてくださいね。（ありがとうございました。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T17:05:44",
+      "utterance": "（こちらこそありがとうございました。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-30T17:06:23",
+      "utterance": "（それでは終わりにさせていただきます。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-30T17:06:54",
+      "utterance": "（大丈夫です）"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "新しい職場での適応と人脈形成の難しさ"
+  },
+  "review_by_client_jp": {
+    "評価ID": 6198,
+    "評価作成日時": "2023-12-30T17:38:00",
+    "クライアント役ID": 451,
+    "カウンセラー役ID": 439,
+    "点数": 59,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 2,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 6198,
+    "evaluation_created_at": "2023-12-30T17:38:00",
+    "client_id": 451,
+    "counselor_id": 439,
+    "score": 59,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

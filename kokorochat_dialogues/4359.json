@@ -1,0 +1,244 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-12-18T15:04:18",
+      "utterance": "こんにちは。"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-18T15:04:26",
+      "utterance": "こんにちわ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-18T15:05:05",
+      "utterance": "本日はよろしくお願いいたします。よろしければご年齢と性別を教えてください。"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-18T15:05:28",
+      "utterance": "よろしくお願いします。50歳、女性です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-18T15:06:13",
+      "utterance": "教えていただきありがとうございます。本日はどういったご相談ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-18T15:07:08",
+      "utterance": "子どもがまだ小さく2年生なんですが、支度が遅くて困っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-18T15:08:35",
+      "utterance": "お子様の支度が遅くてお困りなんですね。支度についてもう少し具体的に教えて頂けますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-18T15:09:31",
+      "utterance": "朝起きるのが遅く朝ご飯を食べて着替えて遅刻ギリギリの時間に家を出ます。帰って来てもダラダラ宿題をし、明日の準備をし…と言う感じです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-18T15:11:42",
+      "utterance": "なるほど。毎日忙しい中でそれは困ってしまいますね。ちなみにお名前はなんとお呼びしたら良いでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-18T15:12:03",
+      "utterance": "ひさえでよろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-18T15:12:37",
+      "utterance": "ひさえさんですね。ひさえさんはお仕事をされていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-18T15:12:47",
+      "utterance": "専業主婦です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-18T15:14:56",
+      "utterance": "お答え頂きありがとうございます。毎日家事に育児に忙しくされながら、ひさえさんなりに努力されてるのだと感じます。ひさえさんはお子様の支度が遅いことに対して、どのような気持ちをお持ちですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-18T15:16:36",
+      "utterance": "あまり怒りたくないので、毎回スタートは、優しく声掛けからするのですが、それでも全く変わる様子が見られないと、コラーーーという感じになります。本当は、怒りたくないのですが…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-18T15:20:12",
+      "utterance": "うんうん、そういった状況だと怒ってしまうこともありますよね。でもひさえさんは怒りたくないのに怒ってしまうことに対して辛い気持ちを持っているかなと思ったのですが、いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-18T15:22:02",
+      "utterance": "そんな感じです。出来れば最初の声掛けの時点で動いてくれるといいのですが…朝だと遅刻しても良いと思ってるのかな？とか不安になります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-18T15:22:47",
+      "utterance": "不安なお気持ちがとても伝わってきました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-18T15:23:21",
+      "utterance": "何かそのことについてお子様について話しをしたことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-18T15:24:52",
+      "utterance": "毎日話しています。遅刻するって事は…今は、学校に対して…大人になったら、待ち合わせしている人に対して時間を奪う事にもなるし、信用を失う事にもなるから今から治した方がいいよと言っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-18T15:27:02",
+      "utterance": "きちんと話しをされていてすごいなと感じました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-18T15:27:24",
+      "utterance": "話しをされて、お子様の反応はいかがでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-18T15:28:14",
+      "utterance": "うん分かった〜と素直に受け止めるのですが次の日になるとまたゼロから…と言う感じです…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-18T15:29:36",
+      "utterance": "そうなんですね、それを繰り返していると考えるとひさえさんも相当疲れてしまっているのではないでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-18T15:30:34",
+      "utterance": "そうですね…毎朝怒るのがいやなんですけど…何も言わないとそのまま遅刻する勢いなので結局キーキー言ってしまいます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-18T15:31:40",
+      "utterance": "うんうん、そうなんですね。先ほども怒りたくないとおっしゃっていましたが、怒りたくない理由はなんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-18T15:33:31",
+      "utterance": "出来れば優しくて楽しい母で居たいのに…と言う感じでしょーか子どもは、あっという間に大きくなるので限られた子どもの時間を楽しく過ごしたいのですが…理想と現実は、違いますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-18T15:34:58",
+      "utterance": "そうですよね、お気持ち伝わってきました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-18T15:35:50",
+      "utterance": "怒ることによってひさえさんの理想の母親像から離れてしまっているということですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-18T15:36:24",
+      "utterance": "そのことについて周囲の方に相談したり、助言を受けたことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-18T15:37:16",
+      "utterance": "ママ友とよくこの話になるのですが、今の年代の子どもは、みんな同じらしくあるある話のようです。"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-18T15:38:29",
+      "utterance": "とは言えキチンと自分で危機感を持って行動出来る年齢になるのは、いつの事なのかしら…と途方に暮れます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-18T15:38:53",
+      "utterance": "ママ友とお話しが出来ているということで少し安心しました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-18T15:39:00",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-18T15:39:17",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-18T15:39:24",
+      "utterance": "ありがとうございました。"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "子どもの支度が遅い問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4359,
+    "評価作成日時": "2022-12-18T16:28:00",
+    "クライアント役ID": 351,
+    "カウンセラー役ID": 350,
+    "点数": 77,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 5,
+    "要約": 5,
+    "問題の明確化": 5,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4359,
+    "evaluation_created_at": "2022-12-18T16:28:00",
+    "client_id": 351,
+    "counselor_id": 350,
+    "score": 77,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

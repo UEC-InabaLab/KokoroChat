@@ -1,0 +1,384 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-02-16T20:22:00",
+      "utterance": "（こんばんは、本日はよろしくお願い致します）"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-16T20:24:27",
+      "utterance": "（こんばんは、こちらこそよろしくお願い致します。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-16T20:30:14",
+      "utterance": "こんばんは、相談員です。年齢、性別、ご相談内容をお聞かせください。"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-16T20:31:39",
+      "utterance": "こんばんは15歳男子です（12頃の相談という設定でお願いします。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-16T20:32:26",
+      "utterance": "（12頃とはどういう意味ですか？）"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-16T20:33:06",
+      "utterance": "（受験に関係ある相談なので、時期が影響するので）"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-16T20:33:32",
+      "utterance": "（今は受験が終わってるので）"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-16T20:33:39",
+      "utterance": "（はい。12月という設定ですね）"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-16T20:34:06",
+      "utterance": "受けたい高校を親が認めてくれないんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-16T20:35:16",
+      "utterance": "そうなんですね。それは焦ってしまうかもしれないですね。どうして認めてくれないのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-16T20:35:53",
+      "utterance": "お前には無理だって言われて"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-16T20:37:24",
+      "utterance": "そうなんですね。それは悔しい思いをされたかもしれません。そう言われてあなたはどう感じましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-16T20:38:18",
+      "utterance": "悔しいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-16T20:39:33",
+      "utterance": "そうですよね。あなたはその高校を受けたい理由はやりたいことがあるからですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-16T20:42:13",
+      "utterance": "別に何がやりたいっていうわけじゃないけど"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-16T20:42:36",
+      "utterance": "兄に負けたくないんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-16T20:44:03",
+      "utterance": "そうなんですね。負けたくないのですね。お兄さんが行っている高校なんでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-16T20:44:12",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-16T20:45:45",
+      "utterance": "お兄さんには相談されましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-16T20:46:24",
+      "utterance": "何で相談するんですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-16T20:47:56",
+      "utterance": "そうなんですね。今はお兄さんは誰と住んでいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-16T20:49:16",
+      "utterance": "家に両親と私と一緒に住んでいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-16T20:50:43",
+      "utterance": "お答えいただきありがとうございます。ご両親は二人とも同じお考えでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-16T20:52:10",
+      "utterance": "父が駄目だって言ってます母はあまり言いません"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-16T20:53:21",
+      "utterance": "そうなんですね。それはとても悔しいですね。先生にはご相談はされましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-16T20:55:05",
+      "utterance": "先生に志望校を言ったけど、頑張れよと言われただけです"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-16T20:55:51",
+      "utterance": "難しいんだろうけど、駄目とは言われなかった"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-16T20:57:05",
+      "utterance": "そうなんですね。チャレンジすることはいいことだという先生のお考えなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-16T20:57:33",
+      "utterance": "どうなんだろう"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-16T20:57:54",
+      "utterance": "どうしてお父さんは無理だって思っているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-16T20:58:57",
+      "utterance": "お前には無理だって、いつも言われています"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-16T21:00:17",
+      "utterance": "そうなんですね。それは頑張る気持ちがなくなってしまうこともあったかもしれません。先ほどお兄さんに負けたくないと言ってましたが、いつからそう感じているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-16T21:00:50",
+      "utterance": "小学校の頃からいつも兄と比べられていました"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-16T21:01:39",
+      "utterance": "どうしてお前は兄さんみたいに出来ないんだってお前は頭が悪いとかも"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-16T21:02:32",
+      "utterance": "そうあったんですね。ずっと比べられて悔しい思いをしてきたんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-16T21:02:52",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-16T21:04:48",
+      "utterance": "そうですよね志望校に受かって認めてもらいたいというお気持ちがありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-16T21:05:01",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-16T21:07:02",
+      "utterance": "普段は家ではどのように過ごしていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-16T21:07:48",
+      "utterance": "受験が近いですから勉強しています"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-16T21:09:28",
+      "utterance": "そうなんですね。もうすぐ志望校を決定しなくてはいけない時期かと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-16T21:09:48",
+      "utterance": "焦る気持ちもあるかと思いますが、どうしていくのがいいと思っていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-16T21:09:54",
+      "utterance": "でも志望校のことが引っ掛かって、集中できない時もあります"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-16T21:11:03",
+      "utterance": "どう言ったら認めてもらえるかわかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-16T21:12:28",
+      "utterance": "そうなんですね。お母さんに間に入ってもらうのはどうでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-16T21:13:03",
+      "utterance": "母は父の言いなりだから無理だと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-16T21:16:00",
+      "utterance": "そうなんですね。あなたの味方になってくれそうな人や相談できる人はいませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-16T21:16:24",
+      "utterance": "わかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-16T21:17:30",
+      "utterance": "そうなんですね。今はお父さんやお母さんに対してどう感じていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-16T21:19:50",
+      "utterance": "父には頑張っていることをわかってほしいです母は優しく見守ってくれるけど、もっと意見を言ってほしいです"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-16T21:20:36",
+      "utterance": "いくら頑張っても、父は認めてくれない"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-16T21:22:35",
+      "utterance": "そうなんですね。あなたのことを見てもらいたいですよね。認めてくれないのは腹が立つ気持ちもあるかもしれません。"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-16T21:24:48",
+      "utterance": "悲しいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-16T21:27:58",
+      "utterance": "悲しかったのですね。今まであなたはそういった思いを何度もされながら頑張ってきたかと思います。これまで悲しい思いや悔しい思いもされて、認めてもらいたい気持ちで過ごしてきたのですね。お父さんに今までの思いを真剣にぶつけてみるのはどう思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-16T21:31:08",
+      "utterance": "生意気な口をきくなって言われるんじゃないかな"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-16T21:32:01",
+      "utterance": "親に意見するつもりかって言われるかもしれない"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-16T21:33:19",
+      "utterance": "そう思うのですね。意見ではなく、あなたの胸の中にある思いを言葉にして伝えることができたらいいのかなと思うですが、どうでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-16T21:34:51",
+      "utterance": "兄ばかりが大事な人だから、解ってもらえるとは思えない"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-16T21:37:55",
+      "utterance": "そう思っているのですね。今日は色々お話を聞かせてくれてありがとうございます。相談の終了のお時間になってしまいました。お話の途中になってしまい申し訳ありません。もし、またお話にきていただけたら、今日の続きのお話をさせていただけたらと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-16T21:38:14",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-16T21:39:18",
+      "utterance": "(時間が過ぎてしまい申し訳ありません。ありがとうございました。アドバイスお願い致します。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-02-16T21:39:30",
+      "utterance": "（終了のメッセージ流します）"
+    },
+    {
+      "role": "client",
+      "time": "2024-02-16T21:39:42",
+      "utterance": "（ありがとうございました。お疲れさまでした。"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "親からの進路に対するプレッシャー"
+  },
+  "review_by_client_jp": {
+    "評価ID": 6449,
+    "評価作成日時": "2024-02-16T22:11:00",
+    "クライアント役ID": 92,
+    "カウンセラー役ID": 473,
+    "点数": 56,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 1,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 6449,
+    "evaluation_created_at": "2024-02-16T22:11:00",
+    "client_id": 92,
+    "counselor_id": 473,
+    "score": 56,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 4,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 1,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

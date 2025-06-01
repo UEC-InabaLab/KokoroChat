@@ -1,0 +1,494 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-09-09T18:51:59",
+      "utterance": "こんばんは。相談員役です。本日はよろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T18:52:20",
+      "utterance": "時間になりましたら始めさせていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T18:55:04",
+      "utterance": "よろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:00:49",
+      "utterance": "こんばんは。相談員です。ご相談ありがとうございます。はじめにご年齢と性別、相談内容を教えていただけますか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T19:01:39",
+      "utterance": "30才、男性、仕事について悩んでます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:02:45",
+      "utterance": "そうなんですね。お話しやすいところから、お聞かせいただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T19:03:42",
+      "utterance": "はい。今は非正規で仕事をしています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:04:22",
+      "utterance": "ええ、"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T19:04:52",
+      "utterance": "正社員で働きたいと思ってますが、何か自分の場合難しそうです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:06:18",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:06:31",
+      "utterance": "例えば正社員は責任が重く感じるなど、どんなところが難しいと感じるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T19:06:32",
+      "utterance": "迷惑や悪い事をしている訳では無いのに何でこうなっているんだろうとモヤモヤしてます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:07:17",
+      "utterance": "そういうお気持ちなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T19:08:31",
+      "utterance": "今は派遣ですが、私用で休む事があるのが会社側にとって気になるみたいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:09:07",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:09:30",
+      "utterance": "会社側に何か言われたりするのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T19:09:59",
+      "utterance": "明らかに何か言われた訳では無いです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:10:56",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:12:08",
+      "utterance": "でもあなたにとっては気がかかりなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T19:12:37",
+      "utterance": "派遣会社の担当者と定期的な面談ではそういう風に言われました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:13:42",
+      "utterance": "そうだったんですね。そういう風に言われてどう感じたのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T19:15:17",
+      "utterance": "何か、希望ないなとか将来不安だなと思いました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:17:11",
+      "utterance": "そう感じたのですね。ちなみに、私用というと話せる範囲でいいので、どんなことがあるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T19:19:32",
+      "utterance": "昔自衛隊に居て、辞めた後も予備自衛官として定期的に訓練に参加しています。平日に訓練がある事もあり、それで休みを取っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:21:18",
+      "utterance": "そうだったんですね。訓練のために休みを取るのはやむを得ないと思うのですが、会社側は休むことを気にしているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T19:22:03",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:23:39",
+      "utterance": "それは迷惑や悪い事をしている訳では無いのにと思うのはごもっともだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:25:05",
+      "utterance": "正社員で働きたいと思う気持ちの中、他に気になることはあるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T19:25:38",
+      "utterance": "他に気になる事ですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:26:41",
+      "utterance": "分かりにくかったですよね。自分の場合難しそうと仰っていましたが、他にそう思う理由とかあるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T19:27:24",
+      "utterance": "いえ、他には心当たりはないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:28:46",
+      "utterance": "そうなんですね。ちなみに今は、正社員のお仕事を探しているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T19:29:25",
+      "utterance": "そうです。正社員で考えてます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:30:44",
+      "utterance": "ええ。そうですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:31:45",
+      "utterance": "正社員になった後も、平日にある訓練に参加する予定なのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T19:32:19",
+      "utterance": "出来るなら参加したいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:34:02",
+      "utterance": "そうなんですね。訓練に参加したい思い伝わってきます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:34:50",
+      "utterance": "本日のご相談ではどんなことを望んでおられるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T19:35:52",
+      "utterance": "そうですね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T19:37:40",
+      "utterance": "正社員と予備自衛官の両立でしょうか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:38:43",
+      "utterance": "ええ。そういうお気持ちなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:39:10",
+      "utterance": "ではそのために何ができそうか、一緒に考えていきましょうね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T19:39:47",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:40:51",
+      "utterance": "もしあなたが正社員になったとして、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:41:13",
+      "utterance": "予備自衛官の訓練は、週にどのくらい参加したいとお考えですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T19:42:49",
+      "utterance": "毎週はないです。せいぜい月に2~3日で土日の時もあります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:43:33",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T19:43:59",
+      "utterance": "それが大体4月から12月までという状況です。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T19:45:04",
+      "utterance": "全体の7-8割位出れればいいかなと思ってます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:45:05",
+      "utterance": "そういう状況なのですね。土日の時もあるというと、正社員の仕事は休みの曜日が固定じゃない仕事でないといけない"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:45:16",
+      "utterance": "という感じでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:45:42",
+      "utterance": "そのような感じなのですね。（行き違い失礼しました）"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T19:48:15",
+      "utterance": "固定でないといけないという訳では無いです。以前別の仕事をしていた時、シフト制の仕事でしたが限られた公休を調整して出ていました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:49:10",
+      "utterance": "ええ。限られた公休を調整して訓練に参加していたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T19:50:38",
+      "utterance": "そうです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:51:18",
+      "utterance": "ここまでお話をお聞きして、限られた公休を調整したり、両立したいと思うほど、正社員と予備自衛官の訓練に対する思いが強いととても伝わってきました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:52:04",
+      "utterance": "予備自衛官の訓練に今でも定期的に参加しているのは、どんなお気持ちからでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T19:54:02",
+      "utterance": "何かあった時、人助けをしたい。またニュースを観て傍観している人にはなりたくないと考えているからです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:55:19",
+      "utterance": "そうなんですね。人助けをしたい、という思いから、自身の休みを訓練に当てているのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:56:36",
+      "utterance": "あなたのそのお気持ちを聞いて、これまでずっと仕事と調整しながら、よくやってこられたと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:56:57",
+      "utterance": "正社員で働くことについて、自分の場合難しそうと仰っていましたが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:58:37",
+      "utterance": "今のお仕事は、会社側があなたのそのお気持ちを分かっていないか、まだ理解していなくて、気がかりになっているように感じました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T19:59:31",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T19:59:57",
+      "utterance": "あなたの人助けをしたいという思いに共感するお仕事はたくさんあるように思いますが、どうお考えですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T20:00:36",
+      "utterance": "そうかもしれないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T20:01:46",
+      "utterance": "ええ。あなたのその思いを分かってくれる会社が、あなたの両立したいを叶えてくれると思いますよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T20:02:16",
+      "utterance": "両立したい思いを、でした。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T20:03:40",
+      "utterance": "そうですか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T20:05:05",
+      "utterance": "あなたを理解してくれる会社に出会えば、両立もうまくいくように思いますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T20:05:13",
+      "utterance": "（かなり難しい展開になってきたと思うのですが、続けましょうか？）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T20:05:33",
+      "utterance": "（労ってもう終わりますね。）"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T20:05:44",
+      "utterance": "（わかりました）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T20:06:10",
+      "utterance": "あなたは素敵な思いを持っているので、あなたの両立したいというチャレンジ応援しています。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T20:06:17",
+      "utterance": "わかりました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T20:06:26",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T20:06:34",
+      "utterance": "本日はありがとうございました。最後に何かご質問ございますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T20:06:43",
+      "utterance": "いえ、特にありません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T20:07:01",
+      "utterance": "かしこまりました。それでは終了させていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T20:07:16",
+      "utterance": "はい。ありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T20:07:36",
+      "utterance": "（お疲れ様でした。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T20:07:48",
+      "utterance": "また相談したいことがあればいつでもお越しくださいね。ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T20:08:00",
+      "utterance": "（ありがとうございました。お疲れ様でした。）"
+    },
+    {
+      "role": "client",
+      "time": "2022-09-09T20:08:14",
+      "utterance": "わかりました。失礼します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T20:08:52",
+      "utterance": "（長引いてしまい申し訳ありません。お手隙に評価頂けたら幸いです。至らなかった点たくさん教えていただけると助かります。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-09-09T20:09:12",
+      "utterance": "（ありがとうございました。それでは終了いたします。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "正社員と予備自衛官の両立の難しさ"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3941,
+    "評価作成日時": "2022-09-09T23:08:00",
+    "クライアント役ID": 302,
+    "カウンセラー役ID": 136,
+    "点数": 40,
+    "聴いてもらえた、わかってもらえたと感じた": 1,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 1,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 1,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 1,
+    "今回の相談は価値があった": 1,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 1,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 2,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 1,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3941,
+    "evaluation_created_at": "2022-09-09T23:08:00",
+    "client_id": 302,
+    "counselor_id": 136,
+    "score": 40,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 3,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 1,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 1,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

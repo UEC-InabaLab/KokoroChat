@@ -1,0 +1,629 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2020-12-16T09:52:29",
+      "utterance": "こんにちは"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T09:52:46",
+      "utterance": "（よろしくおねがいします）"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T09:53:12",
+      "utterance": "（10時になったら始めさせていただきますね）"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T09:53:34",
+      "utterance": "はい、よろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:00:05",
+      "utterance": "こんにちわ。相談員です。はじめに年代と性別、相談したい内容を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:02:40",
+      "utterance": "こんにちは"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:03:22",
+      "utterance": "40代、女性、会社に行くのが嫌になっています"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:03:42",
+      "utterance": "教えてくださりありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:04:03",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:04:06",
+      "utterance": "会社に行くのが嫌だと、毎日が憂鬱になってしまいますね。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:04:18",
+      "utterance": "いつ頃からですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:04:22",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:05:00",
+      "utterance": "2か月くらいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:05:32",
+      "utterance": "そうなのですね…。何か嫌になるきっかけのようなことは思い当たりますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:06:22",
+      "utterance": "部下の扱いに困っていることです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:07:42",
+      "utterance": "そうでしたか。。部下の方とは毎日顔を合わせるし、会社に行くのが憂鬱になってしまいますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:07:49",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:08:18",
+      "utterance": "その部下の方のどのようなことに困っている感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:10:18",
+      "utterance": "複数人いるのですが、10月の人事異動で私が赴任したのでなかなか指示をきかないひとがいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:11:47",
+      "utterance": "2か月前に異動された先の部下の方なのですね。指示を聞いてくれないのは仕事だし、困ってしまいますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:12:06",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:12:19",
+      "utterance": "指示を聞いてくれない部下の方が数人いらっしゃるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:12:27",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:12:51",
+      "utterance": "全体で部下の方は何人くらいいらっしゃるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:12:57",
+      "utterance": "25にんくらいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:13:47",
+      "utterance": "そんなに沢山いらっしゃるのですね！あなたはとてもお仕事が優秀で会社から信頼されているんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:14:06",
+      "utterance": "そのうちどれくらいの方の扱いにこまっていらっしゃるのでしょう？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:14:20",
+      "utterance": "中心的なのは4人ですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:15:48",
+      "utterance": "具体的にはどのようなことが起こっているのか伺っても大丈夫ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:15:58",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:17:17",
+      "utterance": "例えば、今日までの報告でシュミレーション結果を提出となっていても、体調不良や家族の都合を理由にけっせきしたり"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:17:48",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:18:04",
+      "utterance": "プロセスそのものが体調不良でできなかったと報告してきた李"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:18:09",
+      "utterance": "きたり"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:18:27",
+      "utterance": "はい。。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:18:45",
+      "utterance": "コロナの関係で、体調不良を理由にされると絶対に無理は言えないんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:19:10",
+      "utterance": "うーん･･･確かにそうですよねぇ。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:19:47",
+      "utterance": "あなたが着任された当初からそんな風なのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:20:27",
+      "utterance": "そうですね、問題だと言われている部署ではあったので"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:20:54",
+      "utterance": "着任される前にそう聞いていらっしゃったのですね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:21:26",
+      "utterance": "どなたかにご相談されたのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:22:06",
+      "utterance": "一応上司には相談していますが、様子見ということで現在まで来ています"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:23:19",
+      "utterance": "そうなんですね。。とはいえ、あなたにとっては毎日のことですから、大変なストレスになるのではと心配です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:23:58",
+      "utterance": "前任者の方にはご相談されましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:24:32",
+      "utterance": "はい、訴えてもみんな頑張っているんだからと"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:25:07",
+      "utterance": "問題の人たちには前任も苦労したので"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:25:16",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:25:24",
+      "utterance": "時間が過ぎるのを待つしかないって"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:26:00",
+      "utterance": "そう言われているのですね・・・。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:26:18",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:26:26",
+      "utterance": "問題のある4名の方たちとは直接お話しをされたのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:26:42",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:26:57",
+      "utterance": "どんなお話しをされたのでしょう？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:28:04",
+      "utterance": "まあ、仕事には期日があってそこを全員でやっていきたいというようなことを"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:28:24",
+      "utterance": "どう答えてきたのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:29:13",
+      "utterance": "その時は「はい」というのですが、実際期日近くになると休んだり、未完成な状態で提出したりします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:30:07",
+      "utterance": "未完成のまま提出するとは、、、本当に困ってしまいますね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:30:41",
+      "utterance": "休んだ日に別の場所で見かけたという噂もあるので仮病だと思うし"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:31:04",
+      "utterance": "証拠はないのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:31:19",
+      "utterance": "おおお。。。そうなんですね。そんな話を耳にすると、余計嫌な気持ちになりますね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:31:27",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:32:39",
+      "utterance": "会社としては正社員の素行が多少問題でも、犯罪でないのでクビにはできないし"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:33:19",
+      "utterance": "そうですよね。。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:34:04",
+      "utterance": "先ほど、上司の方が「一応様子見」ということで今まで来ているとおっしゃっていましたが、その一応はいつまでなのか、というのはお話しされていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:34:59",
+      "utterance": "年内はもちろんなのですが、コロナで通常営業できていない状態だから、先行きを限ることもむずかしくて"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:35:32",
+      "utterance": "また相談してって感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:35:43",
+      "utterance": "うんうん。そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:36:23",
+      "utterance": "ただ、あなたのことを考えると、どこかで区切ってもらった方がいいのかな？と思いますがいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:37:17",
+      "utterance": "はい、そう言っているのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:37:28",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:37:42",
+      "utterance": "はっきりとはしてくれません"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:38:46",
+      "utterance": "あなたとしてはそれをどう感じていらっしゃいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:39:07",
+      "utterance": "先が見えないのでひへいします"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:39:11",
+      "utterance": "疲弊"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:39:36",
+      "utterance": "そうですよね・・・。すり減っていく感じがしてしまいますよね。。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:39:43",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:40:06",
+      "utterance": "会社内に上司の方以外に相談できるところはありませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:40:46",
+      "utterance": "業務の事でもあるので、上司抜きにはそうだんしにくいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:41:36",
+      "utterance": "お話しを伺っていて、あなたに起こっていることは逆パワハラにあたらないかな？と思うのです。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:41:54",
+      "utterance": "なるほど"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:42:38",
+      "utterance": "逆パワハラとは、上司に暴言、暴力、誹謗中傷などもありますが、無視も含まれます。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:42:55",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:43:22",
+      "utterance": "私の能力不足とおもってしまいました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:44:53",
+      "utterance": "厚生労働省からも「同僚又は部下からの集団による行為で、これに抵抗又は拒絶することが困難であるもの。」が逆パワハラにあたると指針に出ています。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:45:19",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:45:44",
+      "utterance": "ですので、あなたの能力不足ではありません。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:45:56",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:46:43",
+      "utterance": "なので、もし上司の方が期限を切って対応してくれないようであれば、人事や、パワハラ相談の窓口に相談してみるのはいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:48:12",
+      "utterance": "社内では相談窓口みたいな所が無いんです。上司を飛び越えるようなことをすると社内で話が結局広がってしまって"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:49:28",
+      "utterance": "そうですね、その後のことを考えると相談しにくくなってしまいますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:49:35",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:50:22",
+      "utterance": "上司の方にも逆パワハラのお話しをしてみるのはいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:51:00",
+      "utterance": "そうですね、ちょっと理解されにくいかもですが"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:51:04",
+      "utterance": "話してみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:51:32",
+      "utterance": "会社にもよりますが就業規則に定めていれば、パワハラの場合は減給や解雇ができる場合もあります。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:51:55",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:52:25",
+      "utterance": "この二か月、沢山我慢し、つらい思いをされていたのだと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:52:35",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:53:04",
+      "utterance": "でもあなたは悪くありません。無視や指示を聞かない、業務を円滑に行わないのは、暴力と同じです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:53:36",
+      "utterance": "25人も部下を任せられるあなたは、会社から信頼されている優秀な方なのだと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:54:01",
+      "utterance": "いえ、そんなではないのですが"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:54:11",
+      "utterance": "一生懸命はやってきました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:54:36",
+      "utterance": "ぜひ上司や人事と相談して、あなたのお仕事でご自身の能力が十分に発揮できる環境を取り戻してくださいね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:55:33",
+      "utterance": "一生懸命にやってきた結果がきちんと出ているのだと思います。その4名の部下のためにご自身を責めたりしないでくださいね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:55:34",
+      "utterance": "はい、違った見方ができるようになれたかもしれません。ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:56:12",
+      "utterance": "こちらこそ、今日はご相談にきてくださり、ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:56:33",
+      "utterance": "ではこちらで相談を終了させていただいて大丈夫でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:56:42",
+      "utterance": "はい、ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:56:45",
+      "utterance": "また何かあればいつでも来てくださいね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:57:11",
+      "utterance": "（ありがとうございました）"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T10:57:30",
+      "utterance": "（こちらでロールプレイ終了とさせていただいてよろしいですか？）"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T10:58:02",
+      "utterance": "はい、ありがとうございました"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "部下との関係によるストレス"
+  },
+  "review_by_client_jp": {
+    "評価ID": 931,
+    "評価作成日時": "2020-12-16T11:09:00",
+    "クライアント役ID": 121,
+    "カウンセラー役ID": 71,
+    "点数": 88,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 5,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 5,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 5,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 4,
+    "要約": 4,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 931,
+    "evaluation_created_at": "2020-12-16T11:09:00",
+    "client_id": 121,
+    "counselor_id": 71,
+    "score": 88,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

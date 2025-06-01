@@ -1,0 +1,564 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-05-31T10:21:09",
+      "utterance": "(こんにちわ。本日はよろしくお願いします。時間になりましたら始めさせていただきますね。）"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T10:21:58",
+      "utterance": "（こんにちは。こちらこそよろしくお願いします）"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T10:30:15",
+      "utterance": "こんにちわ。相談員です。相談に来て頂きありがとうございます。ここでは安心してなんでも話してくださいね。まず、初めに年齢、性別、相談内容を教えてください。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T10:31:11",
+      "utterance": "15歳、男性、学校がつまらない"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T10:31:59",
+      "utterance": "お話ししていただきありがとうございます。学校がつまらないのですね。いつからそう思われていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T10:32:26",
+      "utterance": "2ヶ月前から"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T10:32:48",
+      "utterance": "2ヶ月まえからなんですね。何かありましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T10:34:11",
+      "utterance": "友達関係とか学校の雰囲気とか"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T10:35:50",
+      "utterance": "なるほど、友人関係や学校の雰囲気のことで、つまらないと思っているのですね。友人関係とおっしゃっていましたが、何かつまらないと思うきっかけはありましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T10:37:18",
+      "utterance": "話をしていても、話があわなくて、楽しくない"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T10:37:47",
+      "utterance": "そうなんですね。話が合わないとおもっているのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T10:38:25",
+      "utterance": "例えばどんな時にそう感じますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T10:38:50",
+      "utterance": "話せる範囲で構わないので教えてください。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T10:40:33",
+      "utterance": "休み時間などに話していても、話している内容とかについていけなく、自分から話題を提供しても、なんだかノリが悪い気がしてます"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T10:40:52",
+      "utterance": "最近自分から、あまり話さなくなりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T10:41:15",
+      "utterance": "なるほどです。それは、話したくなくなりますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T10:41:45",
+      "utterance": "学校がつまらないなと思う気持ちになってしまうのは、当然だと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T10:42:49",
+      "utterance": "話合わないと思うお友達は特定のお友達ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T10:43:47",
+      "utterance": "もともと全体的には話さないし、いつも話す人は同じ人"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T10:44:36",
+      "utterance": "なるほど、特定のお友達との会話でそう思っているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T10:45:33",
+      "utterance": "もともとあまり話さない"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T10:46:31",
+      "utterance": "なるほどです。元々話をしない感じなんですね。その特定のお友達の他のクラスメイトたちとは、どんな感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T10:47:40",
+      "utterance": "授業で話したりはしますが、休み時間もベラベラ話さないし、他の友達と話して学校が楽しくなるのかもわからない"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T10:48:35",
+      "utterance": "その通りですね。他の友達が楽しいとは限りませんよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T10:49:32",
+      "utterance": "学校の雰囲気もいまいち・・・とおっしゃられていましたが、学校の雰囲気は、どんなかんじですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T10:51:03",
+      "utterance": "レベルも高くしっかりしてて、ついていけなくなりそうな感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T10:53:06",
+      "utterance": "そうなんですね。レベルの高い学校なんですね。ついていけなさそう・・とは、どんな時に感じますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T10:53:30",
+      "utterance": "授業とか、規律とか"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T10:54:02",
+      "utterance": "厳しい学校なんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T10:54:19",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T10:54:33",
+      "utterance": "それは、しんどいですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T10:55:00",
+      "utterance": "お友達と話して息抜きしたいと思いますね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T10:55:43",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T10:56:01",
+      "utterance": "そこで嫌なの態度をとられると学校じたいつまらなくなりますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T10:56:29",
+      "utterance": "今年の４月に入学されたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T10:56:41",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T10:57:39",
+      "utterance": "そうなんですね。学校がつまらないと感じて２ヶ月とおっしゃっていたので、最初からつまらないなと感じていられたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T10:57:53",
+      "utterance": "そうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T10:58:42",
+      "utterance": "なるほど・・・学校は毎日行くところなので、合わないと苦痛になってしまいますね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T10:59:16",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T10:59:19",
+      "utterance": "何かもっとこうなったら楽しく過ごせるのに・・と思うことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T11:00:11",
+      "utterance": "話ができる人がいて、もう少し学校が厳しくないとよいかな"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T11:01:03",
+      "utterance": "なるほどです。話ができる友達がいると愚痴を言い合って乗り越えられそうですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T11:01:49",
+      "utterance": "そういった話を誰かに話たことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T11:02:31",
+      "utterance": "親に話しました。まだ始まって慣れていないだけと言われました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T11:03:28",
+      "utterance": "なるほど。親御さんにはお話しされたのですね。慣れれば・・・と言われたときどう思われましたか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T11:04:25",
+      "utterance": "1年とか半年で慣れるのかな？と感じました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T11:05:39",
+      "utterance": "なるほど、ちょっと続けてみれば、いけるかも・・と思われたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T11:05:59",
+      "utterance": "他にありますかね？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T11:07:08",
+      "utterance": "完全に無理！と思われなかったということは、少し希望をもっていられるのかな？とお見受けしましたがいかがでしょう？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T11:08:28",
+      "utterance": "わからないですひとまずあと1ヶ月我慢しようと思いますが、きっかけがないと変わらないと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T11:09:23",
+      "utterance": "そうですね。もう少ししたら親御さんの言う通り慣れてきて楽しくなるかもしれませんよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T11:10:06",
+      "utterance": "どういうきっかけがあればいいなと思っていられますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T11:10:37",
+      "utterance": "友達がいたり、学校が変わったり"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T11:10:43",
+      "utterance": "とかですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T11:11:17",
+      "utterance": "友達がいると楽しくないますよね。学校を変える選択肢もあるのでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T11:11:49",
+      "utterance": "楽しくなりますよね。の間違いです。失礼しました。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T11:12:11",
+      "utterance": "学校変える選択肢はないですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T11:12:49",
+      "utterance": "そうなのですね。では、今の学校でお友達ができるといいな・・・といった感じでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T11:13:35",
+      "utterance": "１５歳とおっしゃられていたので、今の中学生さんですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T11:13:39",
+      "utterance": "そうですね難しいかなと感じてます話しかけても、話が合わないなら無理してつくる必要ない"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T11:14:21",
+      "utterance": "今年４月入学の高1です"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T11:14:42",
+      "utterance": "大変失礼致しました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T11:15:00",
+      "utterance": "今高校生なんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T11:15:27",
+      "utterance": "確かに無理してお友達に合わせるのはしんどいし"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T11:16:15",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T11:16:34",
+      "utterance": "疲れてしまいますよね。中学の時のお友達とはどうでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T11:17:38",
+      "utterance": "不思議と？いました今はラインでやり取りしてますが、今の高校はいません"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T11:18:24",
+      "utterance": "中学生の時のお友達と今も仲良くされているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T11:18:44",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T11:19:18",
+      "utterance": "それでは、あなたにはお友達を作る才能があるということですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T11:19:38",
+      "utterance": "わかりません今はいないから"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T11:20:03",
+      "utterance": "今の高校も、あなたの周囲の友達と合わないだけではありませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T11:20:39",
+      "utterance": "かもしれないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T11:21:13",
+      "utterance": "きっとそうだと思います！！"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T11:21:26",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T11:22:05",
+      "utterance": "中学生の時のお友達とはどんな感じで仲良くなりましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T11:22:41",
+      "utterance": "普通に話をして仲良くなりました。小学校からの人もいたので"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T11:23:37",
+      "utterance": "なるほど・・では、高校でも普通に話をして仲良くなれる友達がいるかもしれませんね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T11:24:32",
+      "utterance": "最初は、話していましたが、話が合わなくて楽しくないと思いました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T11:25:06",
+      "utterance": "そうなんですね。では、その友達は合わない気がします。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T11:25:36",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T11:25:48",
+      "utterance": "他の友達に話しかけるのは、難しいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T11:26:48",
+      "utterance": "なんか無理矢理話すのとか疲れちゃって"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T11:27:23",
+      "utterance": "なるほど・・・友達は無理矢理作るものではありませんよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T11:27:57",
+      "utterance": "でも、中学生の時のように自然と話していて仲良くなれる友達は、いると思います。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T11:28:43",
+      "utterance": "いればよいのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T11:29:03",
+      "utterance": "突然話したら意外と楽しかったみたいな友達ができるいいなと思っています。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T11:29:25",
+      "utterance": "はい、そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T11:30:02",
+      "utterance": "今日は、お時間になってしまいましたが、またつまらないな・・・と思った時や"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T11:30:47",
+      "utterance": "友達ができて今楽しいよ！ということがあったらお話しに来てくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T11:31:20",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T11:31:32",
+      "utterance": "あなたにとって楽しい高校生活が送れるように願っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T11:31:39",
+      "utterance": "本日はありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T11:31:49",
+      "utterance": "はい、ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T11:31:57",
+      "utterance": "（少し超過してしまいましたが、ありがとうございました。）"
+    },
+    {
+      "role": "client",
+      "time": "2024-05-31T11:32:15",
+      "utterance": "（お疲れ様でした。ありがとうございました）"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T11:32:33",
+      "utterance": "（大変勉強になりました。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-05-31T11:32:51",
+      "utterance": "（ここで終了ボタンを押させていただきます。ありがとうございました。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "友達関係の悩み"
+  },
+  "review_by_client_jp": {
+    "評価ID": 6947,
+    "評価作成日時": "2024-05-31T12:00:00",
+    "クライアント役ID": 449,
+    "カウンセラー役ID": 351,
+    "点数": 64,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 5,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 3,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 6947,
+    "evaluation_created_at": "2024-05-31T12:00:00",
+    "client_id": 449,
+    "counselor_id": 351,
+    "score": 64,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

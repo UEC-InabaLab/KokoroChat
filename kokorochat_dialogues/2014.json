@@ -1,0 +1,649 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:00:12",
+      "utterance": "こんばんは。相談員です。本日はご相談いただきありがとうございます。もしよろしければ、はじめに年齢と性別、今日相談したいことを教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:00:39",
+      "utterance": "47歳、男性"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:01:22",
+      "utterance": "会社で色々上手くいかなくって、どうしていったらいいのか悩んでいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:01:58",
+      "utterance": "そうなんですね・・・それはおつらいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:02:10",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:02:17",
+      "utterance": "うまくいかないことがあると悩んでしまいますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:02:25",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:02:35",
+      "utterance": "もう少し詳しくどんなことがあったのか教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:03:45",
+      "utterance": "一応管理職をしているのですが、部下に指示をしてもその通りに動いてくれないし、むしろ舐められている感じもします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:04:10",
+      "utterance": "そう思われているのですね・・・それは悔しいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:04:20",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:04:55",
+      "utterance": "そう感じられた時、どうされているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:05:47",
+      "utterance": "さらにやってもらえるように色々言うのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:06:03",
+      "utterance": "ええ（お話つづけてくださいね）"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:06:10",
+      "utterance": "まったく通じないというか"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:06:41",
+      "utterance": "部下の方が1枚も2枚も上手なんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:07:22",
+      "utterance": "そう感じてらっしゃるのですね・・・それはいやになってしまいますね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:07:56",
+      "utterance": "はい、もうどうしたいいのか分かりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:08:48",
+      "utterance": "あなたがそう思われるのは無理もないと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:09:14",
+      "utterance": "他にも何かありましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:10:35",
+      "utterance": "最近では若手の管理職に追い抜かれてしまって、副課長になったりもありました"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:10:57",
+      "utterance": "降格ですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:11:48",
+      "utterance": "そんなこともあったのですね・・それは悔しいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:11:59",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:11:59",
+      "utterance": "あなたはどう感じられたのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:12:25",
+      "utterance": "自分には能力がないのかなと"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:12:42",
+      "utterance": "以前からそう感じていました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:13:06",
+      "utterance": "そうでしたか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:14:01",
+      "utterance": "そう感じられるお心当たりでもあったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:14:34",
+      "utterance": "そうやって部下には舐められているし、"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:15:05",
+      "utterance": "以前に鬱気味になって異動を余儀なくされました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:16:06",
+      "utterance": "体調も崩してしまわれていたのですね・・・苦しい思いをされてきたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:16:26",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:17:10",
+      "utterance": "今も通院されているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:18:32",
+      "utterance": "その時一瞬病院にいきましたが、逆に異動させられたおかげもって、ストレスもやわらいで復調しまして"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:19:27",
+      "utterance": "でも、今また同じような状況になりつつあり"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:19:35",
+      "utterance": "怖いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:20:16",
+      "utterance": "そうでしたか。それはご不安になりますね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:20:27",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:20:45",
+      "utterance": "ここまでのお話を一度整理させていただいてもよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:21:04",
+      "utterance": "お願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:22:29",
+      "utterance": "あなたは管理職をされていて、以前鬱病を患って異動を余儀なくされたことがある。でも環境が変わったこともあったのかストレスが和らいで回復されたのですね。でも"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:23:38",
+      "utterance": "部下からなめらていると感じるような態度をとられたり、若手管理職に抜かれてこうかくされてしまったこともあって"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:24:30",
+      "utterance": "ご自身は能力がないと思ってしまうところもあって、どうしたらよいのかわからなくなってしまった・・・ということでよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:24:50",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:25:25",
+      "utterance": "今日ここで相談されたかったことはどんなことですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:26:07",
+      "utterance": "管理職として自分はこれからやっていけるのだろうかということですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:26:31",
+      "utterance": "自信がまったく無くなっています"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:27:17",
+      "utterance": "辞めてしまった方がいいのかなとも思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:28:36",
+      "utterance": "管理職としてやっていく自信がなくなってしまって、辞めた方がいいのかもしれないと考えていらっしゃるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:28:56",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:30:33",
+      "utterance": "辞めることを考えるほどなのですね・・・悩ましいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:30:56",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:31:17",
+      "utterance": "でも辞めてもこんな自分が他で通用するのか？とも思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:31:41",
+      "utterance": "なるほど、そう思われるのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:31:53",
+      "utterance": "辞めることも勇気がいりますものね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:32:18",
+      "utterance": "そうですね、それなら今のところにしがみつくか"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:32:36",
+      "utterance": "でも苦しい"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:33:17",
+      "utterance": "行くも地獄、行かぬも地獄という感じですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:33:46",
+      "utterance": "今の会社ではこれまでキャリアもおありですものね。できることなら続けたいお気持ちもおありなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:34:30",
+      "utterance": "まあせっかく大企業に入ったので、やはり助かるところはあると思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:34:41",
+      "utterance": "そう思われるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:34:58",
+      "utterance": "コロナで倒産とかありますからね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:35:37",
+      "utterance": "確かに、今の状況では転職活動も大変なこともあるかもしれませんね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:36:03",
+      "utterance": "ただ身体が持つのか心配です"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:36:29",
+      "utterance": "先に自分がたおれるかも"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:36:42",
+      "utterance": "そう思われるのですね。以前のご経験もありますものね。ご不安ですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:36:59",
+      "utterance": "はい、不安でたまりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:37:29",
+      "utterance": "あなたがそう思われるのは当然だと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:37:57",
+      "utterance": "このまま今の会社を続けるにあたって一番ご不安なことはお身体のことでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:38:13",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:38:20",
+      "utterance": "あとは"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:38:52",
+      "utterance": "管理職としてこの先務めていけるのか自信がないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:39:06",
+      "utterance": "そう思われるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:39:32",
+      "utterance": "私はどうしたらいいのでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:39:46",
+      "utterance": "辞めるべきでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:41:52",
+      "utterance": "ここまでお話を伺って私の感じたことをお伝えしてもよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:42:00",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:42:50",
+      "utterance": "あなたは自信がないとおっしゃっていますけれど、体調を崩されても管理職としてここまで築いてこられたものもおありだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:43:11",
+      "utterance": "まだ辞めることを少しでも躊躇っておられるようであれば、まずは"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:44:14",
+      "utterance": "健康面で相談できる窓口や産業医、または上司などにあなたのご不安なところを相談されてみるのも一つかと思いましたが、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:45:16",
+      "utterance": "そうですね、相談して何か変わるでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:46:07",
+      "utterance": "今の上司は結果しか求めていません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:46:30",
+      "utterance": "そう思われているのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:46:47",
+      "utterance": "上司には相談しにくい感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:47:40",
+      "utterance": "相談したところで、で結果はどうなの？と上手くやれよと、それだけだと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:48:19",
+      "utterance": "そんな感じなのですね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:48:58",
+      "utterance": "部長は部長でプレッシャー掛けられてるんでしょうね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:50:03",
+      "utterance": "そう思われるのですね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:50:19",
+      "utterance": "だと思いますよ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:51:24",
+      "utterance": "上司の立場も考えていらっしゃるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:52:12",
+      "utterance": "というか、相談しても無駄だかなと思います"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:52:30",
+      "utterance": "何も変わらないかなと"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:53:12",
+      "utterance": "そう感じられるのであれは相談は難しいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:53:28",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:55:06",
+      "utterance": "あなたの心が少しでも軽くなれたらと思ったのですが・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:55:24",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:55:46",
+      "utterance": "こんなこと相談してすみません"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:56:17",
+      "utterance": "何とか自分でやってみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:56:22",
+      "utterance": "あなたが苦しい思いで何とかしたいと思われているのはとても伝わってきました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:56:49",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:56:58",
+      "utterance": "上司には相談する気にはなれないけれど、ご自身でまずはできるところまでやってみて、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:57:53",
+      "utterance": "体調に異変を感じるようなことがあったときには、早めに休息されたり、病院で診察をうけられるというのも一つかと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:58:14",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T20:58:51",
+      "utterance": "健康あってのお仕事ですものね。ご自身の体調には充分お気を付けてくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T20:59:07",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T21:00:06",
+      "utterance": "あまりお力になることができませんでしたが、今日は相談に来て下さってありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T21:00:36",
+      "utterance": "こちらこそありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T21:00:58",
+      "utterance": "ご不安なお気持ちは人に話たりすることで気持ちが整理できることもあるかもしれませんので、また何かありましたらお話に来て下さいね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T21:01:37",
+      "utterance": "それでは今日はこれで終了させていただきます。ありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T21:01:47",
+      "utterance": "はい、わかりました"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T21:01:53",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T21:02:03",
+      "utterance": "（今日は勉強させていただきありがとうございました。）"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T21:02:11",
+      "utterance": "(お疲れ様でした！大変勉強になりました)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-06-09T21:02:29",
+      "utterance": "（お疲れ様でした。それでは失礼します。）"
+    },
+    {
+      "role": "client",
+      "time": "2021-06-09T21:02:29",
+      "utterance": "(どうも有難うございました。失礼致します)"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "管理職としての自信喪失"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2014,
+    "評価作成日時": "2021-06-09T21:30:00",
+    "クライアント役ID": 39,
+    "カウンセラー役ID": 124,
+    "点数": 61,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 4,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 4,
+    "要約": 4,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2014,
+    "evaluation_created_at": "2021-06-09T21:30:00",
+    "client_id": 39,
+    "counselor_id": 124,
+    "score": 61,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

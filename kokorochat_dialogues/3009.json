@@ -1,0 +1,419 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-01-22T11:08:14",
+      "utterance": "（こんにちは(^_^)）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-22T11:08:36",
+      "utterance": "（システムの不具合で事務局に電話等しており、遅くなりました）"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T11:08:52",
+      "utterance": "「こちらこそすみません」"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T11:09:13",
+      "utterance": "「本日は宜しくお願い致しますリクエスト希望ありましたらお願い致します」"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-22T11:09:35",
+      "utterance": "（対応をありがとうございます。１分後：11時10分に始めさせていただいても宜しいですか？何でもOKです(^_^)）"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T11:10:14",
+      "utterance": "「大丈夫です良ければ１０分プラスで終了時間も大丈夫ですよ」"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-22T11:10:34",
+      "utterance": "10分プラスでお願いします(^_^)"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T11:10:51",
+      "utterance": "「ではそれでお願いします」"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T11:10:58",
+      "utterance": "「承知致しました」"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-22T11:11:59",
+      "utterance": "ご相談ありがとうございます。はじめに、性別と年齢を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T11:12:49",
+      "utterance": "おはようございます３２歳女です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-22T11:13:20",
+      "utterance": "お答えいただき、ありがとうございます。本日は、どのようなご相談ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T11:14:26",
+      "utterance": "家庭のことで相談にきました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-22T11:15:13",
+      "utterance": "ご家庭のことですね、承知しました。詳しく教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T11:15:29",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T11:16:34",
+      "utterance": "少し前から旦那さんの帰りが遅くてコロナ流行ってるのに飲みに出ることが増えて不安です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-22T11:17:49",
+      "utterance": "最近、また流行ってきたから、ますます不安になりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T11:18:45",
+      "utterance": "はいそうなんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-22T11:19:13",
+      "utterance": "旦那様は、その飲み会は希望されてなのですか？お仕事ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T11:20:53",
+      "utterance": "同僚とっていうんですけどやっぱり不安でもしかしたら女性とていうのも考えてしまいました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-22T11:22:44",
+      "utterance": "色々想像してしまいますよね。少し前から旦那様の帰りが遅いということですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-22T11:23:14",
+      "utterance": "その時期に、何か相談者様にとって不安に思われることがあったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T11:23:15",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T11:24:13",
+      "utterance": "そうですね前はなかったのに自室に引きこもりがちになっているので"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-22T11:25:02",
+      "utterance": "はい（聴いています）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-22T11:30:35",
+      "utterance": "旦那様の方には、何か仕事内容に変化があられたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T11:31:44",
+      "utterance": "そうですね仕事も部署も変わって出張も増えたので心配です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-22T11:32:09",
+      "utterance": "そうなんですね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T11:32:34",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-22T11:33:32",
+      "utterance": "仕事も部署も変わり、慣れねばならず、かつ、コロナの状況下で出張に対応せねばならない状況なのですね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T11:34:26",
+      "utterance": "そうらしいですとても心配になります"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-22T11:34:28",
+      "utterance": "それを支える相談者様の環境も変わっている中、旦那様を支えてこられてきたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T11:34:52",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T11:35:44",
+      "utterance": "最近は疲れもあるみたいですぐ寝てしまってるみたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-22T11:37:20",
+      "utterance": "そうなのですね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T11:37:48",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-22T11:38:48",
+      "utterance": "旦那様は、仕事に大変で、飲み会によく行き、すぐ自室に入り疲れて眠る、"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T11:39:42",
+      "utterance": "ええ。最近はそんな感じになってしまってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-22T11:41:48",
+      "utterance": "相談者様は、旦那様のことが心配であり、支えながらも、旦那様に対して不安なお気持ちがある、"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T11:42:14",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-22T11:44:52",
+      "utterance": "旦那様にはその不安なお気持ちを伝えてみられましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T11:46:15",
+      "utterance": "まだ言えてないんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-22T11:47:20",
+      "utterance": "そうですよね、旦那様へ言うタイミングを考えてしまいますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T11:48:04",
+      "utterance": "そうなんです忙しそうですし"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-22T11:54:34",
+      "utterance": "では、このご相談をいただいた時間、相談者様と旦那様が二人の時間が早くとれるよう、旦那様への接し方を工夫策を考える時間にしてみましょうか？それとも、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-22T11:57:30",
+      "utterance": "旦那様へ正直にお伝えするタイミングを図ることも、相談者様にとって安心につながるかも知れません。旦那様の雰囲気もあると思いますが、どう思われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T11:58:11",
+      "utterance": "そうですよね"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T11:58:25",
+      "utterance": "それで考えてしまってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-22T11:58:57",
+      "utterance": "どのようなことを考えられていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T11:59:10",
+      "utterance": "タイミングもどうしようとおもうので"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-22T12:01:13",
+      "utterance": "タイミングを考えてしまいますよね。これまでの結婚生活の中で、相談者様の不安なお気持ちを、旦那様には伝えてこられたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T12:02:36",
+      "utterance": "結構我慢が多かったので辛いこともあまり言えずにいました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-22T12:03:37",
+      "utterance": "相手の環境や気持ちを優先されて、辛いことなど我慢してこられたのですね。頑張ってこられましたね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T12:04:50",
+      "utterance": "はいちょっと我慢しすぎてあまり気持ちを伝えられずにいました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-22T12:06:58",
+      "utterance": "ずっとずっと気持ちを我慢してくると、相談者様自身が安定しなくなっちゃいますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T12:07:26",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T12:08:04",
+      "utterance": "でもここで話せて話してみようかなと思えたので頑張って見ようと思います"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T12:08:45",
+      "utterance": "今日はお話し聴いていただきありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-22T12:09:52",
+      "utterance": "相談者様の解決策までお伝えできずにすみません。もし宜しければ、またお越しください。他のカウンセラーも含めて対応することが出来ます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T12:10:07",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T12:10:22",
+      "utterance": "是非また相談に来ますね"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T12:10:43",
+      "utterance": "また宜しくお願いしますそれでは失礼いたします"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-22T12:10:53",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T12:10:56",
+      "utterance": "「本日ありがとうございました」"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T12:11:13",
+      "utterance": "「また宜しくお願いしますね」"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-22T12:11:37",
+      "utterance": "（途中から、がたがたになっちゃいました。勉強になりました。ありがとうございました。どうぞ忌憚ない評価＆アドバイスお願いします）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-22T12:12:09",
+      "utterance": "（では、終了いたしますね）"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T12:12:20",
+      "utterance": "「全然です私もまだまだなのでまたお願いします」"
+    },
+    {
+      "role": "client",
+      "time": "2022-01-22T12:12:29",
+      "utterance": "ではーまたー"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-01-22T12:12:51",
+      "utterance": "（ありがとうございます(^_^)、終了します～）"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦）",
+    "main_en": "Family Issues (Spouse)",
+    "sub": "旦那とのコミュニケーション不足問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3009,
+    "評価作成日時": "2022-01-22T12:19:00",
+    "クライアント役ID": 242,
+    "カウンセラー役ID": 240,
+    "点数": 60,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 4,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 2,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3009,
+    "evaluation_created_at": "2022-01-22T12:19:00",
+    "client_id": 242,
+    "counselor_id": 240,
+    "score": 60,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

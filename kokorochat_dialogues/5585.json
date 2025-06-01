@@ -1,0 +1,589 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:23:03",
+      "utterance": "(こんばんは、本日はよろしくお願いいたします。時間になりましたら始めさせていただきますね。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:23:30",
+      "utterance": "こんばんは。よろしくお願いします。リクエストはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:23:55",
+      "utterance": "（）つけるの忘れました(困る)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:25:04",
+      "utterance": "（ありがとうございます、まだそんなにカウンセラー役をやっていないのでチャレンジさせていただけるだけで大丈夫です。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:25:18",
+      "utterance": "（了解しました！）"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:30:09",
+      "utterance": "こんばんは、相談員です。初めに性別、年齢、相談内容を教えてください。"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:30:51",
+      "utterance": "24歳女彼氏について"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:31:38",
+      "utterance": "ご回答ありがとうございます。彼氏さんがいらっしゃるんですね。どのようなお悩みか少し教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:32:32",
+      "utterance": "どうしたら、うまく別れられるか悩んでる"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:33:14",
+      "utterance": "彼氏さんとは、どのようなことで困っているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:33:59",
+      "utterance": "普段優しいけど、怒ると歯止めがきかない"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:34:42",
+      "utterance": "それは、お辛い状況ですね。今、彼氏さんは近くにいらっしゃいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:34:50",
+      "utterance": "いません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:35:57",
+      "utterance": "そうでしたか。先ずは、相談者様に危害はない感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:36:27",
+      "utterance": "今のところは…でも、いつ殴られるかビクビクしてる"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:37:17",
+      "utterance": "そうなんですね、それはとても不安ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:37:43",
+      "utterance": "はい、怖いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:37:52",
+      "utterance": "今日は、こちらに来ていただいて良かったです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:38:24",
+      "utterance": "少しでもお力になれたらと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:38:44",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:38:52",
+      "utterance": "今は、一緒に住んでいるんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:39:12",
+      "utterance": "いいえ、時々泊まりにきます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:39:43",
+      "utterance": "そうなんですね。どんな時に暴力を振るわれるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:41:23",
+      "utterance": "いろんなことが理由としてありますが、例えば、私が友達とご飯に行ったり、遊びに行ったりしたとき、女友達じゃないのでは？と疑われる時とか、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:42:24",
+      "utterance": "そうなんですね。それは本当に気がきでは無いですね。彼氏さんのことは、どう感じていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:42:35",
+      "utterance": "理由がよくわからない時もあったりもします"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:42:54",
+      "utterance": "そうですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:43:21",
+      "utterance": "穏やかな時はすごく優しいので、落差がすごいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:43:56",
+      "utterance": "そうなんですね、彼氏さんのことは好きですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:44:32",
+      "utterance": "好きなんだと思います。でも、その落差に疲れています"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:45:10",
+      "utterance": "そうですよね。相談者様はとても疲れていると思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:45:34",
+      "utterance": "それに、彼氏さんのことも好きなのは間違いないと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:45:48",
+      "utterance": "でも"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:45:50",
+      "utterance": "でも、別れたいとか言えばまたキレられると思うと怖くて"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:46:56",
+      "utterance": "そうですよね。確かにそうですよね。一番に、相談者様の体、命を大切にしてほしいと私は思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:47:15",
+      "utterance": "相談できる場所を一緒に考えませんか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:47:33",
+      "utterance": "いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:47:36",
+      "utterance": "お願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:48:02",
+      "utterance": "少し、質問してもいいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:48:11",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:49:17",
+      "utterance": "警察には相談しようと思ったこととか、このことを誰かに相談できた方はいらっしゃいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:49:56",
+      "utterance": "友達には少し話してます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:50:21",
+      "utterance": "お友達は、なんとおっしゃっているんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:50:38",
+      "utterance": "早く別れろと"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:51:01",
+      "utterance": "そうですよね。心配してくれているんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:51:16",
+      "utterance": "親御さんはいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:51:26",
+      "utterance": "言ってません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:51:51",
+      "utterance": "そうでしたか、心配かけてくないのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:52:25",
+      "utterance": "そうですね。もともと、一人暮らしは反対なのですぐに帰らされると思うと言えません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:53:18",
+      "utterance": "なるほど。でも、相談者様の周りには心配してくださる方がいらっしゃっるということですね。少し、安心しました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:53:48",
+      "utterance": "その、皆さんの愛情を受けながら勇気を出してみませんか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:54:44",
+      "utterance": "例えば、DV相談ができるところはたくさんあります。"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:55:43",
+      "utterance": "これはDVにあたるのですか？そんな大事にするのは怖いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:57:06",
+      "utterance": "相談者様に暴力を振るうことは、何があっても許されないことですよ。もちろん、相談者様に危害が及そうになった時、警察に伝えつこともとても勇気がいつことだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:58:14",
+      "utterance": "DVかどうかは専門家に相談してみるのも一つの手だと私は思いますがいかがでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T19:59:30",
+      "utterance": "とても、怖いんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T19:59:57",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:00:00",
+      "utterance": "ちょっと、急がせてしまいました。申し訳ありません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:00:29",
+      "utterance": "相談者様の命を考えると心配になりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:00:51",
+      "utterance": "体の方は、大丈夫ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T20:01:11",
+      "utterance": "大丈夫です"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:01:28",
+      "utterance": "少し、安心しました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:02:09",
+      "utterance": "今、相談者様はどんなお気持ちですか？今後のこととか、どのように考えていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T20:03:35",
+      "utterance": "彼のことは好きだけど、相手が変わらないならこのまま付き合ってても婚期が遅れるだけだから別れた方がいいかなと思っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:04:17",
+      "utterance": "そうですよね、人生一度きり！時間はとても貴重ですものね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:05:05",
+      "utterance": "相談者様は、どんな夢を持っていらっしゃいますか？これから、どんなふうになったらいいなと思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T20:05:41",
+      "utterance": "普通に結婚して、楽しい家庭を作りたい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:06:01",
+      "utterance": "それは、とても素晴らしい夢ですね！"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:06:25",
+      "utterance": "きっと実現できますよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:07:24",
+      "utterance": "まず、何から始めれば実現できそうですか？一緒に考えてみましょう。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:08:03",
+      "utterance": "今は、お仕事とかは充実してますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T20:08:26",
+      "utterance": "充実かどうかはわかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:09:06",
+      "utterance": "どんなお仕事をしていらっしゃるんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T20:09:29",
+      "utterance": "一般企業の事務です"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:11:06",
+      "utterance": "そうなんですね。しっかり人生進めていらっしゃいますね。お仕事仲間と飲みに行ったりストレス発散などはどんな感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T20:12:13",
+      "utterance": "ストレス発散はあまりできてないかもしれません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:13:21",
+      "utterance": "ストレスは、夢を遠ざけてしまいます。ご自分にもう少し癒しの時間も作ることから始めるのもいいかもしれませんね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:14:12",
+      "utterance": "ストレス発散することもままならないのでしょうか？彼氏さんが怒るとか"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T20:14:39",
+      "utterance": "そうですね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:16:00",
+      "utterance": "彼氏さんのことでたくさん頑張って、たくさん傷ついてきたように感じるのですが、今振り返っていかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T20:17:13",
+      "utterance": "うまく別れられる方法があればいいのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:17:56",
+      "utterance": "そうですね、うまくというと、一人では限界があると思うのですがいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T20:18:30",
+      "utterance": "そうなんですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:19:43",
+      "utterance": "やはり、男性は力もありますし、もし暴力が始まれば誰かが止めに入ることも必要だと思いましたが、どうですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:20:34",
+      "utterance": "誰かがいれば怖さも軽減されますし、勇気も出ると思いますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T20:20:44",
+      "utterance": "そういうことですね。別れることはすごい覚悟がいるんだということですね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:21:08",
+      "utterance": "もちろんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:21:32",
+      "utterance": "どんな方であっても、別れは辛く覚悟が入ります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:22:05",
+      "utterance": "今後の人生、夢を掴むのも覚悟が入ります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:22:32",
+      "utterance": "今、どう感じますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T20:23:01",
+      "utterance": "とても不安です"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:23:32",
+      "utterance": "そうですよね、みんなそうです。自信満々で生きている人は少ないですよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:23:41",
+      "utterance": "私もそうです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:23:56",
+      "utterance": "みんな一緒ですよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:24:35",
+      "utterance": "周りの心配してくれる人を頼りにしながら少し勇気を出してみませんか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:25:10",
+      "utterance": "一番大事にできるのは、自分自身でもあります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:25:36",
+      "utterance": "自分を粗末に扱わないでください、私からのお願いです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:27:08",
+      "utterance": "相談者様の、命、人生、楽しみ、豊かさたくさんのものを大切に生きてほしいと私は思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:27:25",
+      "utterance": "いかがでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:29:55",
+      "utterance": "時間が、少なくなってしまいました。この内容は記録されていますので、いつでも続きから相談できます。またぜひお話を聞かせてください。今は、彼氏さんと少し距離を置くところから始めるのもいいかもしれません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:31:16",
+      "utterance": "でも、何かあったら先ずは警察に相談してください。"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T20:32:00",
+      "utterance": "（ありがとうございました。終了メッセージをお願いします）"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-08-10T20:32:21",
+      "utterance": "（ありがとうございました）"
+    },
+    {
+      "role": "client",
+      "time": "2023-08-10T20:35:33",
+      "utterance": "（「ロールプレイを終了する」をクリックしてくださいね）"
+    }
+  ],
+  "topic": {
+    "main_jp": "恋愛問題",
+    "main_en": "Romantic Issues",
+    "sub": "彼氏との暴力やコミュニケーションの課題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 5585,
+    "評価作成日時": "2023-08-10T21:08:00",
+    "クライアント役ID": 376,
+    "カウンセラー役ID": 347,
+    "点数": 18,
+    "聴いてもらえた、わかってもらえたと感じた": 1,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 1,
+    "一緒に考えながら取り組めた": 1,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 1,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 2,
+    "要約": 1,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": "チェックあり"
+  },
+  "review_by_client_en": {
+    "evaluation_id": 5585,
+    "evaluation_created_at": "2023-08-10T21:08:00",
+    "client_id": 376,
+    "counselor_id": 347,
+    "score": 18,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 1,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 1,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": "チェックあり"
+  }
+}

@@ -1,0 +1,604 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:00:05",
+      "utterance": "こんにちは相談員です。よろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:01:43",
+      "utterance": "お願いいたします。こんにちは。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:01:57",
+      "utterance": "今日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:02:27",
+      "utterance": "生きる気力が湧かない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:03:24",
+      "utterance": "そうなんですね。いつからそのようなお気持ちなのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:03:50",
+      "utterance": "もう、去年のコロナから。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:04:33",
+      "utterance": "長いことそんなお気持ちを抱えてこられたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:04:52",
+      "utterance": "はい、もう、何をする気にもなれない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:05:05",
+      "utterance": "何か特別な出来事はおありだったんでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:06:27",
+      "utterance": "地方から、東京の大学に入学したんだけど、オンライン授業ばっかりで、友達もいない"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:06:47",
+      "utterance": "やっぱり、退学すればよかった"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:07:18",
+      "utterance": "入学したのは去年の4月ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:08:07",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:08:44",
+      "utterance": "そうだったんですね。去年の3月、上京するまでは郷里でどのような生活だったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:09:53",
+      "utterance": "元々友達と言えるほど親しい人はいなかった。親とも仲悪くて、とにかく、出て行きたかった"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:10:53",
+      "utterance": "そうでしたか。じゃあ　一応思い通りに郷里を出ることができたわけでうすね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:11:18",
+      "utterance": "一応"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:11:59",
+      "utterance": "ところが　東京の大学生活にはどの様なことを期待して来られたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:12:44",
+      "utterance": "特にない。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:12:55",
+      "utterance": "そうでしたか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:13:46",
+      "utterance": "郷里にいらした時、友達と言える親しい人はいなかったとのことですが、どのようにして日々を過ごしていたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:14:19",
+      "utterance": "スマホゲーム"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:14:42",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:16:38",
+      "utterance": "スマホとゲームはあなたにとっては楽しみだったのでしょうね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:17:10",
+      "utterance": "それしかないから、ハマってた"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:18:31",
+      "utterance": "他にはなにか楽しみとかは？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:19:01",
+      "utterance": "別にない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:19:36",
+      "utterance": "そうだんたんですね。そんな中でも東京の大学に入るために、勉強は続けてこられたようですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:20:29",
+      "utterance": "親の思い通りにしてやっただけ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:21:03",
+      "utterance": "親御さんはどのような期待をあなたに対して言っていたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:22:41",
+      "utterance": "いい大学に行って、出世だけが一番"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:23:45",
+      "utterance": "そうでしたか。貴方としては　そんな親御さんの言葉に対して　どんなことを言っていたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:25:27",
+      "utterance": "何もかも否定してくるから、何も言い返さなかった"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:26:13",
+      "utterance": "そうでしたか。それは　たまんないですね。例えばどんなことを否定されたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:27:02",
+      "utterance": "とにかく、ゲームとか、スマホはとんでもないし、勉強だけがすべてみたいなこと"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:28:02",
+      "utterance": "じゃあ、勉強だけしていればいいんだ　というような　ことを押し付けられていた・・・というような感じ？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:29:05",
+      "utterance": "それもあるし、できない奴はダメ人間みたいなこと。俺のこと。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:30:07",
+      "utterance": "そんなこと言われたら　腹が立ちますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:30:44",
+      "utterance": "生きる価値もないね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:31:23",
+      "utterance": "そんないい方されたら、そんな気持ちになってしまうのも、わかります。否定されたとおっしゃってましたが、スマホとかゲーム以外にも何か否定されたことがあたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:33:06",
+      "utterance": "成績もずっとパッとしなかったし、やっと入れた大学でも、このざま。確かに、俺は、ダメ人間なんだよな"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:33:51",
+      "utterance": "私はそうは思わないんですけど・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:34:10",
+      "utterance": "ちなみに　あなたのことは何とお呼びしたらよいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:34:29",
+      "utterance": "のび太"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:34:47",
+      "utterance": "のび太さん、教えてくれたありがとう。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:35:24",
+      "utterance": "のび太さんは大学に入ることができた。それは一つの大きな出来事だと思うのですが・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:36:07",
+      "utterance": "確かに、見事に親の期待も破りつつ入りました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:36:59",
+      "utterance": "そこですよ。そこは　自慢していいところだと思いますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:37:35",
+      "utterance": "おかげで、援助もありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:37:58",
+      "utterance": "経済的な援助のことですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:38:28",
+      "utterance": "バイともクビ"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:38:34",
+      "utterance": "生きていけない"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:39:06",
+      "utterance": "勉強する気にもなれない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:39:07",
+      "utterance": "東京に来てバイトで生活を支えておられたんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:39:42",
+      "utterance": "死んだほうがマシ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:40:19",
+      "utterance": "そんなお気持ちにまで追い詰められているんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:40:56",
+      "utterance": "一つだけ提案していいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:41:04",
+      "utterance": "きいていただけます？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:41:25",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:42:08",
+      "utterance": "厚生労働省がバイトができなくなって生活や学費に苦労している学生を支援しています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:42:48",
+      "utterance": "厚生労働省のサイトからアクセスできますから、その支援を頼んでみてください。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:42:59",
+      "utterance": "いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:43:19",
+      "utterance": "それって、すぐもらえるんですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:43:55",
+      "utterance": "それは若干の手続きはあると思いますが、とにかくアクセスして相談されることをお勧めします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:45:50",
+      "utterance": "見てはみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:46:16",
+      "utterance": "是非に。ところでここまでのところをすこしだけ整理してもいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:46:41",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:47:05",
+      "utterance": "のび太さんは、親からいい大学に入れとプレッシャーを受けていた。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:47:32",
+      "utterance": "郷里では親しい友達もおらず、スマホとゲームをしていた。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:47:59",
+      "utterance": "けれど、親の期待を見事に破って東京の大学に入学した。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:48:40",
+      "utterance": "ところが親からの経済的援助が得られず、ハイトでなんとか生活と学費とかせいできた。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:49:05",
+      "utterance": "しかし、コロナのためにそのバイトができなくなってしまって、今非常に困っている。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:49:17",
+      "utterance": "こんな理解でよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:50:55",
+      "utterance": "学費は親の口座から落ちてるそれと"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:51:07",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:51:13",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:51:26",
+      "utterance": "誰にも会いたくない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:51:49",
+      "utterance": "何か思うところがおありなのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:52:50",
+      "utterance": "オンライン授業はいいような、悪いような、とにかく、人に会いたくない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:53:14",
+      "utterance": "なるほどそうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:53:19",
+      "utterance": "もう何がやりたいのかもわからないし、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:53:29",
+      "utterance": "なるほど"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:53:36",
+      "utterance": "どうでもよくなった"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:53:56",
+      "utterance": "今はそんなお気持ちなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:54:07",
+      "utterance": "生きていてもしょうがない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:54:35",
+      "utterance": "そんなお気持ちになっておられるのですね・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:55:25",
+      "utterance": "ここにご相談に来られたと言うことは、のび太さんなりに何か手がかりを探している　と言うことのようにも感じるのですが・・・いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:56:07",
+      "utterance": "気力が湧かない。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:56:58",
+      "utterance": "あんな親には頼りたくないから、ここに来た"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:57:28",
+      "utterance": "そうなんですね。それは　のび太さんの心意気　だと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:57:47",
+      "utterance": "だからこそ　ご自分でバイトをなさった。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:58:03",
+      "utterance": "そんな力をお持ちです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T13:58:08",
+      "utterance": "でも、カネがあったって、俺の気持ちは上がらない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T13:58:47",
+      "utterance": "のび太さんは　本当はどうなりたいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T14:00:05",
+      "utterance": "本当は、輝かしい青春”　でも、そんなの、どこにもないね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T14:00:39",
+      "utterance": "そうでしょうか・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T14:01:07",
+      "utterance": "のび太さんが　そう思いそう願うなら　ありそうな気がするのですが・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T14:03:16",
+      "utterance": "今日のご相談はそろそろ終わりにしなければならない時間になってきたのですが・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T14:04:01",
+      "utterance": "のび太さんの　輝かしい青春について次の機会に是非ご一緒に考えさせていただきたいです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T14:04:07",
+      "utterance": "聴いてくれて、ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T14:04:19",
+      "utterance": "是非　また　いらしてください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T14:04:36",
+      "utterance": "はい、ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T14:04:39",
+      "utterance": "今日の所は一旦ここで終了させていただいてもよりしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T14:05:06",
+      "utterance": "(お疲れさまでした。大丈夫です。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T14:05:16",
+      "utterance": "いらしてくださりありがとございます。では　失礼させていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-04-22T14:05:31",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-04-22T14:06:06",
+      "utterance": "こちらこそありがとうございました。"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "生きる気力の喪失"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1709,
+    "評価作成日時": "2021-04-24T22:40:00",
+    "クライアント役ID": 108,
+    "カウンセラー役ID": 5,
+    "点数": 88,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 5,
+    "居心地のよいやりとりだった": 5,
+    "全体として適切でよかった": 5,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 5,
+    "要約": 3,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 5,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1709,
+    "evaluation_created_at": "2021-04-24T22:40:00",
+    "client_id": 108,
+    "counselor_id": 5,
+    "score": 88,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 5,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

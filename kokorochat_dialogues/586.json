@@ -1,0 +1,659 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-10-16T13:52:53",
+      "utterance": "こんにちはよろしくお願いします"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T13:54:10",
+      "utterance": "こんにちは。本日は宜しくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T13:54:23",
+      "utterance": "少し早いですが、始めてもよろしいですか勿論、時間どうりでも構いませんです"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T13:56:33",
+      "utterance": "大丈夫です。宜しくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T13:57:32",
+      "utterance": "こんにちは相談員です本日は、相談に来ていただき、ありがとうございますよろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T13:58:04",
+      "utterance": "今日は、どのようなご相談ですか"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T13:58:26",
+      "utterance": "宜しくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T13:58:39",
+      "utterance": "よろしくお願いします"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T13:58:47",
+      "utterance": "家族のことでちょっと悩んでいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T13:59:52",
+      "utterance": "そうなんですねどのような悩みか、少しだけお話しいただけませんか"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:01:06",
+      "utterance": "はい、コロナのこともあって、いま私はテレワークをしていて、夫は仕事柄、出社しています"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:01:37",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:02:30",
+      "utterance": "そのことで、家事の分担がだんだん不公平になってきているような気がしています"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:03:17",
+      "utterance": "そうなんですね・・・それは不満に思うのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:03:49",
+      "utterance": "お名前は、なんとお呼びしたらよろしいですか"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:04:19",
+      "utterance": "はい、なおみでお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:04:47",
+      "utterance": "なおみさんですねありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:05:30",
+      "utterance": "今、なおみさんの家事分担状況は、どのような感じなのですか"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:07:16",
+      "utterance": "日常的なことはほぼ私になってますね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:07:42",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:07:50",
+      "utterance": "共働きなので、結婚した時に、分担ルールを決めたんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:08:10",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:08:19",
+      "utterance": "どちらもあまり家事は好きじゃないので"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:08:35",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:09:09",
+      "utterance": "それなのに、在宅で仕事してると余裕があるように見えるみたいで、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:09:28",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:09:36",
+      "utterance": "自分の方が大変って感じで押しつけてきます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:10:11",
+      "utterance": "そうなんですね・・・それはしんどいですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:10:23",
+      "utterance": "私も、通勤していない負い目があって、渋々受けてしまってたのも良くなかったかもしれません"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:11:26",
+      "utterance": "そうなんですね夫さんは、今、家事をどのくらいやられているのですか"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:13:14",
+      "utterance": "ゴミ出しとか、お風呂そうじ、夜の犬の散歩、という世間でいう手伝い程度になってしまいました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:14:18",
+      "utterance": "そうなんですねなおみさんは、それが寂しいと思われるのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:14:45",
+      "utterance": "今までは、どの程度でしたか"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:14:57",
+      "utterance": "寂しいというより、なんで？って感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:15:42",
+      "utterance": "そうなんですね・・・不思議に思いますよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:16:27",
+      "utterance": "今までは、ちょうど半分くらいの負担になるように、週ごとに、ご飯作る担当、食器洗う担当みたいに交代してました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:17:09",
+      "utterance": "そうなんですね・・・お互いに協力していたのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:17:14",
+      "utterance": "家にいる=家事もする、になるのか？と思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:18:41",
+      "utterance": "そうなんですね・・・なおみさんは、家で、テレワークをしていても、家事をして、頑張っておられるのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:19:15",
+      "utterance": "そうですね。家が片づいているのが落ち着くので。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:20:13",
+      "utterance": "そうなんですね・・・家がすっきりしていると気持ちがいいですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:20:28",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:21:04",
+      "utterance": "なおみさんは、夫さんが、どのくらい、家事に参加していただくと、良いと思われますか"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:22:47",
+      "utterance": "夫は通勤しているので、その分ぐらいは多くなっても良いかなって感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:23:51",
+      "utterance": "そうなんですね・・・その方が、平等の仕事だと思われますよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:24:14",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:25:14",
+      "utterance": "家には、他に誰か、いらっしゃいますか"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:26:20",
+      "utterance": "夫婦2人暮らしです"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:26:32",
+      "utterance": "あと、犬ですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:27:27",
+      "utterance": "そうなんですねわんちゃんと・・"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:27:43",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:28:29",
+      "utterance": "ここで、今までの話を整理してよろしいですか"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:28:37",
+      "utterance": "お願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:29:36",
+      "utterance": "なおみさんは、家でテレワークをしている夫さんは、出社。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:29:50",
+      "utterance": "はい、そうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:30:32",
+      "utterance": "通勤していない負い目もあり、家事を夫さんに押し付けられる"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:32:04",
+      "utterance": "夫さんの家事の様子は、ゴミ出し、お風呂掃除、犬の散歩、"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:33:02",
+      "utterance": "疲れ具合は私の方が軽いはず、みたいに言われるので、"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:33:38",
+      "utterance": "受けざるを得ないって感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:33:44",
+      "utterance": "でも、なおみさんは、平等に家事をしたい夫が出社して働いている分を除いた量を、平等でやりたい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:34:29",
+      "utterance": "そうなんですね・・・それは、」むなしいですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:35:14",
+      "utterance": "↑それは、むなしい"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:35:35",
+      "utterance": "はい、そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:35:41",
+      "utterance": "腹が立ちますよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:37:02",
+      "utterance": "はい、悲しいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:37:40",
+      "utterance": "悔しいですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:38:52",
+      "utterance": "なおみさんは、家の中を綺麗にしようと、家事を頑張っておられる。そして"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:39:37",
+      "utterance": "夫さんのことを、気遣い、より多く、家事をやってしまう"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:39:47",
+      "utterance": "でも、"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:39:51",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:40:33",
+      "utterance": "本当は、本当に平等に家事をやりたいと思っている"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:40:48",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:41:24",
+      "utterance": "なおみさんは、一生懸命で、真面目で、優しい方ですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:41:49",
+      "utterance": "そうですかね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:42:02",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:42:33",
+      "utterance": "私が思ったことをお話ししても、よろしいですか"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:43:45",
+      "utterance": "はい、お願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:44:00",
+      "utterance": "近くに、公園とか、素敵な喫茶店とかは、ありませんか"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:44:54",
+      "utterance": "新婚の時に、思い出の場所でも、O.Kです"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:45:56",
+      "utterance": "公園ですか、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:46:11",
+      "utterance": "はい、ありますか"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:46:42",
+      "utterance": "できるだけ、夫さんとの、思い出が詰まった場所が良いですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:47:12",
+      "utterance": "少し離れたところに、一つありますが、行ったことはないですね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:47:29",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:47:31",
+      "utterance": "喫茶店なら一つあります"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:47:51",
+      "utterance": "時々夜に使う時がありました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:47:52",
+      "utterance": "そしたら、その喫茶店で・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:48:08",
+      "utterance": "それは、良かったです"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:48:46",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:49:09",
+      "utterance": "夫さんとお会いして、家事分担のことを、お話ししてみては、いかがでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:49:23",
+      "utterance": "喫茶店でですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:50:40",
+      "utterance": "はい、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:50:51",
+      "utterance": "いかがですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:51:11",
+      "utterance": "お話し出来そうですか"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:52:38",
+      "utterance": "そうですね、一度きちんと話し合いをした方が良いのかもしれませんね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:53:24",
+      "utterance": "そうですね夫さんには、話がしたい、と言って、誘ってみてください"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:54:04",
+      "utterance": "分りました"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:54:10",
+      "utterance": "やってみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:54:42",
+      "utterance": "そうですね・・・話し合ってみてください"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:55:42",
+      "utterance": "なおみさんが、上手く話が出来、家事分担が平等になることを、心から祈っています"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:55:44",
+      "utterance": "はい、うまく伝われば良いなと思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:55:52",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:57:26",
+      "utterance": "頑張ってみてくださいね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:57:38",
+      "utterance": "応援しています"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:57:44",
+      "utterance": "ありがとうございます！"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:58:14",
+      "utterance": "他に、何か、気がかりなことはありますか"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:58:19",
+      "utterance": "大丈夫です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:58:56",
+      "utterance": "こちらこそ、ありがとうございます"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:59:05",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:59:11",
+      "utterance": "本日は、ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:59:38",
+      "utterance": "また何かありましたら、いつでも、きてください"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T14:59:51",
+      "utterance": "はい、分りました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T14:59:58",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T15:00:36",
+      "utterance": "ここで、ロールプレイを終了にさせていただきますありがとうございました"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T15:00:52",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T15:01:44",
+      "utterance": "終了メッセージお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-16T15:02:44",
+      "utterance": "これで、ロールプレイを終了しますありがとうございますありがとうございました"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-16T15:03:27",
+      "utterance": "システムにある終了ボタンを押して頂けますか？"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦）",
+    "main_en": "Family Issues (Spouse)",
+    "sub": "家事分担の不公平感"
+  },
+  "review_by_client_jp": {
+    "評価ID": 586,
+    "評価作成日時": "2020-10-17T18:19:00",
+    "クライアント役ID": 90,
+    "カウンセラー役ID": 42,
+    "点数": 52,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 1,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 2,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 2,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 586,
+    "evaluation_created_at": "2020-10-17T18:19:00",
+    "client_id": 90,
+    "counselor_id": 42,
+    "score": 52,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

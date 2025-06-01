@@ -1,0 +1,599 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2023-03-22T16:22:08",
+      "utterance": "本日16時30分から、相談者役をさせていただきます。よろしくお願い致します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T16:22:28",
+      "utterance": "（今日はよろしくお願いします。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T16:22:49",
+      "utterance": "（時間になったら開始させていただきます。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T16:22:49",
+      "utterance": "（ありがとうございます。よろしくお願い致します。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T16:23:08",
+      "utterance": "（承知しました。ありがとうございます。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T16:30:20",
+      "utterance": "こんにちは、相談員です。はじめに年齢と性別を教えてください。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T16:30:42",
+      "utterance": "23歳　男性"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T16:31:00",
+      "utterance": "ありがとうございます。今日はどんなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T16:31:06",
+      "utterance": "彼女の事です。親から暴力を受けたことが原因で精神科に通院していますが、最近精神的に不安定です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T16:32:00",
+      "utterance": "ありがとうございます。まず、あなたのことは何とお呼びすればいいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T16:32:27",
+      "utterance": "特に、、それって何か必要ですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T16:33:07",
+      "utterance": "いえ、失礼しました。それでは相談者さんと呼ばせてもらいますね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T16:33:12",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T16:33:52",
+      "utterance": "相談者さんの彼女さんのことでご相談なんですね。彼女さんが精神的に不安定で心配されていると。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T16:34:05",
+      "utterance": "はい、そうです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T16:34:29",
+      "utterance": "「精神的に不安定」というのをもう少し詳しく教えてください。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T16:35:15",
+      "utterance": "最近、死にたいとよく言われます。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T16:35:50",
+      "utterance": "おとといは夜中に電話が来て"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T16:36:03",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T16:36:11",
+      "utterance": "死にたい死にたいとずっと言って泣いていて"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T16:36:29",
+      "utterance": "さすがに口論になりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T16:37:16",
+      "utterance": "そうなんですね。それは心配になりますね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T16:37:29",
+      "utterance": "もう不安です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T16:37:57",
+      "utterance": "そのような時、相談者さんは彼女さんにどのような言葉をかけてあげているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T16:38:36",
+      "utterance": "大丈夫だよと伝えています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T16:39:29",
+      "utterance": "大丈夫だと伝えて彼女さんを安心させてあげているんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T16:39:37",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T16:40:19",
+      "utterance": "彼女さんからそういう気持ちを伝えられた時、相談者さんはどう感じますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T16:40:43",
+      "utterance": "心配しかないです。何かあったらと。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T16:42:08",
+      "utterance": "そうですよね。おとといの電話では口論になったということでしたが、これまでとは何か違ったんでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T16:42:31",
+      "utterance": "夜中にかかってくるのは初めてで"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T16:42:57",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T16:43:18",
+      "utterance": "疲れました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T16:43:58",
+      "utterance": "彼女さんに対して心配する気持ちもあったけれど、夜中だったので疲れも感じたんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T16:44:20",
+      "utterance": "仕事もあるので、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T16:45:35",
+      "utterance": "そうですよね。ご自分の生活も大切だと思います。相談者さんは、彼女さんにどうなってもらいたいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T16:46:06",
+      "utterance": "精神科にかかっているし"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T16:46:37",
+      "utterance": "大事にして欲しいと思っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T16:47:25",
+      "utterance": "彼女さんを大切に思っているんですね。その気持ちは彼女さんに伝えられていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T16:47:40",
+      "utterance": "伝えていますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T16:47:57",
+      "utterance": "それって何か関係ありますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T16:48:55",
+      "utterance": "相談者さんが彼女さんを大切に思う気持ちを伝えることは、彼女さんにとって大事なことだと相談員は思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T16:49:31",
+      "utterance": "とにかく心配なので、"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T16:49:57",
+      "utterance": "自分がいない時に彼女に何かあったら"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T16:50:09",
+      "utterance": "心配で仕方ないんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T16:50:59",
+      "utterance": "それは心配だと思います。彼女さんが夜中に電話をしてくるということは、相談者さんを頼っているからだと感じますが、相談者さんはどう思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T16:51:13",
+      "utterance": "自分しかいないから"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T16:51:37",
+      "utterance": "何とかしたいけど"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T16:51:52",
+      "utterance": "今の自分では何もできないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T16:52:43",
+      "utterance": "「今の自分では何もできない」と思うのはどうしてでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T16:53:11",
+      "utterance": "彼女は親から暴力を受けてきていて"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T16:53:26",
+      "utterance": "だから精神科にかかっているんですよ"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T16:53:42",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T16:54:38",
+      "utterance": "父親の借金もあって"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T16:54:58",
+      "utterance": "それも彼女が返していて"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T16:55:34",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T16:56:07",
+      "utterance": "今の自分の稼ぎではとても返済できないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T16:56:53",
+      "utterance": "彼女さんの経済的な手助けもしたいと考えられているんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T16:57:23",
+      "utterance": "そうしないと借金が減らないから"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T16:57:59",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T16:59:10",
+      "utterance": "彼女さんは今も親ごさんと一緒に生活をしているんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T16:59:25",
+      "utterance": "いえ、一人暮らしです。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T17:00:24",
+      "utterance": "家は出ています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T17:02:06",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T17:02:12",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T17:02:27",
+      "utterance": "相談者さんは、まず借金をどうにかした方がいいと思っているということでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T17:03:16",
+      "utterance": "自分がいない時に彼女に何かあったら不安なんです。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T17:03:43",
+      "utterance": "借金も心配ですが、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T17:05:19",
+      "utterance": "「今の自分では何もできない」というのは、経済的なことを指していたようですが、経済的なこと以外で相談者さんができることはなんだと思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T17:05:42",
+      "utterance": "よくわからないです。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T17:05:52",
+      "utterance": "疲れました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T17:07:13",
+      "utterance": "そうですよね。相談者さんはどうしたいと思っていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T17:07:32",
+      "utterance": "だからわからないから、相談に来ています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T17:09:23",
+      "utterance": "彼女さんにとって、相談者さんは頼れる存在なのだと感じました。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T17:09:37",
+      "utterance": "そうなんですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T17:10:32",
+      "utterance": "夜中に電話をしてくるというのは、信頼しているからこその行動だと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T17:11:33",
+      "utterance": "一方、彼女さんにとって「自分しかいない」と言っていました。それでは疲れてしまうのも当然だと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T17:12:30",
+      "utterance": "とは言え、彼女さんのことは心配です。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T17:12:48",
+      "utterance": "自分がいない時に、何かあったらと心配です。どうしたらいいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T17:13:53",
+      "utterance": "先ほどから「自分がいない時」と言われるので確認なのですが、一緒には暮らしていないんですよね？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T17:14:26",
+      "utterance": "別に暮らしています"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T17:15:28",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T17:15:31",
+      "utterance": "離れている時に「死にたい」という気持ちを伝えられたらとても心配になると思います。彼女さんと一緒に、公的機関やそこから紹介してもらえる民間サービスなどに頼ってみるというのはいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T17:15:49",
+      "utterance": "どんなところがありますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T17:17:47",
+      "utterance": "お住まいの地域によって窓口は違ってくると思います。まずは彼女さんがお住いの市役所などに問い合わせてみるのがいいと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T17:18:54",
+      "utterance": "そうすれば、彼女は死にたいと言わなくなりますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T17:20:32",
+      "utterance": "そうとは限りません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T17:20:36",
+      "utterance": "そうですね、相談者さんは彼女さんの病院に一緒に行ってみたことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T17:21:29",
+      "utterance": "あります。うつ病と、パニック障害、愛着障害があると言われています。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T17:22:03",
+      "utterance": "でも、やっぱりここでま変わらないんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T17:22:16",
+      "utterance": "ここでも、です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T17:22:54",
+      "utterance": "「やっぱり」というのはどういうことでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T17:23:14",
+      "utterance": "だって、何にも解決にならないから"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T17:23:46",
+      "utterance": "「やっぱり」というのは、他にも誰か、またはどこかに相談されたことがあるのかと思いました。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T17:24:05",
+      "utterance": "だから、何？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T17:25:53",
+      "utterance": "相談者さんは彼女さんを助けたいという気持ちが大きいのだなと感じました。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T17:26:08",
+      "utterance": "だから相談に来たんですが。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T17:26:50",
+      "utterance": "相談者さんは「解決」とはどんな状態をイメージしていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T17:26:51",
+      "utterance": "ここは話を聞いてくれると書いてあったから、"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T17:27:05",
+      "utterance": "でも変わらなかった。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T17:27:24",
+      "utterance": "行違ってしまいましたね。失礼しました。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T17:27:42",
+      "utterance": "もういいです。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T17:27:49",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T17:30:52",
+      "utterance": "ご期待に応えられず、申し訳ありませんでした。それでは本日はご相談ありがとうございました。これで終了とさせていただきます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-22T17:31:06",
+      "utterance": "（今日はありがとうございました。コメントよろしくお願いします。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-22T17:31:34",
+      "utterance": "（お疲れ様でした。わかりました。あとから送らせていただきます。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "恋愛問題",
+    "main_en": "Romantic Issues",
+    "sub": "彼女の精神的な健康問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4798,
+    "評価作成日時": "2023-03-22T17:46:00",
+    "クライアント役ID": 211,
+    "カウンセラー役ID": 378,
+    "点数": 25,
+    "聴いてもらえた、わかってもらえたと感じた": 1,
+    "尊重されたと感じた": 1,
+    "新しい気づきや体験があった": 1,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 1,
+    "やりとりのリズムがあっていた": 1,
+    "居心地のよいやりとりだった": 1,
+    "全体として適切でよかった": 1,
+    "今回の相談は価値があった": 1,
+    "相談開始の円滑さ": 2,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 1,
+    "受容・共感": 3,
+    "肯定・承認": 1,
+    "的確な質問による会話の促進": 1,
+    "要約": 1,
+    "問題の明確化": 1,
+    "この相談での目標の明確化": 1,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 1,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4798,
+    "evaluation_created_at": "2023-03-22T17:46:00",
+    "client_id": 211,
+    "counselor_id": 378,
+    "score": 25,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 1,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 1,
+    "conversation_felt_comfortable": 1,
+    "felt_appropriate_and_satisfying": 1,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 2,
+    "conversation_ended_well": 1,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 1,
+    "asked_effective_questions": 1,
+    "summarized_key_points_effectively": 1,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 1,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

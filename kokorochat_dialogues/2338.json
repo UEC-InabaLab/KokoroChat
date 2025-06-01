@@ -1,0 +1,564 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2021-08-12T09:54:48",
+      "utterance": "相談者役です。今日はよろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T09:56:53",
+      "utterance": "こんにちは相談者役です。よろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T09:57:12",
+      "utterance": "こんにちは。お願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T09:57:48",
+      "utterance": "はい。では、最初に年齢と性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T09:57:59",
+      "utterance": "１８"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T09:58:20",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T09:59:05",
+      "utterance": "今日はどのようなご相談ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T09:59:14",
+      "utterance": "生きるのがしんどいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T09:59:32",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T09:59:56",
+      "utterance": "色々な思いがおありなのでしょうね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T10:00:11",
+      "utterance": "何から話せばいいかわかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:00:44",
+      "utterance": "思いついたところからお話しいただいて大丈夫ですよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T10:01:37",
+      "utterance": "高1の頃からしんどいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:02:03",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:02:25",
+      "utterance": "長いこと苦しんできたんですね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T10:02:35",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:02:54",
+      "utterance": "今の学年を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T10:03:12",
+      "utterance": "3年です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:03:25",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:04:14",
+      "utterance": "高１の頃からしんどかったとのお話しですが、どんなことがきっかけでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T10:06:55",
+      "utterance": "小学生高学年の時に、体育の着替えの時、、ものすごく違和感というか、恥ずかしさを感じました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:07:25",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:08:03",
+      "utterance": "小学校高学年の時から、そんな辛い思いをされてきたんですね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T10:08:34",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:09:15",
+      "utterance": "もしかして、誰にも言えず、その辛さを一人で抱えてこられたのでは・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T10:09:34",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:10:00",
+      "utterance": "ご自身でも戸惑いもあったでしょうに・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T10:10:21",
+      "utterance": "はい、モヤモヤしています"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:10:43",
+      "utterance": "そうですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:12:03",
+      "utterance": "そのモヤモヤを言葉にしてみるとどんなことになりそうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T10:14:46",
+      "utterance": "自分だけ性別がはっきりしていないのは良くない・・・と思っています"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:15:43",
+      "utterance": "性別がはっきりしていないと感じているんですね・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:16:51",
+      "utterance": "身体の性別と心の性別がどうも違っているなという違和感でしょうか・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T10:17:43",
+      "utterance": "自分なみんなと違うと感じています男子、女子と話しても、どちらにも共感できないんです"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T10:18:14",
+      "utterance": "みんなは性別とかはっきりしているのに…"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T10:18:29",
+      "utterance": "自分だけはっきりしていないんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:18:42",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:19:14",
+      "utterance": "それがモヤモヤの正体なんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T10:20:35",
+      "utterance": "もう高3にもなってその様な感じだったので、これから生きていけるかが不安で仕方がありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:21:38",
+      "utterance": "今はそんなお気持ちにまでなっているんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T10:22:09",
+      "utterance": "はい、いっそ死んだほうがマシと考えたこともありました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:22:37",
+      "utterance": "そんな時もあったのですね・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:22:54",
+      "utterance": "そんなにも辛かったのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T10:23:56",
+      "utterance": "はい、どうしたらいいですk？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T10:24:04",
+      "utterance": "ですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:25:05",
+      "utterance": "そこは、ご一緒に考えさせていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T10:25:28",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:25:53",
+      "utterance": "男の子にも、女の子にも、共感できないと、誰にも分かってもらえないという気持ちになってしまいますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T10:27:03",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:27:30",
+      "utterance": "ずうっと孤独を感じていらしたんでしょうね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T10:27:44",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:28:42",
+      "utterance": "分かってもらえない、そして、分からないというのは本当に辛いことですよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T10:29:16",
+      "utterance": "はい、どうしたらいいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:30:11",
+      "utterance": "性はグラデーションという考え方を聞いたことがありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T10:31:03",
+      "utterance": "わかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:31:48",
+      "utterance": "世のなかでは男と女と単純に2つに分けて扱っていますけれど、本当はそうじゃないという考え方です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:32:14",
+      "utterance": "この考え方を少しだけお話してもいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T10:32:30",
+      "utterance": "はい、お願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:32:41",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:33:21",
+      "utterance": "実際の世の中には、100%の男性とか100%の女性はいないという考え方です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:34:44",
+      "utterance": "男性の身体を持っている人も、心は例えば９０％男性的心から10%男性的な心のひとがいろいろいるという考え方です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:35:49",
+      "utterance": "女性の身体を持っている人も、心は、例えば90%の女性的な心人から10%女性的な心の人まで、いろいろいるという考え方です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:36:57",
+      "utterance": "なのでいかにも男性っぽい外見の人がとても優しく振舞うこともあるし、いかにも女性的な外見の人が時にはすごく逞しく行動することもあるということが起こるようです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:38:03",
+      "utterance": "そんな中で外見と自分の心の性についての認識が違うと言うことも起って来るのです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:38:37",
+      "utterance": "あなたの様に、外見の性と心の性の違和感を感じている人は少なくないのです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:38:59",
+      "utterance": "ここまでお話を聞いてくださって、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T10:40:47",
+      "utterance": "なんとなく、分かりました。でもなんだか、自分はそのどの辺にいる感じなのかがわからなくてモヤモヤしているんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:41:03",
+      "utterance": "そうですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:41:31",
+      "utterance": "私はあなたと同じような立場にいる方のお話しを沢山聞いてきました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:42:13",
+      "utterance": "みなさん、戸惑っておられます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:42:56",
+      "utterance": "でもそんな中であ、これなんだと見つける方もいらっしゃいます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T10:43:40",
+      "utterance": "見つける人もいるんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:44:06",
+      "utterance": "はい。そんな方は、違和感のある自分をありのままに認めているようです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:45:43",
+      "utterance": "というよりも、違和感に長い事苦しみ、自分っていったい何だろうという思いを抱えて苦しんでいる時、ふとしたきっかけで、とにかくこれが自分なんだと認めることができた時、ひとつの霧がすこし晴れたという体験をされるようです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T10:47:44",
+      "utterance": "そんな時が来るといいけど。。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:48:04",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:48:55",
+      "utterance": "ご自分の身体と子自分の心をありのままに認めてあげるというところから始まるようです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T10:50:02",
+      "utterance": "ありのままに認める・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:50:25",
+      "utterance": "たとえば、今感じているフィーリング、あ、これが自分なんだ。これでOKなんだとご自分に言ってあげることでしょうか・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T10:52:56",
+      "utterance": "何にも感じなくて、誰とも気持ちを共感できない自分…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:53:26",
+      "utterance": "今はそう感じていらっしゃるんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:54:12",
+      "utterance": "先ずは、そんなご自分を認めて差し上げてください。今は、何も感じていないんだ。と。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T10:54:56",
+      "utterance": "何も感じていないことを認めるんですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:56:10",
+      "utterance": "はい、それも今のご自分だと思いますよ。それは、悪い事でもよい事でもないような気がします。今はそうなんだねと認めてあげてはいかがでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T10:56:55",
+      "utterance": "今の自分を否定しないでいいって感じですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T10:57:47",
+      "utterance": "はい。その通りです。今は、自分はそう感じているんだね。とありのままに認めてあげてください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T10:59:35",
+      "utterance": "なるほど、今はそうなんだから、それを受け止めればいいのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T11:00:04",
+      "utterance": "はい。まさにおっしゃる通りです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T11:00:33",
+      "utterance": "それは、ご自分の心の深いところと対話をしているということです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T11:01:35",
+      "utterance": "そんなご自分の深いところに問いかけてみてください。「私は、本当はどうなりたいのかな？」と。そうして、耳を澄ましてみてはいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T11:03:27",
+      "utterance": "はい。そうしてみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T11:04:00",
+      "utterance": "実は、先ほども言いましたように、あなたと同じようなお立場にいる人たちが沢山います。そんな人たちがコミュニティを作っています。インターネットでLGBTとかセクシャルマイノリティというキーワードで検索すると見つかると思います。そこでは、あなたと同じような思いの人と出会うこともできるかと思います。よければそんな出会いを試してみるのもひとつかもしれません。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T11:05:43",
+      "utterance": "そうなんですね、教えてくれてありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T11:06:00",
+      "utterance": "あなたらしく生きることを応援しています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T11:06:28",
+      "utterance": "気になることが出てきたらまたいらしてください。ご一緒に考えさせていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T11:06:50",
+      "utterance": "はい、今日はありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T11:07:06",
+      "utterance": "こちらこそ、ご相談にいらしてくださりありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-12T11:07:22",
+      "utterance": "では、失礼いたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-12T11:07:47",
+      "utterance": "失礼します"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "性別に対する自己認識の困難さ"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2338,
+    "評価作成日時": "2021-08-15T12:54:00",
+    "クライアント役ID": 108,
+    "カウンセラー役ID": 5,
+    "点数": 99,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 5,
+    "希望や期待を感じられた": 5,
+    "取り組みたかったことを扱えた": 5,
+    "一緒に考えながら取り組めた": 5,
+    "やりとりのリズムがあっていた": 5,
+    "居心地のよいやりとりだった": 5,
+    "全体として適切でよかった": 5,
+    "今回の相談は価値があった": 5,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 4,
+    "要約": 5,
+    "問題の明確化": 5,
+    "この相談での目標の明確化": 5,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 5,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2338,
+    "evaluation_created_at": "2021-08-15T12:54:00",
+    "client_id": 108,
+    "counselor_id": 5,
+    "score": 99,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,424 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-01-05T21:20:46",
+      "utterance": "（こんばんは。よろしくお願い致します。）"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-05T21:22:02",
+      "utterance": "（こんばんは。こちらこそ、よろしくお願いいたします。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T21:30:05",
+      "utterance": "こんばんは。相談員です。ご相談にいらしてくださり、ありがとうございます。はじめに、年齢、性別、今日ご相談したいことを教えてください。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-05T21:30:32",
+      "utterance": "30 女　生きてるのがつらい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T21:30:43",
+      "utterance": "教えてくださり、ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T21:31:52",
+      "utterance": "そうなんですね。。いつからそのお気持ちを感じておられますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-05T21:32:09",
+      "utterance": "最近ですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T21:32:57",
+      "utterance": "そうなんですね。お話できるところからで大丈夫です。そう思われるようになったきっかけに、どんなことがありましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-05T21:33:43",
+      "utterance": "最近、地震があったじゃないですか。それで、なんで自分は生きてるんだろうって思いました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T21:35:19",
+      "utterance": "そうだったんですね。。今回の地震で、ご自身やどなたかが実際に被災されたりとか、ありましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-05T21:36:02",
+      "utterance": "被災はしてないんですけど、ニュースとか見てるとなんだか苦しいですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T21:36:41",
+      "utterance": "ええ、ニュースなどをご覧になって心を痛めていらっしゃるのですね。。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-05T21:37:24",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T21:38:36",
+      "utterance": "そのようなお気持ちを、どなたかとお話になられていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-05T21:38:53",
+      "utterance": "していません"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T21:39:24",
+      "utterance": "そうなんですね。お一人で抱えていらっしゃるのは、苦しいですね。。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-05T21:39:31",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T21:40:30",
+      "utterance": "辛いお気持ちをどなたにもお話にならないのには、どんな理由がありそうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-05T21:41:44",
+      "utterance": "生きてるのがつらいって言ったらみんなびっくりしそうかなって"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T21:42:26",
+      "utterance": "そうだったんですね。みんなを驚かせたくないという優しいお気持ちからなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-05T21:43:08",
+      "utterance": "優しいかはわからないですけど"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T21:44:05",
+      "utterance": "そうなんですね。今、どんなふうに暮らしていらっしゃいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-05T21:44:36",
+      "utterance": "とにかく毎日ぼーっとしてしまいます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T21:47:13",
+      "utterance": "そうなんですね。。お仕事などは、いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-05T21:47:49",
+      "utterance": "普通にしてます。でもなんだか集中出来ないと言うか"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T21:49:20",
+      "utterance": "ええ、そうなんですね。それは落ち着かない感じがして、疲れてしまいますね。。そのようなお気持ちを感じながら、毎日頑張ってお仕事をされているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-05T21:49:52",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T21:50:36",
+      "utterance": "ご家族のかたは、あなたのご様子をご覧になって、何かおっしゃっていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-05T21:51:00",
+      "utterance": "とくに何も"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T21:52:04",
+      "utterance": "そうなんですね。びっくりさせたくない思いがおありになって、普段通りに振る舞っていらっしゃるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-05T21:52:29",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T21:53:12",
+      "utterance": "毎日お仕事も日常生活もとても頑張って過ごしておられるのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T21:54:25",
+      "utterance": "生きているのが辛いとお話くださいましたが、今までにもそのように思われたことは、ありましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-05T21:54:43",
+      "utterance": "たまに思いますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T21:55:08",
+      "utterance": "そうなんですね。それは苦しいですね。。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-05T21:55:21",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T21:55:47",
+      "utterance": "そのように思われるのは、どんな時ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-05T21:56:54",
+      "utterance": "ふとした時ですかね。生きてる意味ってあるのかな？って考えたりします"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T21:59:09",
+      "utterance": "そのような時があるのですね。心が重くなりますね。。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-05T21:59:28",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T22:00:48",
+      "utterance": "今日、辛い思いを感じながらご相談にいらしてくださいました。あなたご自身としては、どんなふうになったらいいと思われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-05T22:02:06",
+      "utterance": "生きてるのがつらいので死ねたら楽です"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T22:02:49",
+      "utterance": "そのように思っておられるのですね。とてもお辛いですね。。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-05T22:03:22",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T22:03:55",
+      "utterance": "もしかして、具体的に、死ぬ方法などを考えておられますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-05T22:04:43",
+      "utterance": "そこまではまだ考えてないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T22:07:16",
+      "utterance": "そうなんですね。生きている意味には、どんなことがありそうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-05T22:08:51",
+      "utterance": "よくわからないんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T22:09:23",
+      "utterance": "そうなんですね。考えてみてくださって、ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T22:10:16",
+      "utterance": "今、お辛いお気持ちでいらっしゃると思うのですが、睡眠はお食事は、いかがですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T22:10:52",
+      "utterance": "睡眠やお食事、です。失礼しました。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-05T22:11:32",
+      "utterance": "その辺りは以前と変わりありません。普通にちゃんとしてるとおもいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T22:12:38",
+      "utterance": "そうなんですね。どちらもちゃんとしておられるのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T22:14:15",
+      "utterance": "先ほど、生きている意味について考えることがあるとお話くださいましたが、意味は必要だと思われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-05T22:15:53",
+      "utterance": "どうなんでしょうね。必要かと聞かせたらよくわからないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T22:16:37",
+      "utterance": "そのように思われるのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T22:20:06",
+      "utterance": "今回の地震のニュースがきっかけで苦しい思いを感じておられているとお話くださいましたが、ニュースをご覧になってどんなお気持ちになりますか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-05T22:21:23",
+      "utterance": "自分が生きていていいのか？私が死ねば良かったのではないか？とか色々考えます"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T22:22:17",
+      "utterance": "そうだったのですね。そのように考えたら、本当に辛く苦しいですね。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T22:23:54",
+      "utterance": "そうお考えになるのには、どんなことがありそうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-05T22:25:10",
+      "utterance": "死ななくていいひとがいっぱい死んでるから"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T22:26:26",
+      "utterance": "そうなんですね。たくさんのかたが亡くなられていることに、本当に心が痛みますね。。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-05T22:27:49",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T22:28:09",
+      "utterance": "お話の途中ですが、今日のご相談時間の終わりが近づいてきました。生きているのがつらいお気持ちについてお聞きしてきましたが、ここまでお話いただいて、いかがでしたでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-05T22:29:43",
+      "utterance": "生きてるのはやっぱりつらいですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T22:30:38",
+      "utterance": "そうなんですね。そのように感じておられるのですね。。もしよろしければ、このお話の続きをまたこちらで聞かせていただければと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-05T22:31:36",
+      "utterance": "はいわかりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T22:31:52",
+      "utterance": "今日はお話を聞かせてくださり、ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T22:32:19",
+      "utterance": "それでは、終了メッセージを送らせていただきます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-01-05T22:32:32",
+      "utterance": "（おつかれさまでした。ありがとうございました）"
+    },
+    {
+      "role": "client",
+      "time": "2024-01-05T22:32:52",
+      "utterance": "（ありがとうございました）"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "生きている意味に対する疑問"
+  },
+  "review_by_client_jp": {
+    "評価ID": 6215,
+    "評価作成日時": "2024-01-05T22:51:00",
+    "クライアント役ID": 294,
+    "カウンセラー役ID": 420,
+    "点数": 45,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 1,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 1,
+    "一緒に考えながら取り組めた": 1,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 2,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 4,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 2,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 1,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 6215,
+    "evaluation_created_at": "2024-01-05T22:51:00",
+    "client_id": 294,
+    "counselor_id": 420,
+    "score": 45,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 4,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 2,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-09-17T10:00:09",
+      "utterance": "おはようございます。相談員です。よろしくお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-17T10:00:17",
+      "utterance": "よろしくお願いいたします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-17T10:00:47",
+      "utterance": "まず最初に年齢と性別をお願いできますか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-17T10:02:19",
+      "utterance": "16 男"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-17T10:02:26",
+      "utterance": "ありがとうございます。今日はどのようなご相談ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-17T10:02:48",
+      "utterance": "学校に行きたくありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-17T10:04:03",
+      "utterance": "そうですか。学校にいきたくないのですね。ご事情を話せる範囲で教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-17T10:06:47",
+      "utterance": "今日、課題の発表があるのですが、みんなの前で恥をかきたくありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-17T10:08:16",
+      "utterance": "課題の発表があり、今日行きたくないということですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-17T10:12:16",
+      "utterance": "課題の内容はどのようなものですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-17T10:14:00",
+      "utterance": "ある問題に対して、自分で調査して答えを出すものです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-17T10:14:33",
+      "utterance": "教科書に答えはなく、ネットで調べても難しい問題です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-17T10:15:30",
+      "utterance": "そうですか。自分で調査するのは大変そうですね。みんなの前で発表するにあたり、どのようなことが不安ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-17T10:16:09",
+      "utterance": "見当違いな答えでバカにされないかどうかですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-17T10:16:56",
+      "utterance": "そうですか。難しい内容なのでそう感じますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-17T10:18:01",
+      "utterance": "緊張や不安な気持ちわかります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-17T10:18:43",
+      "utterance": "発表内容は一応用意されてるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-17T10:19:59",
+      "utterance": "ものすごく適当ですが、あります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-17T10:21:18",
+      "utterance": "そうなんですね！そのような難しい課題でも用意されていて素晴らしいと思います。でも発表するのが嫌なんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-17T10:22:02",
+      "utterance": "今まで他の生徒の方も順番にされているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-17T10:22:22",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-17T10:22:53",
+      "utterance": "みなさんの発表はどのような様子でしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-17T10:23:16",
+      "utterance": "自分の発表のことしか考えてなくて覚えてません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-17T10:24:52",
+      "utterance": "そうですか。あまりみなさんの発表は聞かれていなかったのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-17T10:25:46",
+      "utterance": "自分のことで頭がいっぱいになってしまったんですね。それほで悩まれていたのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-17T10:27:21",
+      "utterance": "発表するとみんなにバカにされるとお感じですが、具体的にはどのような感じになるイメージですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-17T10:28:59",
+      "utterance": "こんなこともわからないのかとか、それは違うだろって誰かが言ってたりとかですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-17T10:31:13",
+      "utterance": "発表の場でみんなからいろいろ言われるというようなことでしょうか。いやなイメージですね。今まで他の方もそのような場面はありましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-17T10:32:13",
+      "utterance": "決めつけは良くないですけどまあそんな感じです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-17T10:32:57",
+      "utterance": "そうですか。憂鬱ですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-17T10:33:11",
+      "utterance": "決めつけってあなたのことですよ？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-17T10:33:26",
+      "utterance": "発表をパスすることはできますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-17T10:33:44",
+      "utterance": "できません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-17T10:34:54",
+      "utterance": "そうですよね。発表せざるおえないということですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-17T10:36:49",
+      "utterance": "そうしますと、ご相談内容としては発表の不安や緊張を何とか和らげることはできないかということでよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-17T10:39:14",
+      "utterance": "うーん、、わかんないですけどたぶんそうなんじゃないですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-17T10:40:51",
+      "utterance": "そうですか。自分でも気持ちがよくわからなくなっているのですね。何となくイメージ的にいやな感じなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-17T10:41:09",
+      "utterance": "それはしんどいですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-17T10:42:59",
+      "utterance": "もし、みんなからバカにされたらどのような気持ちになりそうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-17T10:43:09",
+      "utterance": "生きていけません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-17T10:44:14",
+      "utterance": "そこまで感じていらっしゃるのですね。それはお辛いですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-17T10:44:49",
+      "utterance": "先生や友達等だれか相談できる人はいませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-17T10:44:54",
+      "utterance": "いません"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-17T10:45:18",
+      "utterance": "そうですか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-17T10:47:45",
+      "utterance": "あなたが先ほどおっしゃったように、必ずばかにされるとも限らないかもしれませんね。その点はどのように感じますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-17T10:48:19",
+      "utterance": "そんなこと話しましたっけ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-17T10:48:58",
+      "utterance": "決めつけは良くないと。そういう意味ではなかったですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-17T10:49:52",
+      "utterance": "決めつけは良くないってお話ししたのはあなたのことであって、自分のことではありません"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-17T10:50:33",
+      "utterance": "すみませんわかりにくくて"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-17T10:51:12",
+      "utterance": "いえいえ。それは大変失礼しました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-17T10:53:44",
+      "utterance": "とても難しい課題だということは他の方もわかるでしょうし、調べたことを前向きに発表すればバカにする人ばかりではないかなとも思いますが。いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-17T10:56:03",
+      "utterance": "みんながどう思っているかはわかりませんし、それにみんなそれなりに賢いと思うのであまり前向きになれないと思いますが"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-17T10:58:55",
+      "utterance": "そうですか。前向きになりにくいのですね。それでは、あなたとして今回の発表はどのようになれば良いとおもわれますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-17T11:00:17",
+      "utterance": "嫌なこと言われなければそれで良いと思います"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-17T11:00:28",
+      "utterance": "そろそろ時間なので失礼します"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-17T11:01:27",
+      "utterance": "また、良かったら結果を聞かせてください。今日はありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-17T11:01:41",
+      "utterance": "失礼します。"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "学校での発表に対する不安と恐れ"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2464,
+    "評価作成日時": "2021-09-17T12:54:00",
+    "クライアント役ID": 125,
+    "カウンセラー役ID": 227,
+    "点数": 52,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2464,
+    "evaluation_created_at": "2021-09-17T12:54:00",
+    "client_id": 125,
+    "counselor_id": 227,
+    "score": 52,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

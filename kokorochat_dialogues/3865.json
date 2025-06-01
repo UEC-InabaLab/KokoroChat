@@ -1,0 +1,584 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-08-25T19:51:50",
+      "utterance": "こんばんは。相談員役です。本日はよろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T19:52:15",
+      "utterance": "時間になりましたらはじめさせていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T19:52:41",
+      "utterance": "よろしくお願いいたします。承知しました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:00:33",
+      "utterance": "こんばんは。相談員です。ご相談にお越しいただきありがとうございます。はじめにご年齢と性別、相談内容を教えていただけますか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:01:07",
+      "utterance": "42歳、女です仕事をどうするか悩んでいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:02:12",
+      "utterance": "そうなんですね。仕事のこと、どうぞお話していただけますか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:02:30",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:03:26",
+      "utterance": "初めてSNSカウンセリングをするのですが、、どんな感じでしたらいいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:04:34",
+      "utterance": "そうだったんですね。初めての業務ということですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:05:00",
+      "utterance": "え？どうゆうことですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:05:57",
+      "utterance": "今やっているカウンセリングですが、、どんなふうに話したらいいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:06:25",
+      "utterance": "すみません。分かりにくかったですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:07:10",
+      "utterance": "初めてこういうの利用するもので…すみません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:07:22",
+      "utterance": "もう少し分かりやすく、お聞きしますので、答えやすいところからお話くださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:07:28",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:09:11",
+      "utterance": "仕事をどうするか、ということでしたが、どんなことをお話したいのでしょうか？例えば、転職するかどうかで悩んでいるとか、です。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:09:35",
+      "utterance": "そうですねこのまま今の仕事を続けていいか悩んでいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:10:48",
+      "utterance": "そうなのですね。どんなところで、今の仕事を続けていいか悩んでいるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:11:29",
+      "utterance": "最近、物騒な事件とか多く起きてて"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:12:09",
+      "utterance": "なんか社会の役に立っているのかなって…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:12:40",
+      "utterance": "ええ。そのように感じているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:12:48",
+      "utterance": "はい、、"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:13:09",
+      "utterance": "毎日同じことの繰り返しをやっているだけなので"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:13:58",
+      "utterance": "そうでしたか。今はどんなお仕事をされているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:14:10",
+      "utterance": "事務です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:15:32",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:15:47",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:17:55",
+      "utterance": "事務も重要なお仕事だと思いますが、毎日同じことの繰り返しということ以外に、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:18:33",
+      "utterance": "どんなところに今の仕事を続けていいか悩んでいるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:19:59",
+      "utterance": "そうですね転職とか考えますが、年齢的に難しいと思ったり"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:20:21",
+      "utterance": "家庭もあるので現実的ではないかなとか思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:21:59",
+      "utterance": "ご年齢のことやご家庭があるというところで悩んでおられるのですね。それはお困りですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:22:09",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:23:49",
+      "utterance": "家庭もあるとのことですが、今はどんな家族構成なのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:24:14",
+      "utterance": "主人と息子2人です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:24:57",
+      "utterance": "そうなんですね。息子さんはおいくつですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:25:33",
+      "utterance": "上が23歳で、下の子が18歳です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:27:12",
+      "utterance": "ありがとうございます。ですと、ほぼ大人4人が同居している感じなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:27:45",
+      "utterance": "上の子は就職して、今は一人暮らしをしています"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:28:20",
+      "utterance": "なるほど、そうなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:29:49",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:30:07",
+      "utterance": "「社会の役に立っているのかなって」とおっしゃっていましたが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:31:50",
+      "utterance": "どんなことが、そのようなお気持ちを感じるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:33:17",
+      "utterance": "ウクライナでの戦争やコロナで困っている人とか、テレビで見たりするとそう思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:34:16",
+      "utterance": "ええ。やるせないですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:34:28",
+      "utterance": "はい、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:37:02",
+      "utterance": "そのようなニュースを見るたびに、自分は社会の役に立っているか、と思うことはごもっともな気持ちだと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:37:26",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:37:38",
+      "utterance": "あと息子が来年から大学生になるのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:37:48",
+      "utterance": "ええ、"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:37:58",
+      "utterance": "たぶん家を出るんですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:38:14",
+      "utterance": "はい、"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:38:57",
+      "utterance": "今まで子育て中心で生活してきたので、あまり他のことは気にならなかったんですが"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:39:44",
+      "utterance": "終わったことを考えると、なんか何のために働くのかなと思うようになってきたんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:41:15",
+      "utterance": "そうなんですね。ずっとお子さん二人の子育てを長い間、あなたはされてきましたからね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:41:38",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:43:11",
+      "utterance": "だからこそ、何のために働くのかと思うようになったのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:44:09",
+      "utterance": "そうなんですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:45:09",
+      "utterance": "今日のご相談では「子育てが終わったとして、何のために働くのか、このまま今の仕事を続けていいか」ということでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:45:48",
+      "utterance": "そのような感じかと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:46:23",
+      "utterance": "承知しました。大事なことなので一緒に考えていきましょうね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:46:35",
+      "utterance": "お願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:48:12",
+      "utterance": "ちなみに、ご年齢や家庭のことを抜きに考えると、転職はどれくらい考えておられるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:48:40",
+      "utterance": "どれくらい、、"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:48:48",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:49:31",
+      "utterance": "うーん、半々くらいかなぁ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:49:59",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:50:06",
+      "utterance": "今の仕事も長く続けているので"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:50:14",
+      "utterance": "ええ、"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:51:21",
+      "utterance": "人間関係は特に悪くはないのでそう思った感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:51:38",
+      "utterance": "そう感じたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:51:41",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:52:34",
+      "utterance": "ちなみに、休みの日はどう過ごされていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:54:07",
+      "utterance": "休みの日は家でテレビとかみたり、子どもも大きいんで、友達と外で食事しに行ったりします"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:54:46",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:54:57",
+      "utterance": "ここまでお話お聞きして、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:57:15",
+      "utterance": "ウクライナやコロナのことで、やるせなさとか共感疲労というものを感じているかと思うので、ご自身の好きな時間をこまめにとっていってほしいと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:57:50",
+      "utterance": "共感疲労って何でしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:58:31",
+      "utterance": "辛い状況にいる人の苦しい気持ちに共感しすぎて、自分自身の心が疲れてしまうことですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:58:59",
+      "utterance": "あ、そういうことなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T20:59:16",
+      "utterance": "なので、リラックスできる時間を取ってみてくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T20:59:26",
+      "utterance": "わかりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T21:00:08",
+      "utterance": "あとお子さんが親元を離れて、「私はこれから何のために・・・」と悩む親御さんは多くいらっしゃいます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T21:00:18",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T21:00:57",
+      "utterance": "ですがそれは、お子さんが親元を離れるようになるまで、長い間子育てを中心に頑張ってこられたからこそ、感じるものなんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T21:01:20",
+      "utterance": "例えば、自分のために頑張るのであれば、収入のため、好きなものを買うためなど、自分のことを中心に考えるため、何のために働くのかと思うことはないですからね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T21:02:10",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T21:02:59",
+      "utterance": "それだけ子育てに奮闘されてきたと思うので、子育てがひと段落したら、これからはあなたご自身をど真ん中に置いて、過ごしてみてくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T21:03:20",
+      "utterance": "考えてみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T21:03:44",
+      "utterance": "きっとこれまで子育てとかで、我慢してきたことや取れなかった時間があると思うので、ぜひ考えてみてくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T21:03:52",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T21:04:10",
+      "utterance": "お時間すぎてしまいすみません。今日のご相談はここまででよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T21:04:21",
+      "utterance": "はい、大丈夫です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T21:05:10",
+      "utterance": "大切なお話聞かせてくださり、ありがとうございました。今日話しきれなかったことは、また次回しっかりお聞きしますからね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T21:05:26",
+      "utterance": "わかりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T21:05:33",
+      "utterance": "ありがとうございました。あなたのこれからを応援しています。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T21:05:47",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T21:06:15",
+      "utterance": "（ロープレありがとうございました。長くなりすみません。今日SNS初めてだったのでしょうか？）"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T21:07:33",
+      "utterance": "(大丈夫ですよ。すみません、クライエントがSNSカウンセリングが初めて利用したということです。わかりにくくて、すみませんでした💦"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T21:08:20",
+      "utterance": "（そうだったんですね。失礼いたしました。ロープレ終了後に、ロープレの評価をお願いしておりますので、良かった点と、もっとこうして欲しかった点などを自由記入欄で教えていただけたら助かります。）"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T21:09:00",
+      "utterance": "(かしこまりました。本日はありがとうございました。)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-25T21:09:05",
+      "utterance": "（お疲れ様でした。それでは終了させていただきます。）"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-25T21:09:16",
+      "utterance": "(はい)"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "仕事の継続と転職の選択悩み"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3865,
+    "評価作成日時": "2022-08-25T23:16:00",
+    "クライアント役ID": 155,
+    "カウンセラー役ID": 136,
+    "点数": 53,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3865,
+    "evaluation_created_at": "2022-08-25T23:16:00",
+    "client_id": 155,
+    "counselor_id": 136,
+    "score": 53,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

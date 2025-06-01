@@ -1,0 +1,534 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2021-05-17T12:23:51",
+      "utterance": "こんにちは。本日、クライエント役をさせていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T12:24:00",
+      "utterance": "お時間になりましたら、どうぞよろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T12:24:33",
+      "utterance": "こんにちは。よろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T12:30:13",
+      "utterance": "こんにちは。相談員です。ご相談に来てくださりありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T12:30:24",
+      "utterance": "こんにちは。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T12:30:36",
+      "utterance": "最初に、年齢（学年）、性別、今日話したいことを教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T12:31:07",
+      "utterance": "はい。37才、男性です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T12:31:20",
+      "utterance": "お答えいただき、ありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T12:31:37",
+      "utterance": "この先の将来のことが不安で、誰かに相談してくてここに来てみました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T12:31:54",
+      "utterance": "すみません、したくて、です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T12:32:25",
+      "utterance": "将来のことについてのご相談ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T12:32:39",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T12:33:23",
+      "utterance": "詳しく教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T12:34:01",
+      "utterance": "何が、ってはっきりしているわけではないんですが、"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T12:34:06",
+      "utterance": "結婚もしてないし、"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T12:34:13",
+      "utterance": "仕事も頑張っているけど"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T12:34:19",
+      "utterance": "ええ、（続けてくださいね。）"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T12:34:23",
+      "utterance": "今のままでいいのかな、って思ったりして。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T12:34:36",
+      "utterance": "そうなのですね。色々と考えてしまいますね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T12:34:44",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T12:35:14",
+      "utterance": "ちなみに、どんな時に、不安になったりしますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T12:36:05",
+      "utterance": "ひとりになった時、時々すごい考えてしまうし、不安になります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T12:40:19",
+      "utterance": "お仕事どんな感んじでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T12:40:20",
+      "utterance": "すみません、いらっしゃいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T12:40:35",
+      "utterance": "行き違いました。すみません。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T12:41:07",
+      "utterance": "仕事は、学校関係なのですが、児童相談みたいなところで働いています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T12:41:16",
+      "utterance": "すみません。システムの方固まっていましたので、遅くなりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T12:42:05",
+      "utterance": "そうなのですね。大変なお仕事ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T12:42:48",
+      "utterance": "そうですね、大変なこともあります。でも好きな仕事なので。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T12:43:45",
+      "utterance": "そうでしたか。好きなことをお仕事にされているのですね。ちなみに、どんなところが好きだと思われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T12:44:19",
+      "utterance": "子供が好きなので。あと、相談を受けるのは嫌いではないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T12:45:41",
+      "utterance": "そうなのですね。天職ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T12:46:08",
+      "utterance": "そこまでではないと思いますがw ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T12:47:15",
+      "utterance": "もちろん好きなことですけれど、色んな子供さんがおられると思いますし、相談を受けたりするのも、なかなか大変かと思いますが、どんな感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T12:47:39",
+      "utterance": "そうですね、そういう面は確かにあります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T12:48:01",
+      "utterance": "ええ、毎日お疲れ様です。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T12:48:26",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T12:49:56",
+      "utterance": "ご結婚については、どんなふうに考えておられるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T12:50:56",
+      "utterance": "いい人がいればしてみたいです。結婚したいというか、子供好きなので子供が欲しい気持ちが強いかもしれないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T12:51:34",
+      "utterance": "そうなのですね。本当に子供が好きなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T12:51:54",
+      "utterance": "そうですね。子供は大好きです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T12:53:22",
+      "utterance": "そうなのですね。子供といると、心が和らぎますね。ちなみに、子供のどんなところが好きだと思われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T12:54:02",
+      "utterance": "純粋に可愛いところです。色んな子がいますが、どの子も色々な特徴があって"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T12:54:11",
+      "utterance": "本当に可愛いと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T12:54:46",
+      "utterance": "そうですね。それぞれその子の特徴がありますものね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T12:55:19",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T12:56:34",
+      "utterance": "ご家族とかはいらっしゃるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T12:57:07",
+      "utterance": "いえ、独身ですから。実家に両親と一緒に住んでおります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T12:59:49",
+      "utterance": "そうなのですね。ご両親とご一緒に暮らされていて、お家では、どんな感じで過ごされているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T13:01:05",
+      "utterance": "どんな感じ、、、仕事から帰ったらご飯食べてお風呂入って、、、夜か朝どちらかにランニングをしてます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T13:02:15",
+      "utterance": "健康的ですね。ランニングをされているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T13:02:35",
+      "utterance": "そうですね。最近ランニングしてます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T13:02:57",
+      "utterance": "最近始められたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T13:03:06",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T13:05:35",
+      "utterance": "ご両親には、あなたの不安な気持ちとか話されることとかあったりしますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T13:05:51",
+      "utterance": "いえ、特には話さないですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T13:06:35",
+      "utterance": "そうでしたか・・・。他に、友達とか、職場の人とか、どなたか話したことはあったりしますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T13:07:22",
+      "utterance": "結婚の話とか、仕事の話にはなりますが、将来不安で、みたいな話まではいかないですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T13:09:49",
+      "utterance": "そうなのですね。将来のことについては、話しにくいと感じることとかあったりするのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T13:11:22",
+      "utterance": "話しにくいわけではないですが、楽しい話題の方がいいかな、とか思ったりして、特に真剣な将来の話にはならない感じです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T13:12:00",
+      "utterance": "周りのことを思って、話題も考えておられるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T13:12:36",
+      "utterance": "u"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T13:12:45",
+      "utterance": "すみません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T13:12:58",
+      "utterance": "いえいえ、大丈夫です。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T13:13:32",
+      "utterance": "でも気遣いとかって普通のことですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T13:13:45",
+      "utterance": "そう思われるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T13:14:12",
+      "utterance": "特に自分が特別気を使っている感じはしないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T13:14:38",
+      "utterance": "普段から、気遣いをされてきたのだと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T13:15:10",
+      "utterance": "そうなんでしょうか、、、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T13:15:53",
+      "utterance": "ええ、当たり前に、いつもされてきて、あなたの気持ちが抑えられてきたのかなと感じました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T13:16:32",
+      "utterance": "そうなんですね。抑えてたつもりはあまりなかったのですが、、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T13:16:56",
+      "utterance": "そう思われるのも無理もないことだと思います。いつもされてきたのですから"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T13:17:29",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T13:18:17",
+      "utterance": "ええ、あなたにとっては、当たり前のことかもしれません。けれども、中々できる人はおられないと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T13:18:37",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T13:19:15",
+      "utterance": "ええ、そう感じました。それに、周りの人のため、子供たちのためと、周りを優先されてきて、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T13:20:45",
+      "utterance": "ご自身の気持ちは、後回しになっていたのかなと感じましたが、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T13:21:55",
+      "utterance": "どうでしょうか？自分の気持ちを後回しにしている感じはあまりしないのですが、、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T13:22:16",
+      "utterance": "そう思われるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T13:23:32",
+      "utterance": "そうですね。人の為を思って行動はするけど、自分の好きなこともたくさんしているので、"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T13:23:55",
+      "utterance": "自分の気持ちが後回しになってる感じは、自分ではあまりしません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T13:25:49",
+      "utterance": "そうだったのですね。周りの人のためを思って、されてきた、お仕事も頑張ってこられた、よくやってこられたと思います。好きなことをしていることと、ご自身の話したいことを話せることとは違ったりします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T13:26:39",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T13:29:01",
+      "utterance": "いつも当たり前に、周りにことを考えて、会話し、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T13:29:53",
+      "utterance": "ご自身では当たり前のことでも、中々できることではありません。本当によくやってこられたと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T13:30:15",
+      "utterance": "不安な気持ちって、誰かに話すことで楽になったりします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T13:31:39",
+      "utterance": "なので、少しぐらい、あなたの話したいことを話してもいいと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T13:32:09",
+      "utterance": "なるほど。今度できたらチャレンジしてみます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T13:33:38",
+      "utterance": "ええ、そうしてみてください。また、いつでもお話しにいらしていただけたらと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T13:33:53",
+      "utterance": "はい。今日はありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T13:34:00",
+      "utterance": "今日は、お話聞かせていただきまして、ありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-05-17T13:34:31",
+      "utterance": "ありがとうございました。こちらで失礼いたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-05-17T13:34:48",
+      "utterance": "こちらこそ、ありがとうございました。"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "将来の不安について"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1869,
+    "評価作成日時": "2021-05-17T14:20:00",
+    "クライアント役ID": 157,
+    "カウンセラー役ID": 192,
+    "点数": 45,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 2,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 2,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1869,
+    "evaluation_created_at": "2021-05-17T14:20:00",
+    "client_id": 157,
+    "counselor_id": 192,
+    "score": 45,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

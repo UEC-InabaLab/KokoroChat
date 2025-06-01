@@ -1,0 +1,634 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:00:04",
+      "utterance": "こんばんは、相談員です。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:00:08",
+      "utterance": "宜しくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:00:23",
+      "utterance": "相談にいらして下さりありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:00:41",
+      "utterance": "相談にあたって、年齢と性別を教えてもらえますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:01:12",
+      "utterance": "はい、50代 女性です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:01:17",
+      "utterance": "お答えありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:01:26",
+      "utterance": "今日はどのようなご相談ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:02:15",
+      "utterance": "はい、これからのことが心配です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:02:32",
+      "utterance": "そのように感じてお越しくださったんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:02:40",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:02:57",
+      "utterance": "どのようなことが心配なのか、少しお話しくださいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:04:27",
+      "utterance": "はい、現在独身ですが、一人っ子で両親も80歳を超えています"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:04:44",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:05:27",
+      "utterance": "はい、頼る人が誰も居なくなります"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:07:03",
+      "utterance": "そうですよね、、、そう思うと不安にもなりますね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:07:48",
+      "utterance": "両親は今は介護の必要はないのですが、"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:08:12",
+      "utterance": "私自身が良くなくて·····"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:09:05",
+      "utterance": "そうなのですね、ご自身のことでご不安に感じておられるのですね。どういったご様子ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:09:05",
+      "utterance": "正社員で働けなくなり、パートをしています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:09:19",
+      "utterance": "そうでなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:09:43",
+      "utterance": "失礼しました。そうなんですね。です。↑"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:10:31",
+      "utterance": "パートになったのは、どういったことからだったのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:10:37",
+      "utterance": "更年期障害ではないかと思うのですが、日によっては起き上がる事が出来なくなります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:10:53",
+      "utterance": "それはおつらいですね・・。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:11:19",
+      "utterance": "日によってマチマチですが·····"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:11:48",
+      "utterance": "ええ、（お聞きしていますね）"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:11:55",
+      "utterance": "パートでは収入が少なくて。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:12:52",
+      "utterance": "将来年金も少くなるのが不安なのです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:12:52",
+      "utterance": "はい・・・"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:13:54",
+      "utterance": "今は両親の年金に助けられていますが。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:14:20",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:14:41",
+      "utterance": "今現在、ご両親と同居なさっておられるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:14:52",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:16:34",
+      "utterance": "そうでしたか。正社員からパートに変わられて、収入の面と将来的な年金の減少と、二つの面でご心配なのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:17:07",
+      "utterance": "はい、そうなんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:18:00",
+      "utterance": "今はご両親もご健在だけれども、ご自身の体調も不安定で、ゆくゆくのことを考え併せて、ご不安になること、無理もないと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:18:27",
+      "utterance": "こわいくらいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:18:56",
+      "utterance": "そうお感じなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:19:07",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:19:22",
+      "utterance": "そうですよね。お身体のこと、心配ですね。どこか医療機関などには、かかっておられますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:20:30",
+      "utterance": "病院にも検査にいきましたが、やはりわたしの場合は更年期障害が強く出ているようです。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:21:14",
+      "utterance": "この先いつまで続くのかも分かりません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:22:22",
+      "utterance": "そうなのですね。検査をしたけれども、それで明確な答えという感じでもなくて、不安もあるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:23:14",
+      "utterance": "人によりマチマチだと聞いています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:24:18",
+      "utterance": "そうなのかもしれませんね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:24:38",
+      "utterance": "ご迷惑な相談ですみません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:24:58",
+      "utterance": "いえいえ、とんでもないです。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:25:19",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:26:48",
+      "utterance": "お仕事を変わらなければならない程のお身体の不調があったのですし"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:26:59",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:27:37",
+      "utterance": "その原因を調べても、不調そのものがすぐに消える訳でもないとなると、"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:27:51",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:28:40",
+      "utterance": "どうしても、将来が不安に思えたりするのももっともだと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:29:51",
+      "utterance": "休みの日は家で過ごすのですが、無性に寂しくもなります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:30:29",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:30:37",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:31:08",
+      "utterance": "ご両親とは、どのように過ごされているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:32:03",
+      "utterance": "ごく普通の?日常生活です。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:32:31",
+      "utterance": "わたしは人見知りするタイプなので、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:32:54",
+      "utterance": "ええ、"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:33:32",
+      "utterance": "寂しくて結婚も考えたのですが、出会いもなくて。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:34:04",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:34:23",
+      "utterance": "この歳でこんなことを考えるの、おかしいですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:35:11",
+      "utterance": "不安だから考えるのかもですが。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:35:32",
+      "utterance": "その様にお考えなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:36:06",
+      "utterance": "結婚ですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:37:13",
+      "utterance": "はい、誰かと一緒に暮らしていきたいと考えるのに、年齢は関係ないと私は思いますけれど、いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:37:52",
+      "utterance": "そうですか?でも人見知りだし。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:39:04",
+      "utterance": "具体的にお付き合いするような人も見当たりません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:39:05",
+      "utterance": "人見知りって、とても大切な愛着のある人と、他人を区別するための知恵のようなものなので、"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:39:39",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:40:15",
+      "utterance": "相手をよく知っていくことで単なる他人から特別な人になればまた話は違うと思います。でも、今のところは思い当たるお相手がいらっしゃらないということなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:40:37",
+      "utterance": "そうです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:40:46",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:41:57",
+      "utterance": "一つお聴きしてもいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:42:03",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:42:23",
+      "utterance": "何か夢中になれる趣味のようなものはお持ちですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:42:41",
+      "utterance": "特に·······"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:43:26",
+      "utterance": "そうなんですね。今まで、すごく好きだったものとか人とかは、何かないですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:44:55",
+      "utterance": "読書や音楽は好きですが、あまり嫌いな人はいないと思うので、夢中になるようなことはことは無いです。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:45:32",
+      "utterance": "（夢中になることは無いです）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:46:07",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:46:38",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:48:28",
+      "utterance": "お話をお聴きして、ご両親が80才を超え、体調も優れない中、それでもお仕事をパートタイムに切り替えられて、"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:48:40",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:49:20",
+      "utterance": "働きづつけておられるだけでも、精一杯よくやられていらっしゃると感じました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:49:42",
+      "utterance": "働き続けて、です。すみません。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:49:57",
+      "utterance": "生活のためですから。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:50:38",
+      "utterance": "そうですよね。とても大切なことですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:51:11",
+      "utterance": "これからのあなたのその生活が、よりよくなるために、どんなことが必要だと思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:51:55",
+      "utterance": "結婚を考えたのはやはりおかしいでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:53:03",
+      "utterance": "どのようなところから、おかしいとお感じになるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:53:40",
+      "utterance": "年齢的に、と先ほど。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:54:44",
+      "utterance": "そうでしたね。結婚が一つの選択肢としてあるのは、全くおかしいとは思いませんし、年齢のことも、先ほど私からも申し上げた通りです。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:54:48",
+      "utterance": "やはり変ですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:55:24",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:56:36",
+      "utterance": "何か趣味なり、打ち込めることを探すべきかなー。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:57:24",
+      "utterance": "といって、経済的不安は変わらないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:57:42",
+      "utterance": "ご趣味を訊いたのは、好きなことを通してサークルや、交友関係を広げたら、そこで出会いにつながるかもしれないと思ったからです。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:57:59",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:58:54",
+      "utterance": "更年期障害は、いつ終わるとも分からない憂鬱な症状がおありかもしれないので"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T20:59:29",
+      "utterance": "そういう時期を乗り越える為にも、何か熱中したり、夢中になれる趣味などがあるとよろしいかもしれないと思いました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T20:59:45",
+      "utterance": "気晴らしを考えて下さったのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T21:00:02",
+      "utterance": "はい、そういうことになりますでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T21:00:26",
+      "utterance": "お時間ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T21:00:42",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T21:00:53",
+      "utterance": "はい、今日は大切なお話しを聴かせて頂いてありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T21:02:04",
+      "utterance": "（わたしが相談を受けた例を参考に致しました）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T21:02:59",
+      "utterance": "またよろしかったら相談にいらして下さいね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T21:03:18",
+      "utterance": "はい。ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T21:04:01",
+      "utterance": "あなたのこれからが、よりよくなりますように、願っております。それでは、相談を終了させて頂きますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-04-30T21:04:39",
+      "utterance": "（ロールプレイ、お疲れさまでした。ありがとうございました。終了ボタンを押しますね。）"
+    },
+    {
+      "role": "client",
+      "time": "2022-04-30T21:04:40",
+      "utterance": "（終了して下さい）"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "中高年の再就職と収入の不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3434,
+    "評価作成日時": "2022-04-30T21:36:00",
+    "クライアント役ID": 273,
+    "カウンセラー役ID": 26,
+    "点数": 33,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 1,
+    "新しい気づきや体験があった": 1,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 1,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 1,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 2,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 2,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 1,
+    "次の行動につながる提案": 1,
+    "勇気づけ・希望の喚起": 1,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3434,
+    "evaluation_created_at": "2022-04-30T21:36:00",
+    "client_id": 273,
+    "counselor_id": 26,
+    "score": 33,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 1,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 1,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 1,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

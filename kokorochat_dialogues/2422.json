@@ -1,0 +1,709 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:25:04",
+      "utterance": "こんばんは、20時30分からよろしくお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T20:25:47",
+      "utterance": "こんばんは！よろしくお願いします！"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:30:05",
+      "utterance": "それでは始めます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:30:19",
+      "utterance": "こんばんは、相談員です"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T20:30:46",
+      "utterance": "こんばんわ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:30:51",
+      "utterance": "はじめに年齢と性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T20:31:03",
+      "utterance": "30代女です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:31:25",
+      "utterance": "おしえてくださりありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:31:48",
+      "utterance": "今日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T20:32:12",
+      "utterance": "職場のことです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:32:24",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:32:59",
+      "utterance": "職場のどのようなことでお困りなのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T20:33:04",
+      "utterance": "会社の社長が、コロナのワクチンを強要してくるんです"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T20:33:16",
+      "utterance": "打たないと会社に来なくていいって。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:33:18",
+      "utterance": "そうでしたか"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T20:34:01",
+      "utterance": "他にも朝礼中に怒鳴ったりと、パワハラなところがあるんですが、ワクチンのことはちょっと納得いかなくて。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:34:29",
+      "utterance": "それは強引ですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T20:35:00",
+      "utterance": "毎日の朝礼でコロナの話ばかり、ワクチン打たない奴はダメなやつだって。最近心が疲れてきて、、怒鳴られるたびにぐっと締め付けられるかんじがします。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:35:43",
+      "utterance": "それはとてもしんどい状況ですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T20:35:53",
+      "utterance": "はい。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:36:42",
+      "utterance": "あなたとしては、ワクチンを打ちたくない事情があるのではないかと思うのですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:36:50",
+      "utterance": "いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T20:37:05",
+      "utterance": "ワクチンに関しては本当はもう予約もできてるんですが、個人の自由を侵害してくる態度が受け入れられないんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:37:27",
+      "utterance": "なるほどそうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T20:37:51",
+      "utterance": "積極的な接種は望んでないので、ああいう態度に敏感になってるのかも知れません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:38:23",
+      "utterance": "個人の自由を侵害されるというのは不愉快なことですからね"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T20:39:05",
+      "utterance": "そうなんです。。若いひとが予約できてないのも努力が足りないからだといって聞きません。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:40:07",
+      "utterance": "若い人までワクチンがあまり行き渡っていない現状で努力が足りないって言ってもね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:40:38",
+      "utterance": "個人の心情もあるでしょうし"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T20:41:09",
+      "utterance": "誰も逆らえないので、社長を説得しようとは思いません。。ただこの理不尽とどう向き合えばよいのか、、毎日怒鳴られる人を見るのもつらいんです。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:41:53",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:42:37",
+      "utterance": "社長には逆らえないのは悔しいことと思いますが、我慢されているのですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T20:43:14",
+      "utterance": "そうですね。我慢するしかないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:44:09",
+      "utterance": "あなたご自身のことだけではなくて、他の人が怒鳴られることも気になっておられるのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:44:26",
+      "utterance": "とてもやさしい方だと思いました"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T20:44:45",
+      "utterance": "全社員の前で怒鳴るので…。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:44:58",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T20:45:28",
+      "utterance": "感染してしまった人にまで自覚が足りないみたいなこと言うので、自分が感染したらと思うと怖くて…。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:45:51",
+      "utterance": "それは確かに怖いですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:46:38",
+      "utterance": "感染経路が不明の事も多いので、注意していたからといって避けられませんからね"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T20:46:56",
+      "utterance": "そうですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:47:42",
+      "utterance": "あなたのお話を伺って、理不尽な状況にとてもストレスが溜まっていることと思います"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T20:48:11",
+      "utterance": "組織である以上はある程度の理不尽は仕方ないと思ってますが、うまく受け流すことができないのか、つらいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:49:42",
+      "utterance": "今日のご相談は、どうしたら理不尽な状況を受け流せるかということでよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T20:50:41",
+      "utterance": "ああ、そうですね。社長の考えを変えることは出来ないので、私の気持ちが楽になる方法を知りたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:51:24",
+      "utterance": "相手を変えるのは難しいことが多いですからね"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T20:51:57",
+      "utterance": "そうですね、変えることも戦うことも出来ないので。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:51:59",
+      "utterance": "了解しました気持ちが楽になる方法を一緒に考えていきましょう"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T20:52:06",
+      "utterance": "お願いします！"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:53:22",
+      "utterance": "ストレスを軽くする方法は幾つかありますので、あなたに合った方法を探しましょうね"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T20:53:29",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:54:12",
+      "utterance": "なにからがいいか、ちょっと考えていました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:54:52",
+      "utterance": "まずは、相手を動物に例える方法があります"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T20:55:01",
+      "utterance": "どうぶつ？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:55:09",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:56:03",
+      "utterance": "弱いくせにキャンキャン吠えるスピッツに例えてみたり、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:56:55",
+      "utterance": "お猿さんに例えてみたり"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T20:57:21",
+      "utterance": "スピッツの例え納得ですがスピッツかわいいからなあ…笑"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T20:57:36",
+      "utterance": "キーキーうるさい猿ですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:57:49",
+      "utterance": "弱い犬ほど良く吠えるっていいますしね"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T20:58:05",
+      "utterance": "そうですよね、たまにうるさいですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:58:20",
+      "utterance": "お猿さんはやたらに騒いでるしね"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T20:58:26",
+      "utterance": "でも犬はかわいいからゆるせちゃいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:58:38",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T20:59:13",
+      "utterance": "猿のほうがイメージにあいます☺️"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T20:59:32",
+      "utterance": "そうでしたか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T21:00:02",
+      "utterance": "あなたがしっくりすることが一番大事です"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T21:00:39",
+      "utterance": "パワハラだけど頭のいい人だからチンパンジーがしっくりきました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T21:00:52",
+      "utterance": "なるほどですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T21:01:44",
+      "utterance": "あとは、相手を心理分析してみるのもいいかもしれません"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T21:01:59",
+      "utterance": "歯茎出してキーキーいってるときのチンパンジーがイメージピッタリです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T21:02:18",
+      "utterance": "社長は思い込んだら真っ直ぐなんでしょうね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T21:02:39",
+      "utterance": "それはとっても具体的でいいですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T21:02:50",
+      "utterance": "なるほどですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T21:03:13",
+      "utterance": "それがビジネスに繋がってるんだと思います。でもまっすぐすぎて自分の考えしか見えないのかな。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T21:03:50",
+      "utterance": "コロナのことも、ワクチンしか方法はないから、ワクチン打ってない社員にあんなこと言うのかも。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T21:04:41",
+      "utterance": "1つのことに囚われると、そればかり気になってしまうのかもしれませんね"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T21:05:15",
+      "utterance": "よくよく思い返すと仕事でも周りを顧みない性格ですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T21:05:56",
+      "utterance": "そうなんですね1人で突っ走るっていう感じかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T21:06:34",
+      "utterance": "そうですね、会議でも自分の意見押し倒します"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T21:07:09",
+      "utterance": "そうか周りの人が大変そうですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T21:07:44",
+      "utterance": "それでビジネス成り立ってて我々も給料さえもらえればいいや、みたいなとこがあるので、今まではそんなにストレスは大きくなかったのかも"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T21:08:14",
+      "utterance": "それでも、会社の方はうまくいっているのですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T21:08:34",
+      "utterance": "近くにいる人は大変だと思います、辞める人も多いです。私は直接関わることは少ないのでまだいい方かも。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T21:09:33",
+      "utterance": "その辺りのことは、あなたとしてはスルーできそうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T21:10:28",
+      "utterance": "うーん。関わりある人だと、親身になっちゃって一緒にきつくなってます、。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T21:10:57",
+      "utterance": "そうでしたか"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T21:10:58",
+      "utterance": "人は人と割り切らないとですね。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T21:11:47",
+      "utterance": "大抵の会社は、なにがしかおかしな所がありますからね"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T21:12:08",
+      "utterance": "そうですよね、完璧な会社はないですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T21:13:12",
+      "utterance": "あなたにとって許容範囲であれば、ざっくりと捉えた方が楽だとは思います"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T21:13:22",
+      "utterance": "猿がたまに喚いてるけどそれでお金もらえるならいいやって思えばいいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T21:14:06",
+      "utterance": "そうですねそんな風に割り切れるといいですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T21:14:27",
+      "utterance": "猿がお金持ってくると考えてみます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T21:14:44",
+      "utterance": "はい是非そう考えてみてください"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T21:15:47",
+      "utterance": "そうですね、、。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T21:16:27",
+      "utterance": "仕方ないですもんね、。勝手に怒鳴らせとけばいいのか…。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T21:17:03",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T21:17:44",
+      "utterance": "あ、今ふと思いついちゃいました"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T21:17:54",
+      "utterance": "なんですか！？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T21:18:16",
+      "utterance": "うるさいセミがまた鳴き始めたっていうのもいいかもしれませんね季節柄"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T21:19:07",
+      "utterance": "ああ、そうですね！朝礼はセミの鳴き声の時間にしてみます！"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T21:19:45",
+      "utterance": "理不尽を考えれば考えるほど、納得いかなくてイライラして辛くなってました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T21:20:08",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T21:20:22",
+      "utterance": "受け流すことを教えてくださりありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T21:21:36",
+      "utterance": "辛いときには、それを笑いに変えられると最強なんですよねいつもできるとは限らないけど、工夫してみる手はありますよ"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T21:23:19",
+      "utterance": "確かにそうですね。むかしきっちりし過ぎて融通のきかない上司をペッパーと影で呼んでた同僚を思い出しました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T21:23:59",
+      "utterance": "今になって見習わなきゃと思いました😊"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T21:24:09",
+      "utterance": "ロボットのペッパーのことですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T21:24:18",
+      "utterance": "なるほどです"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T21:24:28",
+      "utterance": "そうです。きまったことしかやらないからです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T21:25:52",
+      "utterance": "なかなかいいですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T21:26:19",
+      "utterance": "私も面白い例えが出来るように頑張りたくなりました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T21:26:44",
+      "utterance": "ありがとうございました！"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T21:26:49",
+      "utterance": "そんな風に工夫して、楽しく仕事ができるようになることを応援しています"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T21:26:56",
+      "utterance": "はい！"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T21:27:11",
+      "utterance": "今日は相談にきてくださりありがとうございました"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T21:27:27",
+      "utterance": "こちらこそ、愚痴まで聞いていただきありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T21:27:43",
+      "utterance": "また何かありましたら、ご相談ください"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T21:27:56",
+      "utterance": "はい、よろしくお願いします！"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T21:28:21",
+      "utterance": "それでは本日の相談を終了してもよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T21:28:30",
+      "utterance": "はい。どうもありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T21:28:46",
+      "utterance": "それでは終了といたします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T21:29:41",
+      "utterance": "（お疲れ様でした。勉強になりました。気になったことは遠慮無く指摘していただけたら、ありがたいです。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T21:30:12",
+      "utterance": "（それではロールプレイを終了してもよろしいですか？）"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T21:30:27",
+      "utterance": "（ありがとうございました、まだ初心者なので、自由にやらせていただきました！勉強になりました！"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-08-30T21:30:51",
+      "utterance": "（それでは終了します）"
+    },
+    {
+      "role": "client",
+      "time": "2021-08-30T21:30:54",
+      "utterance": "本日はありがとうございました！"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "社長のパワハラ行為によるストレス"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2422,
+    "評価作成日時": "2021-09-05T13:19:00",
+    "クライアント役ID": 225,
+    "カウンセラー役ID": 92,
+    "点数": 87,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 5,
+    "希望や期待を感じられた": 5,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 5,
+    "今回の相談は価値があった": 5,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 4,
+    "要約": 3,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 5,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2422,
+    "evaluation_created_at": "2021-09-05T13:19:00",
+    "client_id": 225,
+    "counselor_id": 92,
+    "score": 87,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,709 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-11-10T19:50:36",
+      "utterance": "（こんばんは。よろしくお願いいたします。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T19:54:58",
+      "utterance": "(こちらこそ、よろしくお願いします)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:00:06",
+      "utterance": "こんばんは。相談員です。ご相談にいらしてくださり、ありがとうございます。はじめに、年齢と性別、今日お話になりたいことを教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:00:25",
+      "utterance": "14才、女"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:00:52",
+      "utterance": "気持ちが落ち着かない"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:01:29",
+      "utterance": "ありがとうございます。そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:01:56",
+      "utterance": "どんな時に気持ちが落ち着かないか、教えてくれますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:02:29",
+      "utterance": "いろいろなことで落ち着かなくなるけど"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:02:42",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:03:52",
+      "utterance": "今日は、友達からそっけない態度をされて、なんか悪いことしたかなと思うとしんどい"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:04:30",
+      "utterance": "どうしたらいいか分からなくなる"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:04:47",
+      "utterance": "そうなんですね。それはとても苦しいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:04:52",
+      "utterance": "うん"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:05:04",
+      "utterance": "どうしたらいい？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:06:04",
+      "utterance": "一緒に考えていきたいと思いますので、少し質問をさせてもらっても良いですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:06:09",
+      "utterance": "気持ちがしんどい"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:06:12",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:06:56",
+      "utterance": "とってもつらいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:07:36",
+      "utterance": "つらい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:08:17",
+      "utterance": "つらくて悲しいですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:09:12",
+      "utterance": "相談者さんは、今中学１年生ですか？２年生ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:09:15",
+      "utterance": "なんか生きてていいのかなって思う"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:09:23",
+      "utterance": "中学2年"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:09:59",
+      "utterance": "ありがとうございます。何度も行き違ってしまってごめんなさい。"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:10:12",
+      "utterance": "だいじょうぶです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:11:02",
+      "utterance": "ありがとうございます。友達とのことで、今とても不安なんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:11:24",
+      "utterance": "不安ていうか落ち着かない"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:11:56",
+      "utterance": "モヤモヤしてしんどい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:12:10",
+      "utterance": "教えてくれて、ありがとうございます。落ち着かない、って、最初にお話してくれましたね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:12:23",
+      "utterance": "うん"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:12:47",
+      "utterance": "どうしたらいいの"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:14:26",
+      "utterance": "とてもしんどいですね。これから一緒に考えていきましょうね。今日、友達にそっけなくされたと教えてくれましたが、友達とどんなことがあったか、お話してくれますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:15:51",
+      "utterance": "いつも一緒にいる友達が話していたので、「どんな話しているの？」と聞いたら、答えてくれなかった。"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:16:17",
+      "utterance": "聞いたらいけなかったのかな？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:16:46",
+      "utterance": "そうなんですね。それは悲しい気持ちになるし、どうしたら良かったのかわからなくなりますね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:17:01",
+      "utterance": "何か悪いことしたのかな"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:17:19",
+      "utterance": "っていろいろ考えたけど分からない"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:17:32",
+      "utterance": "うん"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:19:03",
+      "utterance": "普段そんなことないのに、どうしてだろうわかんない"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:19:21",
+      "utterance": "いつもと今日は違ったのですね"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:19:28",
+      "utterance": "うん"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:19:54",
+      "utterance": "いつもと違うと、とっても落ち着かない気持ちになりますね"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:20:25",
+      "utterance": "気にしすぎたらダメと思うけど、気持ちが落ち着かない"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:21:01",
+      "utterance": "誰かに聞いてほしくて、今日相談にきてくれたのですね"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:21:07",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:21:22",
+      "utterance": "勇気を持ってきてくれて、ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:21:49",
+      "utterance": "友達は、今日、何かいつもと違うような感じがしましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:21:52",
+      "utterance": "どんなことをしたら落ち着きますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:22:05",
+      "utterance": "特にはないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:22:46",
+      "utterance": "まず、落ち着く方法を考えてみましょうね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:22:48",
+      "utterance": "しんどい"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:22:58",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:23:45",
+      "utterance": "今、相談者さんは、自分の部屋にいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:23:52",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:24:14",
+      "utterance": "床に座っていますか？それとも、イスに座っていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:24:35",
+      "utterance": "床に座ってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:24:48",
+      "utterance": "教えてくれてありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:25:57",
+      "utterance": "立ち上がって、少し足を開いて、ゆっくり深呼吸できますか？ゆっくり吐くことを心がけてみてください。"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:26:33",
+      "utterance": "立たないとダメですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:28:04",
+      "utterance": "体の力が抜けると良いので、イスに座ってもらっても大丈夫ですが、イスは近くにありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:28:32",
+      "utterance": "持ってきます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:28:45",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:29:20",
+      "utterance": "椅子に座りました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:30:05",
+      "utterance": "イスに少し深く座ってみてください。足を少し開いて、手はダランとして、目を閉じて、ゆっくり深呼吸を繰り返してみてください。"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:31:41",
+      "utterance": "ちょっと落ち着きました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:32:00",
+      "utterance": "それを聞いて安心しました。"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:32:24",
+      "utterance": "でもまだ落ち着かない"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:32:55",
+      "utterance": "そうですね、そんなに簡単には落ち着かないですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:33:26",
+      "utterance": "いつも落ち着かなくなるとリスカしてる"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:33:48",
+      "utterance": "やめないととおもってるんだけど"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:34:24",
+      "utterance": "教えてくれて、ありがとうございます。とっても苦しいんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:34:33",
+      "utterance": "うん"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:34:53",
+      "utterance": "今は、どうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:35:32",
+      "utterance": "今はましかな"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:36:22",
+      "utterance": "リスカやめたいけど、どうしたらいいのかな？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:36:53",
+      "utterance": "そうなのですね。やめたいと思っている気持ちが伝わってきます。"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:37:40",
+      "utterance": "今日もリスカしそうになってて、でもダメだとおもって"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:37:58",
+      "utterance": "どうしたらいいかわからなくて、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:38:07",
+      "utterance": "うん、うん"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:38:35",
+      "utterance": "だれかに助けてもらいたくて"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:38:50",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:39:19",
+      "utterance": "ここに"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:39:25",
+      "utterance": "きました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:40:18",
+      "utterance": "今、とても頑張ってお話してくれましたね。話してくれて、ありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:41:17",
+      "utterance": "リスカしそうになった時、どうしたら落ち着くことができますか？他にも方法はありますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:42:01",
+      "utterance": "リスカをめたいという相談者さんの気持ちが、本当に強く伝わってきます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:42:18",
+      "utterance": "例えばお水をゆっくり飲んでみたり、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:43:42",
+      "utterance": "少し外を歩いてみたりとかは、できそうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:44:27",
+      "utterance": "うーん"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:44:38",
+      "utterance": "なんかピンとこない"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:45:10",
+      "utterance": "教えてくれて、ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:45:54",
+      "utterance": "リスカしたくなる時って、どんな気持ちになっているか、教えてくれますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:46:25",
+      "utterance": "どんな気持ち・・・？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:46:47",
+      "utterance": "わかりにくい質問でしたね、ごめんなさい"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:47:08",
+      "utterance": "今みたいに、苦しくて、しんどい感じ・・・かな"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:47:20",
+      "utterance": "うまく言えない"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:47:56",
+      "utterance": "そうなのですね、答えにくい質問だったのに、一生懸命考えてくださって、ありがとうございます"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:48:47",
+      "utterance": "こちらこそありがとう"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:49:44",
+      "utterance": "苦しくてしんどい時、その気持ちをノートに書くことはできそうですか？言葉でもいいし、ただぐるぐると書き殴るのでもいいです。"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:49:44",
+      "utterance": "一緒に考えてくれて嬉しいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:50:06",
+      "utterance": "本当に、何度も何度もすれ違ってしまって・・・ごめんなさいね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:50:21",
+      "utterance": "だいじょうぶです"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:51:07",
+      "utterance": "外に出るとかよりはできそうかな"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:52:02",
+      "utterance": "それはよかったです。書いたら、そのノートをビリビリっと破って、丸めて捨ててしまうんです。"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:52:39",
+      "utterance": "うん"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:52:53",
+      "utterance": "そうすると、少し気持ちがすっきりするかもしれません。"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:53:35",
+      "utterance": "やってみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:54:15",
+      "utterance": "もしよかったら、やってみてどうだったか、また教えてくれますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:54:22",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:55:20",
+      "utterance": "リスカやめたいし"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:55:59",
+      "utterance": "うんうん、そうですね。相談者さんが本当にやめたいって思っている気持ちの強さ、伝わってきます。人それぞれに合う方法が違うかもしれないから、一緒に考えて、一つずつ試して見たいなと思っています。"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:56:33",
+      "utterance": "そうですねすぐには無理かもしれないけど、"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:57:39",
+      "utterance": "また教えてください"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:58:24",
+      "utterance": "うまくいってもいかなくても、今日相談にきてくれたのは、相談者さんにとって大きな一歩です。相談者さんのこと、応援しています。"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:58:25",
+      "utterance": "話していて、落ち着きました"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T20:58:52",
+      "utterance": "今日はリスカしなくてすみそう"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:59:06",
+      "utterance": "落ち着いたと教えてくれて、ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:59:22",
+      "utterance": "今日はこれで相談時間が終わりになりますが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T20:59:54",
+      "utterance": "苦しくなったりしんどくなったら、また話しを聞かせてくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T21:00:34",
+      "utterance": "勇気の出ることばをありがとう今日はありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T21:00:59",
+      "utterance": "今日は勇気を出してお話に来てくれて、ありがとうございました。寒くなってきたので、風邪に気をつけて過ごしてくださいね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T21:01:32",
+      "utterance": "それでは、今日の相談を終わりにします。ありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T21:01:45",
+      "utterance": "相談員さんも気を付けてね"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T21:02:10",
+      "utterance": "ありがとう"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T21:02:32",
+      "utterance": "相談者さんの優しい気持ち、嬉しいです。こちらこそ、ありがとうございました。では、終了メッセージを送りますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T21:02:50",
+      "utterance": "（お疲れ様でした。大変勉強になりました。ありがとうございました）"
+    },
+    {
+      "role": "client",
+      "time": "2023-11-10T21:03:29",
+      "utterance": "（こちらこそありがとうございました。私の方こそ勉強になりました。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-11-10T21:03:46",
+      "utterance": "（では、終了させていただきます）"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "友達との関係からくる不安や気持ちの落ち着かなさ"
+  },
+  "review_by_client_jp": {
+    "評価ID": 5924,
+    "評価作成日時": "2023-11-11T10:46:00",
+    "クライアント役ID": 156,
+    "カウンセラー役ID": 420,
+    "点数": 90,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 5,
+    "希望や期待を感じられた": 5,
+    "取り組みたかったことを扱えた": 5,
+    "一緒に考えながら取り組めた": 5,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 5,
+    "今回の相談は価値があった": 5,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 5,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 3,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 5924,
+    "evaluation_created_at": "2023-11-11T10:46:00",
+    "client_id": 156,
+    "counselor_id": 420,
+    "score": 90,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 5,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 5,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

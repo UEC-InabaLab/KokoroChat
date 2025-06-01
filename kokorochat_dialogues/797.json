@@ -1,0 +1,504 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-11-28T14:54:14",
+      "utterance": "こんにちは。今日はよろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T14:54:55",
+      "utterance": "カウンセラー役は3回目になります。１５時になったら始めてもいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T14:57:17",
+      "utterance": "はい。宜しくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:00:17",
+      "utterance": "１５時になりましたので、始めます。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:00:33",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:01:04",
+      "utterance": "こんにちは。今日はどのような事でこちらに来られましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:02:25",
+      "utterance": "最近、何もする気がおきなくて、部屋の中に荷物やゴミが増えてるんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:03:01",
+      "utterance": "何もする気が起きないんですか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:03:10",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:04:06",
+      "utterance": "良かったら年齢と性別を教えてください。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:04:33",
+      "utterance": "後、どのようにお呼びすればいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:05:03",
+      "utterance": "女性です。としさんで"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:05:48",
+      "utterance": "ありがとうございます。としさんですね。としさんはおひとり暮らしですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:06:00",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:07:32",
+      "utterance": "一人だと荷物やごみを自分で片付けないといけないですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:07:56",
+      "utterance": "ですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:08:24",
+      "utterance": "もともと掃除とか整理整頓とかは得意なほうではないですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:09:19",
+      "utterance": "どうでしょうか。最近は、やりたくないと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:10:14",
+      "utterance": "やりたくないんですか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:10:23",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:12:16",
+      "utterance": "生活パターンとしては、ずっと学校や会社等で外に出ている感じですか？それとも家にずっといる感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:13:14",
+      "utterance": "コロナで在宅での仕事が増えて半々くらいですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:13:51",
+      "utterance": "食事や睡眠はきちんと取れていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:14:24",
+      "utterance": "食事は少なくなったかもしれません"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:15:41",
+      "utterance": "在宅だとあまりおなかも空かないですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:16:26",
+      "utterance": "ですね。もともと、食事にあまり興味がないんですけどね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:16:52",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:17:04",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:17:29",
+      "utterance": "何もする気がおきないっていうのは、朝起きてからずっとですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:18:33",
+      "utterance": "お昼位になると少し良くなりはします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:19:38",
+      "utterance": "１日の中でいつが一番何もする気がおきない感じが強いですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:20:33",
+      "utterance": "朝ですかね。でも、夕方仕事から帰ってもかなぁ〜"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:21:06",
+      "utterance": "夕方仕事から帰って、部屋に入ると、ぐったりって感じですか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:21:17",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:21:49",
+      "utterance": "疲れてしまうと、何もしたくなくなりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:22:02",
+      "utterance": "ですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:23:23",
+      "utterance": "で、ごみや荷物がどんどんたまってしまう…。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:23:33",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:23:44",
+      "utterance": "なるほど"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:25:31",
+      "utterance": "ごみや荷物ですが、結構たまっているのですか？例えば、足の踏み場もないくらいとか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:26:11",
+      "utterance": "だんだん増えてきて、結構凄い感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:26:24",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:28:27",
+      "utterance": "何もする気がおきないのに、無理して片付けるのって、しんどいと思います。範囲や時間を決めて、少しづつ片づけをしていくのはどうでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:29:50",
+      "utterance": "それが出来れば良いんですけど"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:30:05",
+      "utterance": "それもしんどいですか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:30:58",
+      "utterance": "出来てたら、悩まないかも…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:33:55",
+      "utterance": "部屋の状態をご自身で見た時に、どのあたりが一番気になりますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:34:32",
+      "utterance": "そうですね…玄関かな"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:35:05",
+      "utterance": "今、玄関はどんな感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:35:36",
+      "utterance": "段ボールとか"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:36:06",
+      "utterance": "段ボールですか"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:36:15",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:36:34",
+      "utterance": "荷物が入っている状態のままですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:36:52",
+      "utterance": "のもあります"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:37:06",
+      "utterance": "入っていないのもあるんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:37:24",
+      "utterance": "途中のとか"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:37:42",
+      "utterance": "途中のもあるんですか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:37:56",
+      "utterance": "まぁ"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:38:33",
+      "utterance": "まずは途中のものを全部最後まで開けてみるのはどうでしょう？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:40:04",
+      "utterance": "ですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:40:13",
+      "utterance": "後、見ていない荷物を開けてみるとか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:40:38",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:41:10",
+      "utterance": "荷物を全部出したら、どこかへしまうこともあるでしょうから、それがきっかけになって、片付けにつながるかも。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:42:31",
+      "utterance": "そういうのは頭では分かってるんですけど出来ない自分に悩んでます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:44:12",
+      "utterance": "１つだけでも、開けてみるのは難しいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:46:34",
+      "utterance": "う〜ん色んな事に、やる気が出なくて、気持ちが暗くなるんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:48:35",
+      "utterance": "＜やらなきゃいけない＞って思って、それができない自分を責めてしまうと、どんどん気持ちが暗くなると思います。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:48:47",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:50:44",
+      "utterance": "＜きっちりできなくてもいいから、少しやってみる＞というのは、どうでしょう？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:51:19",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:52:02",
+      "utterance": "仮に、あまり片付かなかったとしても、おひとり暮らしだから、誰も文句言ったりしないし。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:52:17",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:53:18",
+      "utterance": "出来なくても＜今日はこれだけやった＞という結果が、ご自身の中で納得できればいいと思いますが、どうでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:54:00",
+      "utterance": "自信ないですが、やれそうならやってみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:55:28",
+      "utterance": "調子がいいときとか、無理しない範囲でやってみてください。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:55:37",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:57:30",
+      "utterance": "＜やった＞という気持ちが、としさんの中で増えてきたら、何もしたくないという気持ちが、変わってくるかもしれませんね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:57:54",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T15:59:27",
+      "utterance": "コロナ禍で、仕事や生活が一変して、大変ですけど、としさんのペースで生活することを大事にしていってください。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T15:59:40",
+      "utterance": "はい。ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T16:00:10",
+      "utterance": "また、何かあれば、いつでもお越しくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T16:00:29",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T16:01:20",
+      "utterance": "こちらこそ、ありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T16:01:36",
+      "utterance": "失礼します"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T16:02:23",
+      "utterance": "＜１６時が来ました。ロールプレイ終了でいいでしょうか？＞"
+    },
+    {
+      "role": "client",
+      "time": "2020-11-28T16:05:45",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-11-28T16:06:28",
+      "utterance": "では、終了しますね。感想等レポートで書いていただけるとありがたいです。お疲れさまでした。"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "やる気の低下と気持ちの暗さ"
+  },
+  "review_by_client_jp": {
+    "評価ID": 797,
+    "評価作成日時": "2020-11-28T17:17:00",
+    "クライアント役ID": 85,
+    "カウンセラー役ID": 112,
+    "点数": 43,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 2,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 2,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 2,
+    "要約": 1,
+    "問題の明確化": 1,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 797,
+    "evaluation_created_at": "2020-11-28T17:17:00",
+    "client_id": 85,
+    "counselor_id": 112,
+    "score": 43,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 2,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 1,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

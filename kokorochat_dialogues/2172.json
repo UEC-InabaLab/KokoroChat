@@ -1,0 +1,734 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-07-12T09:51:17",
+      "utterance": "こんにちは。本日はよろしくお願い致します。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T09:55:40",
+      "utterance": "こちらこそ、よろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T09:57:42",
+      "utterance": "少し早いですが、始めさせていいただいても、大丈夫ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T09:58:05",
+      "utterance": "はい。大丈夫です。お願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T09:58:09",
+      "utterance": "では始めさせていただきますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T09:58:43",
+      "utterance": "こんにちは、相談員です。本日はお越しいただき、ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T09:59:09",
+      "utterance": "本日は、どのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T09:59:30",
+      "utterance": "最近、彼とのことでモヤモヤしてるんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:00:11",
+      "utterance": "そうですか、それは気になりますよね"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:00:26",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:00:35",
+      "utterance": "お話を伺うにあたって"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:01:25",
+      "utterance": "あなたの年齢と性別、何とお呼びしたらよいか教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:02:05",
+      "utterance": "16歳　女子　のん　です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:02:37",
+      "utterance": "のんさん、高校生ですかね？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:02:51",
+      "utterance": "はい、高2です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:03:35",
+      "utterance": "ありがとうございます。彼氏さんと、どのようなことで、モヤモヤするのでしょう"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:04:04",
+      "utterance": "元々グループで楽しく過ごしてたんですけど、"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:04:33",
+      "utterance": "最近いつも一緒に居たがるんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:04:47",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:05:00",
+      "utterance": "いつも？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:05:30",
+      "utterance": "一緒に居るのはいいんだけど、いつもはどうかな…って"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:06:16",
+      "utterance": "そうなんですね。いつも一緒は窮屈にかんじるのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:06:55",
+      "utterance": "ずっと一緒は、少ししんどいですよね"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:07:06",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:07:48",
+      "utterance": "のんさんは、彼氏さんと一緒では無いとき、どのように過ごしていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:08:43",
+      "utterance": "週1でバイトに行ったり、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:08:50",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:09:15",
+      "utterance": "たまには他の子と一緒に遊んだりします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:10:17",
+      "utterance": "そうなんですね。バイトやお友達と遊ぶのは、楽しいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:10:33",
+      "utterance": "はい。楽しいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:11:25",
+      "utterance": "そうですか、楽しくて充実している感じです？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:12:14",
+      "utterance": "まぁ、そうかな。いろいろあるけど、それなりに。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:14:17",
+      "utterance": "それはいいですね！じゃあ、その楽しい時間は守りたいですよね。彼氏さんは、他のおともだちとは、遊ばないのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:15:07",
+      "utterance": "遊んでるけど、最近ぐいぐい来られてる感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:15:20",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:16:06",
+      "utterance": "そのことについて、話し合ったことは？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:16:38",
+      "utterance": "時々ありました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:17:01",
+      "utterance": "はい、どんな感じでした？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:18:35",
+      "utterance": "いつも一緒に帰らないとダメみたいな感じになってきたときは、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:18:45",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:19:49",
+      "utterance": "他にも友達いたから、みんなで帰ろうって言いました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:22:02",
+      "utterance": "そうねんですね、いつも一緒に帰らないとダメって感じなんて、ちょっと大変ですよね。そんなときの、のんさんはどんな気持ちでした？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:23:26",
+      "utterance": "何回かはそれでかわしてきたんだけど、、、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:23:33",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:25:07",
+      "utterance": "最近は、LINEでも即レスしないと怒ってくるそれが嫌"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:25:53",
+      "utterance": "それは窮屈ですね。気持ちとしては、もっと自由がいいなぁとか、思います？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:28:03",
+      "utterance": "私だけ大切にしてくれるんだなとは思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:28:25",
+      "utterance": "少し嬉しい感じもある？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:28:45",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:29:08",
+      "utterance": "うんうん、嬉しく思いますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:29:32",
+      "utterance": "彼氏さんへの気持ちは変わってないです？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:30:35",
+      "utterance": "怒ったりされるのは怖いって思うようにはなったかも"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:31:40",
+      "utterance": "怒ったりもするのですか？それは怖いですよね、、、暴力とかは？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:32:27",
+      "utterance": "それはないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:33:09",
+      "utterance": "そうですか、良かったです。もしかして、、、と心配になりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:33:31",
+      "utterance": "でも、怖いのはよくないですよね"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:34:13",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:34:15",
+      "utterance": "少しお話をまとめさせてくださいね"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:36:27",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:37:00",
+      "utterance": "のんさんは、彼氏さんからいつも一緒にいたいといわれ、自分だけ大切にされていると感じながら、少し窮屈にもかんじている。時々怒ったりされると、怖いと感じている"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:37:32",
+      "utterance": "今の状態は、こんな感じですかね"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:37:48",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:38:03",
+      "utterance": "のんさんは、どうなったら一番嬉しいです？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:39:08",
+      "utterance": "夏休み中に二人の記念日があるんですけど、その日に彼がプチ旅行を計画してくれていて、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:39:17",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:39:41",
+      "utterance": "そのことで頻繁に連絡が来るんですけど、結構出れなかったりすることが多くって、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:39:51",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:40:12",
+      "utterance": "そのことでまた怒られちゃって、しかも、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:40:23",
+      "utterance": "しかも？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:40:34",
+      "utterance": "その日が外せないバイトの日だったから、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:40:44",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:41:06",
+      "utterance": "まだ返事で来てなくって、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:41:17",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:41:22",
+      "utterance": "そしたらすごく怒ってきて、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:41:36",
+      "utterance": "怒ってきて、、、"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:41:44",
+      "utterance": "バイトを休めって言うんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:41:59",
+      "utterance": "そうなんですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:42:25",
+      "utterance": "のんさんは、どんな気持ちでした？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:43:31",
+      "utterance": "戸惑ったってこともあるし、よく考えようとも思ったし、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:43:41",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:43:59",
+      "utterance": "でも、物凄く怒られて…怖いって思いました"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:44:35",
+      "utterance": "まだ返事もしてなくって…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:44:41",
+      "utterance": "そうだったんですか。それは怖い思いをしましたよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:45:10",
+      "utterance": "のんさんの都合も考えてほしいですよね"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:45:18",
+      "utterance": "どうしたらいいかわかんなくなりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:45:37",
+      "utterance": "バイトでは、返信できませんもの"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:46:10",
+      "utterance": "ホントですね、どうしたらよいのか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:46:43",
+      "utterance": "彼氏さんは、今も怒ってるの？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:47:33",
+      "utterance": "キレられて怖くって…こっちから謝った方がいいかな？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:47:55",
+      "utterance": "怒らせた私が悪いんですよね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:48:36",
+      "utterance": "自分が悪いと思ってるんですねのんさんは、そんな彼氏さんと、今後どうしたい？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:48:54",
+      "utterance": "これからも付き合っていきたい？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:50:55",
+      "utterance": "自分でもわかんなくなってます…"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:51:39",
+      "utterance": "だけど、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:52:17",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:52:19",
+      "utterance": "確かに、記念日よりもバイトを優先しようっていう話だって思うと…"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:52:37",
+      "utterance": "彼が怒るのも無理もないって思うんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:52:49",
+      "utterance": "そう感じるんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:53:02",
+      "utterance": "だから、悪いのは自分だから…"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:53:26",
+      "utterance": "私が悪いんですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:53:37",
+      "utterance": "のんさんは、今まで頑張って彼氏さんに合わせようと、努力してきましたよね"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:53:38",
+      "utterance": "相談員さんはどう思いますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:54:45",
+      "utterance": "時には、怖い思いをしても、自分が足らないと思う部分を探して、彼は悪くないと"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:55:33",
+      "utterance": "本当は彼氏さんを、とっても大切にされていると感じました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:56:09",
+      "utterance": "彼氏さんが、なぜそんなに怒るのか、聞いてみたことは？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T10:57:42",
+      "utterance": "聞いてみたことはないけど、友達には、束縛しすぎだよねって言われてます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T10:58:29",
+      "utterance": "そうなんですね、もしかして、違うかもしれませんが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T11:00:06",
+      "utterance": "彼氏さんは、のんさんの自分を思う気持ちが分からなくなってしまって、不安を感じているのかも、、、？と思いました。だから、いつも一緒にいたくて、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T11:01:06",
+      "utterance": "返信がないと、不安で俺の気持ちを分かってくれ―ーー！って"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T11:01:41",
+      "utterance": "言葉にできなくて、怒りだしてしまったり"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T11:02:19",
+      "utterance": "束縛していないと、離れて行ってしまうように感じてしまうのではないかな、、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T11:02:31",
+      "utterance": "どう思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T11:03:04",
+      "utterance": "そっか・・・そうですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T11:03:54",
+      "utterance": "のんさん、先ほど自分が悪いと思って、私がどう思っているか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T11:04:35",
+      "utterance": "質問しましたよね？それについての返答ですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T11:05:18",
+      "utterance": "わたしは、どちらも悪くはなく、お互いとても思いあっていて"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T11:06:33",
+      "utterance": "とても良いお付き合いをされていますが、一時的に気持ちが分からなく、不安になるときもあるので、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T11:07:50",
+      "utterance": "そんな時には、お互いに気持ちを確かめ合ったりすると、よりよい関係になれるのかなと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T11:08:07",
+      "utterance": "いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T11:08:55",
+      "utterance": "はい、わかりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T11:09:36",
+      "utterance": "夏休みのプチ旅行、楽しめると良いですね！"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T11:10:18",
+      "utterance": "これからも仲良くお付き合いしていってくださいね"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T11:10:24",
+      "utterance": "はい、考えてみます。今日はありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T11:10:44",
+      "utterance": "他に何か話したいことがなければ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T11:11:06",
+      "utterance": "これで終了とさせていただきますね"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T11:11:32",
+      "utterance": "はい、ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T11:11:38",
+      "utterance": "また何かありましたら、きてください"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T11:12:02",
+      "utterance": "本日は、ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T11:12:15",
+      "utterance": "失礼します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T11:12:46",
+      "utterance": "（ありがとうございました。お疲れさまでした）"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T11:12:51",
+      "utterance": "失礼します"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-12T11:13:15",
+      "utterance": "(お疲れさまです。ありがとうございました)"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-12T11:13:16",
+      "utterance": "（ロールプレイ終了しますね）"
+    }
+  ],
+  "topic": {
+    "main_jp": "恋愛問題",
+    "main_en": "Romantic Issues",
+    "sub": "彼氏との束縛感とコミュニケーション不足"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2172,
+    "評価作成日時": "2021-07-12T12:49:00",
+    "クライアント役ID": 108,
+    "カウンセラー役ID": 159,
+    "点数": 71,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 3,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 3,
+    "要約": 5,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2172,
+    "evaluation_created_at": "2021-07-12T12:49:00",
+    "client_id": 108,
+    "counselor_id": 159,
+    "score": 71,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,509 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2024-07-01T20:51:04",
+      "utterance": "（こんばんは。宜しくお願い致します。）"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T20:52:01",
+      "utterance": "（こんばんは。こちらこそ、よろしくお願いいたします。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T20:59:54",
+      "utterance": "こんばんは。相談員です。最初に、年齢・性別・ご相談内容を教えて頂けますか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:01:47",
+      "utterance": "25歳女性です"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:01:56",
+      "utterance": "生きづらいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:02:32",
+      "utterance": "教えて頂き、ありがとうございます。そうでしたか。生きづらさに悩んでいらっしゃるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:02:38",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:02:59",
+      "utterance": "生きづらいと思われ始めたのは、いつ頃からでしょう?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:03:36",
+      "utterance": "よくわかりません"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:03:46",
+      "utterance": "気づいたら苦しくて"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:04:14",
+      "utterance": "そうなのですね。おつらいお気持ちなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:05:00",
+      "utterance": "気づいたら…、とのことですが、何かきっかけになるようなこととか、ありました?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:06:23",
+      "utterance": "わかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:08:16",
+      "utterance": "そうでしたか。苦しいお気持ちにならずに済む時間帯とか、ありますか?"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:09:04",
+      "utterance": "ここでは何でもお話して頂いて、大丈夫ですよ。"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:09:44",
+      "utterance": "常にしんどいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:10:51",
+      "utterance": "そうだったのですね。いつも苦しい思いを持ち続けるのって、しんどいですよね…。しんどい、というお気持ちの他に、何かありますか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:11:05",
+      "utterance": "苦しいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:12:20",
+      "utterance": "そうなのですね。苦しいと、何か体調の方にも影響があるかと思いますが、いかがですか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:13:39",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:13:53",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:14:21",
+      "utterance": "眠れません"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:14:52",
+      "utterance": "そうでしたか。眠れないと、体が疲れてしまいますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:15:50",
+      "utterance": "ちなみに、何かお仕事をされていらっしゃいますか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:16:17",
+      "utterance": "今は休職中です"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:17:52",
+      "utterance": "そうなのですね。職場で、何か嫌な出来事とか、あったのでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:18:56",
+      "utterance": "人間関係でちょっと"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:19:35",
+      "utterance": "そうでしたか。職場の人間関係は難しいですものね…。"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:19:51",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:20:55",
+      "utterance": "具体的に、どのようなことがあったのか、お聴きしてもよろしいですか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:21:22",
+      "utterance": "職場にうまく馴染めませんでした"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:22:25",
+      "utterance": "そうだったのですね。職場の雰囲気とかもありますものね。今のお仕事は始められて、どれくらいでしょう?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:22:58",
+      "utterance": "2年くらいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:24:06",
+      "utterance": "教えて頂いてありがとうございます。2年間、ずっと苦しくて、しんどい思いをされていたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:24:18",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:25:11",
+      "utterance": "職場は、相談者様にとって、どのような感じだったのでしょう?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:25:49",
+      "utterance": "居場所がありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:27:09",
+      "utterance": "そうでしたか…。そのような所だと、寂しくて悲しいお気持ちになりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:27:23",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:28:08",
+      "utterance": "仕事を始められた頃は、どのような感じだったのでしょう?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:28:38",
+      "utterance": "始めた頃から居場所はありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:30:36",
+      "utterance": "そうなのですね。初めてのお仕事で、分からないことも多かったのでは、と思われますが、上司や同僚達の態度はどうだったのでしょう?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:31:13",
+      "utterance": "何も教えてくれません"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:32:45",
+      "utterance": "そうなのですか…。何か無視されたようで嫌な気持ちになりますよね。相談者様の方から、何か聞いたり、話しかけたり、とかはありました?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:33:05",
+      "utterance": "はい、しました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:33:33",
+      "utterance": "相手の方は、どのような反応だったのでしょう?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:34:04",
+      "utterance": "それくらいわかるでしょ？という感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:34:49",
+      "utterance": "それはちょっと冷たいですよね。その時、どのようなお気持ちでした?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:35:18",
+      "utterance": "つらいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:36:14",
+      "utterance": "そうですよね。お仕事は何をされていらっしやるのでしょう?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:36:28",
+      "utterance": "SEです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:36:54",
+      "utterance": "すみません、SEって何でしょう?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:37:11",
+      "utterance": "システムエンジニアです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:37:58",
+      "utterance": "教えて頂きありがとうございます。そうでしたか。技術職なのですね。素敵ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:38:29",
+      "utterance": "そうですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:39:11",
+      "utterance": "職場は何人かグループになって行うのでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:39:48",
+      "utterance": "いや、そうでもないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:40:29",
+      "utterance": "そうでしたか。基本的に、お一人で行うのでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:41:08",
+      "utterance": "色々です"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:42:40",
+      "utterance": "そうなのですね。お仕事の内容を教えて貰えないとすれば、仕事の流れとか、段取りとか、見て覚えるしかない感じでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:43:21",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:44:42",
+      "utterance": "それは大変ですよね。相談者様の他に、女性の同僚の方はいらっしゃるのでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:44:59",
+      "utterance": "数名います"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:46:20",
+      "utterance": "そうなのですね。同僚の方同士で雑談とかはあるのでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:46:39",
+      "utterance": "ほとんどありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:48:43",
+      "utterance": "それは寂しいですよね。他の方たちは、どのようにして仕事に対してのモチベーションを持ち続けている様子でしょう?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:49:25",
+      "utterance": "私にはわかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:51:07",
+      "utterance": "すみません、答えにくいことを聴きました。独特の雰囲気を持つ職場のようですが、このお仕事を選ばれた、理由とか、あるのでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:51:39",
+      "utterance": "専門職は給料がいいからです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:52:36",
+      "utterance": "そうなのですね。その点では、満足されていたのでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:52:51",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:54:35",
+      "utterance": "職場でほとんど会話が無いことはストレスになると思いますが、休日に何か気分転換のようなことはやっていらっしゃるのでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:55:02",
+      "utterance": "今は何もする気になれません"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:55:36",
+      "utterance": "そうなのですね。お気持ちが沈んでいらっしゃるのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:56:04",
+      "utterance": "休職されてから、どれくらいでしょう?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:56:25",
+      "utterance": "半年くらいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T21:57:33",
+      "utterance": "そうなのですね。上司には何か相談されました?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T21:58:18",
+      "utterance": "仕事をしばらく休みたいと言いました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T22:00:20",
+      "utterance": "そうでしたか。今のお仕事をやってきて、やりがいとか、何か感じていらっしゃったのでしょうか?"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T22:00:45",
+      "utterance": "とくには感じていません"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T22:01:55",
+      "utterance": "そうでしたか。おつらいお気持ちをずっと抱えていらっしゃったのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T22:03:54",
+      "utterance": "今のお仕事を続けたくないお気持ちであれば、転職、という選択もあるかなと思いますが…。"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T22:05:30",
+      "utterance": "お話の途中ですが、お時間になってしまいました。"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T22:05:47",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T22:06:20",
+      "utterance": "こちらこそありがとうございました。またいつでもお話しにいらして下さい。これで終了とさせて頂いてもよろしいでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T22:06:34",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2024-07-01T22:06:44",
+      "utterance": "（ありがとうございました。）"
+    },
+    {
+      "role": "client",
+      "time": "2024-07-01T22:06:59",
+      "utterance": "（お疲れ様でした）"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "職場の人間関係のストレス"
+  },
+  "review_by_client_jp": {
+    "評価ID": 7070,
+    "評価作成日時": "2024-07-02T22:32:00",
+    "クライアント役ID": 294,
+    "カウンセラー役ID": 261,
+    "点数": 25,
+    "聴いてもらえた、わかってもらえたと感じた": 1,
+    "尊重されたと感じた": 0,
+    "新しい気づきや体験があった": 1,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 0,
+    "一緒に考えながら取り組めた": 1,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 0,
+    "全体として適切でよかった": 1,
+    "今回の相談は価値があった": 1,
+    "相談開始の円滑さ": 2,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 1,
+    "受容・共感": 2,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 1,
+    "要約": 1,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 1,
+    "次の行動につながる提案": 1,
+    "勇気づけ・希望の喚起": 1,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 7070,
+    "evaluation_created_at": "2024-07-02T22:32:00",
+    "client_id": 294,
+    "counselor_id": 261,
+    "score": 25,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 0,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 0,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 0,
+    "felt_appropriate_and_satisfying": 1,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 2,
+    "conversation_ended_well": 1,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 1,
+    "summarized_key_points_effectively": 1,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 1,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

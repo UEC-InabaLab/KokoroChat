@@ -1,0 +1,604 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-07-07T09:50:38",
+      "utterance": "こにんちは。どうぞよろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T09:51:01",
+      "utterance": "こんにちは。こちらこそ、よろしくお願い致します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T09:52:08",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T09:52:34",
+      "utterance": "今日の課題、テーマ等ございますか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T09:53:41",
+      "utterance": "クライエントになり、クライエントの気持ちを感じることです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T09:54:09",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T09:55:40",
+      "utterance": "いま、中高生の課題に取り組んでいます。よろしかったら、中高生の設定でお願いさせていただくのは、いかがでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T09:56:11",
+      "utterance": "はい、承知致しました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T09:56:24",
+      "utterance": "どうもありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T09:57:02",
+      "utterance": "お時間になりましたら、はじめさせていただきます。どうぞよろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T09:57:14",
+      "utterance": "承知致しました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:00:07",
+      "utterance": "こにんちは。相談員です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:00:20",
+      "utterance": "今日は、ご相談にお越しいただいて、どうもありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:00:38",
+      "utterance": "まずはじめに、よろしかったら、年齢、学年、性別をお聴きしてもよろしいでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:01:26",
+      "utterance": "13才 男子"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:01:42",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:02:04",
+      "utterance": "中学２年生でしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:02:12",
+      "utterance": "中一"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:02:46",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:03:23",
+      "utterance": "今日は、どんなご相談ですか。お話ししやすいところからお話ししてくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:03:28",
+      "utterance": "^"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:03:39",
+      "utterance": "学校に行きたくない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:03:53",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:04:07",
+      "utterance": "それは、悩まれますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:04:32",
+      "utterance": "学校で、どんなことがありましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:05:09",
+      "utterance": "学校に行くのめんどくさい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:05:35",
+      "utterance": "そう思われるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:05:52",
+      "utterance": "行かなくていいならいきたくない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:06:05",
+      "utterance": "どんな時に思うのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:06:22",
+      "utterance": "朝起きたらそう思う"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:06:45",
+      "utterance": "なるほど、それはつらいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:07:02",
+      "utterance": "別に辛くないけど"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:08:33",
+      "utterance": "そうなのですね。めんどくさいとは、具体的に、どんなことがめんどくさいと思われますか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:09:01",
+      "utterance": "行くのがめんどくさいかな"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:09:35",
+      "utterance": "なるほど・・・。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:10:30",
+      "utterance": "あなたにとって、学校はどんな感じに思うでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:10:48",
+      "utterance": "義務教育"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:11:54",
+      "utterance": "なるほど、そう思われるのですね。もう少し、感じていることをゆっくりでいいので、お話ししていただいても、いいですか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:12:52",
+      "utterance": "決まってるから行くだけ行かなくていいなら行きたくない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:14:23",
+      "utterance": "なるほど・・・。義務としていかなくてはならないことは、重いですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:14:50",
+      "utterance": "学校では、どのように過ごしているのでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:15:24",
+      "utterance": "勉強してお昼食べて部活やって帰るの繰り返し"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:17:47",
+      "utterance": "そうなのですね。部活はどんなことをしているのでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:17:56",
+      "utterance": "テニス部"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:18:41",
+      "utterance": "なるほど・・・。部活はどんな感じですか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:19:19",
+      "utterance": "ふつに練習してる"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:20:08",
+      "utterance": "ふつうに"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:20:32",
+      "utterance": "体を動かすこと、いいですね。勉強しながら、部活をするのも忙しいですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:21:14",
+      "utterance": "小学校から中学校になって、気になることありますか"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:21:40",
+      "utterance": "友達がいない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:22:01",
+      "utterance": "それは、寂しいですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:23:30",
+      "utterance": "クラスの仲間、部活の仲間とはどのように過ごしているの？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:24:05",
+      "utterance": "話したりはふつうにしてる"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:25:35",
+      "utterance": "お話しできる人がいるのは、いいですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:26:43",
+      "utterance": "あなたにとって、お友達とはどんな人ですか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:27:09",
+      "utterance": "なんでも話せる人かな"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:28:58",
+      "utterance": "なるほど、なんでも話せたら、心が通じ合う感じで嬉しいですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:29:56",
+      "utterance": "小学校のときは、お友達とどんな感じですごしていたのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:30:36",
+      "utterance": "小学校でも友達はいなかったかな"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:31:26",
+      "utterance": "そうなのですね。長い間、寂しく思われてきましたね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:35:02",
+      "utterance": "そのなか、ご相談にきていただいて、どうもありがとうございます。あなたが少しでも、楽になれるよう一緒に考えていきたいと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:35:44",
+      "utterance": "ここで、お話しをまとめさせていただきますね。いいでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:35:57",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:38:37",
+      "utterance": "学校へいきたくないとのご相談。学校へは、義務としていっていいるが、行かなくてすむならば、行きたくない。クラス、部活でお話しする人はいるが、なんでも話せる友達がいないと感じている。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:38:49",
+      "utterance": "いかがでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:39:03",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:39:54",
+      "utterance": "あなたは、いま一番どのようになりたいと思っていますか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:41:25",
+      "utterance": "どのように。。学校に行きたくない"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:44:41",
+      "utterance": "なるほど・・・。学校に行くのが、苦痛ですね。もし、心が通じ合うお友達ができたら、いかがでしょうか・・・。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:46:02",
+      "utterance": "友達がいれば楽しいかな"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:46:25",
+      "utterance": "そう思われるのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:47:22",
+      "utterance": "お友達がいたら、嬉しいですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:49:21",
+      "utterance": "学校で、お話しする人には、どんなふうにお話ししているのですか"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:50:23",
+      "utterance": "委員の仕事とか、係とかやる時はふつうに話すかな"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:52:41",
+      "utterance": "そうなのですね。委員会、係りのお仕事で、人と関わっているのですね。お仕事に向き合っているところ、大切ですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:53:14",
+      "utterance": "そんなとき、あなたはどんな気持ちですか"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T10:54:27",
+      "utterance": "係の仕事してるだけで特に何も。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T10:56:55",
+      "utterance": "学校のお仕事をきちんとしていることは、あなたは大切な存在ですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T11:01:21",
+      "utterance": "学校へ行きたくないとのことですが、お友達との関係以外に気になっていることどんなことありますか"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T11:02:21",
+      "utterance": "学校まで行くのが遠いことかな"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T11:03:58",
+      "utterance": "そうなのですね。それは、行くのが嫌になりますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T11:04:18",
+      "utterance": "どのくらいかかりますか"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T11:04:41",
+      "utterance": "1時間くらい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T11:06:47",
+      "utterance": "１時間は、きついですね。中学になり、お勉強も大変だと思います。部活もして、通学ながいと嫌になりますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T11:07:54",
+      "utterance": "お友達がいたら、あなたは学校でどのようにすごしたいと思いますか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T11:08:35",
+      "utterance": "楽しく過ごせると思う"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T11:09:27",
+      "utterance": "お友達と一緒に過ごせたら、いいですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T11:11:12",
+      "utterance": "学校で、どんな人とお友達になりたいと思いましたか"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T11:11:45",
+      "utterance": "気が合う友達が欲しい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T11:12:48",
+      "utterance": "素敵ですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T11:13:33",
+      "utterance": "あなたの気の合う友達はどんなひとですか"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T11:14:47",
+      "utterance": "話が会う人かな"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T11:15:38",
+      "utterance": "お話があったら、楽しいですよね。どんなお話しができたら、いいですか"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T11:16:12",
+      "utterance": "好きなアニメとか、スポーツとかの話がしたい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T11:16:32",
+      "utterance": "とても、いいですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T11:17:14",
+      "utterance": "好きなことを一緒にはなせたら、わくわくしますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T11:19:36",
+      "utterance": "ここで、感じたことをまとめさせていただきますね。いいでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T11:19:45",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T11:23:44",
+      "utterance": "学校へいきたくい理由の一つにお友達がいないことがある。勇気をもってご相談にきていただいたこと、前に向きたい気持ちが伝わってきました。好きなアニメ、スポーツのことをお話したりして、お友達とは心を通じる関係になりたい、そんなお友達を希望している。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T11:26:18",
+      "utterance": "あなたは、部活、委員会、係り　お仕事など、関わることに取り組まれている。人とのつながりを大切にしています。そして、ご自分のなりたいお友達のことも認識されている。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T11:26:27",
+      "utterance": "「申し訳ございませんが、お時間が過ぎているようですが」"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T11:27:22",
+      "utterance": "（すみません、お時間超過してしまいました。終了した方がよろしいでしょうか。）"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T11:27:55",
+      "utterance": "「申し訳ございませんが予定があります」"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T11:28:47",
+      "utterance": "たいへん失礼をいたしました。では、終了させていただきます。貴重なお時間をいただいて、どうもありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T11:29:58",
+      "utterance": "「すみませんが失礼致します」"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-07T11:30:19",
+      "utterance": "「お疲れ様でした。ありがとうございました」"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-07T11:30:31",
+      "utterance": "失礼いたします。"
+    }
+  ],
+  "topic": {
+    "main_jp": "学校問題",
+    "main_en": "School Issues",
+    "sub": "学校に行くのが面倒な理由"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2148,
+    "評価作成日時": "2021-07-07T11:57:00",
+    "クライアント役ID": 17,
+    "カウンセラー役ID": 191,
+    "点数": 43,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 1,
+    "受容・共感": 2,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 2,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2148,
+    "evaluation_created_at": "2021-07-07T11:57:00",
+    "client_id": 17,
+    "counselor_id": 191,
+    "score": 43,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 1,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

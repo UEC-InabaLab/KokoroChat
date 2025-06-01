@@ -1,0 +1,409 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-10-07T09:51:49",
+      "utterance": "（こんにちは、今日はよろしくお願いいたします。もし可能であれば希死念慮のある相談者役をしていただけるとありがたいです。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-07T09:52:34",
+      "utterance": "(こんにちは。本日はよろしくお願い致します。役割について、承知致しました。)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-07T09:53:07",
+      "utterance": "（ありがとうございます。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-07T10:00:11",
+      "utterance": "こんにちは、相談員です。年齢、性別、相談内容を教えていただけますか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-07T10:00:49",
+      "utterance": "24歳女、苦しくてたまらないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-07T10:01:42",
+      "utterance": "そうなんですね。もう少し詳しく教えていただけますか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-07T10:02:45",
+      "utterance": "このままだと、人を殺してしまいそうなんです。だったら、いっそ自分が死んだ方が良いんじゃないかと思っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-07T10:04:20",
+      "utterance": "そのように思われているんですね。どうして人を殺してしまいそうなんでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-07T10:05:42",
+      "utterance": "憎くてたまらないからです。でも、人を殺すぐらいなら、自分を殺した方が罪にはならないですよね？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-07T10:07:12",
+      "utterance": "そうなんですね。誰が憎くてたまらないのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-07T10:08:24",
+      "utterance": "親です。私の人生をめちゃくちゃにした。こんなに苦しいなら、いっそ全てを終わりにしたい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-07T10:10:32",
+      "utterance": "そう思われているんですね。それは辛かったですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-07T10:11:10",
+      "utterance": "親にどういうことをされたのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-07T10:11:59",
+      "utterance": "虐待されてきました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-07T10:13:07",
+      "utterance": "そうだったんですね。それは苦しかったですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-07T10:13:48",
+      "utterance": "小さい時から虐待されてきたのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-07T10:14:03",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-07T10:14:58",
+      "utterance": "そうなんですね。それは長い間とても苦しかったですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-07T10:15:30",
+      "utterance": "誰も助けてくれず、生きていても良いことなんて一つも無かったです。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-07T10:16:03",
+      "utterance": "もう十分だな、と思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-07T10:17:14",
+      "utterance": "そのように考えてしまうんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-07T10:17:39",
+      "utterance": "他に考えようがありますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-07T10:18:42",
+      "utterance": "誰か大人の人に相談されたことはあるのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-07T10:19:07",
+      "utterance": "私も既に大人なんですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-07T10:20:18",
+      "utterance": "学生時代にという事なんですが。一人で我慢されてきたのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-07T10:21:06",
+      "utterance": "昔に、ということですね。理解できずすみませんでした。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-07T10:21:36",
+      "utterance": "いいえ、こちらこそわかりづらくてすみません。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-07T10:22:37",
+      "utterance": "子供の頃は、誰に助けを求めて良いかわかりませんでした。誰に相談すれば良いのかも。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-07T10:23:51",
+      "utterance": "そもそも言えませんでした、親に殴られてるだなんて。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-07T10:23:51",
+      "utterance": "そうだったんですね。学校の先生にも相談できなかったのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-07T10:24:39",
+      "utterance": "学校の先生に自分の家のことなんて、言えないと思っていました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-07T10:26:22",
+      "utterance": "そうなんですね。親からの虐待ということですが、両親から受けていたんでしょうか。それとご姉妹はいるんでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-07T10:27:16",
+      "utterance": "両親は離婚して母親だけです。子供は私ひとりです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-07T10:28:18",
+      "utterance": "そうだったんですね。母親から虐待されていたという事でしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-07T10:28:27",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-07T10:29:05",
+      "utterance": "頑張ってきたけど、もう限界かなぁと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-07T10:30:05",
+      "utterance": "こんな人生に未練もないし。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-07T10:30:43",
+      "utterance": "そう思うほど、とても辛い思いをされてきたんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-07T10:31:42",
+      "utterance": "今は、あなたは働かれているのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-07T10:32:16",
+      "utterance": "体調を崩して休職中です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-07T10:33:27",
+      "utterance": "そうなんですね。それは辛いですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-07T10:33:47",
+      "utterance": "働けないことで親に責められ罵られます。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-07T10:34:08",
+      "utterance": "私が悪いんでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-07T10:34:47",
+      "utterance": "そんなことはないと思いますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-07T10:35:21",
+      "utterance": "じゃあ、私の人生がこんなに酷いのは、なぜなんでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-07T10:35:52",
+      "utterance": "いえ、もう理由を考えのもうんざりです。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-07T10:36:18",
+      "utterance": "終わりにしたいんです。こんな人生。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-07T10:37:49",
+      "utterance": "そう思ってしまうんですね。あなたが悪いわけではなく、虐待する母親が悪いと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-07T10:39:16",
+      "utterance": "あなたは一人暮らしとかを考えたりしたことはありますか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-07T10:40:18",
+      "utterance": "母を見捨てることなんてできません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-07T10:42:05",
+      "utterance": "そうなんですね。今まで虐待されても母親を見捨てられないんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-07T10:42:35",
+      "utterance": "母親は働かれているのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-07T10:42:48",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-07T10:43:45",
+      "utterance": "必死に働いて私を育ててきたから、働けない私のことが許せないんだと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-07T10:45:02",
+      "utterance": "仕事もできないし、私に生きてる価値なんて無いと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-07T10:45:46",
+      "utterance": "人の顔色に怯える毎日にも、疲れました。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-07T10:47:09",
+      "utterance": "どうやったら死ねますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-07T10:48:22",
+      "utterance": "まだ、あったばかりですけど、あなたには生きていてほしいと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-07T10:48:40",
+      "utterance": "なぜですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-07T10:49:18",
+      "utterance": "こんなこと聞いて私が死んだら、後味が悪いから？"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-07T10:50:04",
+      "utterance": "大丈夫ですよ、ここは匿名だから。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-07T10:50:16",
+      "utterance": "いいえ、そんなことはないです。それは、せっかくこの相談であなたにつながれたからです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-07T10:53:44",
+      "utterance": "あなたはとても長い間虐待に苦しまれてきたんだと思います。これからの人生は、自分の為に生きてほしいと思います。あなたが一人暮らしになっても、母親を捨てたことにはならないと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-07T10:55:25",
+      "utterance": "自分の為？未来に希望が持てないのに、どうやって？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-07T10:59:20",
+      "utterance": "今は身体や心が虐待で苦しんで、体調も壊しているという事ですが、体調が良くなって、また働けるようになってくれば少しは気持ちが変わってくると思うのですが、どうでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-10-07T11:00:46",
+      "utterance": "今が苦しくてここに来たので、体調が良くなった時のことはまだ考えられません。すみません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-07T11:02:17",
+      "utterance": "いいえ、こちらこそあなたの相談に上手くこたえられなくて、ごめんなさい。あなたの事を応援していますので、またいつでも相談に来てくださいね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-10-07T11:03:01",
+      "utterance": "話を聞かせていただきありがとうございました。今日はこれで終わりにさせていただきます。"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "親からの虐待問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 5802,
+    "評価作成日時": "2023-10-07T23:14:00",
+    "クライアント役ID": 420,
+    "カウンセラー役ID": 224,
+    "点数": 24,
+    "聴いてもらえた、わかってもらえたと感じた": 1,
+    "尊重されたと感じた": 1,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 1,
+    "取り組みたかったことを扱えた": 1,
+    "一緒に考えながら取り組めた": 1,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 1,
+    "今回の相談は価値があった": 1,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 0,
+    "受容・共感": 1,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 2,
+    "要約": 0,
+    "問題の明確化": 1,
+    "この相談での目標の明確化": 0,
+    "次の行動につながる提案": 1,
+    "勇気づけ・希望の喚起": 0,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 5802,
+    "evaluation_created_at": "2023-10-07T23:14:00",
+    "client_id": 420,
+    "counselor_id": 224,
+    "score": 24,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 1,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 1,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 1,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 0,
+    "showed_acceptance_and_empathy": 1,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 0,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 0,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 0,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

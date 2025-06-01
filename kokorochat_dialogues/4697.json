@@ -1,0 +1,404 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-03-02T13:50:35",
+      "utterance": "待機しています。時間になったら始めます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-02T14:00:07",
+      "utterance": "こんにちは、相談員です。年齢、性別、相談内容を教えていただけますか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:00:41",
+      "utterance": "25歳、男。先月復職したのですが、今後が不安です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-02T14:01:43",
+      "utterance": "そうなんですね。どういった事が不安なのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:02:11",
+      "utterance": "長い間休職してたので、周りからの目を気にしてしまいます。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:03:23",
+      "utterance": "それと、また休むことにならないか等色々考えてしまいます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-02T14:03:41",
+      "utterance": "休職していた理由を教えてもらえますか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:03:55",
+      "utterance": "適応障害と診断されました。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:03:59",
+      "utterance": "いわゆる鬱です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-02T14:05:24",
+      "utterance": "それは、たいへんお辛かったですね。仕事はフルタイムで働くようになっているのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:05:48",
+      "utterance": "はい、一般社員なので、そんな感じです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-02T14:07:25",
+      "utterance": "上司の方や同僚の方は、休職あけにはどんな感じだったのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:08:02",
+      "utterance": "まあ仕方ないことだよ、とは言ってくれました。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:08:53",
+      "utterance": "ただ、やはり以前とは違う目で見てくる気がします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-02T14:10:17",
+      "utterance": "そうなんですね。今はお仕事で不安な事はどんな事でしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:10:47",
+      "utterance": "また鬱になってしまわないかというのが大きいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-02T14:11:59",
+      "utterance": "鬱になってしまった原因とかを教えていただけますか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:12:48",
+      "utterance": "色々あります。仕事に作業感を感じたり、職場が遠くて時間がかかったり、やりたいことがやれなかったり。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:13:28",
+      "utterance": "1つが原因というよりかは、複数あってなってしまったのだと精神科の先生も言ってました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-02T14:14:43",
+      "utterance": "そうなんですね。今でも通院したり薬を飲んだりしているのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:15:15",
+      "utterance": "はい、月1くらいで通ってて、薬も2種類ほど服用しています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-02T14:16:28",
+      "utterance": "復職するまでに、どの位の期間があったのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:16:41",
+      "utterance": "だいたい5ヶ月を要しました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-02T14:18:31",
+      "utterance": "それはお辛かったですね。今の仕事の内容等については、問題ないのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:18:58",
+      "utterance": "んー、内容については特に、ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:19:19",
+      "utterance": "なんとなくこなせてる？、といった感じです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-02T14:20:20",
+      "utterance": "仕事中に不安を感じる事はありませんか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:20:47",
+      "utterance": "この先どうなるんだろうって不安でいっぱいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-02T14:21:57",
+      "utterance": "そうなんですね。今はどういったお仕事をされているのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:22:16",
+      "utterance": "医療機器の研究開発です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-02T14:23:22",
+      "utterance": "とても難しそうなお仕事ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:23:41",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:23:55",
+      "utterance": "頭使います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-02T14:24:46",
+      "utterance": "一日仕事をして帰ってきた時はどんな感じですか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:25:17",
+      "utterance": "日によりますね、早く帰れたら普通ですし、残業があれば疲れるし。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-02T14:26:26",
+      "utterance": "そうなんですね。今は食事や睡眠はとれていますか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:26:45",
+      "utterance": "はい、なんとか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-02T14:30:14",
+      "utterance": "仕事の時に周りの視線が気になるということですが、我慢するのはかなり辛いでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:30:52",
+      "utterance": "我慢できたら相談してません。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:32:07",
+      "utterance": "毎日がつらいです。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:32:21",
+      "utterance": "このままでいいのだろうか、とか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-02T14:33:32",
+      "utterance": "そうなんですね。今のお仕事は長く続けたいと思っているのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:33:59",
+      "utterance": "どちらとも考えてないです。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:34:26",
+      "utterance": "続けたいとは思いませんが、かといって辞めるというのもなんだかなーといった感じです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-02T14:36:01",
+      "utterance": "病院の先生は復職するにあたり何かアドバイスは、あったのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:36:29",
+      "utterance": "とにかく休むことって言ってました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-02T14:38:52",
+      "utterance": "そうなんですね。休むことが大事だと言われたんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:39:29",
+      "utterance": "そうですね、仕事以外の時間も何かしらやってたので。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:40:15",
+      "utterance": "休む時は休めってことだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-02T14:40:54",
+      "utterance": "仕事以外はどのような事をやっていたのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:41:40",
+      "utterance": "言ってしまえば、休憩時間も仕事をしてました。時間が勿体ないと感じていたので。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-02T14:43:50",
+      "utterance": "それでは、とてもお疲れになったのでしょうね。今は、ちゃんと休憩はとれているのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:44:08",
+      "utterance": "なるべく休憩するようにしています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-02T14:45:19",
+      "utterance": "今は周りとのコミュニケーションは、どんな感じでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:45:36",
+      "utterance": "普通、ですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-02T14:47:21",
+      "utterance": "今は、仕事中に気分が沈んだりすることはあるのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:47:44",
+      "utterance": "上記の不安があります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-02T14:51:25",
+      "utterance": "仕事は普通にこなしているという事ですが、この先のどんな事が一番心配でしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:51:54",
+      "utterance": "また鬱になってしまわないかが一番心配です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-02T14:55:50",
+      "utterance": "そうなんですね。復職の時に仕事になれるまで、仕事時間や仕事量のことなどを会社側で配慮等はしていただけなかったのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:56:24",
+      "utterance": "今は通勤訓練含めて、調整してくれてはいます。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:57:35",
+      "utterance": "（お疲れ様でした。キリの良いところでロープレ完了して下さい。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-02T14:57:49",
+      "utterance": "そうなんですね。今は日によって気分にムラがあったりしますか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:57:59",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:58:37",
+      "utterance": "そろそろお時間ですよね？またお話しに来ます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-02T14:59:28",
+      "utterance": "お話を聞かせていただきありがとうございました。今日はこれで終わりにさせていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-02T14:59:37",
+      "utterance": "はい、ありがとうございました。"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "復職後の不安感"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4697,
+    "評価作成日時": "2023-03-02T15:11:00",
+    "クライアント役ID": 342,
+    "カウンセラー役ID": 224,
+    "点数": 36,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 1,
+    "一緒に考えながら取り組めた": 1,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 1,
+    "受容・共感": 3,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 2,
+    "要約": 1,
+    "問題の明確化": 1,
+    "この相談での目標の明確化": 1,
+    "次の行動につながる提案": 1,
+    "勇気づけ・希望の喚起": 1,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4697,
+    "evaluation_created_at": "2023-03-02T15:11:00",
+    "client_id": 342,
+    "counselor_id": 224,
+    "score": 36,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 1,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 1,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 1,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 1,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

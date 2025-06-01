@@ -1,0 +1,949 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-07-15T18:52:02",
+      "utterance": "（こんばんわ。19：00～の担当になります。どうぞよろしくお願いします。）"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T18:55:44",
+      "utterance": "よろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T18:56:21",
+      "utterance": "（少し早いのですが開始しても大丈夫そうでしょうか？）"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T18:56:59",
+      "utterance": "大丈夫です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T18:57:09",
+      "utterance": "（ありがとうございます）"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T18:57:42",
+      "utterance": "こんばんは。担当の相談員です。よろしくお願いします。本日はどのようなご相談になりますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T18:58:09",
+      "utterance": "やりたいことがなくて悩んでいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T18:58:20",
+      "utterance": "そうなんですね。。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T18:59:23",
+      "utterance": "やりたいことが見つからない感じなんでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T18:59:48",
+      "utterance": "どうしたらいいのかわからないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T18:59:55",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:00:13",
+      "utterance": "もしよかったらお力になりたいので"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:01:07",
+      "utterance": "できるだけあなたのお気持ちに寄り添いたいので性別や年代など教えていただけますか？もし無理でなかったら・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:02:20",
+      "utterance": "・・・"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:02:40",
+      "utterance": "大丈夫です男で高三です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:02:52",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:03:28",
+      "utterance": "それでは今、進路対策とかでいろいろ悩んでいるかんじでしょうか。。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:03:39",
+      "utterance": "そうなんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:03:59",
+      "utterance": "そうなんですね。悩む時期ですよね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:04:06",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:04:45",
+      "utterance": "ちなみにやりたいことがみつからない・・・ということですが卒業後の方向性などは。。。？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:05:08",
+      "utterance": "模索中といったかんじでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:05:22",
+      "utterance": "進学か就職かで悩んでいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:05:43",
+      "utterance": "そうなんですね。。それは大きな問題ですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:06:04",
+      "utterance": "どっちがいいのかわからないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:06:21",
+      "utterance": "なるほど。。。うんうん。。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:06:59",
+      "utterance": "あなたのご両親などはどのように言っているかんじでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:07:57",
+      "utterance": "親はどっちでもいいて言っています"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:08:21",
+      "utterance": "やりたいことをやればて言ってくれているんですけど"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:08:38",
+      "utterance": "そうなのですね。それはあなたの意思を尊重してくださっているかんじなのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:08:55",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:09:22",
+      "utterance": "そうなのですね。それをあなたはどのように受け止めていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:10:05",
+      "utterance": "ありがたいけど、何も考えられなくて"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:10:38",
+      "utterance": "今までは親や周りの言ってることを聞いてきたので"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:10:52",
+      "utterance": "はい。。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:11:22",
+      "utterance": "いざやりたいことをやればいいと言われても考えられないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:11:42",
+      "utterance": "うんうん。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:12:34",
+      "utterance": "たしかにそうなってしまいますよね。。。今になって意思表示を。。。と言われても・・・という感じでしょうか。。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:12:52",
+      "utterance": "そうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:13:17",
+      "utterance": "そうなのですね。。。それもそれでまた辛いですよね。。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:13:49",
+      "utterance": "はい。何を考えたらいいのかわからないんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:14:01",
+      "utterance": "そうですよね。。。学校の先生はちなみに何と言っていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:14:38",
+      "utterance": "進学した方が良いと言ってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:15:05",
+      "utterance": "そうなのですね。。。ちなみに進学校でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:15:36",
+      "utterance": "いえ。就職する人もいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:16:17",
+      "utterance": "そうでしたか。。。そうなると迷っていろいろと考えてしまいますよね。。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:16:28",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:16:51",
+      "utterance": "いくつか質問してもよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:17:00",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:17:07",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:17:44",
+      "utterance": "あなたは何か今までの学校生活で打ち込めるものなどありましたでしょうか？なんでもいいので・・・"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:18:55",
+      "utterance": "打ち込んだものというものはないです"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:19:15",
+      "utterance": "言われたことをやってきた感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:19:25",
+      "utterance": "そうでしたか。。。それでは興味があるものなどはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:20:08",
+      "utterance": "興味はゲームが好きです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:20:32",
+      "utterance": "ゲームが好きなのですね。うんうん。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:20:53",
+      "utterance": "でも役に立たないですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:21:19",
+      "utterance": "いいえ。ゲームが役に立たないということなどはありません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:21:41",
+      "utterance": "ゲームはどんなところが好きですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:22:40",
+      "utterance": "相手を倒したりするとこかな"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:22:53",
+      "utterance": "うんうん、そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:23:22",
+      "utterance": "ゲーム以外で興味があったりすることはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:23:52",
+      "utterance": "マンガですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:24:03",
+      "utterance": "いいですね！"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:24:14",
+      "utterance": "いいんですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:24:43",
+      "utterance": "漫画はいろんな夢がたくさん詰まっていると思います。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:25:04",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:25:15",
+      "utterance": "漫画はどんなところがあなたは好きですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:26:23",
+      "utterance": "やっぱり仲間を集めて強い相手に向かって行って勝つところかな"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:26:38",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:27:21",
+      "utterance": "ちなみにあなたはなにか部活やサークルなどはやっていましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:28:17",
+      "utterance": "中学まではサッカーをしていたけど、高校はやっていないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:28:44",
+      "utterance": "そうなのですね！サッカー時代は走りこんだでしょうね。。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:29:18",
+      "utterance": "はい。走るのが嫌で高校は辞めました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:29:54",
+      "utterance": "サッカーはたしかにものすごい距離を走ると聞きました。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:30:12",
+      "utterance": "練習がきつかったです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:30:32",
+      "utterance": "そうだったのですね。よく3年間頑張りましたね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:31:17",
+      "utterance": "はい、友達がいたので頑張れました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:31:51",
+      "utterance": "そうですよね。部活の仲間はすごい絆で結ばれていますものね。。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:32:04",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:32:32",
+      "utterance": "ちなみに将来のことについてまわりのお友人とかに相談したりすることはありますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:33:16",
+      "utterance": "もちろん中学時代のご友人も含めてですが。。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:33:51",
+      "utterance": "相談というか、みんな進学をして行くので凄いなぁと思っています"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:34:23",
+      "utterance": "そうなんですね。まわりは進学組が多い感じなんですね。。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:34:33",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:34:55",
+      "utterance": "そうでしたか・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:36:17",
+      "utterance": "あなたは今進学か就職かといわれるとどっちの方が気持ちが。。。強い感じでしょうか？まったくわからない感じなんでしょうか・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:36:29",
+      "utterance": "すみません。何度も聞いてしまって。。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:37:33",
+      "utterance": "周りは進学が多いから進学にしようかと思ったりもしたんですが、どの学校に行ったらいいのかわからないし"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:37:46",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:38:16",
+      "utterance": "就職でもやりたい仕事がないので悩んでいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:39:05",
+      "utterance": "そうなってしまいますよね。。。ほんとうに自分がやりたいことを決めるのって難しいですよね。。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:39:15",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:39:44",
+      "utterance": "それでは少し。。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:41:03",
+      "utterance": "また質問しても大丈夫でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:41:23",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:41:30",
+      "utterance": "あなたはどんなことをしている時に「ときめき」を感じますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:42:12",
+      "utterance": "ゲームや漫画ではなんとなく仲間と一緒に相手を倒した感覚が好きだとお聞きしました。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:42:33",
+      "utterance": "ゲームしたりマンガ読んでいるときかな"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:43:11",
+      "utterance": "なるほどです。あなたが小さい時になりたかった憧れの職業とかはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:43:45",
+      "utterance": "小さい時はサッカー選手になりたかったです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:44:01",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:44:34",
+      "utterance": "ここでいったんあなたのお話をまとめてもよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:45:05",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:45:15",
+      "utterance": "あなたは小さいころからまわりに従順に従いそれに沿って学生生活を送ってこられ"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:46:14",
+      "utterance": "中学では３年間厳しい練習にも耐えサッカー部で活躍し、その後高校生活の中で3年生を迎え"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:46:36",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:46:49",
+      "utterance": "卒業後の進路を進学か？就職かの選択で迷っておられる。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:47:13",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:47:34",
+      "utterance": "好きなことは漫画やゲームで仲間と一緒に強い敵を負かしたりすることが好きで"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:47:47",
+      "utterance": "小さいころの夢はサッカー選手だった"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:48:17",
+      "utterance": "ご両親はあなたの意思を尊重すると言ってくれていて、また学校の先生は進学を進めている。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:48:18",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:48:59",
+      "utterance": "まわりはなんとなく進学組が多い感じである。しかしどの学校に進めばいいのかもわからない状態で。。。ご相談に来られた。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:49:10",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:49:37",
+      "utterance": "将来に対する多少の不安と期待もあるかんじでしょうかね？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:50:15",
+      "utterance": "多少という表現は違いますかね。。。いかがでしょうか・"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:50:37",
+      "utterance": "そんな感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:50:58",
+      "utterance": "今は焦りは感じていますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:51:21",
+      "utterance": "いつまでに決めなくてはいけないというタイム理リミットは？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:51:36",
+      "utterance": "タイムリミットでした。。。すみません。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:51:43",
+      "utterance": "なかなか決まらないので焦りはあります"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:51:49",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:52:23",
+      "utterance": "ここで私から少しだけアドバイスしてもよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:52:28",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:52:36",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:53:01",
+      "utterance": "どうしても大切な決断しなくてはならないときに"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:53:20",
+      "utterance": "後から後悔しないようにしたいものですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:53:35",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:54:00",
+      "utterance": "そうなった際になかなか自分で選択できないときも人間誰しもあります。そんなときには"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:54:49",
+      "utterance": "どちらを「選ぶか？」ではなくどちらを「選ばないか？」選ぶ方ではなく捨てる方を考えるという方法があります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:55:22",
+      "utterance": "あなたはまだまだ若く"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:55:30",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:55:51",
+      "utterance": "自分でも気が付かないたくさんの可能性を秘めていると思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:56:37",
+      "utterance": "ここでどちらを選択できるか？ということが難しい場合はどちらを選択しないか？を優先し"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:57:18",
+      "utterance": "そこからまた次の進路をひとつづ進めていく方法がいいのではないかと思うのですがいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:58:03",
+      "utterance": "やりたくないことを考えていく感じですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:58:15",
+      "utterance": "そういうイメージです"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:58:43",
+      "utterance": "それなら、なんとなく出来るような感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:58:50",
+      "utterance": "これは嫌だこうはなりたくないというイメージです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:59:05",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:59:13",
+      "utterance": "やってみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:59:30",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:59:37",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:59:50",
+      "utterance": "人間にはいろんな選択方法があり"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:00:24",
+      "utterance": "積極的に自らどんどんやりたいことを切り開いてつかみ取って行く人ばかりでなく"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:01:20",
+      "utterance": "消極的にみえるかもしれないけれど消去法で一個一個つぶしていく選択肢も立派な方法です。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:01:46",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:02:18",
+      "utterance": "はい。今まであなたは従順にまわりに順応するように生きてこられました。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:02:34",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:02:42",
+      "utterance": "反発したい時もきっとあったと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:03:11",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:03:25",
+      "utterance": "でもまわりの気持ちを考えて自分の意思を出さないようにして「選択」をしてきたのです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:04:01",
+      "utterance": "いきなりそれを「自分のやりたいことをみつけなさい」と今頃言われても戸惑ってしまうと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:04:20",
+      "utterance": "そうなんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:04:50",
+      "utterance": "お優しい繊細な面があると感じます。誰でも出来ることではありません。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:05:11",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:05:15",
+      "utterance": "そんな純粋な傷つきやすい面をお持ちのあなたが"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:05:56",
+      "utterance": "自分の大切な将来の選択を迫られ戸惑うのは当然です。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:06:16",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:07:55",
+      "utterance": "あなたの大事なこれからの将来をもう少しじっくり時間をかけながら考えていくためにしっかりと今を大切に生きて欲しいと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:08:14",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:08:52",
+      "utterance": "あなたはそうやって今まで過ごされてきたのだと思います。その「今」の積み重ねが素敵な「未来」につながっていくと信じます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:09:17",
+      "utterance": "いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:09:45",
+      "utterance": "はい。なんかやる気が出てきました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:09:58",
+      "utterance": "それはよかったです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:10:47",
+      "utterance": "あとは何かお話し足りないところとか大丈夫でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:11:05",
+      "utterance": "大丈夫です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:11:54",
+      "utterance": "そうでしたか。貴重なお時間を相談にきていただき本当にありがというございました。また何かありましたら相談にいらしてくださいね。いつでも応援しています。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:12:06",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:12:36",
+      "utterance": "こちらこそありがとうございます。それでは終わりにいたしますね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:12:50",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:13:39",
+      "utterance": "（ロールプレイでおつきあいくださりありがとうございました。それでは終了いたしますね。）"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:14:31",
+      "utterance": "お疲れ様でした。勉強になりました。こちらこそありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:14:38",
+      "utterance": "失礼いたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:14:48",
+      "utterance": "（こちらこそです。失礼します。感謝）"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "進学か就職かの選択問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 186,
+    "評価作成日時": "2020-07-15T20:27:00",
+    "クライアント役ID": 58,
+    "カウンセラー役ID": 60,
+    "点数": 85,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 5,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 4,
+    "要約": 4,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 5,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 186,
+    "evaluation_created_at": "2020-07-15T20:27:00",
+    "client_id": 58,
+    "counselor_id": 60,
+    "score": 85,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 5,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

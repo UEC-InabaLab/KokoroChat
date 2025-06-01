@@ -1,0 +1,534 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:00:54",
+      "utterance": "こんにちは相談員です。よろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:01:18",
+      "utterance": "本日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T15:01:46",
+      "utterance": "将来について悩んでます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:02:05",
+      "utterance": "そうなんですね、それは大事な問題ですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:02:32",
+      "utterance": "将来とはどのようなことでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T15:03:35",
+      "utterance": "いま大学四年生ですが、就活で迷いが出ています"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:04:32",
+      "utterance": "それはとても大変な時期を迎えておられるのですね。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T15:04:47",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:05:11",
+      "utterance": "どういった点で迷っておられるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T15:06:28",
+      "utterance": "自分が経済学部で、とりあえず金融系の会社を受けているのですが、このままでいいのかな、って思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:07:27",
+      "utterance": "そうなんですね自分の専門性も生かしたいし、悩ましいですよね。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T15:08:01",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:08:37",
+      "utterance": "金融系以外にも興味のある業界などがおありでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T15:09:23",
+      "utterance": "うーん、やりたいこともないし、よくわからなくて。ぼんやり不安です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:11:02",
+      "utterance": "それはなかなか決めるのは難しいですよね。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T15:11:14",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:12:05",
+      "utterance": "学生時代はどのようなことをしてこられましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T15:12:47",
+      "utterance": "勉強して、居酒屋でアルバイトをしてました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:13:31",
+      "utterance": "そうなんですね、学問にアルバイトにと忙しく頑張ってこられたのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T15:14:28",
+      "utterance": "忙しく…かはわかりませんが、みんなと同じようにやってました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:15:42",
+      "utterance": "就活についてどなたかに相談されたことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T15:16:06",
+      "utterance": "特にないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:16:37",
+      "utterance": "ご自身で懸命に頑張られているのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T15:16:58",
+      "utterance": "そうですね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:17:25",
+      "utterance": "就活は始められてどれくらいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T15:17:56",
+      "utterance": "4ヶ月くらいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:18:33",
+      "utterance": "4ヶ月頑張ってこられたんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T15:19:00",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:20:25",
+      "utterance": "就職活動をされて4ヶ月であれば、慣れてきて色々と自分なりに考えが出てくる時期なのかもしれませんね"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T15:20:56",
+      "utterance": "そうですね、そうかもしれません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:22:26",
+      "utterance": "経済学部であれば、金融以外にもメーカー、商社など幅広く対応できそうにも思いますが、ご自身ではどうお考えですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T15:24:02",
+      "utterance": "なんか…こう。自分のやりたいことがなさすぎて、どこ受けても多分不安だと思うんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:25:27",
+      "utterance": "やりたいことが見つからず、就活続けていくのはとても辛いですよね。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T15:26:06",
+      "utterance": "なんかこのままでいいのかなーって、漠然と不安になるんですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:26:22",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T15:27:41",
+      "utterance": "かといって今更な気もします。とりあえず就活しないとって感じで。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:28:30",
+      "utterance": "「このままでいいのか？」というのは何かやり残した感じとかでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T15:29:15",
+      "utterance": "目標ややりたいこともないまま社会に出て、仕事を続けていけるのかなって思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:30:57",
+      "utterance": "今の自分のような感じで本当に大丈夫かな？と思うと不安が大きくなりますよね。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T15:31:34",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:33:10",
+      "utterance": "大学での勉強自体はどうでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T15:34:31",
+      "utterance": "可もなく不可もなくって感じでした。楽しくはないけど、普通の成績でした。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:37:06",
+      "utterance": "そうなんですね、学生生活をしっかり続けれてこられたのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:37:35",
+      "utterance": "ここまでのお話を少し整理してよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T15:37:43",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:38:17",
+      "utterance": "現在就活中で、経済学部のため金融関係を受けておられます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:38:59",
+      "utterance": "ただ、自分のやりたいことがなく、このままつづけていていいのか？悩んでおられます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:39:44",
+      "utterance": "これまでの学生時代は、勉強、アルバイトと頑張ってこられました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:40:53",
+      "utterance": "自分のやりたことがないまま就職しても本当に続けて行けるのかどうか、このまま就職してしまっていいのか？とても悩んでおられます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:41:15",
+      "utterance": "このようなお話と思いますが、よろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T15:41:50",
+      "utterance": "はい、そんな感じです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:42:49",
+      "utterance": "感じたことを少しお伝えしてもよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T15:43:04",
+      "utterance": "はい、大丈夫です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:44:11",
+      "utterance": "勉強にアルバイトにとてもしっかりとした学生生活を過ごされているように感じました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:45:22",
+      "utterance": "成績も可もなく不可もなくということでしたが、これは継続して続けていける力のあるお方だなあと感じました。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T15:45:43",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:47:07",
+      "utterance": "一方で、やりたいことが無いということで悩んでおられますが、これはそれだけご自身の将来について真剣に考えているからこそそうなるのではないかと思いました"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T15:47:51",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:49:30",
+      "utterance": "就活という大切な時期を迎えて不安になっておられますが、ご自身の将来のことを真剣に考えるとても有意義な時間を過ごされているともいえるのではないでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T15:50:09",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:50:34",
+      "utterance": "そこでご提案なのですが、よろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T15:50:47",
+      "utterance": "はい、お願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:52:02",
+      "utterance": "少し視点を変えて、このせっかくの機会に色々な人の話を聞いてみるというのはいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T15:52:44",
+      "utterance": "色々な人って、どんな人でしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:53:44",
+      "utterance": "例えば、今受けている金融関係だけではなくて、少し別の業界のセミナーを受けてみるとか、OB訪問をしてみるかとか、あと学校に就職課みたいな学生の就活をサーポートするところはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T15:54:15",
+      "utterance": "そうですね、学生課があります。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T15:54:45",
+      "utterance": "相談して、答えが見つかるでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T15:55:09",
+      "utterance": "聞かれても、自分でもわからないのに…不安です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:55:51",
+      "utterance": "確かにそうですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:56:21",
+      "utterance": "分からないのにどうしたらいいの。。という感じですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:56:34",
+      "utterance": "答えはそう簡単に見つからないかもしれません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:56:52",
+      "utterance": "ただ、今は一人で探求を深めておられるところですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:58:18",
+      "utterance": "ここで一つ他者からの意見を聞いてみるというのも一つかと思いました何か聞かれて困るというより、必要なヒントをもらいに行く感じです"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T15:58:55",
+      "utterance": "なるほどですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T15:59:17",
+      "utterance": "そうすることで、今の自分から少し前進できるのではないでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T15:59:26",
+      "utterance": "そうかもしれません"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T15:59:49",
+      "utterance": "詳しい人に、いろいろ聞いてみようと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T16:00:48",
+      "utterance": "学生の時代はなかなかやりたいことが見つからないかもしれませんが、就職して仕事をしながら見つけていく、自分をつくっていくという考え方もあると思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T16:01:14",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T16:02:22",
+      "utterance": "やりたいことが決まっている人って、そんなに多くはないのではないでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T16:03:13",
+      "utterance": "なんか皆はそれぞれ就活で頑張ってるように見えて。それも辛いです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T16:03:51",
+      "utterance": "そうですよね、周りがとても頑張っているように見えますよね。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T16:04:07",
+      "utterance": "はい…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T16:05:05",
+      "utterance": "大丈夫ですよ！あなたもこれまで4ヶ月も一人で自分と向き合って頑張ってこられたのですよ是非そんな自分を褒めてあげてください！"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T16:05:36",
+      "utterance": "ありがとうございます。前向きに考えますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T16:06:13",
+      "utterance": "きっと、このまま前進していって就職していけば、きっと持ち前の継続していく力を発揮してその中でやりたいことも見つかってくるのではないかと私は感じましたがいかがですか"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T16:07:14",
+      "utterance": "そうですね、とりあえず周りの人の話を聞いて、視野を広げようと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T16:08:05",
+      "utterance": "はい、是非このご自身にとって大切な時期を自分を深める時期と思って楽しんで取り組んでみてください"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T16:08:23",
+      "utterance": "心から応援しております！"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T16:08:35",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T16:08:54",
+      "utterance": "本日のご相談終了したいと思いますがよろしいでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T16:09:36",
+      "utterance": "はい、ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T16:09:44",
+      "utterance": "こちらこそどうも有難うございました。"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "就活の迷いと将来への不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 421,
+    "評価作成日時": "2020-09-12T16:22:00",
+    "クライアント役ID": 21,
+    "カウンセラー役ID": 39,
+    "点数": 64,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 4,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 421,
+    "evaluation_created_at": "2020-09-12T16:22:00",
+    "client_id": 21,
+    "counselor_id": 39,
+    "score": 64,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

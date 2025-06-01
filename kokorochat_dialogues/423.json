@@ -1,0 +1,669 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2020-09-12T11:51:14",
+      "utterance": "こんにちは！"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T11:51:26",
+      "utterance": "よろしくお願いします！"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T11:52:45",
+      "utterance": "こんにちは！こちらの方こそ、よろしくお願いします！"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T11:53:38",
+      "utterance": "はい！どういった内容がいいとかご希望ありますかー？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T11:55:06",
+      "utterance": "自分で申し込んでさせていただくのが初めてですので、まだわからないというのが正直なところです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T11:55:27",
+      "utterance": "ですので、おまかせしてもよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T11:55:51",
+      "utterance": "そうなんですね。はい！大丈夫ですよ！"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T11:56:07",
+      "utterance": "時間前ですがはじめますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T11:56:29",
+      "utterance": "はい！早速始めさせていただきます"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T11:56:55",
+      "utterance": "はい！"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T11:57:26",
+      "utterance": "こんにちは、相談員です。よろしくお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T11:57:44",
+      "utterance": "よろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T11:58:08",
+      "utterance": "あなた様の年齢と性別をおしえていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T11:58:40",
+      "utterance": "はい。27歳男性です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T11:58:59",
+      "utterance": "ありがとうございます。本日は、どのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T11:59:46",
+      "utterance": "最近自分の事で悩んでいます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:00:25",
+      "utterance": "ご自分のどのようなことで悩んでいらっしゃるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:01:47",
+      "utterance": "人とのコミュニケーションや自分の中で解決できていない問題とかです"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:04:27",
+      "utterance": "小さな事から大きな事までありますがどうしても考えると憂鬱になるんですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:04:28",
+      "utterance": "そうなのですね。コミュニケーションとか、ご自分で解決できない問題があるというのはお辛いですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:05:15",
+      "utterance": "そうなんですね！どういうものか具体的にお聞きしてもよろしいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:05:45",
+      "utterance": "例えばでＯＫです"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:05:54",
+      "utterance": "あ、はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:06:18",
+      "utterance": "唐突ですみませんでした"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:06:49",
+      "utterance": "えーと、自分は目標意識が高すぎていつも失敗するんですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:07:24",
+      "utterance": "仕事なんかではみんなにゆって結局できなかったとか"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:07:39",
+      "utterance": "目標が高いことはすばらしいと思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:08:19",
+      "utterance": "それで失敗する度に同僚から目標が高すぎるから失敗するって"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:08:58",
+      "utterance": "その度に自分って口だけなのかなとか考えてしまいます。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:09:47",
+      "utterance": "考えと体がかみあっていないとか"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:10:39",
+      "utterance": "頑張っているのに結果が出ないのは辛いですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:11:29",
+      "utterance": "そうなんですよねー。ネガティブになってしまうんですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:11:48",
+      "utterance": "自分だから仕方がないとか"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:12:09",
+      "utterance": "自分は無理だけど他ならできるとか"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:12:43",
+      "utterance": "大きな目標を達成する前に、小さな目標とかは設定してみることはしますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:13:01",
+      "utterance": "口にはでないけどずっと思ってしまうんです"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:13:10",
+      "utterance": "小さな目標とは？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:14:32",
+      "utterance": "先の大きな目標をたっせうするまでに、今できる小さな目標みたいな"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:14:43",
+      "utterance": "達成"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:15:12",
+      "utterance": "それって意味あるんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:15:42",
+      "utterance": "結局は目標って１つだと思うんですが、"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:16:10",
+      "utterance": "何個もたててやるって事ですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:16:56",
+      "utterance": "例えばスポーツの大会で優勝したい"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:17:06",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:18:20",
+      "utterance": "そのために、日々、自身の筋トレ目標を設定して"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:18:37",
+      "utterance": "毎日やり続ける"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:19:16",
+      "utterance": "それって目標の一部のセットじゃないですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:19:50",
+      "utterance": "おっしゃる通りです。小さなことですが、続けることで大きな目標に繋がると思うのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:21:09",
+      "utterance": "何度も悔しい思いをしていらっしゃるとのことなので"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:21:11",
+      "utterance": "続けると考えたら確かにちょこちょこはさぼりますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:21:40",
+      "utterance": "ずっと緊張していては疲れますよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:21:42",
+      "utterance": "それを毎日やるって事ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:21:50",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:22:45",
+      "utterance": "自分の場合は何日間はやる気が入りますが、途中で満足してやらなくなっていると思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:23:09",
+      "utterance": "毎日って書いちゃいましたが、自分の小さな目標を達成させるためなので、マイペースでよいと思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:24:17",
+      "utterance": "マイペースだと自分の気分で行っていいとゆう事ですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:25:02",
+      "utterance": "あくまでも目標達成するということを忘れないでくださいね"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:25:32",
+      "utterance": "あ、はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:25:50",
+      "utterance": "ちょっと前に同僚の方のお話が出ましたが、同僚の方と目標達成できなかったお話とかするんですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:26:44",
+      "utterance": "目標を達成したら上司に褒められるとかはいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:26:49",
+      "utterance": "失敗した時に同僚から一方的にゆわれて終わります"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:27:14",
+      "utterance": "そうですか"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:27:23",
+      "utterance": "上司は褒めない方しかいません"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:27:40",
+      "utterance": "ではアドバイスとかはいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:28:20",
+      "utterance": "と言いますと？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:28:47",
+      "utterance": "もっとこうしたらとか"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:29:43",
+      "utterance": "１人で頑張っているのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:30:10",
+      "utterance": "え、自分にって事ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:31:10",
+      "utterance": "任せられる事が多いのでいつも1人です。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:33:29",
+      "utterance": "仕事以外で同僚の方とはお話ししますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:34:02",
+      "utterance": "お話します。一応長い付き合いの友達なので"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:34:24",
+      "utterance": "ですか仕事は割り切っています"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:35:06",
+      "utterance": "そうなんですねある意味ライバルですか"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:36:08",
+      "utterance": "はたからみたらそうみえるかもですね。自分達はあまり意識はしてませんが💧"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:36:49",
+      "utterance": "軽く冗談なんかも言い合ってやる仲ですね！"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:36:58",
+      "utterance": "いいですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:37:07",
+      "utterance": "うらやましいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:37:56",
+      "utterance": "同僚の方は目標達成しているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:38:01",
+      "utterance": "一応付き合いも長いですし、その同僚も誰とでも仲良くなるタイプなので"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:38:36",
+      "utterance": "どうなんですかねー、仕事中は普通にはこなせていますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:38:50",
+      "utterance": "ということは、あなた様も友達多いのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:39:39",
+      "utterance": "自分は友達とゆうよりは知り合いでとまってしまうんですよねー。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:40:15",
+      "utterance": "付き合い長い人は迷わず友達と呼ぶのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:40:37",
+      "utterance": "そうなんですか、話せる方がいるのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:40:45",
+      "utterance": "同僚の方は、あなた様を心配してくださっている"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:41:52",
+      "utterance": "心配はしてくれてはいると思うのですがやっぱり妬いてしまいます"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:43:10",
+      "utterance": "あ、自分がです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:43:57",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:44:19",
+      "utterance": "なんでも上手くいく人を見ると羨ましく、妬いてしまう時があるんですよね。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:47:23",
+      "utterance": "目標に向かっている時はあなた様も輝いていると思いますよ"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:49:00",
+      "utterance": "そうでしょうか？？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:49:25",
+      "utterance": "人を見るのではなくて、頑張っている自分を想像してみてください"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:49:26",
+      "utterance": "いつも失敗する自分ですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:50:24",
+      "utterance": "今できることを確実にこなしていくことで目標というものは近づいてくると思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:50:29",
+      "utterance": "ですが違うから失敗するのかなと思ってしまいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:51:44",
+      "utterance": "失敗しても次につなげていくことが大事だと思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:52:32",
+      "utterance": "本当ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:53:31",
+      "utterance": "失敗するかもとゆう中でやり続けてもいいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:53:44",
+      "utterance": "失敗を恐れることはないですなぜ失敗したのか、どうやったら次は大丈夫なのかを考えてみる余裕を持つとよいのかもしれないです"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:54:40",
+      "utterance": "なるほどなるほど。でもまた同僚からゆわれたらどうしたらいいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:55:55",
+      "utterance": "心配してくれていると思うので、ありがとう！と言ってみてはいかがでしょう笑顔で！！！"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:56:58",
+      "utterance": "それは以外でした！ちょっと希望が見えてきたのでやってみます！"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:57:23",
+      "utterance": "本当ですか！応援しています"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:58:13",
+      "utterance": "元気がでました！また何かあったら頼らせて下さい！"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:58:54",
+      "utterance": "今日は長々とありがとうございました😊"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T12:59:11",
+      "utterance": "こちらの方こそ、ありがとうございました"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T12:59:36",
+      "utterance": "またお願い致します！"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T13:02:00",
+      "utterance": "確認ですが、人とのコミュニケーションや目標達成が難しいということでしたでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T13:02:57",
+      "utterance": "他によろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T13:03:11",
+      "utterance": "それもそうですし自分の事を聞いて欲しかった、とゆうとこですかね💧"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T13:03:30",
+      "utterance": "他は大丈夫です❗️今日はありがとうございました❗️"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T13:04:03",
+      "utterance": "申し訳ございませんでした。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T13:04:41",
+      "utterance": "次回は、気をつけさせていただきます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T13:04:55",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T13:05:14",
+      "utterance": "いえいえ！メントレとして聴いていたら完璧だと感じました！"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T13:06:21",
+      "utterance": "ありがとうございますその言葉だけで次回も頑張ろうと思わせていただけました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T13:07:12",
+      "utterance": "ありがとうございました。それではこれで相談を終わらせていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T13:07:28",
+      "utterance": "カウンセリングとして考えたら上手くいくと思いますよ❗️期待しています！"
+    },
+    {
+      "role": "client",
+      "time": "2020-09-12T13:08:02",
+      "utterance": "はい！またお願いします！"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-09-12T13:08:36",
+      "utterance": "ありがとうございました"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "自己評価と目標への不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 423,
+    "評価作成日時": "2020-09-12T17:59:00",
+    "クライアント役ID": 82,
+    "カウンセラー役ID": 87,
+    "点数": 56,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 2,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 423,
+    "evaluation_created_at": "2020-09-12T17:59:00",
+    "client_id": 82,
+    "counselor_id": 87,
+    "score": 56,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

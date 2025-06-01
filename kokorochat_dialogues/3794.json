@@ -1,0 +1,314 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-08-12T13:51:55",
+      "utterance": "はじめましてよろしくお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-12T13:52:41",
+      "utterance": "はじめまして。よろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-12T13:52:54",
+      "utterance": "予定時刻14時に開始させてもらいます。よろしくお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-12T13:53:35",
+      "utterance": "承知致しました。よろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-12T14:00:18",
+      "utterance": "こんにちは、相談員です。ご相談にお越しいただきありがとうございます。はじめにご年齢と性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-12T14:02:03",
+      "utterance": "よろしくお願いいたします。37歳、男です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-12T14:02:24",
+      "utterance": "ありがとうございます。本日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-12T14:05:01",
+      "utterance": "はい。最近仕事場の上司が頼りにならず、イラつきが止まりません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-12T14:07:19",
+      "utterance": "職場の上司に仕事でイラついてしまうのですね。具体的にどのようなことでムカついてしまうのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-12T14:10:04",
+      "utterance": "いろいろあるのですが、例えばイベントを上司が企画して、当日までミーティングもなく、本番当日にレジュメを考えたり、お客さんの前でこの後どうするかを話し合ったり、時間を無駄に使うところなど、計画性がないところが気に食わないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-12T14:13:38",
+      "utterance": "上司の方が事前に考えずにその場で考えてしまって要領よくいかずに時間を無駄に使うってことですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-12T14:13:53",
+      "utterance": "そうです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-12T14:14:33",
+      "utterance": "確かに計画的に考えれば対処できるのに事前にしないとイライラしますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-12T14:17:55",
+      "utterance": "その上司どれぐらい一緒に仕事をされてるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-12T14:18:53",
+      "utterance": "まだ1年ぐらいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-12T14:20:39",
+      "utterance": "１年ぐらいなんですね。そんなに長く我慢しているとストレスがたまりますね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-12T14:22:26",
+      "utterance": "はい。ストレスですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-12T14:22:59",
+      "utterance": "上司について相談できる方はいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-12T14:24:07",
+      "utterance": "奥さんや友人ぐらいです。他の上司もそこまでやる気ないので、頼りにならないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-12T14:26:44",
+      "utterance": "職場の上司は頼りにならないですね。やる気ないなら相談したいと思いませんね。相談しても意味ないと思ってしまうし"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-12T14:27:07",
+      "utterance": "そうなんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-12T14:27:45",
+      "utterance": "奥さんや友人に相談してなんて言われましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-12T14:28:58",
+      "utterance": "それは確かにイラつくし、社会人として無責任と共感してくれました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-12T14:29:46",
+      "utterance": "確かに私も聞いてイラつきます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-12T14:30:52",
+      "utterance": "以前の上司のときはイラついたりしなかったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-12T14:32:46",
+      "utterance": "ですよね。そうですね。イベントなどをやり出したのがその上司が一年前にきて提案してきたので、それ以外の上司はそもそも企画などいっさいしなかったので、イラつきはなかったです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-12T14:35:56",
+      "utterance": "なるほどですね。上司が提案しているのに責任をもった行動ができてないのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-12T14:36:22",
+      "utterance": "はい。そうです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-12T14:37:52",
+      "utterance": "イベントは上司の独断で決めるのですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-12T14:38:42",
+      "utterance": "イベントを開催の有無を"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-12T14:38:57",
+      "utterance": "いえ、おそらく上司同士で決めているはずです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-12T14:40:24",
+      "utterance": "職場の中で決めるのですね。それなら責任もってしてほしいですね。適当されたら指示されている側にも迷惑がかかるし"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-12T14:42:12",
+      "utterance": "そうなんですよね。お客さんにも印象よくないと思いますし。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-12T14:43:14",
+      "utterance": "確かに対応を適当にしたらお客さまからクレームが入る可能性もあるし"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-12T14:46:12",
+      "utterance": "あなた以外の同僚も上司に不満がでていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-12T14:46:42",
+      "utterance": "小規模の団体で同僚がいません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-12T14:47:56",
+      "utterance": "それだともっときついですね。仕事を理解している相談相手がいないし"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-12T14:51:09",
+      "utterance": "従業員は何名ぐらいいるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-12T14:51:45",
+      "utterance": "上司が3人と私をあわせて、4人です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-12T14:52:52",
+      "utterance": "4人なんですね。それなら職場で相談もできませんね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-12T14:53:17",
+      "utterance": "直接上司にいったことあるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-12T14:54:19",
+      "utterance": "ありますが、あまり変わらないですね。ただ、それもけっこう前なので最近のことも言ったほうがいいかもと思いました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-12T14:55:46",
+      "utterance": "確かに一回言って変わらないなら言っても意味ないなって思ってしまいますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-12T14:56:04",
+      "utterance": "ですが、もう一回言ってのもありだと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-12T14:56:29",
+      "utterance": "ですよね。ありがとうございます。勇気がつきました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-12T14:56:55",
+      "utterance": "いえいえ、そう思ってもらえるとありがたいです。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-12T14:57:42",
+      "utterance": "すみません。15時からカウンセラー役で入れてしまって、相談終わらせてもらってもよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-12T14:58:07",
+      "utterance": "きつきつですみません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-12T14:58:11",
+      "utterance": "わかりました。ありがとうございました。"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "上司の計画性の欠如によるストレス"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3794,
+    "評価作成日時": "2022-08-12T17:44:00",
+    "クライアント役ID": 314,
+    "カウンセラー役ID": 311,
+    "点数": 60,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 3,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3794,
+    "evaluation_created_at": "2022-08-12T17:44:00",
+    "client_id": 314,
+    "counselor_id": 311,
+    "score": 60,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

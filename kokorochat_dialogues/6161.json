@@ -1,0 +1,444 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-12-22T09:50:44",
+      "utterance": "(本日はよろしくお願いいたします)"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-22T09:51:14",
+      "utterance": "（こんにちは、こちらこそ宜しくお願い致します。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T09:51:22",
+      "utterance": "(10時になりましたら、こちらから始めさせていただきます)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:00:09",
+      "utterance": "こんにちは　相談員です。最初に、年齢・性別・今日の相談内容を教えてください。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-22T10:00:54",
+      "utterance": "35歳、男性、仕事での悩みです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:01:28",
+      "utterance": "仕事でのお悩みですね。詳しく教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-22T10:02:26",
+      "utterance": "休みがなかなか取れなくて、つらいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:03:11",
+      "utterance": "そうなんですね。それはお疲れも溜まりますし、おつらいですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:03:39",
+      "utterance": "お休みが取れないのは、どういう状況なのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-22T10:04:45",
+      "utterance": "アルバイト店員のシフトがなかなか埋まらなくて、自分がカバーしています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:06:49",
+      "utterance": "そうだったんですね。それは体力的にも厳しいですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:06:59",
+      "utterance": "どんなお仕事をされていますか。あなたが管理をされているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-22T10:07:35",
+      "utterance": "コンビニの店長をやっています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:08:58",
+      "utterance": "なるほど。コンビニは24時間営業ですし、忙しいですよね。体調などは崩されていませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-22T10:10:32",
+      "utterance": "少し腰を痛めています。後、これからのシフトが埋まるのかが心配で、疲れていても眠れない時があります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:12:10",
+      "utterance": "そうなんですね・・・そのような状況だと心身ともお疲れで、ご不安ですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:12:37",
+      "utterance": "いつ頃からそのような状況ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-22T10:13:40",
+      "utterance": "人手不足は前からですが、ここ半年ぐらいは特に厳しいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:15:31",
+      "utterance": "そうだったんですね。心配ですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:15:40",
+      "utterance": "なにか人手不足になるようなきっかけがありましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-22T10:17:26",
+      "utterance": "特に無いですが、やはりアルバイト従業員は取り合いの中、コンビニは時給が安いので集まりにくいと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:19:28",
+      "utterance": "そうなんですね。そのようなお話は耳にします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:19:42",
+      "utterance": "とても心細いですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-22T10:20:11",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:20:25",
+      "utterance": "疲れているのに、眠れない時はどんなお気持ちになるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-22T10:22:14",
+      "utterance": "先ずは目先のシフトを埋めないと、他のメンバーやお客様にも迷惑をかけるので、それが心配です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:23:48",
+      "utterance": "うんうん　とても責任感が強いので、心配になってしまうのですね。シフトの事などを考えて眠れないのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-22T10:25:19",
+      "utterance": "そうですね。私の少ない休みの時でも、お店は営業していますので、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:25:55",
+      "utterance": "迷惑をかけてしまうと思っているのですね？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-22T10:26:43",
+      "utterance": "そうですね。やはり店長ですから、ある程度の責任はあると思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:27:49",
+      "utterance": "うんうん　仕事に対する自覚があって、がんばっておられると感じます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:27:57",
+      "utterance": "コンビニ店長のお仕事自体はどう感じていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-22T10:29:16",
+      "utterance": "接客業は嫌いでは無いので、それは自分には合っていると思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:30:15",
+      "utterance": "うんうん　それはとてもいいですね。向いているお仕事ができるのはとても素敵ですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:30:43",
+      "utterance": "例えば迷惑をかけると、自分がどう思われると思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-22T10:32:28",
+      "utterance": "そうですね。店長としては努力不足、管理者としては不適格かと思う人がいるかもしれません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:33:19",
+      "utterance": "そうなんですね。そのように思われるとしたら、どんなお気持ちになりますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-22T10:34:23",
+      "utterance": "ここまでの自分を否定されている気分になりますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:36:12",
+      "utterance": "うんうん。否定されていると感じるのは苦しいですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:36:26",
+      "utterance": "ちなみに「否定される」とはどんな気持ちですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-22T10:38:05",
+      "utterance": "自分には能力が無いとか、自分はダメな奴かと思ってしまいます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:39:39",
+      "utterance": "そんな風に感じるのですね。やるせないですね・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:39:55",
+      "utterance": "これまでも仕事以外でもそう感じる事が実際にありましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-22T10:41:43",
+      "utterance": "あまり、ここまで成功は無かったですが、ここまで落ち込む事も無かったです。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-22T10:43:27",
+      "utterance": "店長などの管理者は初めての経験でしたので"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:43:35",
+      "utterance": "そうだったんですね。努力されているのに、どうすることも出来なくて、苦しいですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:44:13",
+      "utterance": "お話を伺って、ご自分の休みを取らず、カバーされていて、努力されているなと感じます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:44:50",
+      "utterance": "がんばっているのに、うまくいかない時に、自分をダメだと感じるのは自然な事だと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-22T10:44:51",
+      "utterance": "そうですね。今後を考えると悩みます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:45:22",
+      "utterance": "行き違ってしまいましたね。ごめんなさい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:46:15",
+      "utterance": "会社に相談はされましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-22T10:47:06",
+      "utterance": "オーナーである社長には人手不足は相談しています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:47:34",
+      "utterance": "そうだったんですね。改善は見込めそうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-22T10:48:38",
+      "utterance": "オーナーも、現状は分かっていますが、人手不足は直ぐには改善しないと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:49:50",
+      "utterance": "そうだったんですね。その点はすぐには難しいですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:50:50",
+      "utterance": "ご自身ではちゃんと相談もされていて管理者として責任を果たしていますし、精一杯やれることをされていますね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-22T10:50:56",
+      "utterance": "業界全体でも人手不足の感じかと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:51:23",
+      "utterance": "ええ、そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:52:14",
+      "utterance": "でもあなたご自身では、ご自分の仕事ぶりをどう感じていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-22T10:53:12",
+      "utterance": "精一杯はやっていますが、結果は出ていないので、満足感は無いです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:54:47",
+      "utterance": "そう感じるのは歯がゆいですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:54:51",
+      "utterance": "満足感が得られるとどんな自分になれると思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-22T10:56:08",
+      "utterance": "店長としての責任を果たした安心した気持ちです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:56:19",
+      "utterance": "うんうん　それがあなたのなりたい自分なのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-22T10:56:45",
+      "utterance": "又、今の仕事が続けていけると思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:57:44",
+      "utterance": "そうなんですね。お話が途中ですが、そろそろ時間になります。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-22T10:58:16",
+      "utterance": "そうですか。分かりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T10:59:20",
+      "utterance": "また相談にきていただけませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-22T10:59:59",
+      "utterance": "分かりました。又、ぜひ相談させてください。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T11:00:17",
+      "utterance": "今日はこのあたりにしたいと思いますが、いかがでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-22T11:00:35",
+      "utterance": "分かりました。大丈夫です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T11:00:40",
+      "utterance": "ではこれで終了させていただきます。今日はありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T11:00:47",
+      "utterance": "(ありがとうございました)"
+    },
+    {
+      "role": "client",
+      "time": "2023-12-22T11:01:02",
+      "utterance": "（こちらこそありがとうございました）"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-12-22T11:01:06",
+      "utterance": "（終了します）"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "人手不足による休暇取得の難しさ"
+  },
+  "review_by_client_jp": {
+    "評価ID": 6161,
+    "評価作成日時": "2023-12-22T11:49:00",
+    "クライアント役ID": 451,
+    "カウンセラー役ID": 446,
+    "点数": 65,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 3,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 6161,
+    "evaluation_created_at": "2023-12-22T11:49:00",
+    "client_id": 451,
+    "counselor_id": 446,
+    "score": 65,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,609 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-03-10T19:54:13",
+      "utterance": "こんばんは。２０時からよろしくお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T19:55:03",
+      "utterance": "こんばんは、宜しくお願い致します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:00:29",
+      "utterance": "それでは始めます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:00:52",
+      "utterance": "はい、お願い致します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:00:53",
+      "utterance": "こんばんは、相談員です。"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:01:05",
+      "utterance": "こんばんは"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:01:30",
+      "utterance": "初めにあなたの年齢と性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:01:46",
+      "utterance": "16歳、男です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:02:12",
+      "utterance": "教えていいただきありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:02:55",
+      "utterance": "今日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:03:25",
+      "utterance": "はい、実は、僕、死にたいんです。どうしたら楽に死ねますか?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:04:19",
+      "utterance": "そう思うくらい辛いと感じているのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:05:13",
+      "utterance": "よろしかったら、どんなことがあったのか教えていただけませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:05:20",
+      "utterance": "いや、辛い訳ではないです。どうして辛いと思われたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:05:35",
+      "utterance": "何か、生きててもつまらないな〜って"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:05:55",
+      "utterance": "そうお感じなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:06:09",
+      "utterance": "ええ、つまらない"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:07:34",
+      "utterance": "つまらないというのは、具体的にはどういったことなのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:08:41",
+      "utterance": "人生がつまらない、面白い事が無い、友達も恋人もいない。だから、生きててもつまらない"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:08:50",
+      "utterance": "こんな所です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:09:25",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:09:55",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:11:07",
+      "utterance": "面白いことがないからつまらないとお感じなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:11:48",
+      "utterance": "学校ではどんな風にすごしていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:11:56",
+      "utterance": "そうですね。なんにも生きてても仕方ないのです。"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:12:15",
+      "utterance": "学校は、ただ通って、ただ、授業を受けている感じですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:13:06",
+      "utterance": "なるほど。それではつまらないと感じるのも無理ないのかもしれませんね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:13:24",
+      "utterance": "ええ、分かって下さりありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:14:33",
+      "utterance": "ところで、１６歳ということは高校２年生でよろしかったでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:14:42",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:17:46",
+      "utterance": "もうすぐ高校３年になりますね。そろそろ周りは進路のこととか言っていたりしませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:18:30",
+      "utterance": "言ってます。それも、とりあえず、ただ進学希望してるだけですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:19:16",
+      "utterance": "それを聞いていて、あなたはどう感じますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:20:36",
+      "utterance": "別に何も「ああ、なら進学するか〜」てな感じですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:21:47",
+      "utterance": "そうなんですね。あまり興味がないってことでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:22:09",
+      "utterance": "興味はないですね。てか、あるものがない"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:23:18",
+      "utterance": "何事にも興味が湧いてこないんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:23:50",
+      "utterance": "湧いてこないです。生きてる意味ないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:24:48",
+      "utterance": "そう思ってしまうのもやるせないですよね"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:24:55",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:25:16",
+      "utterance": "やるせないです。人生の意味が無かったらどうしたら良いですか?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:28:23",
+      "utterance": "人意味が意味ですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:28:35",
+      "utterance": "ちょっと考えていました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:28:54",
+      "utterance": "人生には意味が必要なのかな？"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:29:04",
+      "utterance": "必要とは？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:31:03",
+      "utterance": "人生の意味が無かったらどうしたら良いかと聞かれたので、意味が必要なのかなと思った次第です。"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:32:05",
+      "utterance": "そういう事なんですね。不要ですかね？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:34:00",
+      "utterance": "必要とする人もいるけれど、必要としない人もいるような気がしています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:34:34",
+      "utterance": "中には何となく生きてる人もいたりして。"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:34:57",
+      "utterance": "人によって違うのですか?何となくは僕ですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:35:38",
+      "utterance": "そうお感じなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:36:18",
+      "utterance": "です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:37:41",
+      "utterance": "いつ頃からそんな風に感じるようになりましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:38:45",
+      "utterance": "いつ頃なんでしょうね?いつの間にか、気がついたらこうなっていました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:40:44",
+      "utterance": "いつの間にかそうなっていたということは、きっかけとかは特に思い当らないということですよね"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:40:52",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:41:33",
+      "utterance": "小学生の時とかは、どんな感じだったのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:42:28",
+      "utterance": "うーん、思い返すと、面白い、本当に興味あることは無かったけど、あんまり深く考えずに生きてた感じですね。小学生ですからね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:44:04",
+      "utterance": "あまり夢中になるようなことは無かったということなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:45:19",
+      "utterance": "無かったですね。人並みにゲームとかはしてましたけど、生きがいとまではね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:45:43",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:46:10",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:47:28",
+      "utterance": "ところでご家族のことをお聞きしていませんでしたが、親御さんとは仲がいい方ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:48:29",
+      "utterance": "格別良くも無いし悪くもないという所です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:49:22",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:49:54",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:50:06",
+      "utterance": "これまでのお話を整理させていただいてもよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:50:59",
+      "utterance": "はい、お願い致します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:53:40",
+      "utterance": "ちょっと時間がかかってしまいゴメンなさい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:54:22",
+      "utterance": "いつの頃からか、気が付いたら生きることがつまらなくなっていた。"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:54:30",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:56:18",
+      "utterance": "面白いと感じることや、興味のあることがなくて、"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:56:35",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:57:20",
+      "utterance": "学校ではただ授業を受けているだけだし、"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:57:41",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:58:09",
+      "utterance": "人生の意味もわからなくなってしまった。"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:58:28",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:58:31",
+      "utterance": "そうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T20:59:00",
+      "utterance": "どうしたらいいのかわからない。"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:59:22",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T20:59:26",
+      "utterance": "分かりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T21:01:59",
+      "utterance": "理由もわからず、生きる意味がわからなくなるのは、とてもやるせないことだと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T21:02:12",
+      "utterance": "やるせないです。つまらない"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T21:04:10",
+      "utterance": "面白いことや、やりたいことがあったらいいなって強く思いますよね"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T21:05:18",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T21:05:47",
+      "utterance": "あなたが今日ここに相談に来たのもその気持ちの現れだと思います"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T21:06:11",
+      "utterance": "確かに、面白いことがあればまだ良いのですが。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T21:07:34",
+      "utterance": "あなたの中にそう強く望む気持ちがあるのに、やりたいことが具体的にみつからないのは、"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T21:08:11",
+      "utterance": "見つからないのは?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T21:09:03",
+      "utterance": "もしかすると、あなたの中でやりたい気持ちを抑えているものがあるのかもしれないな、と今日お話していて思いました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T21:10:00",
+      "utterance": "なるほど"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T21:10:48",
+      "utterance": "それが何なのかは、残念ながらまだ掴めていませんが、これから一緒に見つけていけたらと思いますので、"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T21:10:52",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T21:11:09",
+      "utterance": "よろしかったら、またお話にきてください。"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T21:11:36",
+      "utterance": "はい、お願い致します"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T21:11:40",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T21:11:58",
+      "utterance": "今日は相談にきてくださりありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T21:12:24",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T21:12:51",
+      "utterance": "それでは終了のお時間となりましたので、この相談を終わらせていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T21:13:16",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T21:13:39",
+      "utterance": "（少し時間をオーバーして済みませんでした。）"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T21:13:40",
+      "utterance": "また宜しくお願い致します。"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T21:13:54",
+      "utterance": "「いえいえ、とんでもないです。」"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T21:14:46",
+      "utterance": "自殺の対応はあまり経験ないので、勉強になりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T21:14:49",
+      "utterance": "（ありがとうございました。お疲れ様でした。忌憚のないご意見をいただけたら有り難いです。）"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T21:15:05",
+      "utterance": "（はい、かしこまりました。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-10T21:15:24",
+      "utterance": "（それではロールプレイを終了しますね。）"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-10T21:15:33",
+      "utterance": "（はい）"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "生きる意味を感じられないこと"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3251,
+    "評価作成日時": "2022-03-11T18:43:00",
+    "クライアント役ID": 251,
+    "カウンセラー役ID": 92,
+    "点数": 53,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 3,
+    "要約": 4,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3251,
+    "evaluation_created_at": "2022-03-11T18:43:00",
+    "client_id": 251,
+    "counselor_id": 92,
+    "score": 53,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

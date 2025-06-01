@@ -1,0 +1,754 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2021-07-03T16:59:32",
+      "utterance": "17時よりよろしくお願いいたします。相談者役の綾瀬です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T16:59:50",
+      "utterance": "こんにちは相談員です。よろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:00:15",
+      "utterance": "よろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:00:40",
+      "utterance": "最初にクライエントさんの年齢と性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:01:02",
+      "utterance": "17歳　女です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:01:25",
+      "utterance": "ありがとうございます。学年も教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:01:57",
+      "utterance": "高二です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:02:08",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:02:19",
+      "utterance": "今日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:02:49",
+      "utterance": "太れなくて困ってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:03:33",
+      "utterance": "そうなんですね。もう少し具体的に教えていただいてもいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:04:28",
+      "utterance": "食べても太らなくて困ってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:05:08",
+      "utterance": "そこが気になっているんですね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:05:55",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:06:41",
+      "utterance": "太れないことでどんな点がおこまりなのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:07:39",
+      "utterance": "お医者さんに体重を増やすように言われています体重が少ないと体に悪いみたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:08:12",
+      "utterance": "お医者さんにも診てもらっているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:08:31",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:09:13",
+      "utterance": "お医者さんは太るためにどんなことをするようにとのアドバイスでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:09:38",
+      "utterance": "３食しっかり食べてね、と言われてます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:10:46",
+      "utterance": "そのアドバイスをもらって、あなたとしては、どんな感じでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:11:11",
+      "utterance": "うーん、食べてると思うけどな、少ないのかな、て感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:11:43",
+      "utterance": "実際に、毎日3食食べているんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:12:20",
+      "utterance": "食べているんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:12:47",
+      "utterance": "そうなんですね。それなのに、まだ足りないってこと？はてな　という感じでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:13:17",
+      "utterance": "はい、そうなんです"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:13:31",
+      "utterance": "体重は増えていないので…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:14:52",
+      "utterance": "なるほど。ご自分の感覚では今の体重で　なにか生活的に　不都合とか感じることはおありですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:15:12",
+      "utterance": "特にないんです"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:15:19",
+      "utterance": "でも、周りが心配するんですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:15:42",
+      "utterance": "なるほど。親御さんとか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:16:14",
+      "utterance": "そうですね、親やおばあちゃんとか、学校の先生とか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:16:55",
+      "utterance": "そうなんですね。周りの大人たちがみんな心配しているみたいな感じですね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:17:15",
+      "utterance": "そうなんです、だから太らないと、とは思うんですけどね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:18:18",
+      "utterance": "周りの大人たちから、同じことを言われたら、そうしなきゃいけないのかな・・・と思ってしまいますよね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:18:31",
+      "utterance": "そうなんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:19:18",
+      "utterance": "ちなみに　お医者さんは　目安としてあと　何キロぐらい増やしなさいというお話しですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:20:25",
+      "utterance": "15kgです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:20:43",
+      "utterance": "そうですか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:21:37",
+      "utterance": "ご自分では　その数字を言われて　どんな感じがしているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:22:06",
+      "utterance": "そんなに増やす必要はよく分からないですね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:22:22",
+      "utterance": "なるほど。そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:22:59",
+      "utterance": "お医者さんとしては、それだけ体重を増やす必要性については、何か話してくれたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:23:47",
+      "utterance": "体に栄養が足りなくて、筋力がどんどん落ちて、動けなくなるよ、と言われました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:24:39",
+      "utterance": "すると、やがて生活に支障が出てくる恐れあり　というコメントなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:24:50",
+      "utterance": "はい、そうなんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:25:08",
+      "utterance": "その点については、あなたご自身はどんな感じで受け取ってるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:25:28",
+      "utterance": "それは困るな、と思って"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:25:57",
+      "utterance": "今は　日常生活では全然支障なく動けているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:26:42",
+      "utterance": "疲れやすい感じはするけど、いつものことだから平気です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:27:24",
+      "utterance": "なるほど　今のところは　少し疲れやすいけれど、　なんとか　大丈夫という感じなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:27:30",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:28:37",
+      "utterance": "念のため、教えていただくと、今の体重は　最近　減ってきて、今の体重になったのでしょうか、　それとも　以前から同じくらいの体重のまま　変わらず　という感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:30:12",
+      "utterance": "以前は体重がもう少しあって、でも2年前くらいに、気づいたらガクッと減って、そのまま今の体重でいます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:30:49",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:31:16",
+      "utterance": "ご自分では、どうなれたらいいな　と思っておいでですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:31:44",
+      "utterance": "心配されないのがいいかな、周りに"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:32:14",
+      "utterance": "なるほど　周りに心配かけたくないというお気持ちでしょうか・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:32:23",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:32:40",
+      "utterance": "周りに気を遣っていらっしゃるんですね・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:32:58",
+      "utterance": "うーん、周りが私に気を遣ってる感じかな"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:33:09",
+      "utterance": "なるほど　どうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:33:54",
+      "utterance": "ところで、2年前にガクッと体重が落ちたというお話しでしたが、何かきっかけとか　思い当たることはおありですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:34:35",
+      "utterance": "いっとき食欲がなくなったときがありました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:35:01",
+      "utterance": "そうでしたか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:35:33",
+      "utterance": "何か食欲がなくなる　原因とか　きっかけとか　おありだったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:35:49",
+      "utterance": "高校受験落ちちゃって"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:36:20",
+      "utterance": "そうだったんですね。それはショックでしたね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:36:33",
+      "utterance": "うん…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:36:54",
+      "utterance": "ご自分では何とか行きたい学校だったのでしょうね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:37:39",
+      "utterance": "うーん、そういうわけじゃないけど、落ちると思ってなかったからびっくりした"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:38:10",
+      "utterance": "過信してたね。笑"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:38:22",
+      "utterance": "そうだったんですね。ご自分でも予想外のできごとだったのですね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:38:41",
+      "utterance": "うん"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:38:57",
+      "utterance": "お勉強に関しては自信もおありだったのでしょうね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:39:15",
+      "utterance": "勉強はしてたからねぇ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:39:55",
+      "utterance": "そうだったんですね。ご自分なりには力をつけていたと思っておいでだったんですよね・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:40:46",
+      "utterance": "うん、まぁ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:41:09",
+      "utterance": "それは　ショック大きかったでしょうね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:41:34",
+      "utterance": "すっかり食欲がなくなってしまうのもうなずけます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:41:35",
+      "utterance": "うん、そうでしたね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:42:11",
+      "utterance": "ちなみに、今通っている学校はご自分にとっては、どんな感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:43:38",
+      "utterance": "通信です、どんな感じかなぁ…特に、て感じかなぁ"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:44:03",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:44:23",
+      "utterance": "ここまでのところを少し整理させていただいてもいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:44:31",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:44:41",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:45:13",
+      "utterance": "医師からもっとしっかり食事をして、体重を15キロぐらい増やすように言われている。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:45:41",
+      "utterance": "そうしないと、やがて栄養不足で筋肉が衰えて、動けなくなると言われている。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:46:13",
+      "utterance": "今のところ、少し疲れやすいかなと思うが、日常生活には支障は出ていない。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:47:05",
+      "utterance": "きっかけは2年前に高校受験でうまく行かなった時に、食欲が落ちて、体重ががくっと減ってそのままできているという感じ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:47:42",
+      "utterance": "高校受験については、自分なりに勉強していたので、うまく行かなかったことがショックだった。今は通信制に通っている。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:48:26",
+      "utterance": "太ることについては、両親やおばあちゃん、学校の先生が心配してくれているので、周りの大人たちに心配かけたくないなという思いはある。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:48:38",
+      "utterance": "こんな理解でよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:49:13",
+      "utterance": "はい、そうですねお父さんはいないので、親はお母さんだけです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:49:32",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:49:59",
+      "utterance": "じゃあお母さんに心配かけたくないなという思いが強くおありなのでは？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:50:48",
+      "utterance": "そうですね、親やおばあちゃんとか、学校の先生とか"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:51:06",
+      "utterance": "そうですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:51:38",
+      "utterance": "周りの人たちに心配かけたくないなというお気持ちはよくわかりました。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:51:45",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:52:12",
+      "utterance": "ところで、あなたご自身は、本当はどうなっていきたいと思っているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:52:39",
+      "utterance": "心配かけたくないから、太らなきゃな、と思っています"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:53:18",
+      "utterance": "そのお気持ちよくわかりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:54:01",
+      "utterance": "ご自身では、もう少しだけ体重を増やすのに何か　考えていることはおありですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:54:33",
+      "utterance": "入院するしかないのかな、て思ってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:55:08",
+      "utterance": "それはお医者さんの助言ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:56:09",
+      "utterance": "うーん、食べても太らないから、入院して、食事管理してもらって増やしていく方法もあると言われています"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:56:20",
+      "utterance": "お医者さんから言われました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:56:34",
+      "utterance": "そうなんですね。専門家のコメントですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:56:56",
+      "utterance": "ご自身ではそのことについては、どう思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:57:25",
+      "utterance": "それもしょうがないですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:58:03",
+      "utterance": "じゃあ　やってみるしかないな　と思っていらっしゃるという感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T17:58:30",
+      "utterance": "うーん、そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:59:08",
+      "utterance": "お気持ちがだいぶ　そちらに向いているようですね・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T17:59:29",
+      "utterance": "ちなみに　入院することについて　何か気になることとかは　ありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T18:00:11",
+      "utterance": "学校休むことになるし、家族と離れるし、携帯も使えないし、不自由そうだな、て感じです？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T18:00:22",
+      "utterance": "感じです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T18:00:47",
+      "utterance": "確かに　その間はいろいろ不便になってしまいますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T18:01:04",
+      "utterance": "はい、仕方ないですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T18:01:25",
+      "utterance": "そこまで　気持が固まっているんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T18:01:37",
+      "utterance": "それは一つの決断ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T18:01:55",
+      "utterance": "そうですね、一つの決断ですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T18:02:25",
+      "utterance": "不便がありそうだけれど、入院して、自分の身体を作りなおしてみる。すごいことだと思いますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T18:02:40",
+      "utterance": "すごいこと、ですね、確かに。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T18:03:04",
+      "utterance": "そうですよ。2年来の大きな出来事ですよ・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T18:03:46",
+      "utterance": "そうですね！"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T18:03:49",
+      "utterance": "そう決めようとしていることも立派です。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T18:03:59",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T18:04:06",
+      "utterance": "応援していますよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T18:04:19",
+      "utterance": "何か気になることが出てきたらまたご相談に来てください。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T18:04:29",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T18:04:45",
+      "utterance": "今日の所はこの辺でよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T18:04:58",
+      "utterance": "はい、ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T18:05:24",
+      "utterance": "こちらこそ、ご相談に来てくださりありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-07-03T18:06:06",
+      "utterance": "では、失礼いたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-07-03T18:07:04",
+      "utterance": "失礼します。"
+    }
+  ],
+  "topic": {
+    "main_jp": "身体的健康問題",
+    "main_en": "Physical Health Issues",
+    "sub": "体重増加に関する悩み"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2128,
+    "評価作成日時": "2021-07-03T18:14:00",
+    "クライアント役ID": 142,
+    "カウンセラー役ID": 5,
+    "点数": 66,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 5,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 1,
+    "この相談での目標の明確化": 1,
+    "次の行動につながる提案": 1,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2128,
+    "evaluation_created_at": "2021-07-03T18:14:00",
+    "client_id": 142,
+    "counselor_id": 5,
+    "score": 66,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 1,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

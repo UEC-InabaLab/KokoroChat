@@ -1,0 +1,964 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-07-18T19:54:02",
+      "utterance": "こんばんは、相談員です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T19:54:13",
+      "utterance": "本日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T19:54:31",
+      "utterance": "45才、女性です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T19:54:55",
+      "utterance": "はい、ありがとうございます。なんとお呼びすればよろしいでしょう"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T19:55:25",
+      "utterance": "すずと呼んでください。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T19:55:35",
+      "utterance": "すずさんですね、ありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T19:56:18",
+      "utterance": "最近どうも身体の体調がすぐれないんです！"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T19:56:34",
+      "utterance": "そうなんですねそれは、大変ですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T19:56:52",
+      "utterance": "どのような感じでいらっしゃるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T19:57:04",
+      "utterance": "40才を越したのでもう若くもないし"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T19:57:50",
+      "utterance": "それに父おやががんで亡くなったものですから"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T19:58:18",
+      "utterance": "そうだったのですね・・・・それは、大変でしたね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T19:58:35",
+      "utterance": "色々なことがおありだったのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T19:58:45",
+      "utterance": "辛かったと思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T19:58:53",
+      "utterance": "もしも、自分もがんになったらと思うと心配でたまらず、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T19:59:12",
+      "utterance": "はい・・・そう気になってしまいますよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T19:59:18",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T19:59:38",
+      "utterance": "考えることが多くなってしまいますよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T19:59:51",
+      "utterance": "そこでいろいろ考えた末"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T19:59:57",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:00:55",
+      "utterance": "カウンセラーに相談するようにとすすめられて、電話しました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:01:24",
+      "utterance": "そうだったのですね苦しい中よく来られましたね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:01:37",
+      "utterance": "いろいろお話していきましょう"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:01:59",
+      "utterance": "以前にもしばらくカウンセリングをうけていたのですがあまりやくにたちませんでした"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:02:32",
+      "utterance": "今度はうまくいってほしいと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:03:00",
+      "utterance": "そうだったのですね・・・・それは勇気がいりましたね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:03:11",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:03:16",
+      "utterance": "いろいろ聞かせてください"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:03:26",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:03:56",
+      "utterance": "体調がすぐれないということですが特にどのようなところがきになりますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:04:39",
+      "utterance": "体がだるく、やる気がでないんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:05:29",
+      "utterance": "そうなのですねそれでは、毎日が重たく感じてしまいますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:05:50",
+      "utterance": "それはいつごろから感じられているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:06:42",
+      "utterance": "はい、毎日、コロナも心配ですが、がんなったらどうしようとあたまから離れません"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:07:10",
+      "utterance": "そうなのですねはい、そう思われるのも無理ないと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:07:21",
+      "utterance": "それほど壮絶な体験をされたのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:07:57",
+      "utterance": "お父様の状況をお聞かせいただくことはできますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:08:29",
+      "utterance": "父が7年前になくなりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:08:42",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:08:56",
+      "utterance": "どのようながんだったのですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:09:36",
+      "utterance": "7年も苦しまれているのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:10:18",
+      "utterance": "すい臓がんでしたので、最後まで、痛みがひどくなって、最後は痩せ細り亡くなっていきました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:10:48",
+      "utterance": "はい・・・・見ていて辛かったですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:10:54",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:11:13",
+      "utterance": "怖くなってきてしまいましたよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:11:46",
+      "utterance": "そんな父の姿が頭から離れません"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:12:22",
+      "utterance": "そうですよね元気でいらしたお父様がやせ細ってしまうことは本当に苦しかったと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:12:45",
+      "utterance": "お父様はどのように過ごされていたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:13:36",
+      "utterance": "私も、体質が似ているので、怖くて眠れません"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:14:19",
+      "utterance": "そうだったのですね・・・それはきついですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:14:46",
+      "utterance": "がんが分かった時は末期がんでしたので、即入院しました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:15:27",
+      "utterance": "そうだったのですね・・・突然末期とは・・・気持ちの整理もつかないですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:15:44",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:16:13",
+      "utterance": "お父様に対してはあなたはどのような思いでいらっしゃったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:17:47",
+      "utterance": "大事に育てて頂いたので、これから親孝行して恩返しをしようと思っていた矢先でした"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:18:39",
+      "utterance": "そうですよねこれからたくさんと思っていましたよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:19:01",
+      "utterance": "大事に育てていただけて・・・幸せだったのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:19:16",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:19:23",
+      "utterance": "お父様はおいくつだったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:19:56",
+      "utterance": "70才でした"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:20:22",
+      "utterance": "それは・・・・これからまだまだでしたよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:21:02",
+      "utterance": "親孝行したいときには親は無しですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:21:25",
+      "utterance": "悔いがいっぱい残ってしまいますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:21:45",
+      "utterance": "お父様とは最後はどのようなお話をされたりしたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:22:44",
+      "utterance": "はい、元気になたら旅行に行こうねと"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:23:13",
+      "utterance": "はい前向きなお話を・・・"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:23:20",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:23:29",
+      "utterance": "頑張られたのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:23:43",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:24:23",
+      "utterance": "ご家族はどのような感じでいらっしゃるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:25:17",
+      "utterance": "一番私が、父が亡くなったら、力が抜けた感じで、体調も崩れてしまいました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:26:15",
+      "utterance": "そうなのですね誰よりもすずさんが頑張られて苦しまれたのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:26:44",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:27:01",
+      "utterance": "余計に疲れがどっと出てしまったのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:27:30",
+      "utterance": "すずさんは今生活はどのような状況なのでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:28:07",
+      "utterance": "すずさんには近くにお話しできそうな方などいらっしゃるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:29:00",
+      "utterance": "はい、気力も体力も抜けたかんじで、あまり食事もつくりたくありません、近くに相談する人もいないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:29:55",
+      "utterance": "それはしんどいですね・・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:30:27",
+      "utterance": "お仕事などはされているのですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:32:03",
+      "utterance": "お話しできる範囲で大丈夫ですので無理なさらないでください"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:32:08",
+      "utterance": "はい、体調を崩してから、仕事も辞めました。このままだったらがんになりそうですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:32:41",
+      "utterance": "そう考えてしまうのですね追いつめられてしまいますよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:33:06",
+      "utterance": "はい、いつも頭から離れません"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:33:24",
+      "utterance": "お仕事も続けることが困難なほど・・・・"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:33:30",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:34:38",
+      "utterance": "お仕事は以前はどのようなお仕事をされていたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:35:09",
+      "utterance": "ヘルパーをしていました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:35:43",
+      "utterance": "そうだったのですね体力的にも精神的にもハードなお仕事でしたね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:35:51",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:36:17",
+      "utterance": "どのようなきっかけではじめられたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:37:49",
+      "utterance": "少しでも役にたちたいと思ってはじめましたが、お年寄りを見ると父をおもいだし、辛くて辞めてしまいました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:38:22",
+      "utterance": "そうですよね無理もないと思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:38:32",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:39:01",
+      "utterance": "お役に立てることはうれしいことですが・・・・それ以上に大きな負担がかかってしまいましたよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:39:12",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:40:10",
+      "utterance": "お父様がご病気になる前のすずさんはどのようなご自身だったと思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:41:54",
+      "utterance": "父のようにひとの役にたちたいと思っていました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:42:20",
+      "utterance": "そうなのですね・・・お父様のように"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:42:25",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:42:34",
+      "utterance": "お父様はどのようなことをされていたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:43:31",
+      "utterance": "民生いんを長くやって地域に貢献していました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:44:05",
+      "utterance": "それは重要な任務を任されていらしたのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:44:13",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:44:45",
+      "utterance": "すずさんもそのような地域に貢献できるようなことをされたかったのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:45:01",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:45:32",
+      "utterance": "ヘルパーさんもされて・・・・本当に、お父様を尊敬して目指されていたのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:45:47",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:45:56",
+      "utterance": "悔しかったですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:46:03",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:46:38",
+      "utterance": "自分はそんなお父様を苦しめた病気に負けたくなんかないですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:47:45",
+      "utterance": "なんとか乗り越えたいですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:48:08",
+      "utterance": "今の私には、前向きになれそうも無いんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:48:43",
+      "utterance": "はいそうなのですねその考えも苦しく感じてしまうのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:48:50",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:49:54",
+      "utterance": "今までのお話を一旦まとめさせていただいてもよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:50:05",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:50:31",
+      "utterance": "すずさんはお父様がすい臓がんで倒れて亡くなられてから、7年間ずっと苦しまれてきている"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:50:44",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:51:06",
+      "utterance": "壮絶な最後で今でも脳裏に焼き付いてしまっている"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:51:14",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:51:42",
+      "utterance": "自分も体質が似ているので同じ病気になるのではないかと心配で、眠ることもできない"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:51:50",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:52:35",
+      "utterance": "お父様のことは大変感謝して尊敬され、お仕事に対しても同じような志でやってこられたが、思い出してしまうので続けられたかった"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:52:46",
+      "utterance": "続けられなかった"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:52:50",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:53:06",
+      "utterance": "どうしても前向きになれない"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:53:11",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:54:01",
+      "utterance": "お父様への愛情があふれて、あまりにも苦しい体験をされて、立ち直る方法が見つけられない"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:54:10",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:55:02",
+      "utterance": "そんなにすずさんから愛されてお父様は、辛かったけれど、とても幸せな思いも感じていらっしゃったと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:55:40",
+      "utterance": "お父様にできる精いっぱいのことをされようとした、すずさんの姿が思い浮かびました"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:55:54",
+      "utterance": "そうですか、ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:56:30",
+      "utterance": "お父様は見た目は本当に壮絶だったと思いますが、旅行に行こうと・・・"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:56:54",
+      "utterance": "はい、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:56:54",
+      "utterance": "精いっぱいすずさんへの愛情を表現しようとしていたと思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:57:06",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:57:24",
+      "utterance": "もう少し質問させていただいてもよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:57:31",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T20:58:17",
+      "utterance": "不安が払しょくできないまま長いこと過ごされてきていますがご自身で対策はどのようなことをされましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T20:59:46",
+      "utterance": "体調がずっとすぐれなかたので、あまり特別なことは出来ませんでした。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T21:00:55",
+      "utterance": "そうなのですね・・・それほど、落ちこまれたままでいらしているのですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T21:01:18",
+      "utterance": "今、お話を聞いて頂いているうちに、少しづつ心が軽くなって来たようです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T21:01:41",
+      "utterance": "そうでしたかそれは少しホッとします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T21:01:55",
+      "utterance": "私の考えをお伝えしてもよいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T21:02:47",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T21:03:05",
+      "utterance": "すずさんは本当にお父様を尊敬され、恩返しがしたくてできなかったことが、無念になっていると思います。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T21:03:14",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T21:03:45",
+      "utterance": "だからこそ、ご自身の体もお父様と同じようになるのではないかと思われていると思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T21:03:53",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T21:04:22",
+      "utterance": "無理して前向きになることは大変なことだと思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T21:04:31",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T21:04:51",
+      "utterance": "ですが、すずさんもお気づきだからここに来られていると思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T21:05:01",
+      "utterance": "このままではいけないと"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T21:05:06",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T21:05:53",
+      "utterance": "少しずつ今を感じるようにしましょう"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T21:06:17",
+      "utterance": "すずさんにとっての不安は簡単なことではぬぐえないと思いますが"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T21:06:36",
+      "utterance": "勇気が出そうであれば、健康診断を受けていただきたいです。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T21:06:37",
+      "utterance": "はい、努力してみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T21:06:59",
+      "utterance": "すみません被りました健康診断を受けていただきたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T21:07:26",
+      "utterance": "また、すい臓がんは、確かに対策が難しいがんといわれていますが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T21:07:45",
+      "utterance": "早期発見の努力はいろいろできるようです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T21:08:08",
+      "utterance": "遺伝子の検査もあるとのこと"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T21:08:20",
+      "utterance": "そうですね、良く調べて頂きますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T21:08:59",
+      "utterance": "ご自身の判断になりますが私はうけてはっきりできることはしてみられる方が、すずさんの気持ちに変化を起こせるかもしれないと思いました。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T21:10:00",
+      "utterance": "分かりました、受けて、はっきりしたほうが安心出来ますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T21:10:06",
+      "utterance": "ぜひ検討してださい"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T21:10:24",
+      "utterance": "はい、ありがとうございました❗"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T21:10:32",
+      "utterance": "また治療方法もどんどん進歩しています"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T21:10:55",
+      "utterance": "気持ちが楽になって来ました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T21:11:14",
+      "utterance": "お役に立てたのならうれしいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T21:11:28",
+      "utterance": "応援しています"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T21:11:38",
+      "utterance": "すずさんが一歩前に踏み出せることを"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T21:11:47",
+      "utterance": "でも、またいつでもこちらに来てくださいね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T21:12:00",
+      "utterance": "直ぐにでもいってきます、今日はありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T21:12:15",
+      "utterance": "こちらこそありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T21:12:29",
+      "utterance": "本日はこれで終わりにしてよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-18T21:12:46",
+      "utterance": "はい、ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T21:13:32",
+      "utterance": "ありがとうございました（コピペをしたいので少しおわるまでにお時間ください"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-18T21:14:13",
+      "utterance": "終わりましたありがとうございました失礼いたします"
+    }
+  ],
+  "topic": {
+    "main_jp": "身体的健康問題",
+    "main_en": "Physical Health Issues",
+    "sub": "がんに対する不安とその影響"
+  },
+  "review_by_client_jp": {
+    "評価ID": 218,
+    "評価作成日時": "2020-07-18T21:25:00",
+    "クライアント役ID": 56,
+    "カウンセラー役ID": 30,
+    "点数": 61,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 218,
+    "evaluation_created_at": "2020-07-18T21:25:00",
+    "client_id": 56,
+    "counselor_id": 30,
+    "score": 61,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,734 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:58:27",
+      "utterance": "こんばんは相談員です。本日はよろしくお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:58:46",
+      "utterance": "よろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:59:07",
+      "utterance": "本日はどういったご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T19:59:17",
+      "utterance": "仕事を辞めようか迷っています"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T19:59:46",
+      "utterance": "それは大変悩ましいですよね。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:00:10",
+      "utterance": "はい…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:00:13",
+      "utterance": "どうしてやめようと思われたのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:00:54",
+      "utterance": "やりがいを感じられず給料も低いからです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:01:20",
+      "utterance": "そうなんですね。それは辛いですよね。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:01:36",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:01:58",
+      "utterance": "どんなお仕事をされていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:02:13",
+      "utterance": "栄養士です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:03:02",
+      "utterance": "人の生活に欠かせない、大事なお仕事ですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:03:25",
+      "utterance": "そうですね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:03:56",
+      "utterance": "普段どんな風にお仕事されているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:04:52",
+      "utterance": "給食センターで、調理しています。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:05:13",
+      "utterance": "ずっと調理です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:06:02",
+      "utterance": "調理のお仕事がずっと続いて、しんどい感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:06:49",
+      "utterance": "栄養士なのに、調理ばっかりで、それらしいことをほとんどしていません。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:06:58",
+      "utterance": "何のために学校を出たのか…"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:07:14",
+      "utterance": "情けないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:07:50",
+      "utterance": "そうなんですね。本来の仕事が出来ないのは嫌になりますよね。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:08:14",
+      "utterance": "はい。もう嫌になります"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:09:07",
+      "utterance": "職場は何人くらいで働いているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:09:27",
+      "utterance": "10人くらいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:10:22",
+      "utterance": "職場の雰囲気とかはどんな感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:11:12",
+      "utterance": "ベテランのおばちゃんが威張っていて、新人は立つ瀬がありません…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:11:42",
+      "utterance": "そうなんですね。それはやりづらいですよね。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:12:00",
+      "utterance": "はい…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:13:10",
+      "utterance": "先ほど　せっかく学校出たのに…ということでしたが、もう少し違う形の仕事を希望しておられたのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:14:14",
+      "utterance": "栄養士らしく、献立を作ったり指導したりして食べる人の役に立ちたかったです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:15:02",
+      "utterance": "栄養士らしい仕事が出来ないのは、苦しいですよね。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:15:48",
+      "utterance": "はい。学んだことが活かされず、辛いです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:16:29",
+      "utterance": "そうですよね、落ち込みますよね。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:17:12",
+      "utterance": "何のために働いているのか…"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:17:20",
+      "utterance": "絶望です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:17:26",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:17:43",
+      "utterance": "もう仕事にいきたくありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:17:51",
+      "utterance": "苦しくて、逃げてしまいたくもなりますよね。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:18:12",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:19:13",
+      "utterance": "調理の仕事はご自身の中で、どんな感じで受け止めておられますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:20:42",
+      "utterance": "必要な仕事だとはわかっていますが、調理員として就職したわけではないので、受け入れられません"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:21:22",
+      "utterance": "そうなんですね。それは戸惑いますよね。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:21:57",
+      "utterance": "はい…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:22:19",
+      "utterance": "就職の際は調理員としてではなくて、というお話だったのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:23:29",
+      "utterance": "はい。献立を考えたり、栄養士として働くということでした。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:24:01",
+      "utterance": "えー！裏切られた感じですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:24:11",
+      "utterance": "そうなんです……"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:24:33",
+      "utterance": "思ってたのと違うくて…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:25:15",
+      "utterance": "献立を考えたりという話が、どうして調理員に。。。理由とかはお聞きになりましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:25:45",
+      "utterance": "なんか人手が足りないみたいで…実際のその仕事は管理栄養士さんがやってます…"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:26:01",
+      "utterance": "自分の出る幕ないみたいで…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:26:36",
+      "utterance": "そうなんですね、、それは困りますよね。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:27:00",
+      "utterance": "悲しいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:27:24",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:27:51",
+      "utterance": "なんでこんな仕事してるんでしょうか…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:27:58",
+      "utterance": "とても落ち込んで、苦しくなりますよね。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:28:16",
+      "utterance": "はい、落ち込んでます…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:28:24",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:29:34",
+      "utterance": "会社側からはそのことについて、それ以上の説明はないのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:31:20",
+      "utterance": "管理栄養士の見習いという感じらしいですが、調理が忙しく直接指導を受けたりもできませんし…曖昧な感じにされてます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:32:02",
+      "utterance": "そうなんですね。それはがっかりしますよね。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:32:21",
+      "utterance": "はい…自分の立場がわかりません"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:32:35",
+      "utterance": "仕事に専念することもできません"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:33:37",
+      "utterance": "そうですよね、、気になって仕事にも集中できなくなりますよね。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:34:32",
+      "utterance": "今の会社はどれくらいの期間働いておられますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:34:58",
+      "utterance": "いつか栄養士の仕事が出来るのか、ずっと調理をするのかもわからず、先のことを決められません"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:35:08",
+      "utterance": "1年です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:35:55",
+      "utterance": "すみません、質問がかぶってしまいました。先が見通せず暗い気持ちになりますよね。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:36:31",
+      "utterance": "はい…もう見切りをつけるべきなのか…"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:36:52",
+      "utterance": "でも1年で辞めるのか…とか考えちゃいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:37:42",
+      "utterance": "うんうんもう辞めてしまおうかというくらい。。追いつめらているのですね。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:37:55",
+      "utterance": "そんな感じです…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:38:42",
+      "utterance": "このことを誰かに相談したことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:39:01",
+      "utterance": "ううん…しにくいですね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:39:36",
+      "utterance": "そうですよね。。大切な問題ですから相談しにくいですよね。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:40:26",
+      "utterance": "就職する前からそういった話は聞いていましたが、まさか自分の身に起こるとは思わなくて。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:40:35",
+      "utterance": "ちょっと恥ずかしい感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:41:39",
+      "utterance": "こんなの辛すぎますよね。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:42:00",
+      "utterance": "はい…それ見たことかって言われそうで…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:42:42",
+      "utterance": "誰かに言われそうで、怖い感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:43:09",
+      "utterance": "はい…考え無しって思われそうで…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:43:27",
+      "utterance": "うんうん"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:43:46",
+      "utterance": "そんな風に言わるのは、とても悔しいですよね。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:43:58",
+      "utterance": "はい。悔しいです"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:44:16",
+      "utterance": "でも、よく考えなかった自分も浅はかだったのかなって…思ったりもします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:45:16",
+      "utterance": "肩身が狭くなる感じがしてるのですね。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:46:03",
+      "utterance": "ここで、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:46:13",
+      "utterance": "少しこれまでのお話を整理させていただいてよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:46:26",
+      "utterance": "大丈夫です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:46:40",
+      "utterance": "有難うございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:47:44",
+      "utterance": "調理員として就職したわけではないのに、調理員として働かされ、仕事を辞めようか迷っておられます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:48:41",
+      "utterance": "本来は献立を作ったり指導したりしたかったが、人手不足でその仕事は管理栄養士がしている状況です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:49:43",
+      "utterance": "会社の説明と違うのは許せないし、もう絶望も感じられ仕事にも行きたくない"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:50:48",
+      "utterance": "今の状況はとても受け入れられるものではなく、先の見通しも立たない状況で、もう会社を辞めたいと思い詰めておられる"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:51:17",
+      "utterance": "このようなお話と思いますが、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:51:29",
+      "utterance": "はい、そうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:52:09",
+      "utterance": "有難うございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:52:16",
+      "utterance": "少し、私が感じたことをお伝えさえてもらってもよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:52:25",
+      "utterance": "はい、お願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:53:50",
+      "utterance": "今、やむなく調理のお仕事をさせてられていますが、栄養士の本来のお仕事をやりたいという熱意は衰えることなく、ずっと持ち続けておられます"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:54:05",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:54:49",
+      "utterance": "もっともっと人の役に立ちたい！という熱い情熱をお持ちの方だと感じました"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:55:16",
+      "utterance": "そうですね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:55:40",
+      "utterance": "ここまで人のことを考えられる栄養士さんは本当に素晴らしいと思いました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:57:09",
+      "utterance": "一方で、その情熱とは反対の調理員という現状は受け入れられないでおられます"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:57:22",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:58:17",
+      "utterance": "これは　それだけ人の役に立ちたい情熱が強いからこそだと感じました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:58:44",
+      "utterance": "そこでご提案なのですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T20:59:34",
+      "utterance": "まがりなりにも、センター側は今は見習い期間と言っているとのことでした"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T20:59:50",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T21:00:56",
+      "utterance": "そうであれば、自分の中で今は見習い期間と位置付けて、現場経験を積める時期ととらえてみるというのはいかがでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T21:01:06",
+      "utterance": "そして"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T21:01:37",
+      "utterance": "自分の中で期間を区切ってやってみる。例えばあと半年とか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T21:01:46",
+      "utterance": "そして"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T21:02:31",
+      "utterance": "その期間を過ぎてもセンター側から何も動きが無ければ、いい経験をさせてもらったということで、次のステップへ踏み出す　というのはいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T21:03:26",
+      "utterance": "そうですね。期間を区切るのはいいかもしれません。会社にももう一度この状況について聞いてみます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T21:04:08",
+      "utterance": "そうです。私も会社にそのことを聞くのはいいかと思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T21:04:47",
+      "utterance": "その回答の上で、身の振り方を考えようと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T21:05:38",
+      "utterance": "きっと、こんなに意識の高い情熱のある栄養士さんで、さらに調理の現場経験を踏んでいれば次のステップも大丈夫だと思いました"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T21:05:55",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T21:06:10",
+      "utterance": "有難うございます"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T21:06:10",
+      "utterance": "もっと調理も上手くなって、役に立つ栄養士になります"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T21:06:55",
+      "utterance": "そうです。あなたの情熱が、どんどん押し上げてくれると思いますよ！"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T21:07:12",
+      "utterance": "はい、ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T21:07:53",
+      "utterance": "有難うございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T21:08:06",
+      "utterance": "夢に向かって、よりよい働き方を見つけられるよう応援しております！"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T21:08:21",
+      "utterance": "前向きな気持ちになれましたありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T21:08:39",
+      "utterance": "本日はご相談に来ていただきどうも有難うございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T21:08:56",
+      "utterance": "また何かありましたら、ぜひまたお越しください"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T21:09:01",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-15T21:09:15",
+      "utterance": "それでは失礼いたします"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-15T21:09:23",
+      "utterance": "ありがとうございました"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "現在の栄養士としての職務に対する不満と将来のキャリアについての不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 188,
+    "評価作成日時": "2020-07-15T21:21:00",
+    "クライアント役ID": 21,
+    "カウンセラー役ID": 39,
+    "点数": 84,
+    "聴いてもらえた、わかってもらえたと感じた": 5,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 5,
+    "居心地のよいやりとりだった": 5,
+    "全体として適切でよかった": 5,
+    "今回の相談は価値があった": 5,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 4,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 5,
+    "要約": 4,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 188,
+    "evaluation_created_at": "2020-07-15T21:21:00",
+    "client_id": 21,
+    "counselor_id": 39,
+    "score": 84,
+    "felt_heard_and_understood": 5,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,464 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-12-23T19:23:22",
+      "utterance": "こんばんは。相談員役です。本日はよろしくお願いいたします。時間になりましたら始めさせていただきます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T19:30:24",
+      "utterance": "こんばんは。相談員です。ご相談にお越しいただきありがとうございます。はじめに年齢と性別、今日の相談内容を教えていただけますか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-23T19:31:20",
+      "utterance": "30歳　女性　お酒を飲むと人が変わってしまうので悩んでます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T19:32:34",
+      "utterance": "そうだったんですね。それはお困りですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-23T19:32:54",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T19:33:31",
+      "utterance": "人が変わってしまうというと、具体的にはどんなふうに変わるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-23T19:34:15",
+      "utterance": "気が大きくなってなにかしてるみたいなんですが、記憶がいつもありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T19:36:33",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-23T19:36:40",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T19:37:42",
+      "utterance": "記憶がいつもないとなると、自覚のしようがないし、人が変わると周りに言われるのもモヤモヤしますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-23T19:38:05",
+      "utterance": "周りには言われてはないです"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-23T19:38:29",
+      "utterance": "ただ自分でそう思うだけです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T19:38:59",
+      "utterance": "ええ。そのように思うのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-23T19:39:10",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T19:40:13",
+      "utterance": "ご自身ではどんな理由から、人が変わってしまうとお考えなのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-23T19:40:48",
+      "utterance": "うーん自分が自分じゃないみたいでいやですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T19:41:57",
+      "utterance": "そうなんですね。「お酒を飲むと、違う自分になるようで嫌」という感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-23T19:42:29",
+      "utterance": "はい！"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T19:43:56",
+      "utterance": "そうなんですね。そのような自分は受け入れたくないですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-23T19:44:11",
+      "utterance": "受け入れにくいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T19:45:21",
+      "utterance": "ええ。ちなみに、「自分が自分じゃないみたいでいや」という理由以外に、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T19:45:51",
+      "utterance": "困っていることや悩んでいることは、どんなことでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-23T19:46:47",
+      "utterance": "それが一番なやんでいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T19:48:08",
+      "utterance": "そうでしたか。受け入れにくい自分が嫌と思うのは自然なことと思いますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-23T19:48:38",
+      "utterance": "そうなのでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T19:49:52",
+      "utterance": "ええ。自分の嫌なところを受け入れるのは簡単なことではないと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-23T19:50:08",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T19:50:53",
+      "utterance": "ちなみに、人が変わってしまうと感じるのは、毎回なのでしょうか？それとも飲む量が多いときなのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-23T19:51:20",
+      "utterance": "飲む量が多い時です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T19:52:52",
+      "utterance": "そうなんですね。だとすると、楽しいときやたくさん飲みたいときに、人が変わってしまうと感じるのはしんどいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-23T19:53:05",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-23T19:53:21",
+      "utterance": "でもまわりは全然平気といってくれるのです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T19:54:04",
+      "utterance": "そうでしたか。その言葉を聞いて、どう思いましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-23T19:54:23",
+      "utterance": "少し安心と不安になりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T19:55:55",
+      "utterance": "ええ。それは「迷惑かけなくて良かった」と「もしかしたら気遣っているのかな」という感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-23T19:56:15",
+      "utterance": "どっちもです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T19:57:55",
+      "utterance": "ええ。その言葉を聞いて、安心もしたり、逆に不安になるのも無理もないことだと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-23T19:58:09",
+      "utterance": "ありがとございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T19:59:41",
+      "utterance": "お酒をたくさん飲むと人が変わってしまうように感じるということですが、あなたはこれからどうしていきたいとお考えでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-23T20:00:02",
+      "utterance": "ううん！変わらないように対策していきたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T20:01:00",
+      "utterance": "なるほどですね。お気持ち教えてくださってありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T20:01:20",
+      "utterance": "どんな対策ができそうか、これから一緒に考えてみましょうね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-23T20:01:41",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T20:02:41",
+      "utterance": "「自分が自分じゃないみたいでいや」とのことですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T20:03:36",
+      "utterance": "その気持ちは例えば、イライラするとか、悲しいとか、どんな感情なのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-23T20:03:50",
+      "utterance": "悲しいですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T20:04:21",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T20:05:03",
+      "utterance": "お酒を飲んだ後に、悲しくなるのは辛いですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-23T20:05:10",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T20:06:16",
+      "utterance": "ちなみに、人が変わってしまうように感じていたのはいつ頃からだったんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-23T20:07:19",
+      "utterance": "ずいぶん前からですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T20:07:56",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T20:08:41",
+      "utterance": "長い間、嫌な思いを抱えてきたんですね。しんどかったですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-23T20:10:09",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T20:10:36",
+      "utterance": "ここまでお話を聞いて、ずいぶん前からお酒を飲むと人が変わってしまうと感じ、ずっと嫌な思いをしてきたと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T20:12:19",
+      "utterance": "ちなみに、普段は人が変わってしまわないように、どんな対策をしているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-23T20:14:02",
+      "utterance": "お水を飲んだりサプリをのんだりしてます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T20:15:20",
+      "utterance": "そうでしたか。もうすでに対策となるような行動をされているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-23T20:15:37",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T20:15:43",
+      "utterance": "効果としてはいかがでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-23T20:16:31",
+      "utterance": "結構いいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T20:18:18",
+      "utterance": "そうでしたか。実感もされてるんですね。自分なりにできることを、本当によくやっておられると思います。"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-23T20:18:32",
+      "utterance": "ありがとございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T20:19:35",
+      "utterance": "現状でもよくやっておられますが、さらにできそうなことって、どんなことがありそうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-23T20:27:41",
+      "utterance": "うーん"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-23T20:28:02",
+      "utterance": "ペースを落として飲む"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T20:28:57",
+      "utterance": "ええ。それも一つだと思いますよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T20:29:42",
+      "utterance": "お話を聞いていて、まわりの人には人が変わるとは言われていないし、あなたは人に迷惑をかけたり、トラブルを起こしたりしていないし、するような人ではないと伝わってきました。なので、まわりの人が言う「全然平気」は本心なのかなと感じました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T20:30:06",
+      "utterance": "ただ、気にしすぎるのも、楽しく飲みづらいと思うので、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T20:31:03",
+      "utterance": "場面で使い分けることも一つかもしれません。例えば、「今日は楽しく飲むをゴールに、何も気にせず飲んでよし」「今日は受け入れられる自分でいたいから、何杯までにする」というように、人数やその場の状況によって「飲むときのゴールを設定してみる」のもいいかもしれませんよ。"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-23T20:31:59",
+      "utterance": "すごくいいアドバイスありがとございます"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-23T20:32:36",
+      "utterance": "そうして考え今後飲んでみようとおもいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T20:33:06",
+      "utterance": "ええ。あなたは、お水を飲んだりサプリをのんだりしていますし、私は今のたくさん飲んだ時のあなたも素敵なあなたのままだと思っています。"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-23T20:33:25",
+      "utterance": "ありがとございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T20:33:58",
+      "utterance": "これから忘年会や新年会などもありますし、ぜひ飲むときも飲み終わった後も楽しく過ごしてくださいね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-12-23T20:34:53",
+      "utterance": "ありがとございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T20:35:04",
+      "utterance": "それでは本日のご相談は終了させていただきますね。今日はお話聞かせてくださってありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T20:35:09",
+      "utterance": "あなたのこと応援しています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-12-23T20:36:05",
+      "utterance": "（お疲れ様でした。お手隙に評価頂けたら幸いです。よろしくお願いいたします。本日はありがとうございました。終了させていただきます。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "お酒を飲むと人が変わってしまうことへの悩み"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4398,
+    "評価作成日時": "2023-01-06T19:04:00",
+    "クライアント役ID": 282,
+    "カウンセラー役ID": 136,
+    "点数": 80,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 5,
+    "今回の相談は価値があった": 5,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 3,
+    "要約": 5,
+    "問題の明確化": 5,
+    "この相談での目標の明確化": 5,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 5,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4398,
+    "evaluation_created_at": "2023-01-06T19:04:00",
+    "client_id": 282,
+    "counselor_id": 136,
+    "score": 80,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 5,
+    "conversation_was_valuable": 5,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 5,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 5,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

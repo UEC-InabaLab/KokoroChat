@@ -1,0 +1,504 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2022-06-14T13:51:26",
+      "utterance": "こんにちは。本日はよろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T13:53:18",
+      "utterance": "（こんにちは。こちらこそよろしくお願い致します。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T13:53:31",
+      "utterance": "（時間になりましたら始めさせていただきます）"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T13:54:04",
+      "utterance": "はい、わかりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T14:00:07",
+      "utterance": "こんにちは。相談員です。本日はお越しいただきありがとうございます。はじめに年齢、性別を差し支えなければ教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:00:32",
+      "utterance": "はい。40代女性です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T14:00:50",
+      "utterance": "教えていただきありがとうございます。本日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:01:57",
+      "utterance": "今パート勤めをして2ヶ月になるのですが、辞めようか迷ってます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T14:02:47",
+      "utterance": "お仕事についてのご相談ですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:02:53",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T14:04:03",
+      "utterance": "辞めようと思った経緯をもう少し教えていただいてもよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:04:13",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T14:04:35",
+      "utterance": "お話しやすいところからで大丈夫ですよ"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:05:15",
+      "utterance": "整骨院の受付をしているのですが、お客さまがいなくなると院長が「施術してあげる」と言ってきます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:05:30",
+      "utterance": "それで施術後に"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:06:16",
+      "utterance": "私のカルテに自己負担0社保7割で請求するよう指示されます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T14:06:47",
+      "utterance": "そのようなことがあったのですねそれはお悩みになりますね"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:07:09",
+      "utterance": "はい。院長と2人っきりなので…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T14:07:59",
+      "utterance": "ええそういったときはあなたはなんと答えるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:08:49",
+      "utterance": "何も言えません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T14:09:08",
+      "utterance": "そうなのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T14:09:20",
+      "utterance": "困ってしまいますよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:09:21",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T14:10:25",
+      "utterance": "院長と関わりずらい、という思いでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:11:42",
+      "utterance": "そうですね…男性ですし、あまり口数の多い人ではないですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T14:12:15",
+      "utterance": "そのように思っておられるのですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:12:24",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:12:28",
+      "utterance": "私は"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:13:51",
+      "utterance": "善意で施術をしてくれているのだと思っていたら、カルテに7割請求(夫の健康保険組合)を指示され、不正請求していると理解しました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T14:14:43",
+      "utterance": "なるほどですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:15:16",
+      "utterance": "そうなんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T14:15:58",
+      "utterance": "そういったことをされて何も言えずに悩まれているのですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:17:16",
+      "utterance": "はい。心では施術をされたくないと思っていてもお客さまが引くと「施術します」と言われる。それがすごく嫌なんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T14:18:30",
+      "utterance": "ええ嫌な気持ちを持っていても、言ずらいですよね"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:21:04",
+      "utterance": "はい。ある程度仕事も覚え、自分の意見も言える状態だったら「結構です」と言えたと思います。が、勤めた初日から施術されたので拒否する間もなくという感じでした。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T14:23:13",
+      "utterance": "そうだったのですねそれは、ストレスになってしまいますよね"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:24:31",
+      "utterance": "はい…。仕事内容やお客さまはすごく良いのに、院長のその不正行為が嫌です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T14:25:55",
+      "utterance": "ええお仕事面では問題ないのに、院長に対してご不満を持っておられるのですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:27:58",
+      "utterance": "はい。夫に相談すると少ない給料から皆で出しあってプールしてる保険料を院長が、私の体を使って不正請求する行為が許せないと言いました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T14:28:59",
+      "utterance": "ええそのように思われるのも無理のないことかと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T14:29:30",
+      "utterance": "もし、あなたがこの職場で続けていくとしたら、"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:29:37",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T14:30:14",
+      "utterance": "この問題は解決されていくことはあると思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:31:37",
+      "utterance": "ないんじゃないかなと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T14:31:59",
+      "utterance": "そう思われているのですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:32:15",
+      "utterance": "はい、そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T14:32:54",
+      "utterance": "ではもし、辞めた場合はなにか問題になることはございますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:35:09",
+      "utterance": "特にないです。うん、ないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T14:35:59",
+      "utterance": "そうなのですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:36:07",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T14:36:55",
+      "utterance": "あるとしたら他のお仕事を探さないといけない、などですかね？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:37:57",
+      "utterance": "そうですね、せっかく勤めだしたのにまた振り出しか…という感じですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T14:38:45",
+      "utterance": "ええそのように考えておられるのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T14:40:32",
+      "utterance": "お話を聞かせていただいていると、あなたは仕事が好きで正義感や責任感が強い方なのかな、と感じましたがいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:40:41",
+      "utterance": "はい、そうですね。でも本当に辞めても何も問題ないなと気づきました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T14:41:08",
+      "utterance": "そのようなお気づきがあったのですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:41:39",
+      "utterance": "はい、そうですね。書いてて気付きました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:42:45",
+      "utterance": "あ、二つ上の質問に答えてませんでした"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:43:29",
+      "utterance": "そうですね、一度勤めたら出来るだけ長く続けようと思って就職してます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T14:43:58",
+      "utterance": "ごめんなさいね質問がかぶってしまいましたね"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:44:11",
+      "utterance": "いえいえ、私の方こそ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T14:44:57",
+      "utterance": "ええそういった責任感を持った方が目の前で不正されるのはお辛いお気持ちがあったのかなと思いました"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:46:04",
+      "utterance": "はい。「不正請求」をしていると理解した時、はっきり言って院長を軽蔑しましたし、すごくショックを受けました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T14:47:00",
+      "utterance": "そのように感じておられるのですねたしかに、不信感を持ってしまいますよね"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:49:05",
+      "utterance": "はい、すごく不信感を抱きました。人として無理でした"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T14:49:50",
+      "utterance": "ええそうしたお気持ちを抱えて、これまで頑張ってこられたのですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:50:50",
+      "utterance": "そうですね、まだ入って2ヶ月なんですがパートの日が苦痛に感じます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T14:52:00",
+      "utterance": "そういった環境だと苦しさを感じるも無理のないこだと思います"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:54:18",
+      "utterance": "そうなんです…。院長が不正請求さえしなかったら、私はずっと勤められるのに悔しいなと思ってしまうんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T14:55:56",
+      "utterance": "ええそういったことしなければいいのに、と思ってしまいますよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T14:56:17",
+      "utterance": "今日はそろそろお時間になりますが、少しでもお役に立てましたでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:56:24",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:56:47",
+      "utterance": "心のモヤモヤを吐き出せて少しスッキリしました"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:56:57",
+      "utterance": "あと"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:57:38",
+      "utterance": "辞めても特に問題は無いとわかったので早めに縁を切ろうと思いました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T14:58:21",
+      "utterance": "少しでもお役に立てて良かったです"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:58:33",
+      "utterance": "こちらこそありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T14:59:02",
+      "utterance": "いえいえこちらこそ大切なお話ありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T14:59:49",
+      "utterance": "いえいえ、専門的な話しでわかりにくかったかも知れません。申し訳ございませんでした。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T15:01:54",
+      "utterance": "ぜひこれからより活躍できる環境になることを思っております"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T15:02:17",
+      "utterance": "はい、ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T15:02:54",
+      "utterance": "それとご自分のことも大切にしてあげてくださいねまたなにかありましたら、こちらでいつでもお待ちしております。"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T15:03:33",
+      "utterance": "はい、そうさせていただきます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T15:03:54",
+      "utterance": "本日はありがとうございました。失礼いたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-06-14T15:04:14",
+      "utterance": "（相談者役お疲れさまでした。お時間あるときに評価、コメントいただければと思います）"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T15:04:14",
+      "utterance": "こちらこそありがとうございました。失礼いたします"
+    },
+    {
+      "role": "client",
+      "time": "2022-06-14T15:04:25",
+      "utterance": "はい、わかりました"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "不正請求に関する院長との関係問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3600,
+    "評価作成日時": "2022-06-14T15:17:00",
+    "クライアント役ID": 259,
+    "カウンセラー役ID": 280,
+    "点数": 78,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 5,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 3,
+    "要約": 4,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3600,
+    "evaluation_created_at": "2022-06-14T15:17:00",
+    "client_id": 259,
+    "counselor_id": 280,
+    "score": 78,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 5,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

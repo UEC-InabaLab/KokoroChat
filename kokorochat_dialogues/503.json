@@ -1,0 +1,759 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2020-10-01T20:02:31",
+      "utterance": "こんにちは"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:03:01",
+      "utterance": "初めても大丈夫でしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:03:58",
+      "utterance": "こんにちは。大丈夫です"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:04:07",
+      "utterance": "よろしくお願い致します"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:04:08",
+      "utterance": "よろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:04:47",
+      "utterance": "こんばんは、相談員です。今日は、どのようなご相談でしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:05:33",
+      "utterance": "はい。家に帰るのが辛くて、、"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:05:39",
+      "utterance": "悩んでます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:06:14",
+      "utterance": "それは、しんどい状況ですね…どうされたのでしょう？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:06:24",
+      "utterance": "（すみません。つぎのロールプレイの方の方に入ってしまっていました。おそくなり、大変失礼しました）"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:07:08",
+      "utterance": "(お疲れ様です。大丈夫です。)はい。お父さんとお母さんの仲が悪くて、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:07:22",
+      "utterance": "そうなのですね…"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:07:24",
+      "utterance": "しんどいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:07:43",
+      "utterance": "それは、気持ちが重くなりますよね…"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:07:46",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:08:19",
+      "utterance": "もしよろしければ、学年、性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:08:37",
+      "utterance": "大学生、女です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:09:02",
+      "utterance": "ご実家から、大学に通っていらっしゃるんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:09:09",
+      "utterance": "はい。そうです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:09:41",
+      "utterance": "いつ頃から、仲が悪いのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:09:56",
+      "utterance": "物心ついたときには、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:10:29",
+      "utterance": "ずいぶんと長い間、仲たがいされているのを見ていらしたんですね…"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:10:55",
+      "utterance": "そうですね。言い合いしてるのを見るのは辛いです。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:11:12",
+      "utterance": "あと、お母さんが愚痴っているのも辛いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:11:50",
+      "utterance": "そうですよね…愚痴を聞くというのも、しんどいですよね…家に帰るのがつらくなったとありましたが、きっかけなど、あるのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:13:07",
+      "utterance": "きっかけというか、、、家にいると、言い合ったり、お母さんが愚痴を言ってきたりするので、そういうのが続いているのでしんどいなぁと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:14:13",
+      "utterance": "以前からの家族の状態から、家に帰るのが憂鬱になっているのですね…"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:14:32",
+      "utterance": "はい、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:15:12",
+      "utterance": "お母さんは、どのような愚痴を話してくるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:16:17",
+      "utterance": "お父さんが借金をかかえてて、家にお金をいれないので、そのことについてです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:16:44",
+      "utterance": "それは、大変な状況ですね…"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:16:57",
+      "utterance": "はい、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:17:10",
+      "utterance": "聞いていると、気がめいってしまいますね…"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:17:28",
+      "utterance": "お父さんが悪いのはわかるけど、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:17:33",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:17:41",
+      "utterance": "なんだか聞いてると悲しくなりますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:18:47",
+      "utterance": "ご両親がうまくいかない、というのは、本当に心が引き裂かれるような思いがするものですよね…"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:19:00",
+      "utterance": "はい、、、"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:19:12",
+      "utterance": "どちらも大好きなので余計辛いですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:19:28",
+      "utterance": "そうなのですね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:20:02",
+      "utterance": "本当に、行き場のない悲しみでいっぱいになってしまいますよね…"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:20:18",
+      "utterance": "はい、、、"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:20:26",
+      "utterance": "かなしいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:21:19",
+      "utterance": "ええ。ずっと、そのような思いを抱えてこられて、悲しみとあきらめのようなどうしようもない気持ちでいっぱいだと思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:21:54",
+      "utterance": "どうしたらいいのかわからなくて、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:22:20",
+      "utterance": "そうですね…"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:22:34",
+      "utterance": "はい、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:22:58",
+      "utterance": "どうなったらいい、といった思いなどありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:23:49",
+      "utterance": "幸せに過ごしてくれればうれしいのです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:24:29",
+      "utterance": "幸せに、というのは、ご家族全員が、ということでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:24:36",
+      "utterance": "はい、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:25:46",
+      "utterance": "あなたが、今考えるご家族が幸せな過ごし方、というのは、どんなものでしょう？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:26:31",
+      "utterance": "仲良くすごしてほしいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:27:32",
+      "utterance": "そうですよね。それが、いいですよね…"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:27:37",
+      "utterance": "はい、、、"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:27:41",
+      "utterance": "笑って欲しいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:28:22",
+      "utterance": "いつも、そんなふうに思って過ごしていらっしゃるんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:28:28",
+      "utterance": "はい、、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:29:15",
+      "utterance": "ご自身の学生生活は、どうですか？どのようにお過ごしですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:29:29",
+      "utterance": "普通かな、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:30:01",
+      "utterance": "そうなのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:30:24",
+      "utterance": "とにかく家に帰りづらいんですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:30:47",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:31:10",
+      "utterance": "でも、帰るしかなないから、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:31:44",
+      "utterance": "一人暮らしをしてみようなど、考えたことはないですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:32:08",
+      "utterance": "お金がないから厳しいですね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:32:24",
+      "utterance": "そうなのですね…"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:32:28",
+      "utterance": "はい、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:32:53",
+      "utterance": "ちなみに、ご兄弟はいらっしゃるんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:33:02",
+      "utterance": "いないです。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:33:33",
+      "utterance": "なかなか相談出来る相手もいませんね、、、"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:33:45",
+      "utterance": "家庭の話なので、友達にも言いにくい、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:33:57",
+      "utterance": "そうなのですね…"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:34:10",
+      "utterance": "はい、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:35:41",
+      "utterance": "少し、お話されたことを、整理させていただいてもよろしいでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:35:47",
+      "utterance": "はい。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:35:53",
+      "utterance": "よろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:38:03",
+      "utterance": "家にいると、言い合ったり、お母さんが愚痴を言ってきたりするので、そういうのが続いていて家に帰るのがしんどい状態でいらっしゃる"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:38:51",
+      "utterance": "ご両親どちらも好きなので、幸せに過ごしてほしい。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:39:25",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:39:41",
+      "utterance": "家族のことなので、友達など相談できる人がおらず、つらい思いを一人で抱えていらっしゃる"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:40:48",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:41:11",
+      "utterance": "ところで、お父さんの借金が原因ということをおっしゃていましたが、どのような状態なのでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:42:02",
+      "utterance": "わたしも詳しくはわかりませんが、借金の返済に追われていて、家庭にお金が入ってこないんです"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:42:15",
+      "utterance": "なので、お母さんの稼ぎでほとんど暮らしています"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:42:59",
+      "utterance": "それは、本当に大変な状況ですね…"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:43:05",
+      "utterance": "はい、、、"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:43:25",
+      "utterance": "お父さんにお金の話をすると怒るので、安易に何も言えません、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:44:04",
+      "utterance": "そうなのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:44:12",
+      "utterance": "はい、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:45:45",
+      "utterance": "そんな中、大学に進学し、がんばられましたね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:46:10",
+      "utterance": "はい、、なんとか奨学金も借りて行っています"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:47:12",
+      "utterance": "家が、落ち着かない中、勉強をあきらめず、今までよく頑張ってこられたのだな、すごいことだな、と思います。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:47:22",
+      "utterance": "ありがとうございます、、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:48:04",
+      "utterance": "何か、将来つきたい職業などあるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:48:38",
+      "utterance": "そうですね。お母さんに憧れて看護師になるのが夢です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:49:04",
+      "utterance": "お母さん、看護師をされているのですね！"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:49:32",
+      "utterance": "はい。小さい頃から、よく職場に遊びにいっていました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:50:14",
+      "utterance": "そうだったんですね。とっても素敵なことですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:50:35",
+      "utterance": "はい。お母さんのことは本当に尊敬しています。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:50:53",
+      "utterance": "だからこそ、幸せに笑って過ごして欲しいんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:51:00",
+      "utterance": "そうなのですね。お母さんに憧れて、なんて、とてもお母さんのこと愛していらっしゃるのが伝わってきます。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:51:33",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:51:38",
+      "utterance": "私から、ご提案させていただきたいことがあるのですが、お話させていただいてもよろしいでしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:51:49",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:53:03",
+      "utterance": "あなたは、ご両親の幸せをいつも願って、笑って過ごしてほしいという思いをいつも抱いている、本当に心の優しい、親思いの方だと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:54:28",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:54:29",
+      "utterance": "本当に、美しい心持ちの方ですが、家に帰るのが、しんどいとおっしゃていらっしゃり、ご自身がの心が、とても疲れていらっしゃるのが、心配です。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:54:40",
+      "utterance": "はい、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:54:55",
+      "utterance": "それで、聞いていただきたいのですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:55:32",
+      "utterance": "親というのは、子どもが幸せにしているのが、何よりもうれしいものなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:55:56",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:56:30",
+      "utterance": "だから、あなたが、どんなにご両親のことを愛していても、あなたが、疲れてしんどい思いをされていることは、口にはださなくても、ご両親にとっては、とても悲しいことだと思うのです。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:56:43",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:57:02",
+      "utterance": "助けたいなら、まず、自分が丘にあがれ、ということばがあります。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:57:28",
+      "utterance": "初めてききました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:57:44",
+      "utterance": "あなたも、ご両親と同じようにしんどい思いをしていたら、一緒に乗っている船は、どんどん沈んでいってしまいます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:58:14",
+      "utterance": "ですから、まず、あなたから、幸せになっていくこと"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:58:14",
+      "utterance": "そうですね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:58:19",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:58:37",
+      "utterance": "どうすれば幸せになるのかわかりません、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:59:07",
+      "utterance": "大きなことでなくても、いいと思うんです"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:59:20",
+      "utterance": "う～ん"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T20:59:26",
+      "utterance": "心から、笑えることを見つけていくこと"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T20:59:41",
+      "utterance": "う～ん"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T21:00:14",
+      "utterance": "私は、なんとなく、看護師さんになりたいといった夢にヒントがあるように思います。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T21:00:29",
+      "utterance": "そうでしょうか、、、？"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T21:00:57",
+      "utterance": "(時間ですね。おわりましょうか？)"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T21:01:06",
+      "utterance": "看護師さんになって、どのような体験をしていきたいのか、それにあなたの幸せがあるように思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T21:01:11",
+      "utterance": "（はい）"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T21:01:36",
+      "utterance": "今日は、ご相談にきてくださりありがとうございました"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T21:01:44",
+      "utterance": "こちらこそありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T21:02:06",
+      "utterance": "あなたの幸せの種がたくさんみつかることを願っています。"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T21:02:12",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T21:02:17",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T21:02:39",
+      "utterance": "（それでは、終了させていただいてもよろしいでしょうか）"
+    },
+    {
+      "role": "client",
+      "time": "2020-10-01T21:02:47",
+      "utterance": "(はい！)"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-10-01T21:03:04",
+      "utterance": "（貴重なお時間ありがとうございました）"
+    }
+  ],
+  "topic": {
+    "main_jp": "家庭内問題（夫婦以外）",
+    "main_en": "Family Issues (Non-Spousal)",
+    "sub": "親の不仲による心の負担"
+  },
+  "review_by_client_jp": {
+    "評価ID": 503,
+    "評価作成日時": "2020-10-01T21:40:00",
+    "クライアント役ID": 74,
+    "カウンセラー役ID": 33,
+    "点数": 66,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 1,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 3,
+    "要約": 4,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 503,
+    "evaluation_created_at": "2020-10-01T21:40:00",
+    "client_id": 74,
+    "counselor_id": 33,
+    "score": 66,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 1,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

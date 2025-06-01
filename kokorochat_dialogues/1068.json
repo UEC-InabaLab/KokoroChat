@@ -1,0 +1,544 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:00:53",
+      "utterance": "こんにちは。メンタルトレーナーの風です。このテーマは　メンタルトレーニング　受験　となります。よろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:01:08",
+      "utterance": "わかりました。お願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:01:18",
+      "utterance": "お越しいただきありがとうございます。受験に関するご相談ですよね。今日はどのようなご相談になりますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:02:19",
+      "utterance": "来年受験なんですが、今のままでは志望校に受からないんです"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:02:54",
+      "utterance": "どうやって勉強していけばいいですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:03:27",
+      "utterance": "そうなんですね。それはあせりますよね。来年というのは次の春ということですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:03:44",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:03:47",
+      "utterance": "よろしかったら年齢と性別と、ここでなんてお呼びしたらいいか教えていただけますか？ニックネームでも構いませんよ。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:04:08",
+      "utterance": "ジェルです"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:04:30",
+      "utterance": "中3です"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:04:36",
+      "utterance": "女です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:04:41",
+      "utterance": "ジェルさんですね。教えていただいてありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:05:04",
+      "utterance": "じゃぁ高校受験ということでよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:05:11",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:05:39",
+      "utterance": "わかりました。一緒に考えていきましょうね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:05:46",
+      "utterance": "お願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:06:21",
+      "utterance": "ジェルさんは、今はどんな風に勉強してらっしゃるんですか"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:07:18",
+      "utterance": "受験問題やってます"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:07:48",
+      "utterance": "もう切羽詰まってるんです"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:08:05",
+      "utterance": "なんか焦って"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:08:59",
+      "utterance": "やることまだいっぱいある感じで"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:09:02",
+      "utterance": "そうなんですね。焦る気持ちもわかります。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:09:18",
+      "utterance": "覚えられないんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:09:34",
+      "utterance": "そうなんですね。今のやり方だと足りないと思われてるんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:09:52",
+      "utterance": "覚えるのに苦労している感じなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:10:06",
+      "utterance": "はい、社会が一番苦手で"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:10:30",
+      "utterance": "数学と英語はいいかなぁ"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:10:35",
+      "utterance": "そうなんですねー。社会は覚えることたくさんありますもんね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:10:53",
+      "utterance": "社会が足を引っ張る感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:11:17",
+      "utterance": "うんうん。数学と英語が得意なんてすごいですね！じゃぁ暗記科目が課題なんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:11:26",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:12:03",
+      "utterance": "社会で暗記って歴史とかですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:12:16",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:12:21",
+      "utterance": "もちろん"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:12:48",
+      "utterance": "そっかそっか。もちろんなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:12:51",
+      "utterance": "地理と公民です"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:13:21",
+      "utterance": "膨大だから、"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:13:53",
+      "utterance": "小学校から苦手で、成績よくなかったんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:13:58",
+      "utterance": "膨大ですよねぇ。わかります"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:14:36",
+      "utterance": "そうなんですね。興味が持てないって感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:14:43",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:15:15",
+      "utterance": "それでも5教科あるんで"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:15:25",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:15:50",
+      "utterance": "社会ばかり時間かけられないし"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:16:20",
+      "utterance": "例えば社会の分、数学や英語で稼ぐって方法もありですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:16:40",
+      "utterance": "ありだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:17:08",
+      "utterance": "それはよかった！得意科目にフォーカスする方がやる気でそうですもんね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:17:10",
+      "utterance": "数学と英語はかなりいいので、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:17:23",
+      "utterance": "うんうん素晴らしいです！"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:17:51",
+      "utterance": "でも志望校の偏差値が高いので、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:18:20",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:18:35",
+      "utterance": "イマイチ足りない"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:19:04",
+      "utterance": "数学と英語でフォローしきれないん部分があるんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:19:11",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:19:34",
+      "utterance": "あと2教科はどんな感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:20:03",
+      "utterance": "国語は読解が大変ですよね(?)"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:20:20",
+      "utterance": "そう感じておられるんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:20:23",
+      "utterance": "だから普通かな"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:20:32",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:20:42",
+      "utterance": "そっかそっか。"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:21:15",
+      "utterance": "理科も普通よりちょっといいだけかな"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:22:02",
+      "utterance": "うんうん。でも社会以外はいい感じじゃないですか。その志望校に行きたい理由はどんなところですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:22:38",
+      "utterance": "部活が強いところなんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:23:09",
+      "utterance": "おーどんな部活ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:23:28",
+      "utterance": "陸上です"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:23:59",
+      "utterance": "インターハイよく出てくるんですよ"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:24:20",
+      "utterance": "そうなんですね。偏差値高くて陸上強いとは文武両道でよさそうな学校ですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:24:28",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:24:47",
+      "utterance": "オール4はないと"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:24:55",
+      "utterance": "インターハイですか。そこ目指されてるんですね！"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:25:02",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:25:24",
+      "utterance": "では勉強頑張りがいがありますね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:25:43",
+      "utterance": "うーん(゜-゜)"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:26:05",
+      "utterance": "勉強がんばってきたけど、"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:26:27",
+      "utterance": "残り少なくなってきて、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:27:00",
+      "utterance": "そうですよね。焦りますよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:27:08",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:28:02",
+      "utterance": "でも焦ると記憶に集中できなくなってしまいそうかと思うのですが、いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:28:24",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:28:46",
+      "utterance": "社会得意でしたか(?)"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:28:59",
+      "utterance": "目標も課題もはっきりされているので試験までの勉強スケジュール建てをしてひとつづつやっていくというのはいかがですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:29:27",
+      "utterance": "あ、私も膨大な暗記には手を焼きました笑"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:29:39",
+      "utterance": "スケジュール建ててます"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:29:52",
+      "utterance": "学校から言われるの"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:30:06",
+      "utterance": "社会どう勉強しましたか?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:30:44",
+      "utterance": "うんうん、そうなんですね。学校からスケジュールを言われるの？社会の勉強法について？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:31:01",
+      "utterance": "うん"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:31:16",
+      "utterance": "まずは興味が湧くところから手を付けてはどうですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:31:30",
+      "utterance": "好きな時代とかないですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:32:04",
+      "utterance": "ありますが"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:32:43",
+      "utterance": "そこは試験範囲じゃない感じ？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-31T12:33:24",
+      "utterance": "でるかなぁ?"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:34:59",
+      "utterance": "時間に制限があるのでヤマが張れるならそこですけど、興味があるところから少しづつスケジュール組んでやっていけば、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:35:38",
+      "utterance": "すこしづつ暗記できるんじゃないかなぁ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-31T12:36:12",
+      "utterance": "（ありがとうございました）終了させていただきますね"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "受験勉強の効率的な進め方"
+  },
+  "review_by_client_jp": {
+    "評価ID": 1068,
+    "評価作成日時": "2020-12-31T12:41:00",
+    "クライアント役ID": 131,
+    "カウンセラー役ID": 140,
+    "点数": 80,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 5,
+    "やりとりのリズムがあっていた": 5,
+    "居心地のよいやりとりだった": 5,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 5,
+    "肯定・承認": 5,
+    "的確な質問による会話の促進": 5,
+    "要約": 4,
+    "問題の明確化": 5,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 0,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 1068,
+    "evaluation_created_at": "2020-12-31T12:41:00",
+    "client_id": 131,
+    "counselor_id": 140,
+    "score": 80,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 5,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 5,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 5,
+    "asked_effective_questions": 5,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 5,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 0,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

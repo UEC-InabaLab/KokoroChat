@@ -1,0 +1,739 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-05-06T13:51:50",
+      "utterance": "今日はよろしくお願いします。お時間になったら始めさせていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T13:52:31",
+      "utterance": "よろしくお願いします。希望のケースや相談者の設定はございますでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:00:38",
+      "utterance": "特にございません。よろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:00:45",
+      "utterance": "こんにちは。相談員です。今日はお越し頂きありがとうございます。初めに差し支えなければあなたの年齢と性別を教えて頂けますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:01:02",
+      "utterance": "男です。年齢は正確に言わないとダメですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:01:27",
+      "utterance": "いいえ、言わなくてももちろん大丈夫ですよ、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:01:39",
+      "utterance": "教えて頂きありがとうございます、"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:01:41",
+      "utterance": "じゃあ20代くらいで"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:01:46",
+      "utterance": "です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:02:05",
+      "utterance": "ありがとうございます、今日はどんなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:02:18",
+      "utterance": "やる気が出ません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:02:33",
+      "utterance": "そうなんですね、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:02:54",
+      "utterance": "どんな時にそのような気持ちになるのかもう少し詳しく聞いてもよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:03:01",
+      "utterance": "いつもです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:03:34",
+      "utterance": "そうでしたか、それは辛いですよね、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:04:14",
+      "utterance": "どんなことにやる気が出ないのか聞いてもよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:04:28",
+      "utterance": "全部に対してです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:05:01",
+      "utterance": "そうだったのですね、いつ頃からそんな気持ちが出てき始めたのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:05:23",
+      "utterance": "覚えてません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:06:06",
+      "utterance": "そうなんですね、ここではあなたの話しやすいことからなんでもお話してくださいね、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:06:58",
+      "utterance": "あなたのことについてもう少し教えてください、"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:07:11",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:07:29",
+      "utterance": "ありがとうございます、今はどんな生活を送っているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:07:43",
+      "utterance": "普通の生活です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:08:00",
+      "utterance": "ええ、そうなのですねお仕事などはされているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:08:13",
+      "utterance": "いいえ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:08:35",
+      "utterance": "そうなのですね、一緒に暮らしている人などはおられますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:08:52",
+      "utterance": "いいえ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:09:06",
+      "utterance": "そうだったのですね、教えて頂きありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:09:30",
+      "utterance": "その中で毎日やる気が出ない、そんなふうに感じてらっしゃるのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:09:49",
+      "utterance": "他になにか感じることなどはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:10:16",
+      "utterance": "毎日って言いましたっけ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:10:42",
+      "utterance": "失礼しました、いつも、と言ってましたよね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:11:05",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:12:18",
+      "utterance": "ええ、他に何か感じることなどはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:12:58",
+      "utterance": "わかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:13:21",
+      "utterance": "そうなのですね、考えてくださってありがとうございます、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:14:47",
+      "utterance": "いつも全てに対してやる気が出ない、そんなふうに感じていて、それがいつからなのかもわからなく、どうしていいかわからない、そんな気持ちなのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:15:38",
+      "utterance": "どうしていいかわからないなんて言いましたっけ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:16:02",
+      "utterance": "もしかしたらそうなのかもしれない、と思い聞いてみました。違っていたらすみません、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:16:24",
+      "utterance": "どんなお気持ちであるかもしよかったらあなたの気持ち聞いてもよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:16:47",
+      "utterance": "それもどうなのかもわかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:17:22",
+      "utterance": "そうだったのですね、わかることだけで大丈夫ですよ、ここでは安心してお話ししてください"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:17:58",
+      "utterance": "毎日睡眠や食事は取れているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:18:07",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:18:22",
+      "utterance": "そうでしたか、それは少し安心しました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:19:15",
+      "utterance": "やる気が出ない、というふうに感じてらっしゃるとのことですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:19:57",
+      "utterance": "できたらいいな、と思うことややりたいこと、やらなければいけないことなどおありなのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:20:20",
+      "utterance": "何から話せばいいかわかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:20:41",
+      "utterance": "ええ、そのようなお気持ちなのですね、大丈夫ですよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:21:02",
+      "utterance": "上手にお話しできています、少しずつでいいので"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:21:18",
+      "utterance": "馬鹿にしないでください"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:22:04",
+      "utterance": "そんなふうに感じさせてしまいすみませんでした、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:22:31",
+      "utterance": "あなたのお話を聞かせて頂きたいので"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:23:22",
+      "utterance": "なにがあったのか教えていただけますか？どんなことでも大丈夫です、"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:23:48",
+      "utterance": "そう言われても何を話せばいいのかわかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:24:57",
+      "utterance": "そうでしたか、ではなにか話したいと思った時にいつでもお話ししてくださいね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:25:47",
+      "utterance": "あなたのことについてもう少し知りたいので、聞いてもよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:25:52",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:26:00",
+      "utterance": "ありがとうございます、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:26:49",
+      "utterance": "毎日家ではどのように過ごされていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:27:01",
+      "utterance": "普通に過ごしてます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:27:15",
+      "utterance": "外出することなどはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:27:33",
+      "utterance": "時々"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:28:03",
+      "utterance": "そうだったのですね、どんな用事で外出されるのかもしよかったら聞いてもよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:28:18",
+      "utterance": "特にありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:29:04",
+      "utterance": "そうなのですね、お散歩などされているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:29:57",
+      "utterance": "どうなんでしょうね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:30:42",
+      "utterance": "ええ、そのように思われるのですね、外に出るとどんな気持ちになりますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:31:20",
+      "utterance": "何も考えてません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:32:36",
+      "utterance": "そうでしたか、外に出た時はやる気が出ない、そんな気持ちを考えずに済む感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:33:04",
+      "utterance": "いいえ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:34:32",
+      "utterance": "ええ、そうなんですね、外出してるときも晴れない気持ちがどこかにあるのですね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:35:10",
+      "utterance": "それは何か確証はあるのですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:35:49",
+      "utterance": "いえ、あなたのことをお聞きしてそうなのかもしれないな、とイメージしたので言いました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:36:04",
+      "utterance": "違いましたか？違っていたらすみません、"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:36:39",
+      "utterance": "想像で進めてるんですね。わかっていたら普通に話していますよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:37:27",
+      "utterance": "そうですよね、あなたのことを知りたいと思っていたので、ちゃんとわかっていなかったと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:38:44",
+      "utterance": "想像ですすめているつもりはなかったのですが、そんなふうに伝わってしまいすみませんでした"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:39:29",
+      "utterance": "例えばですが、誰かと最近話したりしましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:39:36",
+      "utterance": "いいえ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:40:02",
+      "utterance": "そうなんですね、連絡を取ってる人などは誰かいらっしゃるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:40:11",
+      "utterance": "いいえ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:41:05",
+      "utterance": "そうなんですね、最後に誰かと話したのがいつごろか覚えていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:41:19",
+      "utterance": "覚えてません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:41:39",
+      "utterance": "そうだったのですね、教えてくれてありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:44:10",
+      "utterance": "誰かと話すことが怖かったりしますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:44:33",
+      "utterance": "いいえ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:45:22",
+      "utterance": "そうなんですね、最後に誰かと話したことがいつ頃かわからないということでしたが"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:46:41",
+      "utterance": "どんなことがあって誰かとお話ししなくなったのか聞いてもよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:47:25",
+      "utterance": "特に何もありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:47:56",
+      "utterance": "そうだったのですね、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:48:14",
+      "utterance": "ご両親や兄弟などはいらっしゃるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:48:26",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:48:48",
+      "utterance": "ええ、ご家族の方は近くにいるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:49:05",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:49:23",
+      "utterance": "そうなんですね、連絡は取られてないのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:49:32",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:49:43",
+      "utterance": "ええ、ええ、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:50:00",
+      "utterance": "最後に会ったり連絡したのはいつ頃だったか覚えていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:50:15",
+      "utterance": "覚えてません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:50:30",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:50:48",
+      "utterance": "ご家族からも連絡などは来ないのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:50:55",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:51:18",
+      "utterance": "そうなのですね、少し寂しい気持ちがするのではないかと思いましたが、いかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:51:34",
+      "utterance": "なんとも思いません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:51:49",
+      "utterance": "そうでしたか、そんなふうに思われるのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:52:07",
+      "utterance": "いま20代ということでしたが"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:52:20",
+      "utterance": "大学などは進学されたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:52:32",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:52:55",
+      "utterance": "そうだったのですね、教えて頂きありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:53:11",
+      "utterance": "進学されて就職はされたのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:53:55",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:54:16",
+      "utterance": "そうだったのですね、どれくらいお勤めになったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:54:37",
+      "utterance": "数年"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:55:01",
+      "utterance": "そうなのですね。数年勤めてらっしゃったのですね、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:55:16",
+      "utterance": "その会社はどうでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:55:27",
+      "utterance": "どうとは"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:55:38",
+      "utterance": "楽しかったですか？それとも大変でしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:56:10",
+      "utterance": "特に印象はありません"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:56:30",
+      "utterance": "（そろそろ時間なので、終了の方向でお願いします。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:56:34",
+      "utterance": "そうだったのですね、お仕事を辞めてからどれくらい経つのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:57:10",
+      "utterance": "そんなに経ってません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:57:26",
+      "utterance": "ええ、そうなのですね、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:58:06",
+      "utterance": "今日はそろそろお時間になってしまい話せそうにないのですが、また次回に続きをお話ししませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:58:14",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:59:13",
+      "utterance": "はい、ありがとうございます、また次回にここからの話の続きをしたいと思います"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T14:59:23",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:59:33",
+      "utterance": "もう少しあなたのことについて知りたいので、またここで待ってますね、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T14:59:56",
+      "utterance": "こちらこそ今日はあなたのことを教えてくださりありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T15:00:08",
+      "utterance": "それでは失礼致します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T15:00:45",
+      "utterance": "(お疲れ様です。どんなところを扱って欲しかったのか、どんな共感が欲しかったのかなど教えてもらえますか？後ほど評価よろしくお願いします。)"
+    },
+    {
+      "role": "client",
+      "time": "2022-05-06T15:01:05",
+      "utterance": "(ありがとうございました。かしこまりました。)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-05-06T15:01:15",
+      "utterance": "お疲れ様です。失礼します、"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "やる気の出ない状態"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3451,
+    "評価作成日時": "2022-05-07T18:09:00",
+    "クライアント役ID": 125,
+    "カウンセラー役ID": 181,
+    "点数": 53,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 2,
+    "要約": 4,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3451,
+    "evaluation_created_at": "2022-05-07T18:09:00",
+    "client_id": 125,
+    "counselor_id": 181,
+    "score": 53,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

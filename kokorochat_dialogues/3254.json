@@ -1,0 +1,329 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-03-12T12:50:45",
+      "utterance": "（本日は宜しくお願いします。お時間になったらはじめさせていただきます。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-12T13:00:18",
+      "utterance": "こんにちは、相談員です。本日はお越しいただきありがとうございます。はじめに、あなたのご年齢と性別をお聞かせいただけますか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-12T13:00:42",
+      "utterance": "お願いします"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-12T13:01:02",
+      "utterance": "30代男性です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-12T13:01:19",
+      "utterance": "ありがとうございます。本日はどのようなご相談でしょうか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-12T13:03:04",
+      "utterance": "仕事が厳しく退職を考えています営業の仕事ですがノルマが厳しいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-12T13:04:25",
+      "utterance": "なるほど、退職をお考えとのことですね。現在のお仕事に就かれて、どれくらいなのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-12T13:05:13",
+      "utterance": "10年ですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-12T13:08:00",
+      "utterance": "10年ですね。ノルマが厳しいとお感じになられたのは、いくつらいでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-12T13:08:28",
+      "utterance": "（いくつらい→いつくらいから）"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-12T13:08:53",
+      "utterance": "最近です1～2年前です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-12T13:10:32",
+      "utterance": "そうだったのですね。1~2年の間、頑張られてこられたのですね。もう少し相談者様のお仕事の状況をイメージしたいので、どういったお仕事で、どういったノルマがあるのか、お教えいただいてもよいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-12T13:11:57",
+      "utterance": "住宅の営業でマンションの販売です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-12T13:14:33",
+      "utterance": "マンション販売のお仕事をされているのですね。ノルマが厳しいとのことでしたが、お仕事は現在どのような状況でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-12T13:16:26",
+      "utterance": "仕事の何の状況ですか"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-12T13:16:55",
+      "utterance": "ノルマが厳しくて大変です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-12T13:21:54",
+      "utterance": "ご退職をお考えとのことでしたので、少し具体的な状況をお考えお聴きした上で、どのようにお力になれるか検討してみようと考えております。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-12T13:22:47",
+      "utterance": "どのようなノルマがあるかなど、お教えいただいても大丈夫ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-12T13:24:04",
+      "utterance": "ノルマが厳しくて、達成できません歩合制なので給料カットの状況ですどうしたらよいか分かりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-12T13:28:08",
+      "utterance": "そうだったのですね･･･。それはお辛い状況ですよね。「どうして良いか分からない」とのことですが、相談者様はまずに「どうなればよい」と考えていますか。（ノルマを達成できればよい、退職して別の楽な仕事に就きたい、など）"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-12T13:30:43",
+      "utterance": "ノルマを達成したいですね達成すれぱ給料も上がるしやりがいもあるしでも、それが出来ないので困っています"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-12T13:32:03",
+      "utterance": "なるほど、分かりました。では今回の相談では「ノルマを達成するため」に、少しでもできることを一緒に考えていく、ということでよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-12T13:32:47",
+      "utterance": "お願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-12T13:34:26",
+      "utterance": "ありがとうございます。ではまず、相談者様が達成困難、とお感じになられている「ノルマ」とはどのようなものかお聞かせいただいてもよいですか？（いつまでに何件契約を取らなければいけない、など。）"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-12T13:36:03",
+      "utterance": "月に一戸の販売ができれはとても良い状況になります"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-12T13:36:50",
+      "utterance": "今は、３ヶ月に一戸です"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-12T13:37:28",
+      "utterance": "３倍売る必要があります"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-12T13:37:47",
+      "utterance": "なるほど、そうなのですね。以前は月に一戸は販売できた、ということでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-12T13:38:13",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-12T13:38:41",
+      "utterance": "以前と現在とでは、何が一番違うと考えられますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-12T13:39:53",
+      "utterance": "コロナ前とコロナか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-12T13:40:43",
+      "utterance": "なるほど。住宅市場全体でマンション需要が減少している、といった状況でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-12T13:41:24",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-12T13:42:16",
+      "utterance": "お話を伺っていると、「ノルマ達成が困難」なのは相談者様自身に原因があるというわけではなさそうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-12T13:43:44",
+      "utterance": "ちなみに同じ会社の他の社員の方も、同じような状況にある、といった感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-12T13:43:50",
+      "utterance": "そうかもしれませんねしかし達成している営業マンも多くいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-12T13:44:08",
+      "utterance": "（行き違いました、すみません。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-12T13:44:37",
+      "utterance": "そうなのですね。そういった方々がノルマを達成している要因はなんだと思われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-12T13:45:38",
+      "utterance": "分かりませんまた、聞いても教えてくれません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-12T13:49:52",
+      "utterance": "そうなのですね。そのコツを聴き出すために、どんな工夫などをされましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-12T13:51:42",
+      "utterance": "何もしてません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-12T13:52:28",
+      "utterance": "なるほど。そこに関して、なにかできそうなことはあるでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-12T13:53:35",
+      "utterance": "ないですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-12T13:56:14",
+      "utterance": "なるほど。ただ、まだ着手していないということであれば相談者様が「ノルマを達成」するにあたり、「コツを聴き出す工夫をしてみる」というのは、まず着手できることの一つにあたるかもしれません。いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-12T13:56:20",
+      "utterance": "大丈夫ですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-12T13:57:00",
+      "utterance": "（時間がかかりすみません、大丈夫です。）"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-12T13:57:44",
+      "utterance": "なんか、変なアドバイスですよ"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-12T13:58:34",
+      "utterance": "やりたくないですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-12T13:59:28",
+      "utterance": "（すみません、お時間になってしまいましたが、終了にしましょうか、続けましょうか？）"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-12T13:59:28",
+      "utterance": "時間ですね失礼しますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-03-12T13:59:58",
+      "utterance": "（分かりました、終了しますね。）"
+    },
+    {
+      "role": "client",
+      "time": "2022-03-12T14:00:04",
+      "utterance": "終わりでいいです"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "ノルマ達成のプレッシャーによるストレス"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3254,
+    "評価作成日時": "2022-03-12T14:02:00",
+    "クライアント役ID": 265,
+    "カウンセラー役ID": 246,
+    "点数": 1,
+    "聴いてもらえた、わかってもらえたと感じた": 0,
+    "尊重されたと感じた": 0,
+    "新しい気づきや体験があった": 1,
+    "希望や期待を感じられた": 0,
+    "取り組みたかったことを扱えた": 0,
+    "一緒に考えながら取り組めた": 0,
+    "やりとりのリズムがあっていた": 0,
+    "居心地のよいやりとりだった": 0,
+    "全体として適切でよかった": 0,
+    "今回の相談は価値があった": 0,
+    "相談開始の円滑さ": 0,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 0,
+    "受容・共感": 0,
+    "肯定・承認": 0,
+    "的確な質問による会話の促進": 0,
+    "要約": 0,
+    "問題の明確化": 0,
+    "この相談での目標の明確化": 0,
+    "次の行動につながる提案": 0,
+    "勇気づけ・希望の喚起": 0,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3254,
+    "evaluation_created_at": "2022-03-12T14:02:00",
+    "client_id": 265,
+    "counselor_id": 246,
+    "score": 1,
+    "felt_heard_and_understood": 0,
+    "felt_respected": 0,
+    "gained_new_insights": 1,
+    "felt_hopeful_or_expectant": 0,
+    "concerns_were_addressed": 0,
+    "thought_through_concerns_together": 0,
+    "conversation_had_good_rhythm": 0,
+    "conversation_felt_comfortable": 0,
+    "felt_appropriate_and_satisfying": 0,
+    "conversation_was_valuable": 0,
+    "conversation_started_smoothly": 0,
+    "conversation_ended_well": 0,
+    "showed_acceptance_and_empathy": 0,
+    "provided_acknowledgment_and_affirmation": 0,
+    "asked_effective_questions": 0,
+    "summarized_key_points_effectively": 0,
+    "clarified_issues_cleraly": 0,
+    "helped_identify_goals": 0,
+    "offered_actionable_suggestions": 0,
+    "encouraged_and_instilled_hope": 0,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

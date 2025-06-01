@@ -1,0 +1,454 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:51:16",
+      "utterance": "（こんばんは。カウンセラー役です。本日はよろしくお願いいたします。時間になりましたら始めさせていただきます。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:51:43",
+      "utterance": "こんばんわ。こちらこそよろしくお願いします。"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:51:52",
+      "utterance": "希望はありますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:52:15",
+      "utterance": "（急で申し訳ないのですが、中高生の設定でお願いいたします。）"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T20:52:51",
+      "utterance": "かしこまりました！"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T20:53:24",
+      "utterance": "（ありがとうございます。よろしくお願いいたします）"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:00:24",
+      "utterance": "こんばんは。相談員です。ご相談にお越しいただきありがとうございます。はじめに年齢と性別、今日の相談内容を教えていただけますか。"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T21:01:33",
+      "utterance": "17歳女将来について不安です"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:02:06",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:02:49",
+      "utterance": "将来の、どのような不安があるかもう少し詳しく教えてもらえますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T21:04:26",
+      "utterance": "将来やりたいことがあります。ですが、今学校に行けずにいてこのままだと卒業も危ういと言われています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:05:58",
+      "utterance": "教えてくれてありがとうございます。将来やりたいと思う素敵な志をお持ちなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:06:32",
+      "utterance": "でもそのように言われたらショックですよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T21:07:57",
+      "utterance": "ショックというか事実なので仕方の無いことだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:08:27",
+      "utterance": "ええ、そのように思うのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:09:20",
+      "utterance": "今学校に行けずにいるというのは、どのようなことがあったのか、話せる範囲でいいので聴かせてもらえますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T21:11:03",
+      "utterance": "容姿をいじられて嫌な思いをしたので学校に行っていません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:12:05",
+      "utterance": "そうでしたか、、、そんなことされたら傷つきますね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:13:21",
+      "utterance": "そんな嫌な思いをしたら学校に行くのもしんどいですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:13:55",
+      "utterance": "そのような思いをしたのはいつ頃だったのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T21:14:44",
+      "utterance": "1年前です"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:15:21",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:16:18",
+      "utterance": "そうすると、学校にも１年くらい行けてない感じでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T21:16:54",
+      "utterance": "2.3回は行ったと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:18:21",
+      "utterance": "そうでしたか。そんな嫌な思いをした中、学校に行くことは勇気がいるのによく頑張りましたね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:18:49",
+      "utterance": "その時は学校でどんな風に過ごしましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T21:19:11",
+      "utterance": "頑張ってないですよ。どうしてもこいって言われたので保健室登校しました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:20:08",
+      "utterance": "なるほど、半ば強制的な感じで登校したのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T21:20:30",
+      "utterance": "まあそんな感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:21:32",
+      "utterance": "ちなみに、親御さんや先生には、嫌な思いをしたことはお話しているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T21:21:46",
+      "utterance": "はい。話しています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:23:02",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:25:06",
+      "utterance": "親御さんは卒業のこととか、今学校に行けずにいることを、どんな風に考えているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T21:26:13",
+      "utterance": "どんな風に考えてるかは分かりませんが、良く思ってないことは確かです。"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T21:26:31",
+      "utterance": "そんなことで学校に行かないなんて信じられないと言われてます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:27:26",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:27:56",
+      "utterance": "「そんなことで」と言われても、あなたからしたらそれだけ嫌な思いをした証拠ですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T21:28:49",
+      "utterance": "そうですね。でもそれは他の人からしたら信じられないことみたいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:29:47",
+      "utterance": "ええ。わかってもらえないのは悲しいですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:30:52",
+      "utterance": "あなたの将来の大事なお話なので、これから一緒に考えていきましょうね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T21:30:54",
+      "utterance": "うーん。悲しいというより、みんなそういう風にいうってことは私が普通じゃないのかなと感じています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:31:23",
+      "utterance": "そのように感じるのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:33:16",
+      "utterance": "もしかしたら、自分が言われたことじゃないから「そんなことで」とあなたに言ってるだけかもしれません。"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T21:34:04",
+      "utterance": "どうでしょうね。。。わからないですけど。。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:34:52",
+      "utterance": "でも、嫌なことをされたり言われたりして学校に行けていないという方は多くいて、ここに相談に来る方もいらっしゃいますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T21:35:30",
+      "utterance": "そうなんですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:36:29",
+      "utterance": "ええ。たくさんいますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T21:37:02",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:37:44",
+      "utterance": "そしてどんな理由があれ、容姿をいじるなんて絶対にダメなことであり、あなたは何も悪くありません。"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T21:38:05",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:38:31",
+      "utterance": "ちなみに、将来何をやりたいのか、ぜひ聴かせてください。"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T21:39:15",
+      "utterance": "看護師になりたいんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:40:20",
+      "utterance": "素敵な志ですね！ちなみに、なんでなりたいと思ったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T21:41:37",
+      "utterance": "通院してた時に頼りになる看護師さんが居たので私もそういう人になりたいなと思いました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:43:15",
+      "utterance": "そっかそっか。その看護師さんがきっかけだったんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:45:44",
+      "utterance": "素敵なきっかけですし、将来きっとあなたも頼りされると思いますよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:46:41",
+      "utterance": "そうすると、進学して看護系の学校に行きたいとお考えでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T21:47:03",
+      "utterance": "そうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:48:16",
+      "utterance": "そうですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:50:25",
+      "utterance": "大切なお話聴かせてくれてありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T21:52:27",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:53:00",
+      "utterance": "看護師さんになりたいという夢があること、でも嫌な思いをして今学校に行けずにいて、このままだと卒業も危ういと言われ、あなたの不安な気持ちが伝わってきます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:54:35",
+      "utterance": "あなたとしては、学校への登校はどうしていこうと考えていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T21:54:55",
+      "utterance": "そこを悩んでます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:55:10",
+      "utterance": "ええ。そうですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:56:17",
+      "utterance": "悩むのは看護師への思いと、いじられた嫌な思いと両方が戦っているからだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T21:58:10",
+      "utterance": "だからこそあなたの大切な将来のために、引き続き一緒に考えていけたらと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T21:58:36",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T22:00:20",
+      "utterance": "これまでずっと不安を抱えてきたと思います。でもこれからは一人で抱え込む必要はありません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T22:00:48",
+      "utterance": "いつでもお話お聴きしますので、都合の良い時に来てくださいね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T22:01:41",
+      "utterance": "少しづつ進んでいきましょうね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T22:02:14",
+      "utterance": "それではお時間が来てしまったのでこの辺りで終了にさせていただきますね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T22:02:51",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T22:02:57",
+      "utterance": "本日は大切なお話聴かせてくださりありがとうございました。あなたのこれからを応援しています。"
+    },
+    {
+      "role": "client",
+      "time": "2023-09-07T22:03:15",
+      "utterance": "(お疲れ様でした。ありがとうございました。)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T22:03:15",
+      "utterance": "（ロープレお疲れ様でした。お時間長引いてすみません。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-09-07T22:03:45",
+      "utterance": "（お手隙に評価頂けたら幸いです。よろしくお願いいたします。それでは終了いたします。ありがとうございました。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "将来の不安と学校への登校問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 5690,
+    "評価作成日時": "2023-09-07T23:53:00",
+    "クライアント役ID": 410,
+    "カウンセラー役ID": 136,
+    "点数": 9,
+    "聴いてもらえた、わかってもらえたと感じた": 1,
+    "尊重されたと感じた": 0,
+    "新しい気づきや体験があった": 0,
+    "希望や期待を感じられた": 0,
+    "取り組みたかったことを扱えた": 1,
+    "一緒に考えながら取り組めた": 0,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 1,
+    "今回の相談は価値があった": 1,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 0,
+    "肯定・承認": 0,
+    "的確な質問による会話の促進": 1,
+    "要約": 0,
+    "問題の明確化": 0,
+    "この相談での目標の明確化": 1,
+    "次の行動につながる提案": 0,
+    "勇気づけ・希望の喚起": 0,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": "チェックあり"
+  },
+  "review_by_client_en": {
+    "evaluation_id": 5690,
+    "evaluation_created_at": "2023-09-07T23:53:00",
+    "client_id": 410,
+    "counselor_id": 136,
+    "score": 9,
+    "felt_heard_and_understood": 1,
+    "felt_respected": 0,
+    "gained_new_insights": 0,
+    "felt_hopeful_or_expectant": 0,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 0,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 1,
+    "conversation_was_valuable": 1,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 0,
+    "provided_acknowledgment_and_affirmation": 0,
+    "asked_effective_questions": 1,
+    "summarized_key_points_effectively": 0,
+    "clarified_issues_cleraly": 0,
+    "helped_identify_goals": 1,
+    "offered_actionable_suggestions": 0,
+    "encouraged_and_instilled_hope": 0,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": "チェックあり"
+  }
+}

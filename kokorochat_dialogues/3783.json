@@ -1,0 +1,619 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-08-09T13:55:54",
+      "utterance": "こんにちは、よろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T13:56:47",
+      "utterance": "こちらこそよろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T13:57:07",
+      "utterance": "始めさせていただきますね"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T13:57:17",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T13:57:42",
+      "utterance": "こんにちは。相談員です。よろしくお願いいたします。はじめに年齢と性別、ニックネームをお聞かせいたただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T13:58:20",
+      "utterance": "47歳　男性　おーるどチキンです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T13:59:01",
+      "utterance": "おーるどチキンさん、ありがとうございます。そうしましたら、相談したいことをお聞かせいただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:01:12",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:01:50",
+      "utterance": "どのようなことがお悩みですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:02:17",
+      "utterance": "相談したいことは、これからどのように生きていけばよいのか不安です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:02:51",
+      "utterance": "そのように今お感じなのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:03:15",
+      "utterance": "それは、不安ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:03:23",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:03:52",
+      "utterance": "具体的にどのように不安をお感じなのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:04:00",
+      "utterance": "なんとなくなのですが、この先大丈夫かなと思っています。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:04:13",
+      "utterance": "具体的には、収入面です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:04:26",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:04:53",
+      "utterance": "今現在の収入はどのような感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:05:50",
+      "utterance": "奥さんが多く稼いでいて、私は売れる前の芸人のようにお金を稼ぐ以外のことをしています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:06:54",
+      "utterance": "そうなのですね。お金を"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:07:14",
+      "utterance": "稼ぐ以外のこととは、どのようなことですか"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:07:58",
+      "utterance": "全般的に家のことです。でもなかなか料理も作れないし、困っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:08:57",
+      "utterance": "そうでしたか。パートナーさんより稼ぎが少ないということで、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:09:33",
+      "utterance": "そのかわりに、家事を主にされていらっしゃるのですね、でも"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:10:06",
+      "utterance": "料理が苦手だと思われているのですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:10:27",
+      "utterance": "はい。また、男女平等とは、言われていますが、自分がいれば近所の人は、なんか不思議なかおをするし"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:11:16",
+      "utterance": "そうお感じになるのですね。それは、お辛いですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:11:41",
+      "utterance": "はい。いっそ遠くに行ってしまいたいと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:12:38",
+      "utterance": "そのようにお感じになるのは、家事をやられてるのに、お辛いですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:12:58",
+      "utterance": "パートナーさんは、どのようにおっしゃっていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:13:53",
+      "utterance": "とにかく稼いでこいとのこと。私は、やりたい仕事があるのでやみくもにはたらきたくはないのですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:14:56",
+      "utterance": "そうなんですね。やりたいお仕事はどのようなことでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:17:03",
+      "utterance": "児童館ではたらきたいと思っています"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:17:52",
+      "utterance": "児童館！子供好きでいらっしゃるのですね！素敵ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:18:50",
+      "utterance": "はい。でもそこでの収入は少なすぎて。やはり福祉はキツイですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:20:06",
+      "utterance": "そうなんですか。収入が少なくて、将来を考えるとお困りなんですね。お辛いですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:20:44",
+      "utterance": "はい。どうしたら、家のことばかりでなく、妻に納得のいく収入を得て児童館で働けるかと考えています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:21:08",
+      "utterance": "そうですね、、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:21:23",
+      "utterance": "例えば、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:22:25",
+      "utterance": "児童館の他に、何かやれそうなお仕事などをされて、家事をある程度分担されるという方法が、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:22:41",
+      "utterance": "ありますが、いかがでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:24:23",
+      "utterance": "おーるどチキンさんは、他にどのようなことを思いつかれますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:24:31",
+      "utterance": "そうですね。でも47歳という年齢もあり、なかなか高収入の仕事はないのかなと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:24:53",
+      "utterance": "そのようにお考えなのですね、"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:25:04",
+      "utterance": "なんか、妻を見返したいという感じが強いのかなと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:25:19",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:26:11",
+      "utterance": "お仕事のこともお困りのようですが、パートナーさんとの関係の方もお困りなのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:27:52",
+      "utterance": "そうですね。繋がっているような気がします。45歳過ぎて自己都合で退職したところもあり、"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:28:15",
+      "utterance": "なかなか頭は上らないし"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:28:24",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:28:49",
+      "utterance": "やっぱりヒモとおもわれるのはいやだし"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:29:00",
+      "utterance": "ええ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:29:45",
+      "utterance": "そう思われたくないのは自然なことだと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:30:16",
+      "utterance": "では、これまでのことを"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:30:46",
+      "utterance": "整理させていただいてよろしいでしょうか？何か他にお困りなことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:31:04",
+      "utterance": "はい。お願いします、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:31:50",
+      "utterance": "そうしますと、まず、おーるどチキンさんは、家事全般をやられれてて、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:32:15",
+      "utterance": "パートナーさんの方が多く稼いでいらっしゃる、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:33:02",
+      "utterance": "それで、パートナーさんからもっと稼いでほしいと言われて、児童館のお仕事は、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:34:13",
+      "utterance": "収入が少ないのでお困りである、さらに、ご近所さんの目も気になるし、将来のことで不安をお感じになってる、どうしたら、不安がなくなるようになれるか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:34:28",
+      "utterance": "ということで、よろしかったですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:34:44",
+      "utterance": "はい。ありがとうございます。その通りです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:34:53",
+      "utterance": "では、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:35:20",
+      "utterance": "いくつか方法などを探りながら、いっしょに考えていきませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:35:35",
+      "utterance": "はい。ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:35:57",
+      "utterance": "ありがとうございます。まずは、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:36:29",
+      "utterance": "おーるどチキンさん、家事全般、苦手な料理も"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:36:45",
+      "utterance": "されてるとのことで、本当にお疲れ様です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:37:52",
+      "utterance": "先程、申し上げました、児童館以外である程度稼げそうなお仕事で、どのようなことなら"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:38:23",
+      "utterance": "やってみてもいいかなって感じのことは、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:39:29",
+      "utterance": "幼稚園教諭の資格を持っているのですが、戻ってみてもいいかなと思っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:40:21",
+      "utterance": "おお！幼稚園教諭の資格とは、素晴らしいですね。それで、児童館ご希望なのですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:40:52",
+      "utterance": "本当に子ども好きなのですね！"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:41:14",
+      "utterance": "そうなんです。それで幼稚園であればいくらかもらえると思うのですが。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:42:10",
+      "utterance": "そう思われるのですね。児童館との両立、時間的なものは、どのような感じですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:46:22",
+      "utterance": "やっぱり何かとダブルワークですかね"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:47:05",
+      "utterance": "幼稚園と学童ならダブルワークできそうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:47:27",
+      "utterance": "そうなんですね！"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:47:41",
+      "utterance": "児童館でなくても"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:48:00",
+      "utterance": "学童なら、納得できそうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:48:07",
+      "utterance": "はい。家庭の仕事もそれだけ時間がないのだから手伝ってくれると思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:48:22",
+      "utterance": "そうですか！"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:48:37",
+      "utterance": "それは、いいですね！"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:48:55",
+      "utterance": "もう年齢的にも最後の決断なので頑張ります"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:49:21",
+      "utterance": "年齢的にとお感じになられつつも"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:49:40",
+      "utterance": "頑張ろうという意欲、素敵ですね！"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:50:10",
+      "utterance": "ありがとうございます。やっぱりやりたいことをやるのが一番ですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:50:38",
+      "utterance": "そうですね！それが一番ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:50:46",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:51:00",
+      "utterance": "何だかスッキリしました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:51:17",
+      "utterance": "よかったです。他に何か気になることとかありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:51:42",
+      "utterance": "大丈夫です。すぐに実行します"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:52:02",
+      "utterance": "そうですか、今日は、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:52:28",
+      "utterance": "将来の収入面の不安というお悩みに対して、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:53:04",
+      "utterance": "幼稚園と学童の両立ということを思いつかれて、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:53:50",
+      "utterance": "まずは、幼稚園でのお仕事を探してみようということでよろしかったですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:54:12",
+      "utterance": "はい。でも同時に探してみます。ありがとうございます。迷いながらの相談失礼しました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:54:34",
+      "utterance": "いえいえ、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:54:49",
+      "utterance": "スッキリされて、うれしいです。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:55:27",
+      "utterance": "終わりで大丈夫です。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:55:36",
+      "utterance": "本当にありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:55:40",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:55:55",
+      "utterance": "明日以降、改めてご相談いただいた場合は、別のカウンセラーが対応させていただくことになります。その場合も、今日のお話を確認してから相談にのることができますので、安心してご利用ください。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:56:29",
+      "utterance": "はい。ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:56:39",
+      "utterance": "では、失礼いたします。"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:56:46",
+      "utterance": "失礼します"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:56:57",
+      "utterance": "お疲れ様でした"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:57:15",
+      "utterance": "お疲れ様でした"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-08-09T14:57:17",
+      "utterance": "(ありがとうございました。評価お願いします)"
+    },
+    {
+      "role": "client",
+      "time": "2022-08-09T14:57:34",
+      "utterance": "承知しました"
+    }
+  ],
+  "topic": {
+    "main_jp": "経済的問題",
+    "main_en": "Financial Issues",
+    "sub": "収入の不安と職業選択の悩み"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3783,
+    "評価作成日時": "2022-08-09T15:05:00",
+    "クライアント役ID": 293,
+    "カウンセラー役ID": 287,
+    "点数": 79,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 4,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3783,
+    "evaluation_created_at": "2022-08-09T15:05:00",
+    "client_id": 293,
+    "counselor_id": 287,
+    "score": 79,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

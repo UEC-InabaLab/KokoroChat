@@ -1,0 +1,434 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2021-11-15T12:52:56",
+      "utterance": "本日はよろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-15T12:53:17",
+      "utterance": "よろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-15T12:54:10",
+      "utterance": "お時間になりましたら始めさせて頂きます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-15T13:00:13",
+      "utterance": "こんにちは相談員です。本日はお越し頂きありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-15T13:00:25",
+      "utterance": "こんにちは"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-15T13:00:28",
+      "utterance": "はじめにあなたの年齢と性別をお聞かせいただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-15T13:00:48",
+      "utterance": "42歳．女です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-15T13:00:58",
+      "utterance": "ありがとうございます。本日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-15T13:02:01",
+      "utterance": "仕事にはいっているのですが、行く気力が毎日ありません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-15T13:03:14",
+      "utterance": "そうなんですね。それはお辛いですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-15T13:03:42",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-15T13:03:48",
+      "utterance": "気力がなくなったのは、いつ頃からでしたでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-15T13:04:44",
+      "utterance": "コロナが流行り出した頃でしょうか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-15T13:05:21",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-15T13:05:33",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-15T13:05:54",
+      "utterance": "お仕事に関しては、やり甲斐を感じていらっしゃいますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-15T13:06:54",
+      "utterance": "どうなんでしょうか、自分でもわかりません。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-15T13:08:01",
+      "utterance": "原因の１つはリモートワークだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-15T13:08:11",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-15T13:09:27",
+      "utterance": "今までは必ず出勤だったのが在宅ワークのようになり、会社に行かないことが度々ありました"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-15T13:09:37",
+      "utterance": "働き方が変わった事によって、気力が少しなくなってしまってきているという感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-15T13:09:49",
+      "utterance": "そうだと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-15T13:10:16",
+      "utterance": "通勤も面倒くさいと思うようにもなりましたから。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-15T13:10:34",
+      "utterance": "そうなんですね。在宅勤務に関しまして、週何日位されていますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-15T13:11:24",
+      "utterance": "週3日〜4日ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-15T13:11:47",
+      "utterance": "後は出勤してます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-15T13:12:12",
+      "utterance": "在宅勤務になってから、通勤するのが面倒に思われてきているんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-15T13:12:25",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-15T13:13:25",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-15T13:14:33",
+      "utterance": "この際、中途半端に出勤とリモートを繰り返すんだったら、ずっとリモートでやりたい気持ちです。w"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-15T13:14:48",
+      "utterance": "在宅勤務の時間は、通常勤務の時と同じような勤務時間になりますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-15T13:15:25",
+      "utterance": "はい　8時間勤務です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-15T13:15:43",
+      "utterance": "ほんとですね笑在宅勤務されている皆さんが、恐らくそう思われていると思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-15T13:16:28",
+      "utterance": "８時間勤務という事は、生活のリズム自体は変わっていないのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-15T13:16:28",
+      "utterance": "そうなんですよね。私の周りにも沢山います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-15T13:18:18",
+      "utterance": "変わらないです8時半出勤するか、8時半にPCの前にいるかの違いです、"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-15T13:19:07",
+      "utterance": "リモートだと、女性は仕事が全くはかどらず、男性は仕事がはかどるというお話をよくお聞きします…"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-15T13:20:38",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-15T13:21:07",
+      "utterance": "仕事自体に関しては、どのように思われていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-15T13:22:31",
+      "utterance": "仕事はそれなりにでしょうか。定年まで働いて行こうと思ってます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-15T13:23:40",
+      "utterance": "女性は、家で仕事をすると家事育児等色々な別の事が気になってきて、集中が出来ないと言われる方が多いです。男性は、気にならないんでしょうね笑"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-15T13:24:41",
+      "utterance": "男性は気楽でいいですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-15T13:25:17",
+      "utterance": "そう思います…"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-15T13:25:59",
+      "utterance": "お仕事定年まで働かれるという意思を持たれている事、素晴らしいと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-15T13:26:45",
+      "utterance": "その点私は独身で実家に住んでますから、まだ楽な方なのかもせれませんね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-15T13:29:16",
+      "utterance": "そうなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-15T13:29:59",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-15T13:31:55",
+      "utterance": "いずれ、コロナが落ち着けば、通常出勤になると思いますのでそれまでに、出勤への面倒くさい気持ちを治さないとと思ってます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-15T13:32:10",
+      "utterance": "家で仕事をしていると、何かと気になってしまったりしませんでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-15T13:33:08",
+      "utterance": "そうですね。出勤を前向きに考えられている事、素晴らしいと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-15T13:33:31",
+      "utterance": "それはないですね、逆に誰にも鑑賞されず顔色も伺わなくていいので楽ですよ。w"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-15T13:34:06",
+      "utterance": "そうなんですね笑確かにです！"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-15T13:35:13",
+      "utterance": "同じ部署の方達は、どのようにおっしゃってますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-15T13:35:39",
+      "utterance": "何をでしょうか?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-15T13:36:24",
+      "utterance": "言葉足らずで、申し訳ございません。リモートワークに関してです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-15T13:38:25",
+      "utterance": "私と同意見の人もいれば、様々ですね。上司達は会社方針だから、やもえずという所でしょうか…。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-15T13:40:29",
+      "utterance": "そうなんですね。みなさん、このような世の中になる事を想像してなかったから、心が色々な仕組みに追いつかないですよね…"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-15T13:40:48",
+      "utterance": "そうなんですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-15T13:42:39",
+      "utterance": "でもついて行かないと駄目な時代ですしね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-15T13:42:50",
+      "utterance": "出勤への面倒な気持ちに対抗して（笑）、何か自分の心が楽しくなるような事を取り入れてはいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-15T13:43:18",
+      "utterance": "例えば何かありますか?"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-15T13:44:49",
+      "utterance": "体を動かすのは、得意な方でしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-15T13:45:46",
+      "utterance": "余り好きではないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-15T13:48:58",
+      "utterance": "では、アロマオイルを生活に取り入れたり、自分がこれが好きという物を作って見たり、ぜひ心がリラックス出来るものを生活に取り入れて頂きたいのですが、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-15T13:50:32",
+      "utterance": "心がリラックスできるものを取り入れるのは、良さそうですね。一度試してみますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-15T13:51:31",
+      "utterance": "ぜひ取り入れてください。そろそろ終了のお時間が近づいてまいりました。ここまでとさせて頂きますが、大丈夫でしたでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-15T13:52:14",
+      "utterance": "はい、大丈夫です。今日はありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-15T13:53:50",
+      "utterance": "通常勤務に戻られたら、またしばらく体が疲れると思うのですが、ぜひご自分の心のケアも大切にしてあげてください。寒さも厳しくなってくる頃ですので、体調崩さないようご自愛ください。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-15T13:54:20",
+      "utterance": "こちらこそありがとうございました。またお悩みが出てきましたら、いつでも相談にいらっしゃって下さい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-15T13:54:48",
+      "utterance": "それでは、これで失礼いたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-15T13:55:32",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-11-15T13:58:02",
+      "utterance": "（いつもは時間を過ぎてしまうので、気をつけたら時間より少し早く終わってしまいました…すみません…　本日は、クライアント役ありがとうございました。色々ご指導頂けますよう、よろしくお願いいたします。）"
+    },
+    {
+      "role": "client",
+      "time": "2021-11-15T13:58:34",
+      "utterance": "お疲れさまでした"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "リモートワークによるモチベーション低下"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2716,
+    "評価作成日時": "2021-11-15T14:08:00",
+    "クライアント役ID": 241,
+    "カウンセラー役ID": 238,
+    "点数": 73,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 4,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2716,
+    "evaluation_created_at": "2021-11-15T14:08:00",
+    "client_id": 241,
+    "counselor_id": 238,
+    "score": 73,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 4,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

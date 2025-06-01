@@ -1,0 +1,544 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-11-11T14:51:42",
+      "utterance": "こんにちは、15時からよろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T14:51:56",
+      "utterance": "よろしくお願いいたします"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:00:02",
+      "utterance": "（それでは始めます）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:00:18",
+      "utterance": "こんにちは、相談員です。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:00:42",
+      "utterance": "こんにちは"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:00:50",
+      "utterance": "はじめに、あなたの年齢と性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:01:10",
+      "utterance": "20代。女です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:01:20",
+      "utterance": "教えていただきありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:01:36",
+      "utterance": "今日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:02:44",
+      "utterance": "生きている意味が分かりません。処方された薬を大量服薬することも考えますが、その気力もありません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:04:31",
+      "utterance": "そのように感じていらっしゃるのですね。何か辛いこととかおありでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:05:44",
+      "utterance": "すべてが、重たく感じて生きていたくありません。仕事も毎日行くのが難しい感じがします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:06:53",
+      "utterance": "そうなんですか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:08:38",
+      "utterance": "全てが重たい・・・とてもしんどい状況なのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:09:52",
+      "utterance": "その中でも、一番重たいと感じているのはどんなことでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:10:45",
+      "utterance": "仕事のことでしょうか？それとも、人間関係とかでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:10:53",
+      "utterance": "働かないとお金やばいのに、毎日働くのが、きびしいこと。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:11:22",
+      "utterance": "みんな、毎日よく働けるな、と思います"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:12:10",
+      "utterance": "いっそ死んでしまいたい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:12:31",
+      "utterance": "生活していくにはお金が必要ですよね。でも、そのために働かなくてはならないと思うと、気持ちが重たくなってしまうのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:12:50",
+      "utterance": "はい…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:13:22",
+      "utterance": "そう思うくらい、重たい気持ちなのですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:13:31",
+      "utterance": "はい…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:14:49",
+      "utterance": "２０代とのことですが、お勤めされてから何年くらい経つのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:15:31",
+      "utterance": "5年です。最近、転職しました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:15:53",
+      "utterance": "そうだったのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:16:33",
+      "utterance": "転職されたきっかけは、どんなことがあったのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:17:30",
+      "utterance": "もっと勤務を軽くしたかったので"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:17:53",
+      "utterance": "そうでしたか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:18:06",
+      "utterance": "今の方が楽なはずなのに、欠勤もあります"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:19:16",
+      "utterance": "欠勤されるのはどんな時でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:20:20",
+      "utterance": "朝体が重たくて、起きられない時です。たくさん寝すぎています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:21:43",
+      "utterance": "そういう時があるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:22:42",
+      "utterance": "そうですね。稼がないと生活していけない"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:23:05",
+      "utterance": "でも、何もやる気がおきません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:24:27",
+      "utterance": "何もやる気がしないので、朝起きる気にもならない、という感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:24:51",
+      "utterance": "そうですね…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:25:46",
+      "utterance": "それはやるせないですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:26:16",
+      "utterance": "そんな風に感じるようになったのは、転職されてからですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:26:21",
+      "utterance": "やるせないっていうか…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:26:31",
+      "utterance": "ええ。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:26:49",
+      "utterance": "働き始めてからのような気もします"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:28:07",
+      "utterance": "５年前からずっとそう感じていらしたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:28:31",
+      "utterance": "まあ、そうかもしれません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:30:47",
+      "utterance": "そうでしたか。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:31:43",
+      "utterance": "はい…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:31:54",
+      "utterance": "ちなみに、あなたは今はお一人で住んでいらっしゃるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:32:08",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:32:44",
+      "utterance": "仕事以外のときは、どのように過ごされているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:33:21",
+      "utterance": "だいたい寝ています。過眠ぎみだと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:33:53",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:33:53",
+      "utterance": "何もやる気が起きないので。楽に死ねないかな。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:35:11",
+      "utterance": "そんな風に思っていらっしゃるのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:35:31",
+      "utterance": "もう、何のために生きているのか分かりません。生きる意味ってなんですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:37:34",
+      "utterance": "生きる意味って何でしょうね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:39:36",
+      "utterance": "私にははっきりとしたことは言えませんが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:40:08",
+      "utterance": "あなたはそれが必要だと感じているのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:41:28",
+      "utterance": "そうですね。すべてむなしく、何で生きているのか、分からないです。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:41:45",
+      "utterance": "やっぱり病気でしょうかね？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:42:04",
+      "utterance": "私は、やっぱり病院に行くべきでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:42:31",
+      "utterance": "私みたいな人間は、社会の荷物ですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:42:58",
+      "utterance": "そんなことはないと思いますよ。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:44:21",
+      "utterance": "以前、心療内科に行きましたか、金銭的に心配になりやめました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:44:44",
+      "utterance": "そうだったのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:45:08",
+      "utterance": "そこでは、薬はもらいましたが、診断名は特にありませんでした"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:46:29",
+      "utterance": "診断名が無くてもお薬がもらえたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:46:44",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:49:18",
+      "utterance": "診断を下してもらえないと、スッキリしなかったのではないでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:49:52",
+      "utterance": "特に何も思わなかったです。そうなんだなーとしか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:50:15",
+      "utterance": "そうだったのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:51:20",
+      "utterance": "ここまでのお話をまとめさせていただいてもよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:51:32",
+      "utterance": "はい。お願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:54:06",
+      "utterance": "あなたは、働き始めて５年になる。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:54:18",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:55:46",
+      "utterance": "その当初から、何ごとにつけやる気がしなかった。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:56:22",
+      "utterance": "何ごとにつけやる気が出なかった訳ではありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:57:00",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:57:06",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:57:56",
+      "utterance": "今は何もやる気がしないけれど、以前はやる気がすることがあったということでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:58:40",
+      "utterance": "仕事に対しては、やる気があまりなかった、ということです"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T15:58:56",
+      "utterance": "以前は"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:59:38",
+      "utterance": "以前は、仕事以外についてはいかがでしたか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T15:59:59",
+      "utterance": "やる気という意味でですが。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T16:00:06",
+      "utterance": "これから話すのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T16:00:46",
+      "utterance": "(終わりの時間ですが…"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T16:01:43",
+      "utterance": "よろしければ、そのことについて、またお話に来ていただけたらと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T16:01:59",
+      "utterance": "はい。分かりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T16:02:20",
+      "utterance": "今日は相談しにきて来てくださりありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T16:02:30",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T16:02:47",
+      "utterance": "それでは、今日のご相談を終わらせていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T16:03:05",
+      "utterance": "はい。ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T16:03:30",
+      "utterance": "（お疲れ様でした。ありがとうございました。辛口のコメントをお待ちしています。）"
+    },
+    {
+      "role": "client",
+      "time": "2022-11-11T16:03:47",
+      "utterance": "(ありがとうございました。了解しました)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T16:04:00",
+      "utterance": "（それではロールプレイを終了してもよろしいですね。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-11-11T16:04:59",
+      "utterance": "（終了します。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "生きる意味の喪失"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4219,
+    "評価作成日時": "2022-11-11T16:32:00",
+    "クライアント役ID": 33,
+    "カウンセラー役ID": 92,
+    "点数": 51,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 2,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 1,
+    "勇気づけ・希望の喚起": 1,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4219,
+    "evaluation_created_at": "2022-11-11T16:32:00",
+    "client_id": 33,
+    "counselor_id": 92,
+    "score": 51,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 1,
+    "encouraged_and_instilled_hope": 1,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

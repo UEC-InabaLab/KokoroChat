@@ -1,0 +1,514 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-01-13T19:52:45",
+      "utterance": "(本日カウンセラー役を担当いたします。よろしくお願いいたします。時間になりましたら開始させていただきます。)"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-13T19:53:28",
+      "utterance": "(よろしくお願い致します。)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:00:15",
+      "utterance": "こんばんわ。相談員です。お越しいただきありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:00:44",
+      "utterance": "はじめに、年齢、性別、相談内容を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-13T20:01:24",
+      "utterance": "こんばんは。53歳、女性。これから先のことが不安です。このままで、いいのかと思ってしまって、寝れない日があります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:02:03",
+      "utterance": "なるほど、不安で眠れない日があるのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:02:49",
+      "utterance": "これから先のこととはなにか具体的に話していただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-13T20:04:04",
+      "utterance": "これからの、人生です。会社を定年退職してからのことです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:04:29",
+      "utterance": "なるほど"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:04:48",
+      "utterance": "現在はお仕事をされているのですね"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-13T20:04:57",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:06:11",
+      "utterance": "ご家族様はいらっしゃるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-13T20:07:37",
+      "utterance": "主人はいません。娘が二人いましたが、嫁ぎましたので今は一人です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:08:14",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:09:16",
+      "utterance": "今のお一人暮らしはどう過ごされているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-13T20:10:20",
+      "utterance": "平日は、仕事と家の往復で休みもほとんど家に居ます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:11:01",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:11:56",
+      "utterance": "今の暮らしに関してはどのように感じていらっしゃいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-13T20:14:05",
+      "utterance": "普通に暮らせていると思います。以前は、お友達とご飯に行ったりしていましたが、コロナ禍で自宅に居ることが多くなってからは、出かけることがあまりなくなりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:14:39",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:15:17",
+      "utterance": "お友達との交流がへると寂しい気持ちになりますね"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-13T20:16:07",
+      "utterance": "そうでもないです。家に居るのは苦痛ではない方なので大丈夫です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:16:53",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:17:33",
+      "utterance": "先ほど眠れない日があるとお話をお伺いしていましたが、いつ頃からですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-13T20:19:39",
+      "utterance": "コロナ禍になってから、眠れない日があり、最近特に眠れない日がらあります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:20:11",
+      "utterance": "コロナ禍になってからなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-13T20:20:19",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:20:58",
+      "utterance": "眠れないと、集中できなかったり、しんどい思いをされるのかなと思うのですが、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-13T20:21:31",
+      "utterance": "そうですね。しんどいですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:23:08",
+      "utterance": "しんどいですよね。お仕事や、日常生活を送るのに支障は出ていませんか？（ごはんが食べられないとか）"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-13T20:25:02",
+      "utterance": "仕事は、集中して出来ていますが、家に帰るとどっと疲れが出てきます。ご飯は作るのがしんどくて夜は食べない時があります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:25:41",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:25:59",
+      "utterance": "うん、疲れてしまいますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:26:25",
+      "utterance": "しんどかったですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:26:57",
+      "utterance": "このしんどい状況を誰かにお話しされたりはしますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-13T20:27:27",
+      "utterance": "いいえ。話していないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:28:12",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:28:42",
+      "utterance": "しんどいことをお一人で抱え込むことはしんどくないですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-13T20:29:13",
+      "utterance": "これから先のことをですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:29:25",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-13T20:30:08",
+      "utterance": "しんどいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:30:53",
+      "utterance": "そうですよね。しんどいですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-13T20:31:27",
+      "utterance": "相談出来る人がいないので、ここにきました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:32:25",
+      "utterance": "はい、ありがとうございます。そうですよね。今後の定年退職後に不安があるとのお話でしたが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:32:56",
+      "utterance": "どういったことを考えていらっしゃるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-13T20:33:29",
+      "utterance": "定年退職後の生活が不安です。"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-13T20:35:02",
+      "utterance": "再就職が見つかるかも分からないので、生活出来るのか不安です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:35:05",
+      "utterance": "生活というのは、お金のこと、ご家族のことなど様々あるかなと思うのですが、何か思いつきますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:35:32",
+      "utterance": "すみません、重なってしまいましたね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:36:11",
+      "utterance": "そうでしたか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:36:34",
+      "utterance": "再就職というのは定年後ですか？現在でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-13T20:36:54",
+      "utterance": "定年後です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:37:39",
+      "utterance": "たしかに、今は就職するのが大変ですもんね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:37:53",
+      "utterance": "不安に感じてしまいますよね"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-13T20:38:43",
+      "utterance": "60歳で定年になると、年金がまだもらえません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:38:58",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-13T20:40:22",
+      "utterance": "再就職もなかなか難しいと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:40:53",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-13T20:41:15",
+      "utterance": "子供達には、迷惑かけたくないので、自分の生活はどうにかしたいのです。"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-13T20:41:44",
+      "utterance": "そんなことを考えていると眠れなくなります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:42:00",
+      "utterance": "なるほど"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:42:37",
+      "utterance": "それはしんどかったですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:43:08",
+      "utterance": "子供たちへ迷惑をかけたくないという優しさは素敵だと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:44:17",
+      "utterance": "今までお話を聞いて、ご自身で生活していきたいという強い気持ちを感じたのですがいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-13T20:44:47",
+      "utterance": "そうです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:46:15",
+      "utterance": "では、今後のことを一緒に考えていこうと思うのですが、よろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-13T20:46:28",
+      "utterance": "お願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:47:28",
+      "utterance": "ありがとうございます。どういったときに今後のことを思わず考えてしまいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-13T20:48:43",
+      "utterance": "一人で家に居る時です。特に、布団に入った時です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:49:02",
+      "utterance": "なるほど。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:49:35",
+      "utterance": "布団に入ると考えてしまうのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-13T20:49:51",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:50:38",
+      "utterance": "では、お布団に入るときに、違うことを意識的に考えてみるのはいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-13T20:51:01",
+      "utterance": "何を考えたらいいですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:53:08",
+      "utterance": "不安に感じているものは実際には今後どうなるかわからない出来事です。なので、今日のうまくできたこと、よかったなとかんじたことなど、その日の出来事に着目するのはいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-13T20:55:10",
+      "utterance": "毎日があまり変化がないので、どうしても先のことを考えてしまいます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:55:31",
+      "utterance": "なるほど、そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:56:26",
+      "utterance": "日常のすごく小さな出来事でもよいと思いますよ。今日は少し早く起きれたとか、お弁当がおいしかったなとか"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:56:32",
+      "utterance": "もしくは"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T20:57:14",
+      "utterance": "自分が好きなことを考えるのも良いかもしれません"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-13T20:59:05",
+      "utterance": "分かりました。出来るかは分かりませんが、やってみます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T21:00:42",
+      "utterance": "はい、すごく小さなことでいいのでできたらやってみてください。もし、よろしければ気が向いたら、実際に何ができたかまた教えて頂けたら嬉しいです。"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-13T21:01:00",
+      "utterance": "分かりました。"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-13T21:01:05",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T21:01:19",
+      "utterance": "今後のことをまた、一緒に考えて力になれればと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T21:01:24",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T21:01:39",
+      "utterance": "こちらこそ、ありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2023-01-13T21:02:33",
+      "utterance": "(今日は、ありがとうございました。勉強になりました。ロールプレイ終了でお願いします)"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-01-13T21:03:01",
+      "utterance": "（ありがとうございました。少し時間がすぎてしまいすみません、もしお時間ありましたら、評価をお願いいたします。ありがとうございました。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "定年退職後の再就職不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4431,
+    "評価作成日時": "2023-01-13T21:15:00",
+    "クライアント役ID": 353,
+    "カウンセラー役ID": 355,
+    "点数": 54,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 3,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4431,
+    "evaluation_created_at": "2023-01-13T21:15:00",
+    "client_id": 353,
+    "counselor_id": 355,
+    "score": 54,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

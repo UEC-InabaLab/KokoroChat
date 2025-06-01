@@ -1,0 +1,389 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2022-07-19T19:52:40",
+      "utterance": "こんばんはよろしくおねがいします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-19T19:55:50",
+      "utterance": "こんばんは。よろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-19T19:56:40",
+      "utterance": "少し早いですが、始めてよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-19T19:56:49",
+      "utterance": "大丈夫です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-19T19:57:05",
+      "utterance": "それでは、始めさせていただきます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-19T19:57:35",
+      "utterance": "はじめまして。カウンセラーの若松です。本日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-19T19:58:14",
+      "utterance": "やりたいことがわからないんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-19T19:59:44",
+      "utterance": "やりたいことが分からないというお悩みですね。もう少しお話お聞かせいただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-19T20:00:53",
+      "utterance": "好きな仕事が見つからないです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-19T20:01:38",
+      "utterance": "好きな仕事が見つからずに、悩んでおられるのですね。まず、今の状況を教えて下さい。学生さんでしょうか？社会人の方ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-19T20:02:33",
+      "utterance": "社会人３年目です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-19T20:03:08",
+      "utterance": "今はお仕事をされているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-19T20:03:13",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-19T20:03:49",
+      "utterance": "今のお仕事は、「やりたいこと」ではないと感じられているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-19T20:04:41",
+      "utterance": "そうですね！安定してるから選びました！"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-19T20:06:08",
+      "utterance": "なるほど。安定しているから選んだけど、仕事についたら、やりたいことと、少し違うかなと感じられているのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-19T20:07:13",
+      "utterance": "やりたいと思って選んでないですからね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-19T20:08:27",
+      "utterance": "会社へ行くのは、つらいと感じていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-19T20:09:48",
+      "utterance": "つらくないですね楽だし給料もいいし安定してます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-19T20:13:06",
+      "utterance": "条件は良いお仕事なのですね。毎日の出勤が辛いと感じていないのは良かったです。でも、「やりたいこと」でない部分では、悩まれますよね。具体的にどのようなことがやりたいという希望はあるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-19T20:15:41",
+      "utterance": "どのようなことがやりたいかわかんないんでよね。むしろ好きなことがわからない"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-19T20:19:13",
+      "utterance": "やりたいこと、見つけるのは難しいですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-19T20:19:20",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-19T20:20:20",
+      "utterance": "やりたいこと、好きなことは、仕事以外にありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-19T20:21:38",
+      "utterance": "パチンコですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-19T20:21:59",
+      "utterance": "趣味なのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-19T20:22:09",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-19T20:23:06",
+      "utterance": "それでは、仕事で「やりたいことが見つからない」と思われたきっかけは何でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-19T20:28:00",
+      "utterance": "楽しいと思えるものがないからですかね"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-19T20:28:59",
+      "utterance": "お金とか考えたら安定してるほうがいいし"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-19T20:29:50",
+      "utterance": "けどこのままこの仕事続けると考えたら人生つまんなそうだと思って"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-19T20:31:00",
+      "utterance": "楽しいと思えるものがない　と思いながら仕事をするのも、しんどい事もありますよね。このままつまらないままかなと思うと不安になりますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-19T20:32:26",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-19T20:33:05",
+      "utterance": "どうすれば見つかりますか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-19T20:34:33",
+      "utterance": "そうですね、一緒に考えていきたいと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-19T20:35:20",
+      "utterance": "今まで３年間仕事をしてきて、少しでも喜びに感じたことはありませか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-19T20:36:33",
+      "utterance": "ないですね。頑張っても給料変わらないので"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-19T20:37:27",
+      "utterance": "今の仕事の中でやりがいを探すのは、難しそうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-19T20:38:51",
+      "utterance": "難しいですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-19T20:39:11",
+      "utterance": "転職なども考えているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-19T20:39:25",
+      "utterance": "好きな仕事が見つかれば転職しますね！"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-19T20:39:44",
+      "utterance": "即決ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-19T20:39:55",
+      "utterance": "はい！"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-19T20:40:56",
+      "utterance": "それでは、今までのお話を少しまとめてみてもよいですか？？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-19T20:41:19",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-19T20:43:37",
+      "utterance": "あなたは、待遇面では恵まれている会社で、安定は手に入れたけれど、できればもっとやりがいのある、好きなことをしたい。そのためには転職もする覚悟があるけれど、肝心の「好きなこと」が見つからない。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-19T20:44:07",
+      "utterance": "お悩みをまとめるとこんな感じでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-19T20:44:26",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-19T20:44:40",
+      "utterance": "「好きなこと」を探すために、なにか行動をおこしていますか？？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-19T20:45:20",
+      "utterance": "してないですねどういう行動をすればいいかわからないので"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-19T20:46:36",
+      "utterance": "たとえばですが、仕事以外の趣味からでも、読書からでも、友人との情報交換からでも、ささいな事からでいいと思うのですが。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-19T20:47:06",
+      "utterance": "一旦、仕事以外の事に気持ちと時間を使ってみたらいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-19T20:48:50",
+      "utterance": "なるほどやってみます！"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-19T20:49:09",
+      "utterance": "なにか思いつきますか？？"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-19T20:49:52",
+      "utterance": "いや思いつかないです友達に聞いてみようかなって"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-19T20:50:46",
+      "utterance": "それもいいですね！そういう小さなことから、少しづつ進めてみてください。それも確実に前向きな１歩だと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-19T20:51:24",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-19T20:52:57",
+      "utterance": "会社へ行くのは辛くないということでしたので、焦らず、ゆっくりと「好きなこと」を探していってほしいと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-19T20:53:18",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-19T20:54:39",
+      "utterance": "また悩まれたら、お話しにいらしてください。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-19T20:55:10",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-19T20:56:17",
+      "utterance": "それでは、本日のご相談はここで終了とさせていただきます。お時間を作ってお話をお聞かせいただき、どうもありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-07-19T20:56:28",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-07-19T20:56:59",
+      "utterance": "お疲れ様です。ここでロールプレイを終了させていただきます。ありがとうございました。"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "やりたいことが見つからない"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3729,
+    "評価作成日時": "2022-07-26T23:46:00",
+    "クライアント役ID": 311,
+    "カウンセラー役ID": 88,
+    "点数": 68,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 4,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 5,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 4,
+    "要約": 4,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3729,
+    "evaluation_created_at": "2022-07-26T23:46:00",
+    "client_id": 311,
+    "counselor_id": 88,
+    "score": 68,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 4,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 5,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

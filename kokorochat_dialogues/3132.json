@@ -1,0 +1,654 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:00:08",
+      "utterance": "こんにちは。相談員です。本日はご相談ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:00:40",
+      "utterance": "はじめにあなたのご年齢、ご性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:01:14",
+      "utterance": "こちらこそお受け下さりありがとうございます。40歳、男、です。宜しくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:02:10",
+      "utterance": "はい。ありがとうございます。本日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:02:56",
+      "utterance": "私、人に上から目線と言われる事がありまして、気にしてます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:03:56",
+      "utterance": "人から上から目線と言われることがあって、気にしてるということなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:04:11",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:04:36",
+      "utterance": "自分では、見下してるつもりないのに。それとも、知らず知らずしているのか、とても気にしてます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:05:43",
+      "utterance": "相談者さんは見下しているつもりはないのに上から目線と言われてしまい、気になさってるということですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:05:53",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:06:32",
+      "utterance": "会話とか具体的にお聞かせいただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:06:52",
+      "utterance": "うーん、LINEでは難しいです。すみません。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:06:57",
+      "utterance": "何か、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:07:05",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:07:17",
+      "utterance": "言葉とかではなく、口調とか態度みたいで。。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:08:39",
+      "utterance": "言葉ではなく口調や態度みたいと相談者さんは思ってるのでしょうか？それとも言われたのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:09:16",
+      "utterance": "思っているのもあるし、言われたのもあります。年上に対してガーっと言うなと。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:09:36",
+      "utterance": "年上には基本敬語ですから。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:09:48",
+      "utterance": "そうですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:09:49",
+      "utterance": "敬語で上から目線は流石に無いかと"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:10:20",
+      "utterance": "実は私"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:10:31",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:11:13",
+      "utterance": "カウンセリングも受けているのですが、カウンセラーさんには、「話し方が事務的で感情が感じにくい。」と言われました。それが人により上から目線に感じられると"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:11:23",
+      "utterance": "上から目線という訳ではないと"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:11:51",
+      "utterance": "でも、事務的な話し方で、要は損してる訳です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:12:22",
+      "utterance": "話し方が事務的で感情が感じにくいとカウンセラーから言われたのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:13:12",
+      "utterance": "私はそう感じませんでした。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:13:13",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:13:20",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:13:34",
+      "utterance": "あくまで対面の話ですからね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:13:50",
+      "utterance": "言葉遣いはやはり問題無いのかなと思いました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:14:02",
+      "utterance": "文字だけのやり取りですが、とても心がこもってるなと感じました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:14:22",
+      "utterance": "ああ、ありがとうございます。そう言われると救われます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:14:41",
+      "utterance": "何か、対面だと"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:14:47",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:14:54",
+      "utterance": "非言語が余り無いようでして。。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:15:13",
+      "utterance": "それが事務的に見えるようで"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:15:44",
+      "utterance": "うんうん、"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:16:18",
+      "utterance": "上から目線でないのは良いですが、それで損してるのも悲しいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:17:34",
+      "utterance": "損をしているのも悲しい。そうですよね。相談者さまには全くそのつもりはないのに"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:17:42",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:18:08",
+      "utterance": "とはいえ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:18:16",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:18:32",
+      "utterance": "そのつもりが無くても、相手がそう感じたらオシマイですから。。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:19:36",
+      "utterance": "カウンセラーから感情が感じにくいと言われてどう思いましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:20:06",
+      "utterance": "ああ、そういう事か〜と、妙に納得しました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:20:22",
+      "utterance": "理由が分かったのは、良かったですからね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:21:19",
+      "utterance": "理由が分かって納得されたのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:21:35",
+      "utterance": "はい、納得しました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:21:48",
+      "utterance": "上から目線でないのは安心もしました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:21:56",
+      "utterance": "では相談者さんはどうされたいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:22:28",
+      "utterance": "事務的な話し方を直したいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:23:50",
+      "utterance": "事務的な話し方を直したいのですね。先ほどは言葉遣いは問題がないとおっしゃってましたので伝え方でしょうかね"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:24:37",
+      "utterance": "そういう事になります。大きく言うと非言語コミュニケーションをもっと行う。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:24:48",
+      "utterance": "といった所でしょうか。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:25:51",
+      "utterance": "非言語コミュニケーションをもっと行うとはもう少し詳しく教えていただければ助かります。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:26:26",
+      "utterance": "声に抑揚をつけるとか、声のトーン、表情を作るとか、ですかね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:27:42",
+      "utterance": "よくわかりました。ありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:27:59",
+      "utterance": "いえ"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:28:54",
+      "utterance": "非言語化コミュニケーションは意識されておられるのでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:29:05",
+      "utterance": "ええ、意識はしてます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:29:13",
+      "utterance": "そのかいあり"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:29:23",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:29:33",
+      "utterance": "笑顔は前より増えました。勿論、時と場合によりますが。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:30:34",
+      "utterance": "笑顔が増えてどうですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:30:47",
+      "utterance": "？どうですかとは?"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:31:25",
+      "utterance": "あ、もう一度いいでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:31:59",
+      "utterance": "笑顔が前より増えたことはどう思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:32:26",
+      "utterance": "ありがとうございます。良かったと思ってます。前よりマシになったなぁと。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:33:43",
+      "utterance": "それはよかったですね。相談者さんが真摯に自分と向き合い努力されてる様子が伝わりました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:34:09",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:35:37",
+      "utterance": "笑顔が増えたそれ以外にもありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:36:35",
+      "utterance": "うーん、意識して声の抑揚をつけるようにとか、トーンをコントロールするようにはなりましたかね。上手くいくかは別として"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:37:12",
+      "utterance": "でも、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:37:19",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:37:41",
+      "utterance": "まだまだ声の抑揚が無いなと感じる時もあります。思い込みかも知れませんがね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:38:29",
+      "utterance": "事務的と言いましたが、別な言い方をすると共感性が低いのです。だから、余り相談したくはないかなと、言われたこともあります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:38:39",
+      "utterance": "後から気が付かれるということは次への前進だと思います"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:38:47",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:39:42",
+      "utterance": "共感性が低いと相談者さんは思ってるのですね？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:39:59",
+      "utterance": "低いというか、"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:40:05",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:40:18",
+      "utterance": "共感って、どうしたら良いのかと思いまして。。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:41:04",
+      "utterance": "共感てどうしたらいいのか・・難しいですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:41:35",
+      "utterance": "カウンセラーさんでも難しいですか。。特にメールとかLINEだと難しいかなぁと。。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:42:02",
+      "utterance": "難しいですが"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:42:06",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:42:48",
+      "utterance": "例えばある人がゴキブリが嫌いと言ったら共感しやすいですよね"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:43:48",
+      "utterance": "あ〜それはそうですね〜"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:45:31",
+      "utterance": "それで別の人が「私、犬が嫌い」と言ってたらゴキブリを想像してみてひょっとしたらこの人はこういう感じで嫌いなのかな？と共感できるみたいな。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:46:07",
+      "utterance": "へぇ〜、何だか面白いですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:47:41",
+      "utterance": "そうですね。想像力に幅を持たせるという感じでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:47:50",
+      "utterance": "なるほど"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:48:01",
+      "utterance": "確かに"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:48:24",
+      "utterance": "想像しないと、言葉はボキャブラリーがあっても出てこないですね。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:48:51",
+      "utterance": "そうですね。それは私も常々思いますね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:48:59",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:50:23",
+      "utterance": "なにも経験していないとそれを語れないとはおもいません。想像力ですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:50:58",
+      "utterance": "ええ、ありがとうございます。何だか前進出来そうな気がしてきました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:51:49",
+      "utterance": "その言葉を聞いて私もうれしいです。損をして悲しい思いをなさらないでほしいと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:52:21",
+      "utterance": "上手くいくといいですね"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:52:24",
+      "utterance": "そうですね、それは私もしたくないですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:52:28",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:53:00",
+      "utterance": "共感は想像、事務的は非言語を増やす、やってみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:54:01",
+      "utterance": "はい。頑張ってください"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:54:24",
+      "utterance": "そろそろお時間になりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:54:47",
+      "utterance": "吐き出しておきたい、言い残したことなどありませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:56:04",
+      "utterance": "いえ、大丈夫です。また相談するかも知れませんが、まずは今日のことをやってみます。色々試行錯誤ですね。今風に言えばPDCAですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:57:06",
+      "utterance": "そうですね、試行錯誤しながらほんの少しでもいいので前進できれば幸いです。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:57:31",
+      "utterance": "はい!私もそう思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:58:29",
+      "utterance": "では終了とさせていただきますね"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:59:01",
+      "utterance": "はい、ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T15:59:22",
+      "utterance": "こちらこそ貴重なお時間をありがとうございました"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T15:59:36",
+      "utterance": "私の方こそありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T16:00:02",
+      "utterance": "では終了いたしますね"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-13T16:00:14",
+      "utterance": "はい、お疲れさまでした"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-13T16:00:25",
+      "utterance": "お疲れさまでした"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "上から目線とされることへの不安"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3132,
+    "評価作成日時": "2022-02-13T19:25:00",
+    "クライアント役ID": 251,
+    "カウンセラー役ID": 259,
+    "点数": 71,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 4,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 2,
+    "要約": 3,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 4,
+    "次の行動につながる提案": 4,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3132,
+    "evaluation_created_at": "2022-02-13T19:25:00",
+    "client_id": 251,
+    "counselor_id": 259,
+    "score": 71,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 4,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 4,
+    "offered_actionable_suggestions": 4,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

@@ -1,0 +1,964 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-07-16T14:54:20",
+      "utterance": "こんにちは"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T14:54:29",
+      "utterance": "よろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T14:55:14",
+      "utterance": "よろしくお願いいたします色々大変でしたよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T14:55:27",
+      "utterance": "いいえ、こちらこそ"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T14:55:40",
+      "utterance": "時間は15:30までで大丈夫ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T14:55:54",
+      "utterance": "私は16:00まで大丈夫です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T14:56:08",
+      "utterance": "はい、ギリ大丈夫です"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T14:56:22",
+      "utterance": "了解です。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T14:56:30",
+      "utterance": "ではお願い致します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T14:57:00",
+      "utterance": "はい、お願いいたしますでは、ロープレ開始します"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T14:57:07",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T14:57:32",
+      "utterance": "こんにちは、相談員ですよろしくお願いいたします"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T14:57:42",
+      "utterance": "はい、よろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T14:58:09",
+      "utterance": "今日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T14:58:12",
+      "utterance": "なんかどうしようもないことなんですが、、もやっとしてることがありまして。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T14:58:57",
+      "utterance": "そうなんですねしょもないことなどと言わずお話し聞かせて下さい"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T14:59:15",
+      "utterance": "前に会社を辞めた子がいるんですけど、その子のことが気になっています。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T14:59:41",
+      "utterance": "その子は会社の悪口や夫(同じ職場です)の悪口を散々行って辞めたんですが、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:00:19",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:00:26",
+      "utterance": "今でも他支店の同期の子達と繋がってるみたいで、まだ夫の悪口を言ってるみたいなんです"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:00:57",
+      "utterance": "夫の悪口だけでなく多分私のことも"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:01:09",
+      "utterance": "お辞めになった方の事が気になっておられるのは"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:01:10",
+      "utterance": "なんか腹立ちます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:02:00",
+      "utterance": "夫さんの事だけでなく、会社や相談者さんの悪口をおっしゃられてると"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:02:05",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:02:27",
+      "utterance": "それは、かなり腹立たしいですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:02:45",
+      "utterance": "そうなんです、先月異動してそのことを知りました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:03:31",
+      "utterance": "お辞めになった方と繋がりがあるかたから漏れてくるのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:03:50",
+      "utterance": "そうなんです。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:04:26",
+      "utterance": "それで今いる子たちは私たち夫婦が来るなら辞めるとか言ってたらしくて。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:05:19",
+      "utterance": "夫と直接話してその子達もわかったみたいですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:05:20",
+      "utterance": "ごめんなさい、相談者さんご夫妻がどこにいかれるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:05:30",
+      "utterance": "あ、すいません"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:05:49",
+      "utterance": "以前は那覇にいて、先月福岡に異動してきたんです"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:06:27",
+      "utterance": "で、那覇の悪口言って辞めた子が、福岡の同期の子に私たちの悪口を言ってたって感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:06:31",
+      "utterance": "社内の移動ではなく、会社自体の移動なのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:06:49",
+      "utterance": "支店の異動ですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:07:01",
+      "utterance": "そういうことなのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:07:31",
+      "utterance": "で"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:07:31",
+      "utterance": "はい、そうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:08:14",
+      "utterance": "福岡にいらっしゃる悪口を聞いた方が鵜呑みにされてるということなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:08:30",
+      "utterance": "そうですね、今は誤解はとけたようですが"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:08:58",
+      "utterance": "誤解はとかれたのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:09:06",
+      "utterance": "そうみたいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:09:48",
+      "utterance": "一番腹立たしいのは、辞めていった方の腹立たしさですかね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:09:58",
+      "utterance": "私は育休で会社には言ってないので直接福岡の子たちから話は聞いていませんが、夫が言うには誤解は解けたようです"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:10:02",
+      "utterance": "そうです。まさに。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:10:15",
+      "utterance": "今さらどうしようもできないことはわかってるんですが。。"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:10:24",
+      "utterance": "なんだか腹立たしくて"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:10:57",
+      "utterance": "それは、腹がたって当然のことですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:11:10",
+      "utterance": "なんていうか、卑怯ですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:11:30",
+      "utterance": "言い逃げみたいな"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:11:44",
+      "utterance": "そうですね新しい事で色々大変でしょうに"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:11:59",
+      "utterance": "感情的に"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:12:17",
+      "utterance": "はい。私よりも夫の方が堪えてたかもしれません"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:12:33",
+      "utterance": "振り回されてしまう感じですよねまさに、言い逃げですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:13:01",
+      "utterance": "かき回すだけかきまわして！"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:13:16",
+      "utterance": "そうなんです、、"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:13:25",
+      "utterance": "那覇の支店もそれでだいぶ荒れましたし、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:13:45",
+      "utterance": "夫さんも良く耐えてこられましたね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:14:09",
+      "utterance": "そうですね。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:14:27",
+      "utterance": "那覇でももっと荒れる様なことがあったのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:15:15",
+      "utterance": "会社への不満を散々言い散らして"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:15:22",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:15:32",
+      "utterance": "他の2人も辞めました"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:15:50",
+      "utterance": "まぁ元々辞める人だったのかもしれませんが"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:16:14",
+      "utterance": "なんだかその子の悪口に引っ張られた感は否めない、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:16:14",
+      "utterance": "嫌がらせの為に会社にきている感じさえしてきてしまいます"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:17:12",
+      "utterance": "それで退職になってホッとしていたらまだ言いふらしてたっていうのでびっくり"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:17:26",
+      "utterance": "そうですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:17:37",
+      "utterance": "やっといなくなってくれたのに"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:18:01",
+      "utterance": "はぁ、、ってかんじです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:18:31",
+      "utterance": "差し支えなければ、悪口とはどんな事を言いふらしておられたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:19:25",
+      "utterance": "夫のことについては、仕事の進め方が気に入らなかったみたいで、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:19:34",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:19:45",
+      "utterance": "何言ってるかわからない、とか"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:20:01",
+      "utterance": "これでは部下は伸びない、とか"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:21:17",
+      "utterance": "仕事に支障をきたすレベルの悪口ですね！"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:21:55",
+      "utterance": "仕事の進め方についてなら直接言ってくれれば良かったのにって"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:22:50",
+      "utterance": "嫌味な影口ほど怒りになりますよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:23:03",
+      "utterance": "陰湿すぎる"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:23:22",
+      "utterance": "しかもその悪口を社内SNSで那覇の同期の子に送ってたんですよ"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:23:27",
+      "utterance": "それで発覚"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:23:39",
+      "utterance": "本当に嫌な気分でした"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:23:59",
+      "utterance": "社内SNSでですか！"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:24:07",
+      "utterance": "だからバレたんです"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:24:15",
+      "utterance": "ツメが甘いというか、、"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:24:32",
+      "utterance": "夫はそれがわかったとき本当に苦しそうで泣いてました"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:25:10",
+      "utterance": "その人たちが辞めて、異動して新しい生活が始まるとおもったら"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:25:26",
+      "utterance": "こんなことがあって"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:25:39",
+      "utterance": "夫さん、涙まで・・・人としても社会人としても幼すぎますね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:25:48",
+      "utterance": "一番辛いのは夫なんでしょうけど、、"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:25:58",
+      "utterance": "私は腹が立ってて"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:26:16",
+      "utterance": "どうしようもないことなのにモヤモヤしてしまって、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:26:53",
+      "utterance": "そうですね、夫さんが直接的に被害をこうむっているわけですからお辛かったでしょうね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:27:12",
+      "utterance": "それを、相談者さんが"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:27:27",
+      "utterance": "はい。なので話を聴くときはなるべく感情を出さないようにしてるんですが"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:27:47",
+      "utterance": "怒りの感情は"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:28:17",
+      "utterance": "お話しを聞いて支えつつも、ご自身でも腹が立って子の感情をどうすればよいか！ですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:28:28",
+      "utterance": "そうなんですよね、、"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:28:43",
+      "utterance": "昼間ふとした瞬間に思い出すともやっとしてしまう、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:29:27",
+      "utterance": "もやっとどころか沸々怒りがこみあげてきそうですが"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:29:57",
+      "utterance": "はい、だからなるべく考えないようにはしてるんですけど"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:30:27",
+      "utterance": "ご自身をセーブなさっておられるのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:30:52",
+      "utterance": "そうですね。。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:31:36",
+      "utterance": "新しい生活が始まろうとした矢先に苛立ちますよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:31:50",
+      "utterance": "出鼻をくじかれた感じですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:32:28",
+      "utterance": "せっかく終わった話だと、ホッとしたところでしたのに"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:32:55",
+      "utterance": "はい。過ぎた話にできてきたところでした"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:33:15",
+      "utterance": "悔しいですね！！"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:33:43",
+      "utterance": "もう嫌になっちゃいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:34:14",
+      "utterance": "夫さんは今は、どんな感じでお過ごしですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:35:21",
+      "utterance": "出張がメインなので週のほとんどは家にいないですが、頑張ってるみたいでさ"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:35:37",
+      "utterance": "です の間違いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:35:58",
+      "utterance": "そうですか、それは不幸中の幸いと言うか・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:36:05",
+      "utterance": "ただ"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:37:00",
+      "utterance": "相談者さんが夫さんとご自身の二人分の感情を引き受けずにすんで少し安心しました"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:37:52",
+      "utterance": "誤解は解けたようなのでそこは安心しました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:38:15",
+      "utterance": "良かったです後はご自身の感情の行き場所ですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:38:37",
+      "utterance": "そうですね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:39:13",
+      "utterance": "育休はいつまでかは決まっていらっしゃるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:39:51",
+      "utterance": "あと半年あります"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:40:44",
+      "utterance": "そうですかそれまでには、腹立たしい奴の存在を心から消したいですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:41:08",
+      "utterance": "まぁそうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:42:31",
+      "utterance": "今、ふと思い出すと。とおっしゃておられましたが、頻度的にはどの位で出現してきますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:44:39",
+      "utterance": "頻度は、、正確にはわかりませんがここ3日くらい子供の世話が落ち着いたときに考えたりします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:45:58",
+      "utterance": "忙しい時ではない瞬間に思い出す感じですかね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:46:13",
+      "utterance": "そうですね。落ち着いたときに。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:47:32",
+      "utterance": "移動前に悪口で振り回されたり、その人のせいで辞める感じになった方もおいでになり"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:49:43",
+      "utterance": "新しい移動先で、新たな気持ちでむかえようとした新生活も、人の繋がりから出鼻をくじかれ夫さんも涙することもあり、相談者さんは、支えながらもご自身の行き場のない怒りと苛立ちに耐えられ"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:50:07",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:50:46",
+      "utterance": "でも、お忙しい時間では無い時にまだ思い出してしまいお辛い感じ。ということでよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:51:33",
+      "utterance": "はい、そうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:52:46",
+      "utterance": "育休が終り会社の戻られるときは絶対にもう邪魔な影は感じたくないですよね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:53:47",
+      "utterance": "忙しくなれば大丈夫かも知れません"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:54:33",
+      "utterance": "そうですか考える時間がなければ大丈夫な気もなさっているのですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:55:09",
+      "utterance": "そうですね。思い出すタイミングを考えてみたらそんな気がします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:55:24",
+      "utterance": "そうでしたか"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:56:04",
+      "utterance": "ここまで"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:57:14",
+      "utterance": "ずっと、振り回され続け嫌な思い、腹立たしさ、苛立ちと戦ってきたご相談者さまです"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:57:49",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:58:11",
+      "utterance": "そして夫さんの支えにもなり、育児にも引っ越しにも頑張ってこられましたよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T15:59:33",
+      "utterance": "より一層ご自身の時間を充実させ楽しむ時間が増えるといいなと感じます"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T15:59:50",
+      "utterance": "自分の時間ですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T16:00:08",
+      "utterance": "お子さんと共に"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T16:00:24",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T16:01:18",
+      "utterance": "(時間になってしまい申し訳ないです。ながくなってしまいました。途中になりましたが終了にしますか)"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T16:01:42",
+      "utterance": "はい、お任せいたします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T16:02:55",
+      "utterance": "(私はギリあと15分大丈夫ですが、気持ちが悪い感じでの終了にならなければとねがいます)"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T16:03:15",
+      "utterance": "私も時間大丈夫です！"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T16:03:49",
+      "utterance": "(ありがとうございます。ではあと少しよろしくお願いいたします)"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T16:03:55",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T16:05:00",
+      "utterance": "お子さんと共にでも、ご自身で少し空いた時間にでもリラックスできる時間が出来るとよいな。と感じました"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T16:05:54",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T16:06:24",
+      "utterance": "どんな事なら可能ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T16:06:52",
+      "utterance": "動画や映画を見るのは好きです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T16:07:07",
+      "utterance": "そうなのですね！"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T16:07:43",
+      "utterance": "動画でしたら手軽に出来そうですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T16:07:54",
+      "utterance": "子供が寝た後に見るときはあります"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T16:08:16",
+      "utterance": "時間の有効活用されておられますね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T16:08:39",
+      "utterance": "よく寝てくれるので助かっています"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T16:09:04",
+      "utterance": "そうでしたかお母さんおもいでいらっしゃる！"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T16:09:48",
+      "utterance": "楽しています"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T16:10:46",
+      "utterance": "相談者さんも育児や家事でお疲れになりながらも時間を上手く使われておられますね"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T16:11:40",
+      "utterance": "他の方はどうかよくわかりませんが、楽しようと思えばかなり楽できるのでマイペースにやってます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T16:12:14",
+      "utterance": "時間の有効活用が上手だと思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T16:12:22",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T16:13:56",
+      "utterance": "では、その上手さを利用して影に邪魔されないよう、お忙しくない時は楽しい事に打ち込んでいただけたらと思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T16:14:26",
+      "utterance": "そうですね。考える時間をつくらないようにしてみます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T16:15:08",
+      "utterance": "はい、応援しておりますのでご無理なさらない程度にやってみらしてください"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T16:15:40",
+      "utterance": "又、なにかありましたらお話しにお越しください"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T16:16:02",
+      "utterance": "わかりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T16:16:10",
+      "utterance": "今日はこれで終了になりますが大丈夫でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T16:16:17",
+      "utterance": "はい、大丈夫です"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T16:16:21",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T16:17:10",
+      "utterance": "こちらこそ、お話ししてくださりありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T16:18:25",
+      "utterance": "(長時間ありがとうございました。また、お会い出来たらよろしくお願いいたします。)"
+    },
+    {
+      "role": "client",
+      "time": "2020-07-16T16:19:35",
+      "utterance": "ありがとうこざいました！"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-07-16T16:19:56",
+      "utterance": "ありがとございました。では、失礼いたします。"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "元同僚の悪口による職場の悪影響"
+  },
+  "review_by_client_jp": {
+    "評価ID": 204,
+    "評価作成日時": "2020-07-16T21:10:00",
+    "クライアント役ID": 48,
+    "カウンセラー役ID": 23,
+    "点数": 83,
+    "聴いてもらえた、わかってもらえたと感じた": 4,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 4,
+    "取り組みたかったことを扱えた": 5,
+    "一緒に考えながら取り組めた": 4,
+    "やりとりのリズムがあっていた": 5,
+    "居心地のよいやりとりだった": 4,
+    "全体として適切でよかった": 4,
+    "今回の相談は価値があった": 4,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 5,
+    "受容・共感": 3,
+    "肯定・承認": 4,
+    "的確な質問による会話の促進": 4,
+    "要約": 4,
+    "問題の明確化": 4,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 5,
+    "勇気づけ・希望の喚起": 5,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 204,
+    "evaluation_created_at": "2020-07-16T21:10:00",
+    "client_id": 48,
+    "counselor_id": 23,
+    "score": 83,
+    "felt_heard_and_understood": 4,
+    "felt_respected": 4,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 4,
+    "concerns_were_addressed": 5,
+    "thought_through_concerns_together": 4,
+    "conversation_had_good_rhythm": 5,
+    "conversation_felt_comfortable": 4,
+    "felt_appropriate_and_satisfying": 4,
+    "conversation_was_valuable": 4,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 5,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 4,
+    "asked_effective_questions": 4,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 4,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 5,
+    "encouraged_and_instilled_hope": 5,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

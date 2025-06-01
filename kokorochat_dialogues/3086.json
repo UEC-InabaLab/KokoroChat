@@ -1,0 +1,384 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-02-04T15:22:34",
+      "utterance": "（こんにちは。15時30分から始めさせていただきます。よろしくお願いします。）"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-04T15:26:57",
+      "utterance": "よろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-04T15:30:41",
+      "utterance": "こんにちは。相談員です。ご相談ありがとうございます。初めに年齢・性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-04T15:31:26",
+      "utterance": "30歳男です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-04T15:31:45",
+      "utterance": "教えていただきありがとうございます。今日はどのようなご相談でいらっしゃいましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-04T15:32:54",
+      "utterance": "仕事がつまらなくて、会社をやめようかと思っています"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-04T15:33:33",
+      "utterance": "そうなんですね。どうしてつまらないとお思いなんですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-04T15:34:35",
+      "utterance": "営業ノルマがきつくて耐えられない"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-04T15:35:17",
+      "utterance": "そうなんですね。それはしんどいですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-04T15:36:05",
+      "utterance": "いつから営業ノルマがきつくなったのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-04T15:36:17",
+      "utterance": "しんどいですよ"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-04T15:37:01",
+      "utterance": "6年前くらいからですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-04T15:37:58",
+      "utterance": "そんなに長い間頑張っていらしたんですね。それはしんどくなってしまいますよね"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-04T15:38:46",
+      "utterance": "会社をやめようかと考えてますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-04T15:39:46",
+      "utterance": "そうお思いなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-04T15:40:27",
+      "utterance": "やめてどのようなお仕事につきたいとかありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-04T15:41:56",
+      "utterance": "トラックの運転手ですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-04T15:42:32",
+      "utterance": "もうやりたい仕事が決まっているのですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-04T15:44:50",
+      "utterance": "どうして今の仕事を辞めることに迷っているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-04T15:46:54",
+      "utterance": "給料カットが今の方かいいので"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-04T15:48:15",
+      "utterance": "間違えた給料がいいので"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-04T15:48:52",
+      "utterance": "なるほど。お給料も大切ですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-04T15:49:24",
+      "utterance": "そうですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-04T15:49:29",
+      "utterance": "お給料以外で迷っていることはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-04T15:51:50",
+      "utterance": "特にないてすね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-04T15:54:46",
+      "utterance": "そうなんですね。転職について誰かに相談しましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-04T15:55:54",
+      "utterance": "人に話しても理解されないので誰にも話してないです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-04T15:57:15",
+      "utterance": "そうお思いなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-04T15:57:50",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-04T15:58:52",
+      "utterance": "今のお仕事の状況をもう少し詳しく教えていただけませんか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-04T16:01:32",
+      "utterance": "営業ノルマがあって目標の半分かいいところ達成しないとバカにされる"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-04T16:03:53",
+      "utterance": "すみません。営業ノルマの目標を半分いかないとバカにされるということでよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-04T16:04:08",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-04T16:05:00",
+      "utterance": "そうなのですね。バカにされるのは悲しいお気持ちになってしまいますよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-04T16:05:48",
+      "utterance": "ノルマ以外で嫌だと思うことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-04T16:06:04",
+      "utterance": "ストレスがあまりますね"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-04T16:06:18",
+      "utterance": "たまります"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-04T16:07:06",
+      "utterance": "そうなんですね。どのようなことが特にストレスだと感じますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-04T16:07:58",
+      "utterance": "なにもかもつまらない"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-04T16:08:39",
+      "utterance": "つまらないことがストレスなのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-04T16:08:52",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-04T16:10:53",
+      "utterance": "先ほどバカにされると伺ったんですけれど、職場の人間関係はいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-04T16:12:23",
+      "utterance": "悪いですねお互いに悪口の言い合いです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-04T16:14:40",
+      "utterance": "そうなんですね。悪口の言い合いされる環境でノルマもきついとうとてもしんどい状況の中頑張っていらしたんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-04T16:15:56",
+      "utterance": "給料が安くてもよいのでトラックの運転手がいいですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-04T16:16:17",
+      "utterance": "そうお思いなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-04T16:16:37",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-04T16:16:58",
+      "utterance": "転職に向けて何か行動されていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-04T16:18:26",
+      "utterance": "ハローわ-くですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-04T16:20:01",
+      "utterance": "そうなんですね。ハローワークはいかかがでしたか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-04T16:21:03",
+      "utterance": "失礼しました。ハローワークはいかがでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-04T16:21:24",
+      "utterance": "今はありますね長距離ドライバーをよく見ますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-04T16:22:03",
+      "utterance": "そうなんですね。求人があるなら良かったです。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-04T16:22:13",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-04T16:23:34",
+      "utterance": "求人の中から絞った会社の面接は受けましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-04T16:24:31",
+      "utterance": "まだなんです来週あたりから行動予定です"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-04T16:25:45",
+      "utterance": "そうのですね。実際に行動されていて行動力が素晴らしいと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-04T16:26:17",
+      "utterance": "何か不安なことはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-04T16:27:05",
+      "utterance": "大丈夫です今日はありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-04T16:28:09",
+      "utterance": "良かったです。あなたの素晴らしい行動力ならきっと転職も上手くいくと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2022-02-04T16:28:24",
+      "utterance": "さようなら"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-04T16:29:20",
+      "utterance": "今日はありがとうございました。これで今日の相談は終了させていただきます。またいつでもいらしてください。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-02-04T16:29:48",
+      "utterance": "それでは失礼致します。"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "営業ノルマによるストレスと人間関係の悪化"
+  },
+  "review_by_client_jp": {
+    "評価ID": 3086,
+    "評価作成日時": "2022-02-05T19:08:00",
+    "クライアント役ID": 265,
+    "カウンセラー役ID": 250,
+    "点数": 40,
+    "聴いてもらえた、わかってもらえたと感じた": 2,
+    "尊重されたと感じた": 2,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 2,
+    "今回の相談は価値があった": 2,
+    "相談開始の円滑さ": 2,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 2,
+    "受容・共感": 2,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 2,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 3086,
+    "evaluation_created_at": "2022-02-05T19:08:00",
+    "client_id": 265,
+    "counselor_id": 250,
+    "score": 40,
+    "felt_heard_and_understood": 2,
+    "felt_respected": 2,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 2,
+    "conversation_was_valuable": 2,
+    "conversation_started_smoothly": 2,
+    "conversation_ended_well": 2,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

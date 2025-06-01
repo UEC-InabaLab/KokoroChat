@@ -1,0 +1,894 @@
+{
+  "dialogue": [
+    {
+      "role": "client",
+      "time": "2021-09-07T15:00:01",
+      "utterance": "こんにちは、相談があります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:00:07",
+      "utterance": "こんにちは相談員です。よろしくお願いいたします。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:00:18",
+      "utterance": "よろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:00:21",
+      "utterance": "最初に年齢と性別を教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:00:29",
+      "utterance": "22歳男性です"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:00:42",
+      "utterance": "お返事ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:00:55",
+      "utterance": "今日はどのようなご相談でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:01:53",
+      "utterance": "私の田舎コンプレックスがすごくて、とてもストレスに感じているので、良い考え方や付き合い方を一緒に考えていただければと思っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:02:21",
+      "utterance": "はい分かりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:02:44",
+      "utterance": "どの様な時にそのようなことが気になるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:03:47",
+      "utterance": "やはり田舎になくて都会にあるものの差を感じる時ですかね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:04:08",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:04:32",
+      "utterance": "日々の生活の中で感じてしまうと辛いものがありますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:04:40",
+      "utterance": "そうなんです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:04:55",
+      "utterance": "例えば、どんなものですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:06:31",
+      "utterance": "私はすごい田舎出身で、大学で街の方で下宿したりパートナーが大阪の人で大阪にも何度も行ったということもあり、生活の不便さや物の充実度で差を感じます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:07:30",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:07:37",
+      "utterance": "今は地元に戻ってきていて田舎で生活している感じです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:08:09",
+      "utterance": "今は故郷に戻って暮らしていらっしゃるんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:08:13",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:08:15",
+      "utterance": "そうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:08:49",
+      "utterance": "戻って来られての、故郷の生活感はいかがですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:09:10",
+      "utterance": "一度故郷を出る前に比べてとても不便で辛く感じます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:09:29",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:09:43",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:09:58",
+      "utterance": "都会の便利な生活を知ってしまっただけに、比較してしまうのでしょうね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:10:55",
+      "utterance": "そうなんです。都会に当たり前にあるものがない生活が結構きついです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:11:12",
+      "utterance": "たしかに。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:11:38",
+      "utterance": "都会では○○があったのになと思うとちょっと悔しい思いでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:12:26",
+      "utterance": "悔しい思いと、私が好きなことがとことんできないもどかしさもあります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:13:01",
+      "utterance": "特になくて困るなというのは何ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:14:40",
+      "utterance": "1番は交通の便だと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:14:55",
+      "utterance": "なるほど。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:15:24",
+      "utterance": "たしかに。メインの交通はバスですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:16:00",
+      "utterance": "バスも列車もあるのですが、バスも一日4本で列車も1時間に多くて1本です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:16:18",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:16:41",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:16:43",
+      "utterance": "それじゃ、ちょっと気楽にお出かけという訳にもいかないですよね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:16:47",
+      "utterance": "そうなんです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:17:15",
+      "utterance": "しっかり行きと帰りの計画を立ててからでないと、とか・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:17:25",
+      "utterance": "ちょっとお出かけが結構ストレス発散兼趣味のような感じだったので"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:17:48",
+      "utterance": "都会にいた時はですね"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:17:51",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:18:40",
+      "utterance": "じゃあ　都会にいた時の気楽なストレス発散方法が無くなってしまったのですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:18:50",
+      "utterance": "そうなんです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:19:07",
+      "utterance": "都会でたくさん好きなものを見つけたのですがそれが出来なくなっちゃった感じです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:19:09",
+      "utterance": "それはお困りですね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:19:24",
+      "utterance": "そうなんです、とても困っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:19:45",
+      "utterance": "そうですよね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:20:06",
+      "utterance": "今は、趣味とかストレス発散にはどんなことをしているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:20:45",
+      "utterance": "YouTubeをみたりするくらいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:20:57",
+      "utterance": "なるほど。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:21:25",
+      "utterance": "YouTubeはどこでも見られますからね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:21:31",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:21:44",
+      "utterance": "唯一の楽しみという所でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:22:09",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:22:49",
+      "utterance": "パートナーさんは大阪の方とのことでしたが、パートナーさんは居間の暮しについては何と言っているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:23:29",
+      "utterance": "パートナーとは遠距離中で、私の今の暮らしをすごくかわいそうだと言っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:24:18",
+      "utterance": "遠距離なんですね。パートナーさんは大阪にいらっしゃって都会の生活をしているんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:24:24",
+      "utterance": "そうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:24:46",
+      "utterance": "そうすると、あなたとしてもうらやましくなってしまいますよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:25:00",
+      "utterance": "はい。とても羨ましいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:25:14",
+      "utterance": "ですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:25:20",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:25:51",
+      "utterance": "お二人の会話の中にも、パートナーさんからはいろいろ都会の生活の話が出てくるでしょうに・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:27:24",
+      "utterance": "都会の話を聞くの自体はあまりストレスに感じないですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:27:43",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:27:56",
+      "utterance": "どちらかと言うと都会の話は好きなのでワクワクする感じがあります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:28:10",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:28:14",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:28:47",
+      "utterance": "じゃあ、パートナーさんと都会の話で盛り上がることもよくあると言う感じみたいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:28:54",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:29:08",
+      "utterance": "やはり都会に憧れがある感じです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:29:27",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:29:38",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:30:08",
+      "utterance": "将来的には、こうしたいという考えはいかがですか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:30:31",
+      "utterance": "どこで、どんな暮らしがしたいとか・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:30:37",
+      "utterance": "将来的には資格を取った後都会にでて生活をしたいと考えています"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:31:11",
+      "utterance": "やはり都会での生活を考えているんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:31:15",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:31:48",
+      "utterance": "ちなみに、今は資格を取るためのお勉強中なのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:32:32",
+      "utterance": "資格を取ってその仕事を始めるまで実家暮らしという感じです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:32:49",
+      "utterance": "そういうことなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:32:53",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:33:09",
+      "utterance": "大きな資格のようですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:34:32",
+      "utterance": "そうですね。試験の時期とパートナーの公務員試験の時期がほぼ同じため2人とも仕事を本格的に始めると同時に同棲かなと考えてます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:35:07",
+      "utterance": "そういうお二人共通の夢があるんですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:35:17",
+      "utterance": "ステキですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:35:24",
+      "utterance": "ありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:35:45",
+      "utterance": "今度の資格の受験予定は何時ごろですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:36:07",
+      "utterance": "来年の夏くらいを考えています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:36:22",
+      "utterance": "1年後ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:36:30",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:37:01",
+      "utterance": "パートナーさんはパートナーさんでやはり来年の受験を目指しているんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:37:08",
+      "utterance": "そうです"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:37:27",
+      "utterance": "そのためあと一年半後の同棲スタートを考えています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:37:43",
+      "utterance": "ステキですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:38:04",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:38:09",
+      "utterance": "是非予定通りに実現したいですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:38:14",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:38:58",
+      "utterance": "単刀直入な質問になってしまいますが、ご自身の見通しとしては、合格の確率はどのように見ているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:40:14",
+      "utterance": "確率はあまり考えたことなかったですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:40:46",
+      "utterance": "なるほど。とにかく夢中になって勉強してきたという感じみたいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:41:31",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:41:42",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:42:09",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:42:10",
+      "utterance": "もしかして、大学の勉強も今度受験する資格に関するお勉強だったのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:42:56",
+      "utterance": "大学は全く関係ない感じです。在学中にやりたいことが見つかったためその勉強を今しています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:43:16",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:43:20",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:44:01",
+      "utterance": "本当にご自分がやりたいことを見つけられたというのは素晴らしい事と思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:44:24",
+      "utterance": "ありがとうございます。がんばります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:44:49",
+      "utterance": "ちなみに、どんな分野の資格になるのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:45:18",
+      "utterance": "心理カウンセラーの資格です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:45:32",
+      "utterance": "そうなんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:45:35",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:45:56",
+      "utterance": "心理カウンセラーのどんなところに魅力を見つけたのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:47:15",
+      "utterance": "私自身心理カウンセラーの方にお世話になったことがあったり、周りに支えを必要としている人が多くいて私も力になりたいと思いました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:47:39",
+      "utterance": "そうだったんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:47:47",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:48:12",
+      "utterance": "ご自身も心理カウンセリングを体験なさって、それで、これだなと実感されているんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:48:38",
+      "utterance": "そうですね。話を聞いてもらうことの重要性に気づいた感じです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:48:53",
+      "utterance": "なるほど。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:49:13",
+      "utterance": "とっても現実的で深い気づきですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:49:27",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:50:02",
+      "utterance": "来年の資格試験に向けて、今勉強中とのことですが、どのようにして勉強しているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:50:32",
+      "utterance": "今は主に授業を受けてDVDで復習する感じです。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:50:42",
+      "utterance": "もう少ししたら実習もやっていこうと思ってます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:50:56",
+      "utterance": "なるほど。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:51:40",
+      "utterance": "先ずは、基礎の理論的な所をおさえて、次いで実践に進まれるんですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:51:46",
+      "utterance": "はい"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:51:48",
+      "utterance": "そうです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:52:20",
+      "utterance": "指導してくれるスクールと契約して進めているということのようですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:52:33",
+      "utterance": "そんな感じです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:52:47",
+      "utterance": "上手な進め方だと思います。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:52:53",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:53:58",
+      "utterance": "独学だと、多分偏ってしまう恐れがあるので、信頼できるスクールで指導してもらうのが一番ですよね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:54:05",
+      "utterance": "そう思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:54:41",
+      "utterance": "勉強の集中を作っていくためには、ご自分ではどんな工夫をしているのですか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:55:40",
+      "utterance": "気がちるものを遠くに置いたりしてます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:55:58",
+      "utterance": "なるほど。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:56:11",
+      "utterance": "上手なやり方ですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:56:42",
+      "utterance": "そうだといいです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:57:35",
+      "utterance": "ご自分なりに工夫を続けるのが一番だと思いますよ。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:57:49",
+      "utterance": "パートナーさんは、あなたの心理カウンセラーという将来のお仕事の希望については何と言っていますか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:57:58",
+      "utterance": "とても肯定してくれています"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:58:13",
+      "utterance": "いいですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:58:25",
+      "utterance": "ありがたいです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:58:38",
+      "utterance": "応援してくれているという感じですね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:58:50",
+      "utterance": "はい応援してくれています"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:59:29",
+      "utterance": "あなたもパートナーさんの来年の公務員試験に向けての応援メッセージを送ってあげたりしているのでしょうね・・・"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T15:59:45",
+      "utterance": "そうですね。お互いのためにも頑張ってる感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T15:59:56",
+      "utterance": "ステキ"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T16:00:10",
+      "utterance": "ありがとうございます"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T16:00:41",
+      "utterance": "お二人の受験の成功とご一緒に暮らせる日が早く来るように応援していますね。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T16:00:51",
+      "utterance": "はいがんばります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T16:01:11",
+      "utterance": "では、今日のご相談は、この辺でよろしいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T16:01:26",
+      "utterance": "はい、ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T16:01:42",
+      "utterance": "気になることが出てきたらまたいらしてください。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T16:01:55",
+      "utterance": "ご一緒に考えさせていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T16:02:06",
+      "utterance": "わかりました。またお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T16:02:38",
+      "utterance": "今日はご相談に来てくれてありがとうございました。では失礼します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T16:03:59",
+      "utterance": "（ロールプレイお疲れさまでした。）"
+    },
+    {
+      "role": "client",
+      "time": "2021-09-07T16:04:11",
+      "utterance": "ありがとうございました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2021-09-07T16:04:43",
+      "utterance": "こちらこそありがとうございました。"
+    }
+  ],
+  "topic": {
+    "main_jp": "進路・キャリア問題",
+    "main_en": "Career and Educational Issues",
+    "sub": "心理カウンセラーの資格取得に向けた勉強方法"
+  },
+  "review_by_client_jp": {
+    "評価ID": 2434,
+    "評価作成日時": "2021-09-07T16:12:00",
+    "クライアント役ID": 226,
+    "カウンセラー役ID": 5,
+    "点数": 56,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 1,
+    "一緒に考えながら取り組めた": 2,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 2,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 4,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 2,
+    "要約": 4,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 4,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 2434,
+    "evaluation_created_at": "2021-09-07T16:12:00",
+    "client_id": 226,
+    "counselor_id": 5,
+    "score": 56,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 4,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 1,
+    "thought_through_concerns_together": 2,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 2,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 4,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 4,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

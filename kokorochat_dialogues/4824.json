@@ -1,0 +1,309 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2023-03-29T11:55:13",
+      "utterance": "本日は宜しくお願いいたしますお時間になったら始めさせていただきたいと思います"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-29T11:55:33",
+      "utterance": "こちらこそ、よろしくお願いいたします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-29T12:00:05",
+      "utterance": "こんにちは　相談員ですまず最初に年齢、性別、相談内容を教えてください"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-29T12:01:06",
+      "utterance": "26歳、男、自分の性格に関しての悩みです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-29T12:02:12",
+      "utterance": "教えていただきありがとうございます自分の性格に関して悩まれてるのですね、、どのように悩まれてるのかもう少し詳しく教えていただけますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-29T12:02:52",
+      "utterance": "とても劣等感が強く、自分に自信がもてません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-29T12:04:56",
+      "utterance": "そうだったのですね、、常に周りのことが気になってしまうのは、疲れちゃいますよね何かそう思われる具体的なお話を聞いてもよろしいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-29T12:06:53",
+      "utterance": "高校で進学校に行きましたが、勉強に挫折しました。大学受験に失敗し、学歴コンプレックスを感じます。就職先でも思うようにいかず、高校の友達と会うと、とても惨めな気持ちになります。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-29T12:09:57",
+      "utterance": "今まで、勉強を頑張ってきたのですねそれが報われないと悲しいですよね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-29T12:13:03",
+      "utterance": "もしこの受験で失敗したという思い出が、将来役に立つとしたら、どんなことがあると思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-29T12:13:23",
+      "utterance": "分かりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-29T12:15:01",
+      "utterance": "そう思われているのですねもしよろしければ、あなたが持つ劣等感を少しでも良くなるよう一緒に考えていけたらと思うのですが、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-29T12:15:29",
+      "utterance": "お願いいたします"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-29T12:16:54",
+      "utterance": "そう言っていただけて嬉しいですちなみに、劣等感を感じる時はどんな考えが頭の中に出てきますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-29T12:18:28",
+      "utterance": "難しいですね、たぶん、自分は周りよりも劣った人間だ、と考えます"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-29T12:20:36",
+      "utterance": "周りよりも劣ってると思ってしまうのですね、、常にそう思ってしまうと悲しい気持ちになりますよね、、"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-29T12:22:17",
+      "utterance": "就職先でもうまくやれてないと思うのは、どういったところからですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-29T12:23:06",
+      "utterance": "友達は大企業で高所得、自分は中小企業で低所得だからです"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-29T12:25:59",
+      "utterance": "そうだっのですね私はあなたの話を聞いてるととても努力されてきたのだと感じました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-29T12:26:51",
+      "utterance": "所得や学歴が必ずしも優劣を極めるわけではないと思っております"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-29T12:27:28",
+      "utterance": "×極める　○決める失礼しました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-29T12:29:13",
+      "utterance": "あなたが頑張った中で一番頑張ったと思うのはどんなことですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-29T12:30:14",
+      "utterance": "筋トレと勉強です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-29T12:30:51",
+      "utterance": "筋トレと勉強を頑張れたと思うのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-29T12:31:41",
+      "utterance": "もし、筋トレが今のあなたに影響を与えてるとすると、どんなことがあると思いますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-29T12:33:19",
+      "utterance": "努力した分だけ報われる何かを手に入れるには、時間と努力が必要だと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-29T12:36:56",
+      "utterance": "そう思われるのですね「努力した分だけ報われる」とおっしゃってますが、筋トレや勉強でもきっと努力した分報われたことがあるのではないでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-29T12:38:10",
+      "utterance": "報われたかは分かりませんが、その考えは筋トレだけでなく、人生において重要な考えだと思っています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-29T12:41:26",
+      "utterance": "努力が必ずしも報われるとは限りませんが、努力し続けることは重要だと私も思います今は何かお仕事や趣味などで興味を持たれてることはありますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-29T12:42:19",
+      "utterance": "筋トレは今でも趣味で継続してやってます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-29T12:43:49",
+      "utterance": "今も筋トレは継続してやれてるのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-29T12:44:43",
+      "utterance": "筋トレをやってる時はどういうことを考えますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-29T12:45:58",
+      "utterance": "特に何も考えませんが、最高な気分になります。自分にとてつもない自信がつきます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-29T12:48:07",
+      "utterance": "それは素敵ですね！筋トレをしている時はとてもポジティブなイメージの印象を受けるのですが、いかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-29T12:49:14",
+      "utterance": "間違いないです。男性ホルモンのテストステロンが分泌されるので、科学的にも正しいと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-29T12:51:06",
+      "utterance": "そうですよね今は筋トレをすることでポジティブな状態になり、自信を保ててるんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-29T12:53:11",
+      "utterance": "自分の中でプラスのことができるのは、周りに影響を受けずに済むのでとても大事なことだと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-29T12:53:56",
+      "utterance": "そろそろお時間となってきましたが、他にもお話ししておきたいことはございますか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-29T12:54:33",
+      "utterance": "大丈夫です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-29T12:54:57",
+      "utterance": "かしこまりました本日は話してみていかがでしたか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-29T12:56:30",
+      "utterance": "劣等感の根本的な解決にはなりませんでしたが、大好きな筋トレを人生に投影できる、良い機会になりました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-29T12:58:22",
+      "utterance": "それはよかったですもしまたお話をしたいことがありましたら、続きから始めることもできますので、ぜひお聞かせくださいね"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-29T12:58:37",
+      "utterance": "わかりました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-29T12:58:51",
+      "utterance": "それでは本日は終了とさせていただいても大丈夫ですか？"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-29T12:59:01",
+      "utterance": "大丈夫です"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-29T12:59:28",
+      "utterance": "本日はありがとうございましたそれでは終了させていただきます"
+    },
+    {
+      "role": "client",
+      "time": "2023-03-29T12:59:46",
+      "utterance": "ありがとうございました"
+    },
+    {
+      "role": "counselor",
+      "time": "2023-03-29T12:59:57",
+      "utterance": "(本日はありがとうございましたレポートの評価をお願いいたします)"
+    }
+  ],
+  "topic": {
+    "main_jp": "心理的問題",
+    "main_en": "Mental Health Issues",
+    "sub": "劣等感と自信のなさ"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4824,
+    "評価作成日時": "2023-03-29T13:13:00",
+    "クライアント役ID": 369,
+    "カウンセラー役ID": 379,
+    "点数": 63,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 4,
+    "新しい気づきや体験があった": 4,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 2,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 5,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 4,
+    "受容・共感": 3,
+    "肯定・承認": 3,
+    "的確な質問による会話の促進": 3,
+    "要約": 4,
+    "問題の明確化": 3,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4824,
+    "evaluation_created_at": "2023-03-29T13:13:00",
+    "client_id": 369,
+    "counselor_id": 379,
+    "score": 63,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 4,
+    "gained_new_insights": 4,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 2,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 5,
+    "conversation_ended_well": 4,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 3,
+    "asked_effective_questions": 3,
+    "summarized_key_points_effectively": 4,
+    "clarified_issues_cleraly": 3,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

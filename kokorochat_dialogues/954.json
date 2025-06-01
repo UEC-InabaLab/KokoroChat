@@ -1,0 +1,634 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2020-12-16T15:53:00",
+      "utterance": "こんにちは今日はよろしくお願いします"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T15:53:29",
+      "utterance": "ご準備出来ましたらお知らせくださいね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T15:54:27",
+      "utterance": "こんにちは。こちらこそ、今日はよろしくお願いいたします。準備OKです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T15:55:39",
+      "utterance": "では少し早いのですが始めさせていただきますね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T15:55:58",
+      "utterance": "はい、よろしくお願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T15:57:23",
+      "utterance": "こんにちは相談員です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T15:57:44",
+      "utterance": "こんにちは相談員です"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T15:58:00",
+      "utterance": "こんにちは"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T15:58:03",
+      "utterance": "今日はどのようなご相談でしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T15:59:04",
+      "utterance": "以前勤めていた会社の後輩のLINEでちょっと困っています"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T15:59:33",
+      "utterance": "そうなんですねそれは悩ましいですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T15:59:50",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:00:22",
+      "utterance": "どのような内容のlineでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T16:01:13",
+      "utterance": "何か日記のような、たわいもない内容を送ってきます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:01:50",
+      "utterance": "それはつかみどころがなく困ってしまいますね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T16:02:28",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:02:51",
+      "utterance": "後輩の方の性別や年齢を教えてもらってもいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T16:03:21",
+      "utterance": "50歳女性です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:03:46",
+      "utterance": "教えていただきありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:05:00",
+      "utterance": "ちなみにあなたの性別は？男性の方でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T16:05:17",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:07:13",
+      "utterance": "そうなんですね以前の会社では部下と上司の関係とかでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T16:08:23",
+      "utterance": "同期入社だったのですが、年齢が5つほど年下です。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:09:42",
+      "utterance": "そうなんですねあなたとしては、ラインをもらってどのようなお気持ちなんでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:09:53",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:10:40",
+      "utterance": "あなたとしてはラインをもらってどのようなお気持ちなんでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T16:11:11",
+      "utterance": "たまの近況報告ぐらいであればいいのですが…日記のような内容をしょっちゅう送ってこられても…って感じです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:11:26",
+      "utterance": "そうだったんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:12:14",
+      "utterance": "たまにではなくて、しょっちゅうでは困ってしまいますね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:12:50",
+      "utterance": "あなたはどんなふうに返信してらっしゃるんでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T16:14:14",
+      "utterance": "最初の頃は都度返信していましたが、最近は内容によっては既読スルーです"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:14:27",
+      "utterance": "そうなんですね・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:15:18",
+      "utterance": "迷惑に感じているお気持ちもあるのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:16:01",
+      "utterance": "以前お仕事されていた頃は、どのような感じだったんでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:16:24",
+      "utterance": "lineでのやり取りとかはありましたか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T16:18:14",
+      "utterance": "入社してからは一緒の所で働いたことはなく、勤務地別だったのでメールやLINEでのやりとりです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:20:25",
+      "utterance": "そうなんですね後輩の方はあなたに好意を抱いてるとか？は感じられますか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T16:21:39",
+      "utterance": "どうでしょう？それはわかりませんが…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:22:28",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T16:23:01",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:23:51",
+      "utterance": "あなたとしては、どうして日記のような内容のlineが送られてくるのか心当たりがない感じでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:24:28",
+      "utterance": "しかもたまにではないのですよね？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:25:13",
+      "utterance": "きっかけになったこととかはありますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T16:25:31",
+      "utterance": "何か…そういったことを話す相手がまわりにいないのかなとかと思います"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T16:26:25",
+      "utterance": "長年の友人関係の中で徐々にそうなってきた感じです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:26:43",
+      "utterance": "そうなんですね・・あなたが聞いてくださるので嬉しく思ってしまうのでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T16:27:36",
+      "utterance": "かもしれません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:28:23",
+      "utterance": "でもあなたとしては、そんなに頻繁にlineがきても・・と困惑されているんですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:29:13",
+      "utterance": "既読スルーにしている時のお気持ちはどのような感じでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T16:29:51",
+      "utterance": "LINEが頻繁に来ることが嫌では無いのですが、日記やつぶやきのような内容を送られてきても返信に困りますし"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:30:05",
+      "utterance": "ええ"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T16:31:17",
+      "utterance": "質問的な内容だったり、問い掛け的な内容には返信はしています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:31:31",
+      "utterance": "そうだったんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:31:51",
+      "utterance": "内容によって既読スルーにしているのですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:32:42",
+      "utterance": "たとえば具体的につぶやきってどんなことを言ってくるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T16:32:50",
+      "utterance": "そうですね。返信のしようがありませんし。それがしょちゅうだと余計に。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:33:22",
+      "utterance": "自己満足的な感じなんでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T16:34:06",
+      "utterance": "そういうことではないと思いますが、例えば「どこどこに行って来ました」とか、「行ってきます」とか。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:35:28",
+      "utterance": "なるほど・・そういう内容だと返信するのも、悩みますね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T16:36:00",
+      "utterance": "今勤めてる会社の人のことだったり、愚痴だったり…その相手も全く知らないし…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:36:38",
+      "utterance": "それはますます困ってしまいますね・・"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T16:37:00",
+      "utterance": "そうですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:38:27",
+      "utterance": "あなたとしては、返信に悩むのが嫌なお気持ちなんでしょうか？それとも頻繁にlineしてほしくないお気持ちなんでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T16:39:47",
+      "utterance": "返信することが嫌ではないですし、LINEが来ることは自体は別に迷惑だとは思ってはいません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:40:00",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:40:57",
+      "utterance": "では一番困っているのはどのようなことでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T16:42:43",
+      "utterance": "送ってくる内容ですかね。最近はさっき言ったみたいに内容によっては返信しませんが、そのへんをわかってもらうにはどうしたらいいもんかと…"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:43:02",
+      "utterance": "なるほど・・そうだったんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T16:43:38",
+      "utterance": "あまり強く言うのも気が引けるし。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:44:03",
+      "utterance": "知らない方の愚痴とか、たわいない話にあまり付き合いたくないお気持ちなんですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:45:18",
+      "utterance": "既読スルーにしても、本人は伝わらないのはもどかしいですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T16:45:45",
+      "utterance": "付き合いたくないというか、返信のしようもないし、そうなんだ～ぐらいしかないので。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:46:18",
+      "utterance": "そうなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T16:46:50",
+      "utterance": "返信はしませんが、読んだことはわかるはずなので、それで満足ならそれはそれでいいのかなとも思うのですが。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:48:26",
+      "utterance": "返信しようもないような内容に困っていることは、彼女にはわかってもらいたいというお気持ちではなく"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:48:51",
+      "utterance": "もう、あきらめのようなお気持ちなんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T16:50:05",
+      "utterance": "わかってもらいたいとは思いますが、言い方を誤ると傷つけるのではないかと心配にもなりますし。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:51:38",
+      "utterance": "そうなんですねあなたはとても優しい方なんですね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T16:52:05",
+      "utterance": "そうなんですかね"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:52:56",
+      "utterance": "それで返信をためらって既読スルーにしているのでは？と思いましたが・・いかがでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:54:26",
+      "utterance": "強く言うよりは既読スルーのほうを選んでいるのでは？と感じました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:55:07",
+      "utterance": "ここまでのお話を少し整理させてもらってもいいですか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T16:55:22",
+      "utterance": "はい。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:56:49",
+      "utterance": "あなたは、以前の職場の後輩から頻繁にlineがきて、その内容が日記のようなことだったり、つぶやきだったりで返信に困ってらっしゃいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:59:04",
+      "utterance": "既読スルーにしてやり過ごしたりしていますが、内容のことで何か言って傷つけてしまうのは心配になってしまうので"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:59:32",
+      "utterance": "どうしたらよいかと悩んでいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T16:59:48",
+      "utterance": "このような理解でよろしいでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T17:00:30",
+      "utterance": "はい、そうです。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T17:01:11",
+      "utterance": "お話を伺って感じたことと提案をお伝えしてもよろしいでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T17:01:33",
+      "utterance": "お願いします。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T17:03:30",
+      "utterance": "後輩のかたは孤独な方でまわりに日常生活のことなどの話も聞いてくれる人がいなくて、あなたのように親切に肯定して聞いてくれるのがとても嬉しくてlineをついしてしまうのかもしれません"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T17:04:18",
+      "utterance": "あなたは、否定せずに肯定的に人の話を聞ける方なのではと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T17:05:03",
+      "utterance": "そして人格的にも頼りになる方なのかなとも思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T17:05:55",
+      "utterance": "でも一方的に送られてくるlineの時間はあなたの大切な時間です"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T17:06:33",
+      "utterance": "もっとあなたの時間を大切にして欲しいと思いました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T17:07:48",
+      "utterance": "既読スルーにして罪悪感を感じてしまう方ならきっとどんな形でも返信すると思うので・・"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T17:10:00",
+      "utterance": "提案としては、スタンプなど駆使してみるなどしてあまり返信の時間をかけないようにしてみては、いかがでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T17:10:31",
+      "utterance": "いかがでしょうか？"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T17:12:05",
+      "utterance": "提案として返信の時間をあまりかけないようにスタンプなど駆使してみる方法はいかがでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T17:12:47",
+      "utterance": "内容によっては、既読スルーして返信はしていませんが、一度スタンプなども使ってみたいと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T17:15:09",
+      "utterance": "はいぜひやってみてくださいね"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T17:16:39",
+      "utterance": "はい"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T17:17:08",
+      "utterance": "あなたに話を聞いてもらって、きっと後輩の方も安心なのかと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T17:18:29",
+      "utterance": "あなたのやさしいお気持ちがこちらにも伝わってきました"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T17:21:12",
+      "utterance": "これからは自分のお気持ちも尊重していって頂けたらと思います"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T17:22:13",
+      "utterance": "お時間が過ぎてしまい申し訳ありません"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T17:22:49",
+      "utterance": "(いえいえ、こちらこそ)"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T17:23:16",
+      "utterance": "今日のご相談は大丈夫そうでしょうか"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T17:23:44",
+      "utterance": "(相談者の気持ちになって、大変勉強になりました)"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T17:24:26",
+      "utterance": "こちらこそありがとうございました"
+    },
+    {
+      "role": "client",
+      "time": "2020-12-16T17:24:49",
+      "utterance": "ありがとうございました！"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T17:26:59",
+      "utterance": "とても勉強になりました。お相手をしていただき感謝しています"
+    },
+    {
+      "role": "counselor",
+      "time": "2020-12-16T17:28:35",
+      "utterance": "では終了ボタンを押させていただきますね"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "後輩からのLINEに困る問題"
+  },
+  "review_by_client_jp": {
+    "評価ID": 954,
+    "評価作成日時": "2020-12-17T12:18:00",
+    "クライアント役ID": 122,
+    "カウンセラー役ID": 93,
+    "点数": 53,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 2,
+    "希望や期待を感じられた": 2,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 2,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 3,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 2,
+    "要約": 2,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 3,
+    "次の行動につながる提案": 3,
+    "勇気づけ・希望の喚起": 3,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 954,
+    "evaluation_created_at": "2020-12-17T12:18:00",
+    "client_id": 122,
+    "counselor_id": 93,
+    "score": 53,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 2,
+    "felt_hopeful_or_expectant": 2,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 2,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 3,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 2,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 3,
+    "offered_actionable_suggestions": 3,
+    "encouraged_and_instilled_hope": 3,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}

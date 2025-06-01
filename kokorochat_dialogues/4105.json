@@ -1,0 +1,424 @@
+{
+  "dialogue": [
+    {
+      "role": "counselor",
+      "time": "2022-10-11T14:50:26",
+      "utterance": "（こんにちは。どうぞよろしくお願いします。）"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T14:51:43",
+      "utterance": "(よろしくお願いします。本日ご希望のケース等はございますでしょうか？)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T14:52:48",
+      "utterance": "（ありがとうございます。特にはございません。いろいろと勉強したいと思っています。）"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T14:53:06",
+      "utterance": "(かしこまりました)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T14:53:27",
+      "utterance": "（では、お時間になりましたら始めさせていただきますね。）"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:00:19",
+      "utterance": "こんにちは。相談員です。ご相談に来て下さりありがとうございます。はじめに年齢と性別を教えて頂けますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T15:00:43",
+      "utterance": "26 男"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:01:04",
+      "utterance": "ありがとうございます。では、本日のご相談内容を教えていただけますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T15:01:36",
+      "utterance": "仕事できない人がいます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:02:49",
+      "utterance": "そうなんですね。その方はどういう関係の方でしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T15:03:10",
+      "utterance": "同じプロジェクトのメンバーです"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:04:09",
+      "utterance": "そうでしたか。一緒に仕事をされる方が仕事ができないと感じてしまうと、もどかしいですね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:05:13",
+      "utterance": "よければ、そのプロジェクトのお仕事がどんな様子なのか聞かせていただいてもいいでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T15:05:57",
+      "utterance": "守秘義務があるため言えません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:07:36",
+      "utterance": "お話しずらいことをお聞きして申し訳ありませんでした。では質問を変えますね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:08:10",
+      "utterance": "その方のどのようなところが「仕事ができないな」とお感じなのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T15:09:19",
+      "utterance": "同じ注意を何回も繰り返してたり、うっかりミスを何度もしています。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:10:22",
+      "utterance": "そうなんですね。ミスが続く方が一緒だと仕事を進める上で不安が出てきてしまいますよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:11:54",
+      "utterance": "ちなみに。その方はどういったお立場の方なのでしょうか？先輩とか後輩とか"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T15:12:18",
+      "utterance": "わかりません。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:15:18",
+      "utterance": "相談者様と一緒にプロジェクトを進めていく仲間というご関係なのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T15:16:42",
+      "utterance": "同じプロジェクトのメンバー、ということだけでそれ以上でもそれ以下でもありません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:17:12",
+      "utterance": "教えていただきありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:18:10",
+      "utterance": "先ほどお話しいただいた、「同じ注意を何回もする」という場面で、相談者様はどんなお気持ちになっていらっしゃいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T15:18:39",
+      "utterance": "イライラします"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:19:20",
+      "utterance": "そうですよね。腹立たしい気持ちになるのは自然のことだと思います。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:20:04",
+      "utterance": "イライラされた場面で、相談者様はどんな事が頭に浮かんでいらっしゃいますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T15:20:34",
+      "utterance": "どういう意味ですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:21:37",
+      "utterance": "すみません。わかりにくい質問でしたね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:23:57",
+      "utterance": "たとえば、なぜ何度も言わせるのかとか普通はメモをとるのではとか"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T15:24:17",
+      "utterance": "よくわかりません"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T15:24:38",
+      "utterance": "何を知りたいのかわかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:26:03",
+      "utterance": "相談者様がお相手の方のどんなところにイライラされるのかを聞かせていただきたいと思いました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T15:26:29",
+      "utterance": "それさっき言いませんでしたっけ？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:28:29",
+      "utterance": "失礼しました。同じ注意を何回もする。うっかりミスが多い。ということでしたね。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:29:43",
+      "utterance": "そんな状況でプロジェクトの他のメンバーの方のご様子はいかがですか"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T15:30:04",
+      "utterance": "見てないのでわかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:30:33",
+      "utterance": "教えていただきありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:31:11",
+      "utterance": "ご相談者様はその方にイライラを感じた時、どのような対応をされるのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T15:31:30",
+      "utterance": "特に何もしてません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:33:21",
+      "utterance": "そうなんですね。その方に対して何かアドバイスをするなどということもないのでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T15:34:50",
+      "utterance": "してません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:35:56",
+      "utterance": "なるほど。するとお相手の方にはご相談者様のイライラはもしかすると伝わっていないかも知れないでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T15:36:31",
+      "utterance": "何が言いたいのでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:40:24",
+      "utterance": "お相手の方がご相談者様のお気持ちを分かった上でうっかりミスをしてしまうのかどうかをおうかがいしたいと思いました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T15:41:00",
+      "utterance": "それは知りませんよ、その人はないですし"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T15:41:19",
+      "utterance": "私はその人ではありませんし"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:41:53",
+      "utterance": "おっしゃる通りです。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T15:42:10",
+      "utterance": "じゃあなんで聞いたのですか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:43:35",
+      "utterance": "ご相談者様とお相手の方とのコミュニケーションがどのようなご様子なのかをおうかがいしたいと思いました。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:44:01",
+      "utterance": "失礼いたしました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T15:44:03",
+      "utterance": "普段からそんなにコミュニケーションしてないのでわかりません"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:44:42",
+      "utterance": "そうなんですね。教えていただきありがとうございます。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:45:42",
+      "utterance": "ここまでのお話しを少し整理させていただきます"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:46:43",
+      "utterance": "ご相談者様と同じプロジェクトのメンバーにお仕事のミスが多い方がいらっしゃり、ご相談者様は何度も注意するなどして腹立たしい思いをしていらっしゃる"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:47:37",
+      "utterance": "その方とは普段からあまりコミュニケーションをとることがないというお話しでした"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:48:03",
+      "utterance": "ご相談者様としては今後この状況がどうなったらいいと思われますでしょうか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T15:48:30",
+      "utterance": "私はメンバーに注意はしてませんし、注意をしていたのを聞いただけです"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T15:48:58",
+      "utterance": "少なくとも迷惑にはならないでほしいですね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:50:13",
+      "utterance": "注意をしていたのは他の方だったんですね。教えていただきありがとうございます。確かにお仕事がスムーズに進むことが大切ですよね"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:53:04",
+      "utterance": "では、相談者様が「迷惑をかけられない」状況とはどんな状況だと思われますか？"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T15:53:54",
+      "utterance": "滞りなく仕事が進められること"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:55:08",
+      "utterance": "そうなんですね。スムーズに仕事が進んだらストレスがないですよね"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T15:55:33",
+      "utterance": "本当にそうでしょうか"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:57:14",
+      "utterance": "ストレスの要因は他にもあるかも知れませんがその1つが軽減されるのではと感じます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T15:58:02",
+      "utterance": "さっきストレスがない、とお話ししてましたよね？矛盾してません？"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T15:59:01",
+      "utterance": "失礼しました。ストレスが軽減されると訂正させていただきます。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T15:59:18",
+      "utterance": "はい、時間なのでこれで失礼します。"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T16:00:09",
+      "utterance": "承知しました。お時間になりました。本日はご相談いらしていただきありがとうございました。"
+    },
+    {
+      "role": "client",
+      "time": "2022-10-11T16:01:19",
+      "utterance": "(お疲れ様でした。このまま終了メッセージ送信でロープレ完了をお願いします)"
+    },
+    {
+      "role": "counselor",
+      "time": "2022-10-11T16:01:45",
+      "utterance": "（ありがとうございました。）"
+    }
+  ],
+  "topic": {
+    "main_jp": "職場問題",
+    "main_en": "Workplace Issues",
+    "sub": "プロジェクトメンバーのコミュニケーション不足"
+  },
+  "review_by_client_jp": {
+    "評価ID": 4105,
+    "評価作成日時": "2022-10-11T16:28:00",
+    "クライアント役ID": 125,
+    "カウンセラー役ID": 324,
+    "点数": 53,
+    "聴いてもらえた、わかってもらえたと感じた": 3,
+    "尊重されたと感じた": 3,
+    "新しい気づきや体験があった": 3,
+    "希望や期待を感じられた": 3,
+    "取り組みたかったことを扱えた": 3,
+    "一緒に考えながら取り組めた": 3,
+    "やりとりのリズムがあっていた": 3,
+    "居心地のよいやりとりだった": 3,
+    "全体として適切でよかった": 3,
+    "今回の相談は価値があった": 3,
+    "相談開始の円滑さ": 3,
+    "相談終了のタイミング（不必要に聴きすぎていないか）、円滑さ": 3,
+    "受容・共感": 2,
+    "肯定・承認": 2,
+    "的確な質問による会話の促進": 2,
+    "要約": 3,
+    "問題の明確化": 2,
+    "この相談での目標の明確化": 2,
+    "次の行動につながる提案": 2,
+    "勇気づけ・希望の喚起": 2,
+    "無理解と軽率さによる傷つけ発言": null,
+    "その他の倫理違反が疑われる発言": null,
+    "離脱": null
+  },
+  "review_by_client_en": {
+    "evaluation_id": 4105,
+    "evaluation_created_at": "2022-10-11T16:28:00",
+    "client_id": 125,
+    "counselor_id": 324,
+    "score": 53,
+    "felt_heard_and_understood": 3,
+    "felt_respected": 3,
+    "gained_new_insights": 3,
+    "felt_hopeful_or_expectant": 3,
+    "concerns_were_addressed": 3,
+    "thought_through_concerns_together": 3,
+    "conversation_had_good_rhythm": 3,
+    "conversation_felt_comfortable": 3,
+    "felt_appropriate_and_satisfying": 3,
+    "conversation_was_valuable": 3,
+    "conversation_started_smoothly": 3,
+    "conversation_ended_well": 3,
+    "showed_acceptance_and_empathy": 2,
+    "provided_acknowledgment_and_affirmation": 2,
+    "asked_effective_questions": 2,
+    "summarized_key_points_effectively": 3,
+    "clarified_issues_cleraly": 2,
+    "helped_identify_goals": 2,
+    "offered_actionable_suggestions": 2,
+    "encouraged_and_instilled_hope": 2,
+    "harmful_due_to_ignorance": null,
+    "other_potentially_unethical": null,
+    "unwilling_to_continue": null
+  }
+}
