@@ -39,6 +39,19 @@ Each sample contains:
 
 👉 See [examples/dialogue_example.json](examples/dialogue_example.json) for a sample data instance.
 
+## 📂 Access on Hugging Face
+
+You can access our full dataset and fine-tuned models via Hugging Face:
+
+- 📁 **Dataset**: [kokorochat-dataset](https://huggingface.co/datasets/your-username/kokorochat)
+
+We fine-tuned three counseling dialogue models based on [**Llama-3.1-Swallow-8B-Instruct-v0.3**](https://huggingface.co/tokyotech-llm/Llama-3.1-Swallow-8B-Instruct-v0.3), using different subsets of the KokoroChat dataset filtered by client feedback score:
+
+- 🔵 **[Kokoro-Low](https://huggingface.co/your-username/kokoro-low)**: Fine-tuned on 3,870 dialogues with feedback scores **< 70**
+- 🟢 **[Kokoro-High](https://huggingface.co/your-username/kokoro-high)**: Fine-tuned on 2,601 dialogues with feedback scores **between 70 and 98**
+- ⚫ **[Kokoro-Full](https://huggingface.co/your-username/kokoro-full)**: Fine-tuned on 6,471 dialogues with feedback scores **≤ 98**
+
+
 ## 📄 Citation
 
 If you use this dataset, please cite the following paper:
