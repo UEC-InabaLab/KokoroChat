@@ -43,6 +43,7 @@ If you use this dataset, please cite the following paper:
   year      = {2025},
   url       = {https://github.com/UEC-InabaLab/KokoroChat}
 }
+```
 
 ## ⚖️ License
 
