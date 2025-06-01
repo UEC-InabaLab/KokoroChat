@@ -43,15 +43,15 @@ Each sample contains:
 
 If you use this dataset, please cite the following paper:
 
-bibtex
+```bibtex
 @inproceedings{qi2025kokorochat,
   title     = {KokoroChat: A Japanese Psychological Counseling Dialogue Dataset Collected via Role-Playing by Trained Counselors},
   author    = {Zhiyang Qi and Takumasa Kaneko and Keiko Takamizo and Mariko Ukiyo and Michimasa Inaba},
-  booktitle = {Proceedings of the 63nd Annual Meeting of the Association for Computational Linguistics},
+  booktitle = {Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics},
   year      = {2025},
   url       = {https://github.com/UEC-InabaLab/KokoroChat}
 }
-
+```
 
 ## ⚖️ License
 
