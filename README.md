@@ -68,12 +68,4 @@ If you use this dataset, please cite the following paper:
 
 ## ⚖️ License
 
-KokoroChat is released under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** license.
-
-This means:
-
-- ✅ **Free to share** — You may copy and redistribute the material in any medium or format.
-- ❌ **No commercial use** — You may not use the material for commercial purposes.
-- ❌ **No modifications** — If you remix, transform, or build upon the material, you may not distribute the modified material.
-
-📄 [View the full license text](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+KokoroChat is released under the [**Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.
