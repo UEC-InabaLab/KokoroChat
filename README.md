@@ -5,7 +5,7 @@
 This work has been **accepted to the main conference of ACL 2025**.
 📄 [View Paper (PDF)](https://drive.google.com/file/d/1T6XgvZii8rZ1kKLgOUGqm3BMvqQAvxEM/view?usp=sharing)
 
-<img src="examples/kokorochat_example.png" alt="Example Dialogue and Feedback" width="400"/>
+<img src="images/kokorochat_example.png" alt="Example Dialogue and Feedback" width="400"/>
 
 
 
@@ -16,7 +16,7 @@ This work has been **accepted to the main conference of ACL 2025**.
 - 480 trained counselors simulating online text-based counseling sessions
 - 20-dimension Likert-scale client feedback for every session
 - Broad topic coverage: mental health, school, family, workplace, romantic issues, etc.
-<img src="examples/topic_distribution.png" alt="Topic Distribution" width="400"/>
+<img src="images/topic_distribution.png" alt="Topic Distribution" width="400"/>
 
 
 ## 📊 Dataset Statistics
@@ -36,8 +36,6 @@ Each sample contains:
 - Structured client feedback on 20 dimensions (0–5 Likert scale)
 - Flags for ethical concern checks (optional)
 - Predicted topic label (automatically annotated by GPT-4o-mini)
-
-👉 See [examples/dialogue_example.json](examples/dialogue_example.json) for a sample data instance.
 
 ## 📂 Access on Hugging Face
 
