@@ -4,7 +4,7 @@
 
 [![CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![Hugging Face Dataset](https://img.shields.io/badge/HuggingFace🤗-Dataset-ffcc66)](https://huggingface.co/datasets/UEC-InabaLab/KokoroChat)
-[![Hugging Face Models](https://img.shields.io/badge/HuggingFace🤗-Models-66ccff)](https://huggingface.co/UEC-InabaLab/KokoroChat-High)
+[![Hugging Face Models](https://img.shields.io/badge/HuggingFace🤗-Models-66ccff)](https://huggingface.co/UEC-InabaLab/Llama-3.1-KokoroChat-High)
 
 
 # KokoroChat: A Japanese Psychological Counseling Dialogue Dataset Collected via Role-Playing by Trained Counselors
@@ -56,9 +56,9 @@ You can also access our full dataset and fine-tuned models via Hugging Face:
 
 We fine-tuned three counseling dialogue models based on [**Llama-3.1-Swallow-8B-Instruct-v0.3**](https://huggingface.co/tokyotech-llm/Llama-3.1-Swallow-8B-Instruct-v0.3), using different subsets of the KokoroChat dataset filtered by client feedback score:
 
-- 🔵 **[KokoroChat-Low](https://huggingface.co/UEC-InabaLab/KokoroChat-Low)**: Fine-tuned on 3,870 dialogues with feedback scores **< 70**
-- 🟢 **[KokoroChat-High](https://huggingface.co/UEC-InabaLab/KokoroChat-High)**: Fine-tuned on 2,601 dialogues with feedback scores **between 70 and 98**
-- ⚫ **[KokoroChat-Full](https://huggingface.co/UEC-InabaLab/KokoroChat-Full)**: Fine-tuned on 6,471 dialogues with feedback scores **≤ 98**
+- 🔵 **[Llama-3.1-KokoroChat-Low](https://huggingface.co/UEC-InabaLab/Llama-3.1-KokoroChat-Low)**: Fine-tuned on 3,870 dialogues with feedback scores **< 70**
+- 🟢 **[Llama-3.1-KokoroChat-High](https://huggingface.co/UEC-InabaLab/Llama-3.1-KokoroChat-High)**: Fine-tuned on 2,601 dialogues with feedback scores **between 70 and 98**
+- ⚫ **[Llama-3.1-KokoroChat-Full](https://huggingface.co/UEC-InabaLab/Llama-3.1-KokoroChat-Full)**: Fine-tuned on 6,471 dialogues with feedback scores **≤ 98**
 
 
 ## 📄 Citation
