@@ -52,7 +52,7 @@ Each sample contains:
 
 You can also access our full dataset and fine-tuned models via Hugging Face:
 
-- 📁 **Dataset**: [kokorochat-dataset](https://huggingface.co/datasets/UEC-InabaLab/KokoroChat)
+- 📁 **Dataset**: [KokoroChat-dataset](https://huggingface.co/datasets/UEC-InabaLab/KokoroChat)
 
 We fine-tuned three counseling dialogue models based on [**Llama-3.1-Swallow-8B-Instruct-v0.3**](https://huggingface.co/tokyotech-llm/Llama-3.1-Swallow-8B-Instruct-v0.3), using different subsets of the KokoroChat dataset filtered by client feedback score:
 
