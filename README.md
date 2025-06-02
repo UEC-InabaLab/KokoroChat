@@ -5,6 +5,7 @@
 [![CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![Hugging Face Dataset](https://img.shields.io/badge/HuggingFace🤗-Dataset-ffcc66)](https://huggingface.co/datasets/UEC-InabaLab/KokoroChat)
 [![Hugging Face Models](https://img.shields.io/badge/HuggingFace🤗-Models-66ccff)](https://huggingface.co/UEC-InabaLab/Llama-3.1-KokoroChat-High)
+[![PDF](https://img.shields.io/badge/PDF-Download-red)](https://drive.google.com/file/d/1T6XgvZii8rZ1kKLgOUGqm3BMvqQAvxEM/view?usp=sharing)
 
 
 # KokoroChat: A Japanese Psychological Counseling Dialogue Dataset Collected via Role-Playing by Trained Counselors
