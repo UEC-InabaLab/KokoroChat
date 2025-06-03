@@ -49,7 +49,7 @@ Each sample contains:
 
 👉 See the `kokorochat_dialogues` folder for the complete dataset.
 
-## 📂 Access on Hugging Face
+## 🤗 Access on Hugging Face
 
 You can also access our full dataset and fine-tuned models via Hugging Face:
 
