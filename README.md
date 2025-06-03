@@ -5,7 +5,7 @@
 [![CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![Hugging Face Dataset](https://img.shields.io/badge/HuggingFace🤗-Dataset-ffcc66)](https://huggingface.co/datasets/UEC-InabaLab/KokoroChat)
 [![Hugging Face Models](https://img.shields.io/badge/HuggingFace🤗-Models-66ccff)](https://huggingface.co/UEC-InabaLab/Llama-3.1-KokoroChat-High)
-[![PDF](https://img.shields.io/badge/PDF-Download-red)](https://drive.google.com/file/d/1T6XgvZii8rZ1kKLgOUGqm3BMvqQAvxEM/view?usp=sharing)
+[![arXiv](https://img.shields.io/badge/arXiv-2401.12345-b31b1b)](https://arxiv.org/abs/2506.01357)
 
 
 # KokoroChat: A Japanese Psychological Counseling Dialogue Dataset Collected via Role-Playing by Trained Counselors
@@ -13,7 +13,7 @@
 **KokoroChat** is the largest human-collected Japanese psychological counseling dialogue dataset to date (as of June 2025). It was created through role-playing between trained counselors and includes rich, long-form dialogues and detailed client feedback on counseling quality. The dataset supports research on empathetic response generation, dialogue evaluation, and mental health-oriented language modeling.
 
 This work has been **accepted to the main conference of ACL 2025**.
-📄 [View Paper (PDF)](https://drive.google.com/file/d/1T6XgvZii8rZ1kKLgOUGqm3BMvqQAvxEM/view?usp=sharing)
+📄 [View Paper (arXiv)](https://arxiv.org/abs/2506.01357)
 
 <img src="images/kokorochat_example.png" alt="Example Dialogue and Feedback" width="400"/>
 
