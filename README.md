@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./images/kokorochat_logo.png" alt="KokoroChat Logo" width="500"/>
+  <img src="./images/kokorochat_logo_.png" alt="KokoroChat Logo" width="500"/>
 </div>
 
 [![CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
