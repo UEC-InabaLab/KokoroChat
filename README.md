@@ -62,6 +62,8 @@ We fine-tuned three counseling dialogue models based on [**Llama-3.1-Swallow-8B-
 - 🟢 **[Llama-3.1-KokoroChat-High](https://huggingface.co/UEC-InabaLab/Llama-3.1-KokoroChat-High)**: Fine-tuned on 2,601 dialogues with feedback scores **between 70 and 98**
 - ⚫ **[Llama-3.1-KokoroChat-Full](https://huggingface.co/UEC-InabaLab/Llama-3.1-KokoroChat-Full)**: Fine-tuned on 6,471 dialogues with feedback scores **≤ 98**
 
+We also fine-tuned a model to **predict client feedback scores** based on the full counseling dialogue history.
+- 🤖 [Llama-3.1-KokoroChat-ScorePrediction](https://huggingface.co/UEC-InabaLab/Llama-3.1-KokoroChat-ScorePrediction)
 
 ## 📄 Citation
 
