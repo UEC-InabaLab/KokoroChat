@@ -16,6 +16,8 @@
 This work has been **accepted to the main conference of ACL 2025**.
 📄 [View Paper](https://aclanthology.org/2025.acl-long.608/)
 
+A **multilingual version of KokoroChat**, including English and Chinese translations, is also available: [MultilingualKokoroChat](https://github.com/UEC-InabaLab/MultilingualKokoroChat).
+
 <img src="images/kokorochat_example.png" alt="Example Dialogue and Feedback" width="400"/>
 
 
