@@ -1,0 +1,73 @@
+{
+  "description": "Recovered historical files; SHA-256 of original uncompressed bytes.",
+  "files": {
+    "datasets/finetune_data_P.json.gz": {
+      "sha256_uncompressed": "f2bcfa8eec67a8241a7c39f2331f20ed6bf5e4f3f35643309e2970a1d8ed8e6b",
+      "sha256": "8cf394014e1db38be7c6b3a51f163f096ee149dc330e25e018b526aea56f2782",
+      "bytes_uncompressed": 65595040,
+      "rows": 5931
+    },
+    "datasets/finetune_data_P_noneed.json.gz": {
+      "sha256_uncompressed": "94419452e8c877185d2bdfae5e428c8974468858fa84fa57cd8ca784e0796d9b",
+      "sha256": "51b88cf91d2c210fadbe728f2c5513763ec909744071156089a865c9823272f7",
+      "bytes_uncompressed": 64844604,
+      "rows": 6589
+    },
+    "datasets/test_data_P.json.gz": {
+      "sha256_uncompressed": "e6eb149e09c803d207487653d54a866e0c0c346cee3c4d1fc1b771808cb5a8fc",
+      "sha256": "bc7f70ae963cc2b6774299def4454af7b0264f2dfedd2805fe1022a87c290a50",
+      "bytes_uncompressed": 7288094,
+      "rows": 658
+    },
+    "scripts/finetune_AP.py": {
+      "sha256": "4db30e1c5c4204e0f21c7cb6fddb9f78c1487695c1f1e6b3d2c448c2f0676513"
+    },
+    "scripts/finetune_AP_.py": {
+      "sha256": "644cd532dd3b75f1264a03678cd00dcfb8492c9a49399f0d12c87027ee5f91ce"
+    },
+    "scripts/finetune_AP_4seed.py": {
+      "sha256": "b6b33269029e02628542724fec6647ff93165676b17392fd695ebfa9518f35ed"
+    },
+    "scripts/finetune_P.py": {
+      "sha256": "842dd2b85c47e60900b3d1d27ae837e2cedcd0371d0b0f1b01412cc5f625abbd"
+    },
+    "scripts/generate_llama.py": {
+      "sha256": "dda3a29c82aba6fe530e6a542b895b16f8fee1b3111335f100d0b70b174b72d0"
+    },
+    "scripts/generate_lora.py": {
+      "sha256": "73f9922a61e938be3507fbd31ba4c85a0cdf56721af3f0b73ee292b8c2ca097e"
+    },
+    "scripts/generate_with_ft_P.py": {
+      "sha256": "c41963d65f503de3854dfd819609744da0d72b4576f4c1c442eb40759ddd691c"
+    },
+    "scripts/merge_model.py": {
+      "sha256": "009e6c049fa4899730f0965c8b9ec389332e2971655eff098b27143e96ac39e5"
+    },
+    "scripts/train_para_tune.py": {
+      "sha256": "9a7f1904dd04de9c0b08b9107535d00ab0b3b71c86965d142410e566bdf1edc9"
+    },
+    "reference_result/test_results_P_results_optim_adamw_torch_fused_lr_0.0002_ws_100_checkpoint-249.json.gz": {
+      "sha256": "4cda0dc8a03e541839a430cd0dae263364d121acf5f4780c32ab20480a0bdd43",
+      "sha256_uncompressed": "f18a87d6244b6772cfcf2b28970fea4c86c63b6e0f542d65db7de1bf8e5689ec"
+    },
+    "checkpoint_metadata/adapter_config.json": {
+      "sha256": "7cb4df7a314f16d701a82f2cfe364800d3c3af2fd05f7d0ecaaec02417aab52b"
+    },
+    "checkpoint_metadata/trainer_state.json": {
+      "sha256": "e2796a9766cc044a128a25cfa45728f56ee66f0ecf39f2e77687d4f8dcc730cb"
+    },
+    "human_scores.csv": {
+      "sha256": "0cf160add7f49492f923631752fccba8ef6a7f9068b5eaf652abd2eb615801e5"
+    },
+    "split_indices.json": {
+      "sha256": "8f3bfa683a177c2d17940f04e408a50d046ddbc28ab078197136692a68e61c49"
+    }
+  },
+  "validation": {
+    "total": 6589,
+    "train_validation_pool": 5931,
+    "test": 658,
+    "overlap": 0,
+    "all_20_scores_match_full": true
+  }
+}
